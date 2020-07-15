@@ -1571,7 +1571,6 @@
 91mobiles.com
 a-airasia-001-gyf12.insnw.net
 a-msedge.net
-a.disquscdn.com
 a.fsdn.com
 a.ooyala.com
 a.shifen.com
@@ -1904,6 +1903,7 @@ archive.org
 arcot.com
 arcus-uswest.amazon.com
 arizona.edu
+arkoselabs.com
 arms-retcode.aliyuncs.com
 ars.smartscreen.microsoft.com
 arstechnica.com
@@ -2390,7 +2390,6 @@ digitaltrends.com
 directvnow.com
 discord.com
 discord.gg
-discordapp.com
 discovermagazine.com
 discovery.com
 discuss.newrelic.com
@@ -2399,7 +2398,6 @@ display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 disq.us
 disqus.com
-disquscdn.com
 distilnetworks.com
 djvbdz1obemzo.cloudfront.net
 dl-client.dropbox.com
@@ -2738,7 +2736,6 @@ gateway.fe.apple-dns.net
 gateway.reddit.com
 gatherer.wizards.com
 gawker.com
-gawkerassets.com
 gazeta.pl
 gcs.sc-cdn.net
 geenstijl.nl
@@ -10076,6 +10073,7 @@ sport.onet.pl
 sport.pl
 sports.latimes.com
 sports.yahoo.com
+spot.im
 spotify.com
 spreadsheets.google.com
 springboardplatform.com
@@ -10383,7 +10381,6 @@ upload.twitter.com
 upload.wikimedia.org
 uploaded.net
 uploaded.to
-uploads.disquscdn.com
 uploads.tapatalk-cdn.com
 uplynk.com
 uptobox.com
@@ -13675,7 +13672,6 @@ www.91-cdn.com
 www.91mobiles.com
 www.a-airasia-001-gyf12.insnw.net
 www.a-msedge.net
-www.a.disquscdn.com
 www.a.fsdn.com
 www.a.ooyala.com
 www.a.shifen.com
@@ -14008,6 +14004,7 @@ www.archive.org
 www.arcot.com
 www.arcus-uswest.amazon.com
 www.arizona.edu
+www.arkoselabs.com
 www.arms-retcode.aliyuncs.com
 www.ars.smartscreen.microsoft.com
 www.arstechnica.com
@@ -14494,7 +14491,6 @@ www.digitaltrends.com
 www.directvnow.com
 www.discord.com
 www.discord.gg
-www.discordapp.com
 www.discovermagazine.com
 www.discovery.com
 www.discuss.newrelic.com
@@ -14503,7 +14499,6 @@ www.display.ugc.bazaarvoice.com
 www.displaycatalog.mp.microsoft.com
 www.disq.us
 www.disqus.com
-www.disquscdn.com
 www.distilnetworks.com
 www.djvbdz1obemzo.cloudfront.net
 www.dl-client.dropbox.com
@@ -14842,7 +14837,6 @@ www.gateway.fe.apple-dns.net
 www.gateway.reddit.com
 www.gatherer.wizards.com
 www.gawker.com
-www.gawkerassets.com
 www.gazeta.pl
 www.gcs.sc-cdn.net
 www.geenstijl.nl
@@ -22181,6 +22175,7 @@ www.sport.onet.pl
 www.sport.pl
 www.sports.latimes.com
 www.sports.yahoo.com
+www.spot.im
 www.spotify.com
 www.spreadsheets.google.com
 www.springboardplatform.com
@@ -22488,7 +22483,6 @@ www.upload.twitter.com
 www.upload.wikimedia.org
 www.uploaded.net
 www.uploaded.to
-www.uploads.disquscdn.com
 www.uploads.tapatalk-cdn.com
 www.uplynk.com
 www.uptobox.com
