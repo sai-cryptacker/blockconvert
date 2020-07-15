@@ -2236,6 +2236,7 @@ code.google.com
 code.highcharts.com
 code.jquery.com
 code.responsivevoice.org
+code.tidio.co
 codeberg.org
 codecanyon.net
 codeload.github.com
@@ -10136,6 +10137,7 @@ static.reembed.com
 static.template.pcbeta.com
 static.tianya.cn
 static.tianyaui.com
+static.tidiochat.com
 static.twisto.cz
 static.ws.126.net
 static.www.odcdn.com.edgekey.net
@@ -14337,6 +14339,7 @@ www.code.google.com
 www.code.highcharts.com
 www.code.jquery.com
 www.code.responsivevoice.org
+www.code.tidio.co
 www.codeberg.org
 www.codecanyon.net
 www.codeload.github.com
@@ -22238,6 +22241,7 @@ www.static.reembed.com
 www.static.template.pcbeta.com
 www.static.tianya.cn
 www.static.tianyaui.com
+www.static.tidiochat.com
 www.static.twisto.cz
 www.static.ws.126.net
 www.static.www.odcdn.com.edgekey.net
