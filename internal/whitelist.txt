@@ -108,6 +108,7 @@ cloudfront.net
 cmail19.com
 cmail20.com
 code.jquery.com
+code.tidio.co
 codeberg.org
 coinpot.co
 cointraffic.io
@@ -363,6 +364,7 @@ staging-discuss.newrelic.com
 star-mini.c10r.facebook.com
 static-dot-virustotalcloud.appspot.com
 static.getmonero.org
+static.tidiochat.com
 static.zdassets.com
 statics.streamable.com
 stats.stackexchange.com
