@@ -2695,6 +2695,7 @@
 @@||freedownloadmanager.org^
 @@||freenet.de^
 @@||freight.aliexpress.com^
+@@||freshchat.com^
 @@||frys.com^
 @@||frz.io^
 @@||fs.microsoft.com^
@@ -14798,6 +14799,7 @@
 @@||www.freedownloadmanager.org^
 @@||www.freenet.de^
 @@||www.freight.aliexpress.com^
+@@||www.freshchat.com^
 @@||www.frys.com^
 @@||www.frz.io^
 @@||www.fs.microsoft.com^
