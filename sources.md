@@ -1,6 +1,6 @@
 ## Last Commit Infomation
 
-Theres are 583746 blocked domains in each of the generated filter lists
+Theres are 583088 blocked domains in each of the generated filter lists
 
 ## Sources
 
@@ -51,7 +51,7 @@ Link|Author|Expires|License|Blacklist Size|Whitelist Size
 [MinerBlock Filters](https://raw.githubusercontent.com/xd4rker/MinerBlock/master/assets/filters.txt)|-|1.0 days|MIT|431|0
 [Magneto Malware Skanner - Burner Domains](https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt)|-|10.0 days|GPLv3|420|0
 [Lightswitch05's Tracking Aggressive](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt)|Daniel White|2.0 days|Apache2|8946|0
-[Lightswitch05's Ads & Tracking](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)|Daniel White|2.0 days|Apache2|164518|0
+[Lightswitch05's Ads & Tracking](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt)|Daniel White|2.0 days|Apache2|165138|0
 [KADhosts](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt)|-|1.0 days|CC-BY-SA-4|10969|0
 [International List](https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt)|-|3.0 days|The Unlicense|15|1
 [I Hate Tracker](https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt)|Pirat28|10.0 days|MIT|372|0
@@ -60,14 +60,14 @@ Link|Author|Expires|License|Blacklist Size|Whitelist Size
 [Frellwit's Swedish Hosts File](https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt)|-|1.0 days|GPL-3.0|729|0
 [Fanboy's Annoyance List](https://easylist.to/easylist/fanboy-annoyance.txt)|-|4.0 days|GPLv3|744|9
 [Eesti saitidele kohandatud filter](https://adblock.ee/list.php)|-|1.0 days|CC0|192|0
-[EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt)|-|4.0 days|GPLv3|6937|5
-[EasyList](https://easylist.to/easylist/easylist.txt)|-|4.0 days|GPLv3|18493|60
+[EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt)|-|4.0 days|GPLv3|6966|5
+[EasyList](https://easylist.to/easylist/easylist.txt)|-|4.0 days|GPLv3|18592|60
 [EasyList Italy](https://easylist-downloads.adblockplus.org/easylistitaly.txt)|-|1.0 days|GPLv3|221|0
 [EasyList Hebrew](https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt)|-|1.0 days|GPLv3|284|0
 [EasyList Germany](https://easylist.to/easylistgermany/easylistgermany.txt)|-|1.0 days|GPLv3|625|13
 [EasyList Dutch](https://easylist-downloads.adblockplus.org/easylistdutch.txt)|-|4.0 days|GPLv3|84|1
 [EasyList Czech and Slovak filter list](https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt)|tomasko126, Aslanex, vobruba-martin, Moskoe, Fanboy|4.0 hours|CC-BY-SA-4.0|78|1
-[EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)|-|4.0 days|GPLv3|5129|22
+[EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)|-|4.0 days|GPLv3|5156|22
 [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)|-|4.0 days|LGPLv3|158|0
 [Binary Defense Banlist](https://www.binarydefense.com/banlist.txt)|-|1.0 days|Public use only|5520|0
 [Better content blocking rules](https://better.fyi/blockerList.txt)|-|1.0 days|CC-BY-SA-4.0|747|2
