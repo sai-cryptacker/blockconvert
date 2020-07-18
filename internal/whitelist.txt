@@ -451,6 +451,7 @@ www.binarydefense.com
 www.bing.com
 www.bitlord.com
 www.cnet.com
+www.countryflags.io
 www.datadoghq-browser-agent.com
 www.digicert.com
 www.distilnetworks.com
