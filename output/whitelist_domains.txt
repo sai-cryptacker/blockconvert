@@ -1180,7 +1180,6 @@
 *.md.mp.microsoft.com.sx
 *.md.mp.microsoft.com.sy
 *.md.mp.microsoft.com.sydney
-*.md.mp.microsoft.com.symantec
 *.md.mp.microsoft.com.systems
 *.md.mp.microsoft.com.sz
 *.md.mp.microsoft.com.tab
@@ -2274,6 +2273,7 @@ cookielawinfo.com
 cosmopolitan.com
 costco.com
 counter.rambler.ru
+countryflags.io
 coupon.aliexpress.com
 cp76677.edgefcs.net
 cpms.spop10.ams.plex.bz
@@ -4237,7 +4237,6 @@ google.co.swiss
 google.co.sx
 google.co.sy
 google.co.sydney
-google.co.symantec
 google.co.systems
 google.co.sz
 google.co.tab
@@ -5754,7 +5753,6 @@ google.com.swiss
 google.com.sx
 google.com.sy
 google.com.sydney
-google.com.symantec
 google.com.systems
 google.com.sz
 google.com.tab
@@ -6993,7 +6991,6 @@ google.swiss
 google.sx
 google.sy
 google.sydney
-google.symantec
 google.systems
 google.sz
 google.tab
@@ -8947,7 +8944,6 @@ md.mp.microsoft.com.swiss
 md.mp.microsoft.com.sx
 md.mp.microsoft.com.sy
 md.mp.microsoft.com.sydney
-md.mp.microsoft.com.symantec
 md.mp.microsoft.com.systems
 md.mp.microsoft.com.sz
 md.mp.microsoft.com.tab
@@ -11654,7 +11650,6 @@ wdcp.microsoft.swiss
 wdcp.microsoft.sx
 wdcp.microsoft.sy
 wdcp.microsoft.sydney
-wdcp.microsoft.symantec
 wdcp.microsoft.systems
 wdcp.microsoft.sz
 wdcp.microsoft.tab
@@ -13286,7 +13281,6 @@ www.*.md.mp.microsoft.com.swiss
 www.*.md.mp.microsoft.com.sx
 www.*.md.mp.microsoft.com.sy
 www.*.md.mp.microsoft.com.sydney
-www.*.md.mp.microsoft.com.symantec
 www.*.md.mp.microsoft.com.systems
 www.*.md.mp.microsoft.com.sz
 www.*.md.mp.microsoft.com.tab
@@ -14380,6 +14374,7 @@ www.cookielawinfo.com
 www.cosmopolitan.com
 www.costco.com
 www.counter.rambler.ru
+www.countryflags.io
 www.coupon.aliexpress.com
 www.cp76677.edgefcs.net
 www.cpms.spop10.ams.plex.bz
@@ -16343,7 +16338,6 @@ www.google.co.swiss
 www.google.co.sx
 www.google.co.sy
 www.google.co.sydney
-www.google.co.symantec
 www.google.co.systems
 www.google.co.sz
 www.google.co.tab
@@ -17860,7 +17854,6 @@ www.google.com.swiss
 www.google.com.sx
 www.google.com.sy
 www.google.com.sydney
-www.google.com.symantec
 www.google.com.systems
 www.google.com.sz
 www.google.com.tab
@@ -19099,7 +19092,6 @@ www.google.swiss
 www.google.sx
 www.google.sy
 www.google.sydney
-www.google.symantec
 www.google.systems
 www.google.sz
 www.google.tab
@@ -21053,7 +21045,6 @@ www.md.mp.microsoft.com.swiss
 www.md.mp.microsoft.com.sx
 www.md.mp.microsoft.com.sy
 www.md.mp.microsoft.com.sydney
-www.md.mp.microsoft.com.symantec
 www.md.mp.microsoft.com.systems
 www.md.mp.microsoft.com.sz
 www.md.mp.microsoft.com.tab
@@ -23761,7 +23752,6 @@ www.wdcp.microsoft.swiss
 www.wdcp.microsoft.sx
 www.wdcp.microsoft.sy
 www.wdcp.microsoft.sydney
-www.wdcp.microsoft.symantec
 www.wdcp.microsoft.systems
 www.wdcp.microsoft.sz
 www.wdcp.microsoft.tab
