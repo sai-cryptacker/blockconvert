@@ -2,6 +2,7 @@
 1.www.s81c.com
 24timezones.com
 3p.ampproject.net
+79423.analytics.edgekey.net
 91-cdn.com
 91mobiles.com
 a248.e.akamai.net
@@ -266,6 +267,7 @@ naver.com
 netfort.com
 news.bitcoin.com
 next-services.apps.microsoft.com
+nexus.ensighten.com
 nexusrules.officeapps.live.com
 ning.com
 notabug.org
@@ -295,6 +297,7 @@ powr.io
 privateinternetaccess.com
 *.prod.do.dsp.mp.microsoft.com
 prod.do.dsp.mp.microsoft.com
+prod.telemetry.ros.rockstargames.com
 proofpoint.com
 pti.store.microsoft.com
 purchase.mp.microsoft.com

@@ -83,6 +83,7 @@
 6-edge-chat.facebook.com
 68post.vk.com
 70i.net
+79423.analytics.edgekey.net
 7ww.vk.com
 87.vk.com
 8ch.net
@@ -2302,6 +2303,7 @@ newstogram.com
 newyork.cbslocal.com
 next-services.apps.microsoft.com
 nextopiasoftware.com
+nexus.ensighten.com
 nexus.passport.com
 nexusrules.officeapps.live.com
 nfdhsz.vk.com
@@ -2615,6 +2617,7 @@ privateinternetaccess.com
 prnt.sc
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
+prod.telemetry.ros.rockstargames.com
 products.office.com
 profile.target.com
 promodj.com
