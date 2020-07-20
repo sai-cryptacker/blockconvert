@@ -106,7 +106,10 @@ a.fsdn.com
 a.ooyala.com
 a1.awin1.com
 a1014.g.akamai.net
+a1599.g.akamai.net
+a1767.g.akamai.net
 a1843.g.akamai.net
+a19.g.akamai.net
 a248.e.akamai.net
 a652.dscb.akamai.net
 a90.g.akamai.net
