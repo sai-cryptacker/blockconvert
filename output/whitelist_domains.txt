@@ -843,7 +843,6 @@ cp76677.edgefcs.net
 cqcounter.com
 cracked.com
 cracovia.pl
-crash-stats.mozilla.com
 crashlytics.com
 crateandbarrel.com
 crbcdn.jsfiddle.net
@@ -1305,7 +1304,6 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
-extjs.cachefly.net
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
 f1.g.mi.com
