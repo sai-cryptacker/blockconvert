@@ -2454,6 +2454,7 @@ open.fm
 open.scdn.co
 open.spotify.com
 openbsd.org
+opendesktop.org
 openlayers.org
 openlibrary.org
 openload.co
@@ -2578,6 +2579,7 @@ players.brightcove.net
 playerstatic.entropymedia.com
 playstation.com
 plex.tv
+pling.com
 plot.ly
 plugins.longtailvideo.com
 plus.google.com
