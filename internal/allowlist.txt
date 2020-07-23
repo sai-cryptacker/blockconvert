@@ -482,6 +482,7 @@ www.joblo.com
 www.kaspersky.com
 www.ku6.com
 www.leanplum.com
+www.linkedin.com
 www.malwaredomainlist.com
 www.mbl.is
 www.monero.org

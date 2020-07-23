@@ -256,6 +256,7 @@ amprobe.ugc.bazaarvoice.com
 ams.amazon.co.jp
 ams.amazon.co.uk
 ams.amazon.com
+amuniversal.com
 amzn.to
 anabiullin.cs7777.vk.com
 analytics-static.ugc.bazaarvoice.com
@@ -371,6 +372,7 @@ archieve.vk.com
 archive.icann.org
 archive.org
 arcot.com
+arcpublishing.com
 arcteryx.ugc.bazaarvoice.com
 arcus-uswest.amazon.com
 argos.ugc.bazaarvoice.com
@@ -645,6 +647,7 @@ calling.consumer.entitlement.skype.com
 calls.vk.com
 campaign.consumer.entitlement.skype.com
 candycrushsoda.king.com
+captcha.qq.com
 captcha.su.baidu.com
 captive.apple.com
 cardinalcommerce.com
@@ -669,6 +672,7 @@ cdn.cnetcontent.com
 cdn.cpnscdn.com
 cdn.datatables.net
 cdn.discordapp.com
+cdn.dopc.cz
 cdn.dynamicyield.com
 cdn.edgesuite.net
 cdn.embed.ly
@@ -802,6 +806,7 @@ codecanyon.net
 codeload.github.com
 codeorigin.jquery.com
 codepen.io
+codesandbox.io
 coin-eu.amazonpay.com
 coin.amazonpay.com
 coinbase.com
@@ -1061,6 +1066,7 @@ data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 datafilehost.com
 dataplicity.com
+datastudio.google.com
 datei.to
 davidsbridal.ugc.bazaarvoice.com
 db.burst-alliance.org
@@ -1374,6 +1380,7 @@ flickr.com
 fling.com
 flipboard.com
 flipcause.com
+flo.uri.sh
 flowplayer.org
 fls-na.amazon.com
 flyertown.ca
@@ -2192,6 +2199,7 @@ missselfridge.ugc.bazaarvoice.com
 mistrzowie.org
 miui.com
 miui.net
+mixcloud.com
 mixnews.lv
 mlb.com
 mlive.com
@@ -3588,6 +3596,7 @@ www.a-0008.a-msedge.net
 www.a-0009.a-msedge.net
 www.a.shifen.com
 www.adfox.ru
+www.adwords.google.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
@@ -3658,6 +3667,7 @@ www.kcsoftwares.com
 www.kopimi.com
 www.ku6.com
 www.leanplum.com
+www.linkedin.com
 www.localbitcoins.com
 www.loggly.com
 www.luckyorange.com
