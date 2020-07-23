@@ -1,0 +1,1 @@
+\.(?:com|co\.uk|net)\.(?:login|account|payment|verif)
