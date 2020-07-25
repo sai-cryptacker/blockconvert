@@ -1142,6 +1142,7 @@ dl.delivery.mp.microsoft.com
 dl.dropbox.com
 dl.dropboxusercontent.com
 dl.free.fr
+dl.google.com
 dlied6.qq.com
 dlsrc.getmonero.org
 dlvr.it
@@ -2520,6 +2521,7 @@ pastebin.org
 pasteboard.co
 pathe.emsecure.net
 pay.google.com
+paymentinstruments-int.mp.microsoft.com
 paypal.com
 paypalobjects.com
 pbs.twimg.com
@@ -3386,6 +3388,7 @@ v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v4.download.windowsupdate.com
+validation-int.dps.mp.microsoft.com
 validation-v2.sls.microsoft.com
 vandenborre.ugc.bazaarvoice.com
 vanilla.futurecdn.net
@@ -3744,6 +3747,7 @@ www.komputerswiat.pl
 www.kopimi.com
 www.latimes.com
 www.leanplum.com
+www.libsyn.com
 www.liftoff.io
 www.linkedin.com
 www.linkwithin.com
@@ -3785,10 +3789,12 @@ www.namecheap.com
 www.nbcnews.com
 www.nbcnewyork.com
 www.netfort.com
+www.newegg.com
 www.newrelic.com
 www.no-ip.com
 www.no.2.cqcounter.com
 www.nordichardware.se
+www.ns1.com
 www.nytimes.com
 www.oboom.com
 www.ojrq.net
@@ -3889,6 +3895,7 @@ www.wangbase.com
 www.watchdog.burst-alliance.org
 www.web.burst-alliance.org
 www.wired.com
+www.worldnow.com
 www.wshifen.com
 www.wupload.com
 www.www.m.vk.com
