@@ -222,6 +222,7 @@ algolia.com
 alicdn.com
 aliexpress.com
 allegro.pl
+allencorona.vk.com
 allenedmonds.ugc.bazaarvoice.com
 allure.com
 alluremedia.com.au
@@ -249,6 +250,7 @@ americaneagle.ugc.bazaarvoice.com
 americanexpress.com
 amidami8828.cs9993890.vk.com
 amos.alicdn.com
+amouradistance.vk.com
 amp.businessinsider.com
 amp.usatoday.com
 amprobe.ugc.bazaarvoice.com
@@ -332,6 +334,7 @@ apis.vk.com
 apiv0.adfox.ru
 apiv1.adfox.ru
 apnewsregistry.com
+apollo.m.tau.vk.com
 apollo.tau.vk.com
 app-advertise.zhihuishu.com
 app-api.ted.com
@@ -438,6 +441,7 @@ ax.init.itunes.apple.com
 ax.itunes.apple.com
 ax.phobos.apple.com.edgesuite.net
 ay.gy
+ayakushev.api.cs7777.vk.com
 azorult-tracker.net
 b-api.facebook.com
 b-graph.facebook.com
@@ -811,6 +815,7 @@ coin.amazonpay.com
 coinbase.com
 coinpot.co
 cointraffic.io
+collamask.vk.com
 collegehumor.com
 columbiasportswear.ugc.bazaarvoice.com
 com.biblio.vk.com
@@ -842,7 +847,10 @@ content.logmein.com
 continuum.dds.microsoft.com
 cookieblock.trackersimulate.org
 cookielawinfo.com
+corona.docs.vk.com
+coronagolf.vk.com
 corp.vk.com
+corradocorona.vk.com
 cosmopolitan.com
 costco.com
 countryflags.io
@@ -880,6 +888,7 @@ cs10694.vk.com
 cs10787.vk.com
 cs10831.vk.com
 cs10833.vk.com
+cs10969.vk.com
 cs11073.vk.com
 cs11429.vk.com
 cs123.vk.com
@@ -912,11 +921,18 @@ cs4394.vk.com
 cs4423.vk.com
 cs4700.vk.com
 cs4932.vk.com
+cs508407.vk.com
+cs509605.vk.com
 cs5172.vk.com
 cs5179.vk.com
 cs5302.vk.com
 cs53835.vk.com
+cs540301.vk.com
 cs5414.vk.com
+cs543304.vk.com
+cs543501.vk.com
+cs543509.vk.com
+cs543603.vk.com
 cs5475.vk.com
 cs5533.vk.com
 cs5903.vk.com
@@ -981,12 +997,14 @@ cs627331.vk.com
 cs627420.vk.com
 cs628021.vk.com
 cs629110.vk.com
+cs630618.vk.com
 cs630620.vk.com
 cs631525.vk.com
 cs631820.vk.com
 cs633117.vk.com
 cs633421.vk.com
 cs633528.vk.com
+cs634500.vk.com
 cs636120.vk.com
 cs636420.vk.com
 cs636421.vk.com
@@ -1051,6 +1069,7 @@ d3js.org
 d3orhvfyxudxxq.cloudfront.net
 d9hhrg4mnvzow.cloudfront.net
 dailymotion.com
+damaskus.vk.com
 danid.dk
 danmurphys.ugc.bazaarvoice.com
 dash.cloudflare.com
@@ -1087,6 +1106,7 @@ dealer.spotify.com
 dealerinspire.com
 debian.org
 decibelinsight.net
+deletev9redirectvirus.vk.com
 delivery.acm.org
 delivery.vidible.tv
 dell.com
@@ -1097,6 +1117,8 @@ denis-ovs.narod.ru
 depth.vk.com
 desktop.google.com
 detectportal.firefox.com
+dev-distance.vk.com
+dev.tau.vk.com
 dev.twitter.com
 dev.virtualearth.net
 developer.twitter.com
@@ -1110,6 +1132,7 @@ device.auth.xboxlive.com
 deviceportal.nettvservices.com
 di.com.pl
 di.vk.com
+diagvirus.vk.com
 dict.leo.org
 dictionary.cambridge.org
 digg.com
@@ -1135,6 +1158,7 @@ displaycatalog.md.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 disq.us
 disqus.com
+distancecalculator.vk.com
 distilnetworks.com
 djvbdz1obemzo.cloudfront.net
 dl-web.dropbox.com
@@ -1166,6 +1190,7 @@ doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 donate.getmonero.org
 donorbox.org
+donvirus.vk.com
 dorothyperkins.ugc.bazaarvoice.com
 dot.centraleu.pi-dns.com
 dot.eastus.pi-dns.com
@@ -1196,6 +1221,7 @@ dsw.tt.omtrdc.net
 duckdns.org
 duckduckgo.com
 duellinksmeta.com
+dulunpandemijue.vk.com
 dumpert.nl
 duosecurity.com
 dutchboy.ugc.bazaarvoice.com
@@ -1246,6 +1272,7 @@ editmysite.com
 eds.xboxlive.com
 eec.crunchyroll.com
 ehc.com
+eitquarantine.vk.com
 elasticbeanstalk.com
 electrolux.ugc.bazaarvoice.com
 electrum.org
@@ -1257,6 +1284,7 @@ embed.flowplayer.org
 embed.spotify.com
 emdl.ws.microsoft.com
 emea01.safelinks.protection.outlook.com
+emeaquarantine.vk.com
 en.bab.la
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -1299,6 +1327,7 @@ example.com
 example.org
 expedia.ugc.bazaarvoice.com
 explorer.burst-alliance.org
+expovaccins.vk.com
 express.co.uk
 express.ugc.bazaarvoice.com
 expressen.se
@@ -1364,6 +1393,7 @@ files.graphiq.com
 files2.freedownloadmanager.org
 filesmonster.com
 fili.cc
+filmekmaskepp.vk.com
 filmweb.pl
 filmyhd.net
 filters.adtidy.org
@@ -1595,8 +1625,11 @@ h-sdk.online-metrix.net
 h.beta.facebook.com
 h.facebook.com
 h5.dingtalk.com
+ha3virus.vk.com
 hackerone-user-content.com
+halkalit31maskot41.vk.com
 happyangler.ugc.bazaarvoice.com
+happymasksalesman.vk.com
 hb.vk.com
 hblock.molinero.dev
 hbogo.com
@@ -1772,6 +1805,7 @@ ibsys.com
 icanhazip.com
 icbdr.com
 icebreaker.ugc.bazaarvoice.com
+icemask.vk.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icloud.com
@@ -1852,6 +1886,7 @@ indeed.com
 indianapolis.hl3qye.im81.vk.com
 indianapolis.vk.com
 inergizedigital.com
+infeccionvaginal.vk.com
 inference.location.live.net
 informer.com
 infowars.com
@@ -1969,6 +2004,7 @@ kodakeurope.ugc.bazaarvoice.com
 kohls.com
 komputerswiat.pl
 kopimi.com
+koronaekszerkft-hu.vk.com
 kotaku.com
 krakow.tvp.pl
 krasa.vk.com
@@ -2133,6 +2169,15 @@ marksandspencer.ugc.bazaarvoice.com
 marriott.ugc.bazaarvoice.com
 mas-ext.amazon.com
 mashable.com
+mask13.vk.com
+mask202.vk.com
+mask212.vk.com
+mask227.vk.com
+mask231.vk.com
+maskedfp.tau.vk.com
+maskkwon.vk.com
+maskolis.vk.com
+maskses.vk.com
 masslive.com
 master.burst-alliance.org
 matalan.ugc.bazaarvoice.com
@@ -2160,6 +2205,7 @@ medium.com
 mega.co.nz
 mega.nz
 mega.vk.com
+mellamaskayla.vk.com
 members.internetdefenseleague.org
 menshealth.com
 merchantapi.coingeek.com
@@ -2330,6 +2376,7 @@ nizoral.ugc.bazaarvoice.com
 nj.com
 nk.pl
 nl.cqcounter.com
+nl.notebooksbilliger.de
 nm.vk.com
 nmcdn.us
 nmcheck.gnome.org
@@ -2568,6 +2615,7 @@ pistachio-cdn.graze.com
 piter-ix.vk.com
 pittsburgh.cbslocal.com
 pixietrixcomix.com
+pj-masks.vk.com
 pjst.vk.com
 pkobp.pl
 pl-pl.facebook.com
@@ -2636,6 +2684,7 @@ promotion.aliexpress.com
 promotions.newegg.com
 proofpoint.com
 protonmail.com
+provacinema.vk.com
 providesupport.com
 proxy.novafusion.ea.com
 proxy.plex.bz
@@ -2650,6 +2699,7 @@ public.slidesharecdn.com
 public.tableau.com
 public.tableausoftware.com
 publicsuffix.org
+publicvoidlife.vk.com
 publiekeomroep.nl
 publisher.adservice.com
 publix.com
@@ -2663,16 +2713,21 @@ purdy.ugc.bazaarvoice.com
 push.services.mozilla.com
 push.vk.com
 pushwoosh.com
+puskesmaskota.vk.com
 pv-new.awin1.com
 pv.awin1.com
 pwc.chase.com
 q.stripe.com
 q13fox.com
+qapi.vk.com
 qq.com
 qualtrics.com
 quantummetric.com
+quarantine-poc.vk.com
+quarantine.cc.vk.com
 query.cs316931.vk.com
 query.prod.cms.rt.microsoft.com
+questionvaccins.vk.com
 queue.vk.com
 queuev4.vk.com
 quickenloans.com
@@ -2731,6 +2786,7 @@ referrer.disqus.com
 release.theplatform.com
 releases.flowplayer.org
 remixstid.vk.com
+removeviruswithease.vk.com
 reply.vk.com
 report-uri.com
 res.cloudinary.com
@@ -2926,6 +2982,7 @@ smartlock.google.com
 smartlook.com
 smartscreen-sn3p.smartscreen.microsoft.com
 smartscreen.microsoft.com
+smokingmask.vk.com
 smtp.mail.yahoo.com
 smtp.srv71-129-240-87.vk.com
 smtp.www.m.vk.com
@@ -2950,6 +3007,7 @@ soundcloud.com
 sourceforge.net
 spaces.live.com
 sparta.qb.mig.tencent-cloud.net
+spb-children-infection.vk.com
 spb.ru
 spclient.wg.spotify.com
 specs.adfox.ru
@@ -3127,6 +3185,7 @@ syndication.twimg.com
 syndication.twitter.com
 sysctl.org
 szczecin.tvp.pl
+szsrcmask.vk.com
 t-mobile.ugc.bazaarvoice.com
 t-online.at
 t-online.de
@@ -3153,6 +3212,7 @@ targetimg2.com
 tawk.to
 tce.alicdn.com
 team.vk.com
+teamask.vk.com
 teamviewer.com
 techguy.org
 technorati.com
@@ -3182,6 +3242,7 @@ theentertainer.ugc.bazaarvoice.com
 thefeel.cs624620.vk.com
 thefreethoughtproject.com
 thehill.com
+themaskofafox.vk.com
 themoviedb.com
 thenextweb.com
 theoldnet.com
@@ -3260,6 +3321,7 @@ trumba.com
 trustkeeper.net
 trustpilot.com
 trustwave.com
+truthpandemic.vk.com
 ts.w.org
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tuba.fm
@@ -3301,6 +3363,7 @@ uk.com
 uk.cqcounter.com
 ultimedia.com
 ultraimg.com
+umaskimages.vk.com
 umich.qualtrics.com
 unbouncepages.com
 underarmour.ugc.bazaarvoice.com
@@ -3310,6 +3373,7 @@ uniqlo.ugc.bazaarvoice.com
 uniqloenus.ugc.bazaarvoice.com
 unitedstates.smartscreen-prod.microsoft.com
 unix.com
+unmaskdigitaltruth.vk.com
 unpkg.com
 unsplash.com
 uob.sc.omtrdc.net
@@ -3424,7 +3488,10 @@ vip5.afdorigin-prod-am02.afdogw.com
 vip5.afdorigin-prod-ch02.afdogw.com
 virginwines.ugc.bazaarvoice.com
 virtualearth.net
+viruscheck1.vk.com
+virusisrbija.vk.com
 virustotalcloud.appspot.com
+viruswriter.vk.com
 visa.com
 visu.vk.com
 vitalia.pl
@@ -3617,6 +3684,7 @@ www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.anrdoezrs.net
 www.answers.com
+www.aol.com
 www.apple.com
 www.apptimize.com
 www.ar.2.cqcounter.com
@@ -3729,6 +3797,7 @@ www.img-bahn.de
 www.inc.com
 www.inputdirector.com
 www.inspectlet.com
+www.instagram.com
 www.instapaper.com
 www.intercom.io
 www.ip-adress.com
@@ -3788,6 +3857,7 @@ www.mywot.com
 www.namecheap.com
 www.nbcnews.com
 www.nbcnewyork.com
+www.neowin.net
 www.netfort.com
 www.newegg.com
 www.newrelic.com
@@ -3814,6 +3884,7 @@ www.placehold.it
 www.pocketnow.com
 www.polldaddy.com
 www.pornhub.com
+www.pricegrabber.com
 www.privateinternetaccess.com
 www.providesupport.com
 www.push.vk.com
@@ -3933,7 +4004,9 @@ xkms.xbolive.com
 xkms.xboxlive.com
 xl7xml.client.xunlei.com
 xmpp-server.l.google.com
+xn--80aa5alfu.vk.com
 xn--allestrungen-9ib.de
+xovide.vk.com
 xsdownload.adobe.com
 xsts.auth.xboxlive.com
 xueshu.baidu.com
@@ -3947,6 +4020,7 @@ yandex.ocsp-responder.com
 yandex.ru
 yardbarker.com
 yastatic.net
+yeastinfection.vk.com
 yellowpages.com
 yerl.org
 yimg.com
