@@ -1325,6 +1325,7 @@ ew.com
 ew.vk.com
 example.com
 example.org
+exchange.help.adfox.ru
 expedia.ugc.bazaarvoice.com
 explorer.burst-alliance.org
 expovaccins.vk.com
@@ -3672,6 +3673,7 @@ www.accuweather.com
 www.acehardware.com
 www.adfox.ru
 www.adwords.google.com
+www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
@@ -3770,6 +3772,7 @@ www.geoplugin.net
 www.georiot.com
 www.geotrust.com
 www.gigya.com
+www.github.com
 www.github.developerdan.com
 www.glb.paypal.com
 www.gmail.com
@@ -3959,7 +3962,6 @@ www.vidible.tv
 www.viglink.com
 www.vk.com
 www.vk.vk.com
-www.w3.org
 www.wallet.burst-alliance.org
 www.walmart.com
 www.wangbase.com
