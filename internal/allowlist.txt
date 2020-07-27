@@ -214,6 +214,7 @@ go.microsoft.com
 google.*
 google.co.*
 google.com.*
+guce.advertising.com
 guce.huffpost.com
 hblock.molinero.dev
 heureka.cz
