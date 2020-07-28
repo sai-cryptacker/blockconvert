@@ -210,6 +210,7 @@ aicpa.ugc.bazaarvoice.com
 ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
+ajmadison.ugc.bazaarvoice.com
 ak.c.ooyala.com
 aka.ms
 akismet.com
@@ -451,6 +452,7 @@ b1.awin1.com
 baidu.com
 balancer.wixdns.net
 baltimore.cbslocal.com
+bandaidca.ugc.bazaarvoice.com
 bandcamp.com
 bankid.no
 bankrate.com
@@ -470,6 +472,7 @@ bebe.ugc.bazaarvoice.com
 bedbathandbeyond.com
 bell.ugc.bazaarvoice.com
 benadryl.ugc.bazaarvoice.com
+benylinca.ugc.bazaarvoice.com
 berush.com
 bestbuy.ca
 bestbuy.com
@@ -762,6 +765,8 @@ cindyholbrook.lpages.co
 civicscience.com
 cj.dotomi.com
 classicindustries.ugc.bazaarvoice.com
+cleanandclear.ugc.bazaarvoice.com
+cleanclearca.ugc.bazaarvoice.com
 cleanprint.net
 cleveland.com
 click.simba.taobao.com
@@ -1308,6 +1313,7 @@ escentual.ugc.bazaarvoice.com
 esina.vk.com
 espn.com
 esteelauder.ugc.bazaarvoice.com
+estimulos-y-respuestas.piter-ix.vk.com
 et4.de
 ethn.io
 etl.tindersparks.com
@@ -1615,6 +1621,7 @@ gtms02.alicdn.com
 gtms03.alicdn.com
 gtms04.alicdn.com
 guardian.co.uk
+guce.advertising.com
 guce.huffpost.com
 guildwars2.com
 guru3d.com
@@ -2061,6 +2068,7 @@ light.ifmo.ru
 lihi.cc
 limited-prod.giphy.map.fastly.net
 limtu.ifmo.ru
+linebinevaskemaskine.piter-ix.vk.com
 linkedin.com
 links.iterable.com
 links.mint.com
@@ -2089,6 +2097,7 @@ localbitcoins.com
 localhost.vk.com
 location-inference-westus.cloudapp.net
 location.services.mozilla.com
+lockdownteam.piter-ix.vk.com
 lodz.tvp.pl
 log.mmstat.com
 logger.cqcounter.com
