@@ -93,6 +93,7 @@ cnet.com
 codeberg.org
 code.jquery.com
 code.tidio.co
+code.visualstudio.com
 *.coingeek.com
 coinpot.co
 cointraffic.io

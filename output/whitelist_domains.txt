@@ -809,6 +809,7 @@ code.highcharts.com
 code.jquery.com
 code.responsivevoice.org
 code.tidio.co
+code.visualstudio.com
 codeberg.org
 codecanyon.net
 codeload.github.com
@@ -3647,6 +3648,7 @@ wtkr.com
 wufoo.com
 wupload.com
 wusthof.ugc.bazaarvoice.com
+wut.smartscreen.microsoft.com
 ww.vk.com
 www-cdn.icloud.com.akadns.net
 www-lhr1.awin1.com
@@ -3915,6 +3917,7 @@ www.returnpath.com
 www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
+www.salesforce.com
 www.sdad.guru
 www.searchanise.com
 www.sears.com
