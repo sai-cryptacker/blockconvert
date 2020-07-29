@@ -2,7 +2,7 @@
 
 [![HitCount](http://hits.dwyl.io/mkb2091/blockconvert.svg)](http://hits.dwyl.io/mkb2091/blockconvert)
 
-Malware, advert and tracking blocklist which consolidates and improves many other [blocklists](https://github.com/mkb2091/blockconvert/blob/master/filterlists.csv).
+Malware, advert and tracking blocklist which consolidates and improves upon many other [blocklists](https://github.com/mkb2091/blockconvert/blob/master/filterlists.csv).
 
 
 ## What this blocks:
