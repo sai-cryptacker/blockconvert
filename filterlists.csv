@@ -17,6 +17,7 @@ Whitelist,https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whi
 Whitelist,https://raw.githubusercontent.com/NoExitTV/whitelist/master/domains/whitelist.txt,,MIT,604800,DomainAllowlist
 Useful Linux Shell Scripts Hosts,https://raw.githubusercontent.com/jackrabbit335/UsefulLinuxShellScripts/master/Hosts%20%26%20sourcelist/blacklist.txt,,GPL-3.0,864000,Hostfile
 Typosquatting Blocklist,https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt,,MIT,86400,DomainBlocklist
+Trackers,https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt,,The Unlicense,864000,DomainBlocklist
 Toshiya's Filter List - Experimental,https://raw.githubusercontent.com/toshiya44/myAssets/master/filters-exp.txt,Toshiya,GPLv3,345600,Adblock
 The Hosts File Project,https://hblock.molinero.dev/hosts,Héctor Molinero Fernández <hector@molinero.dev>,MIT,86400,Hostfile
 The Block List Project Tracking,https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt,,The Unlicense,86400,Hostfile
