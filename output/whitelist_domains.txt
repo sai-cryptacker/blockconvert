@@ -53,6 +53,7 @@
 2.vk.com
 21321.vk.com
 22m.vk.com
+240.87.vk.com
 24timezones.com
 252faway.vk.com
 2540notify.vk.com
@@ -890,12 +891,15 @@ cs10376.vk.com
 cs10421.vk.com
 cs10478.vk.com
 cs10599.vk.com
+cs10692.vk.com
 cs10694.vk.com
 cs10787.vk.com
 cs10831.vk.com
 cs10833.vk.com
+cs10867.vk.com
 cs10969.vk.com
 cs11073.vk.com
+cs11362.vk.com
 cs11429.vk.com
 cs123.vk.com
 cs126.vk.com
@@ -923,6 +927,7 @@ cs4111.vk.com
 cs4125.vk.com
 cs4218.vk.com
 cs4239.vk.com
+cs4362.vk.com
 cs4394.vk.com
 cs4423.vk.com
 cs4700.vk.com
@@ -1040,8 +1045,10 @@ cs9681.vk.com
 cs9710.vk.com
 cs9813.vk.com
 cs9916.vk.com
+cs9947.vk.com
 cs9960.vk.com
 cs9970.vk.com
+cs9989.vk.com
 cs9993890.vk.com
 csdnimg.cn
 cse.google.com
@@ -1489,6 +1496,9 @@ frys.com
 fs.microsoft.com
 ftp.chocolatey.org
 ftp.heanet.ie
+ftp.srv67-190-240-87.vk.com
+ftp.srv72-190-240-87.vk.com
+ftp.srv78-190-240-87.vk.com
 ftp.tsukuba.wide.ad.jp
 ftpcontent.worldnow.com
 full.pr0gramm.com
@@ -1851,10 +1861,16 @@ imagetwist.com
 imagevenue.com
 imagizer.imageshack.com
 imap.pop3.srv71-129-240-87.vk.com
+imap.srv194-139-240-87.vk.com
+imap.srv67-190-240-87.vk.com
 imap.srv71-129-240-87.vk.com
+imap.srv72-190-240-87.vk.com
 imap.vk.com
 imap.www.m.vk.com
+imap4.srv194-139-240-87.vk.com
+imap4.srv67-190-240-87.vk.com
 imap4.srv71-129-240-87.vk.com
+imap4.srv72-190-240-87.vk.com
 imap4.www.m.vk.com
 imasdk.googleapis.com
 imbox.io
@@ -2154,6 +2170,10 @@ mail.com
 mail.getmonero.org
 mail.google.com
 mail.ru
+mail.srv194-139-240-87.vk.com
+mail.srv67-190-240-87.vk.com
+mail.srv72-190-240-87.vk.com
+mail.srv78-190-240-87.vk.com
 mail.vk.com
 mail.www.m.vk.com
 mail1.coingeek.com
@@ -2309,7 +2329,10 @@ mvaali1.ws.byteoversea.net
 mw1.google.com
 mw2.google.com
 mx.smtp.www.m.vk.com
+mx.srv194-139-240-87.vk.com
+mx.srv67-190-240-87.vk.com
 mx.srv71-129-240-87.vk.com
+mx.srv72-190-240-87.vk.com
 mx.vk.com
 mx.www.m.vk.com
 my.aliexpress.com
@@ -2568,6 +2591,7 @@ painton.ugc.bazaarvoice.com
 pandacommerce.net
 pando.com
 paper.li
+papi.vk.com
 parastorage.com
 pasot.vk.com
 passets-cdn.pinterest.com
@@ -2665,7 +2689,13 @@ polldaddy.com
 polyfill.io
 pool.burst-alliance.org
 pool.ntp.org
+pop.srv67-190-240-87.vk.com
+pop.srv72-190-240-87.vk.com
+pop.srv78-190-240-87.vk.com
+pop3.srv194-139-240-87.vk.com
+pop3.srv67-190-240-87.vk.com
 pop3.srv71-129-240-87.vk.com
+pop3.srv72-190-240-87.vk.com
 pop3.www.m.vk.com
 pornhub.com
 pornhubpremium.com
@@ -2996,8 +3026,11 @@ smartscreen-sn3p.smartscreen.microsoft.com
 smartscreen.microsoft.com
 smokingmask.vk.com
 smtp.mail.yahoo.com
+smtp.srv67-190-240-87.vk.com
 smtp.srv71-129-240-87.vk.com
+smtp.srv72-190-240-87.vk.com
 smtp.www.m.vk.com
+smtpp.srv67-190-240-87.vk.com
 smugmug.com
 snapabug.appspot.com
 snapchat.com
@@ -3044,6 +3077,7 @@ srv0-128-240-87.vk.com
 srv0-224-186-93.vk.com
 srv10-34-213-95.vk.com
 srv112-237-186-93.vk.com
+srv120-131.240.87.vk.com
 srv124-22-213-95.vk.com
 srv129-129-240-87.vk.com
 srv129-185-240-87.vk.com
@@ -3408,6 +3442,7 @@ urldefense.proofpoint.com
 urlhaus.abuse.ch
 urs.smartscreen.microsoft.com
 us-aebridge.aliexpress.com.gds.alibabadns.com
+us-east-1-a.route.herokuapp.com
 us.2.cqcounter.com
 us.configsvc1.live.com.akadns.net
 us.cqcounter.com
@@ -3511,6 +3546,7 @@ vitaminworld.ugc.bazaarvoice.com
 vivo.com.br
 vjs.zencdn.net
 vk.com
+vk.comwww.vk.com
 vk.vk.com
 vkadmin.vk.com
 vkontakte.ru
@@ -3780,6 +3816,7 @@ www.fullstory.com
 www.funk.eu
 www.g.ezoic.net
 www.gamespot.com
+www.gap.com
 www.geoplugin.net
 www.georiot.com
 www.geotrust.com
@@ -3821,6 +3858,7 @@ www.ipify.org
 www.ipinfo.io
 www.iubenda.com
 www.janrain.com
+www.jarv.is
 www.jdoqocy.com
 www.joblo.com
 www.jsonip.com
@@ -3942,7 +3980,11 @@ www.spot.im
 www.spotify.com
 www.springboardplatform.com
 www.squaretrade.com
+www.srv194-139-240-87.vk.com
+www.srv67-190-240-87.vk.com
 www.srv71-129-240-87.vk.com
+www.srv72-190-240-87.vk.com
+www.srv78-190-240-87.vk.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
@@ -3989,6 +4031,7 @@ www.www.m.vk.com
 www.wykop.pl
 www.xboxlive.com
 www.yahoo.com
+www.yahoo.comwww.vk.com
 www.yandex.ru
 www.youtube-nocookie.com
 www.youtube.com
@@ -4029,6 +4072,7 @@ xueshu.baidu.com
 xxx.cqcounter.com
 yahoo.co.jp
 yahoo.com
+yahoo.comwww.vk.com
 yahoo.net
 yahoo.uservoice.com
 yahooapis.com

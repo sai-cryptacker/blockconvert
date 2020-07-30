@@ -459,6 +459,7 @@ update.microsoft.com
 urldefense.proofpoint.com
 urlhaus.abuse.ch
 us.configsvc1.live.com.akadns.net
+us-east-1-a.route.herokuapp.com
 users.telenet.be
 uservoice.com
 use.typekit.net
