@@ -396,6 +396,7 @@ smallseotools.com
 *.smartscreen.microsoft.com
 smartscreen.microsoft.com
 smartscreen-sn3p.smartscreen.microsoft.com
+s-media-cache-ak0.pinimg.com
 *.s-msedge.net
 s-msedge.net
 s.ndemiccreations.com

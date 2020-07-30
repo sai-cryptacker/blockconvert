@@ -795,6 +795,7 @@ cloud.google.com
 cloudflare.com
 cloudflareworkers.com
 cloudinary.com
+cm-widget.nakanohito.jp
 cmail19.com
 cmail20.com
 cn.bing.com
@@ -2865,6 +2866,7 @@ rupload.facebook.com
 rutube.ru
 rybalkina.vk.com
 rzeszow.tvp.pl
+s-media-cache-ak0.pinimg.com
 s-passets-cache-ak0.pinimg.com
 s-usc1c-nss-262.firebaseio.com
 s.amazon-adsystem.com
