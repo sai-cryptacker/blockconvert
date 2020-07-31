@@ -23,7 +23,6 @@ The Block List Project Tracking,https://raw.githubusercontent.com/blocklistproje
 The Block List Project Phishing,https://raw.githubusercontent.com/blocklistproject/Lists/master/phishing.txt,,The Unlicense,86400,Hostfile
 The Block List Project Malware,https://raw.githubusercontent.com/blocklistproject/Lists/master/malware.txt,,The Unlicense,86400,Hostfile
 The Block List Project Ads,https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt,,The Unlicense,86400,Hostfile
-Skeletal Blocker,https://raw.githubusercontent.com/SkeletalDemise/Skeletal-Blocker/master/Skeletal%20Blocker%20List,SkeletalDemise,GPLv3,172800,Adblock
 Scams and Phishing,https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt,infinitytec,MIT,864000,Hostfile
 Regex Filters for Pi-hole,https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list,,With Permission from https://github.com/mmotti/pihole-regex/issues/30,864000,RegexBlocklist
 Privacy filters,https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt,,The Unlicense,86400,Adblock

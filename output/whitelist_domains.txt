@@ -4,6 +4,7 @@
 0-amadeus.bvdinfo.com.biblio.vk.com
 0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
+0.afs.googleadservices.com
 0.client-channel.google.com
 0.vk.com
 007jamesbondfragrances.ugc.bazaarvoice.com
@@ -12,6 +13,7 @@
 1.adfox.ru
 1.vk.com
 1.www.s81c.com
+10.afs.googleadservices.com
 100-0-pool.burst-alliance.org
 110415.libdd.com
 112.2o7.net
@@ -20,6 +22,7 @@
 122.2o7.net
 140cc.v.fwmrm.net
 167274089.vk.com
+18.afs.googleadservices.com
 19534.redirect.appmetrica.yandex.com
 1ar.cqcounter.com
 1au.cqcounter.com
@@ -49,6 +52,7 @@
 1us.cqcounter.com
 1xxx.cqcounter.com
 2-edge-chat.facebook.com
+2.afs.googleadservices.com
 2.android.pool.ntp.org
 2.vk.com
 21321.vk.com
@@ -74,6 +78,7 @@
 3gdl.tcdn.qq.com
 3p.ampproject.net
 4-edge-chat.facebook.com
+4.afs.googleadservices.com
 4.redirect.appmetrica.yandex.com
 43.vk.com
 45.vk.com
@@ -81,6 +86,7 @@
 4shared.com
 5-edge-chat.facebook.com
 50-50-pool.burst-alliance.org
+5471782.fls.doubleclick.net
 6-edge-chat.facebook.com
 68post.vk.com
 70i.net
@@ -112,6 +118,7 @@ a1767.g.akamai.net
 a1843.g.akamai.net
 a19.g.akamai.net
 a248.e.akamai.net
+a5a6380f-dnsotls-ds.metric.gstatic.com
 a652.dscb.akamai.net
 a90.g.akamai.net
 aaa.com
@@ -184,6 +191,7 @@ ads.nipr.ac.jp
 ads.privacy.qq.com
 ads.talkbusiness.net
 ads.tiktok.com
+ads.twitter.com
 ads.wartaekonomi.co.id
 adsense.woso.cn
 adsp.xunlei.com
@@ -263,6 +271,7 @@ amuniversal.com
 amzn.to
 anabiullin.cs7777.vk.com
 analytics-static.ugc.bazaarvoice.com
+analytics.twitter.com
 ancestry.com
 android.clients.google.com
 android.l.google.com
@@ -538,10 +547,7 @@ blogspot.com
 blogspot.l.googleusercontent.com
 bloomberg.com
 bloxcms.com
-bn1-2cd.wns.windows.com
-bn1cd.wns.windows.com
 bn2wns1.wns.windows.com
-bn2wns1b.wns.windows.com
 bn3sch020010558.wns.windows.com
 bn3sch020010560.wns.windows.com
 bn3sch020010618.wns.windows.com
@@ -606,6 +612,20 @@ brightcove.net
 brother-emea.ugc.bazaarvoice.com
 browser.pipe.aria.microsoft.com
 browser.vk.com
+bt-1262.beta.dashboard.mgid.com
+bt-1279.beta.dashboard.mgid.com
+bt-1290.beta.dashboard.mgid.com
+bt-1371.alpha.dashboard.mgid.com
+bt-1371.beta.dashboard.mgid.com
+bt-1375.beta.dashboard.mgid.com
+bt-1381.alpha.dashboard.mgid.com
+bt-1381.beta.dashboard.mgid.com
+bt-1407.alpha.dashboard.mgid.com
+bt-1407.beta.dashboard.mgid.com
+bt-1409.alpha.dashboard.mgid.com
+bt-1434.alpha.dashboard.mgid.com
+bt-1442.alpha.dashboard.mgid.com
+bt-1476.alpha.dashboard.mgid.com
 btcpay.gab.com
 bufferapp.com
 bugsnag.com
@@ -658,7 +678,6 @@ captcha.qq.com
 captcha.su.baidu.com
 captive.apple.com
 cardinalcommerce.com
-carnival.ugc.bazaarvoice.com
 carsondellosa.ugc.bazaarvoice.com
 cartersoshkoshca.ugc.bazaarvoice.com
 cas.org.skyline.vk.com
@@ -701,6 +720,9 @@ cdn.optimizely.com
 cdn.pcbeta.attachment.inimc.com
 cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
+cdn.platform.dev.openx.com
+cdn.platform.openx.com
+cdn.platform.qa.openx.com
 cdn.plyr.io
 cdn.radiantmediatechs.com
 cdn.ravenjs.com
@@ -795,6 +817,7 @@ cloud.google.com
 cloudflare.com
 cloudflareworkers.com
 cloudinary.com
+cm-beacon.nakanohito.jp
 cm-widget.nakanohito.jp
 cmail19.com
 cmail20.com
@@ -857,6 +880,8 @@ cookieblock.trackersimulate.org
 cookielawinfo.com
 corona.docs.vk.com
 coronagolf.vk.com
+corp-ldap.openx.com
+corp.openx.com
 corp.vk.com
 corradocorona.vk.com
 cosmopolitan.com
@@ -1090,6 +1115,7 @@ dash.cloudflare.com
 dashboard.idealmedia.com
 dashboard.lentainform.com
 dashboard.marketgid.com
+dashboard.mgid.com
 dashboard.tovarro.com
 dashboard.zopim.com
 dat.ugc.bazaarvoice.com
@@ -1103,18 +1129,12 @@ datei.to
 davidsbridal.ugc.bazaarvoice.com
 db.burst-alliance.org
 db.local.clamav.net
-db5sch101101511.wns.windows.com
-db5sch101101939.wns.windows.com
-db5sch101110626.wns.windows.com
-db5sch101110634.wns.windows.com
-db5sch103082111.wns.windows.com
-db5sch103082406.wns.windows.com
-db5sch103092209.wns.windows.com
 dcape-na.amazon.com
 dddd.vk.com
 ddragon.leagueoflegends.com
 de.2.cqcounter.com
 de.ioam.de
+de.openx.com
 dealer.com
 dealer.spotify.com
 dealerinspire.com
@@ -1131,6 +1151,22 @@ denis-ovs.narod.ru
 depth.vk.com
 desktop.google.com
 detectportal.firefox.com
+dev-21387.alpha.dashboard.mgid.com
+dev-21387.beta.dashboard.mgid.com
+dev-21444.alpha.dashboard.mgid.com
+dev-21444.beta.dashboard.mgid.com
+dev-21446.alpha.dashboard.mgid.com
+dev-21446.beta.dashboard.mgid.com
+dev-21451-1.alpha.dashboard.mgid.com
+dev-21451-1.beta.dashboard.mgid.com
+dev-21451.alpha.dashboard.mgid.com
+dev-21451.beta.dashboard.mgid.com
+dev-21458.alpha.dashboard.mgid.com
+dev-21458.beta.dashboard.mgid.com
+dev-21459.alpha.dashboard.mgid.com
+dev-21461.alpha.dashboard.mgid.com
+dev-21461.beta.dashboard.mgid.com
+dev-21468.beta.dashboard.mgid.com
 dev-distance.vk.com
 dev.tau.vk.com
 dev.twitter.com
@@ -1144,6 +1180,9 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 deviceportal.nettvservices.com
+devint-cdn.openx.com
+devint-docs.openaudience.openx.com
+devint-docs.openx.com
 di.com.pl
 di.vk.com
 diagvirus.vk.com
@@ -1168,7 +1207,6 @@ display-rc.ugc.bazaarvoice.com
 display-stg.ugc.bazaarvoice.com
 display-test.ugc.bazaarvoice.com
 display.ugc.bazaarvoice.com
-displaycatalog.md.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 disq.us
 disqus.com
@@ -1196,6 +1234,7 @@ do.co
 doc.vk.com
 docs.bugsnag.com
 docs.google.com
+docs.openx.com
 docs.vk.com
 documentcloud.org
 doh.centraleu.pi-dns.com
@@ -1328,6 +1367,13 @@ et4.de
 ethn.io
 etl.tindersparks.com
 eu-v20.events.data.microsoft.com
+eu1.heatmap.it
+eu4.heatmap.it
+eu5.heatmap.it
+eu6.heatmap.it
+eu7.heatmap.it
+eu8.heatmap.it
+eu9.heatmap.it
 ev.rdtcdn.com
 evans.ugc.bazaarvoice.com
 evanscycles-uk.ugc.bazaarvoice.com
@@ -1543,11 +1589,11 @@ generacdealers.ugc.bazaarvoice.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geo-prod.do.dsp.mp.microsoft.com
 geo-prod.dodsp.mp.microsoft.com.nsatc.net
+geo.heatmap.it
 geo3.ggpht.com
 geoplugin.net
 georiot.com
 geotrust.com
-geover-prod.do.dsp.mp.microsoft.com
 get.adobe.com
 getmonero.org
 getpocket.com
@@ -1588,6 +1634,7 @@ gmx.es
 gmx.net
 gnc.ugc.bazaarvoice.com
 go.microsoft.com
+go.openx.com
 go.redirectingat.com
 go.ro
 go.trafficrouter.io
@@ -1603,6 +1650,7 @@ goodyear.ugc.bazaarvoice.com
 google.com
 google.qualtrics.com
 googleadapis.l.google.com
+googleadservices.com
 googleapis.com
 googleapis.l.google.com
 googlecode.com
@@ -1622,6 +1670,7 @@ greenhouse.io
 group.pcbeta.com
 groupon.com
 groups.google.com
+groups.openx.com
 grp07.ias.rakuten.co.jp
 gs.apple.com
 gs.statcounter.com
@@ -1659,11 +1708,13 @@ hcaptcha.com
 he.net
 healthyadvertising.es
 heapanalytics.com
+heatmap.it
 heavy.com
 heine.ugc.bazaarvoice.com
 heise.de
 helium.com
 hello.firefox.com
+help-test.openx.com
 help.adfox.ru
 help.apple.com.edgekey.net
 help.pornhub.com
@@ -1795,10 +1846,12 @@ humblebundle.com
 hwcdn.net
 hypothes.is
 i-cdn.embed.ly
+i-cdn.openx.com
 i-new.awin1.com
 i.alicdn.com
 i.alipayobjects.com
 i.awin1.com
+i.cdn.openx.com
 i.cmpnet.com
 i.ebayimg.com
 i.embed.ly
@@ -1924,6 +1977,7 @@ inputdirector.com
 inq.com
 insight.rapid7.com
 insights.eu.newrelic.com
+insights.platform.openx.com
 insinkerator.ugc.bazaarvoice.com
 insomniagamingfestival.com
 inspectlet.com
@@ -1964,6 +2018,7 @@ iubenda.com
 ivs458.vk.com
 j.mp
 jabcreations.com
+jamf-connector.openx.com
 japi.adfox.ru
 jarv.is
 jcpenney.com
@@ -2033,12 +2088,21 @@ kohls.com
 komputerswiat.pl
 kopimi.com
 koronaekszerkft-hu.vk.com
+kot-225.alpha.dashboard.mgid.com
+kot-225.beta.dashboard.mgid.com
+kot-270.alpha.dashboard.mgid.com
+kot-29.alpha.dashboard.mgid.com
+kot-293.alpha.dashboard.mgid.com
+kot-293.beta.dashboard.mgid.com
 kotaku.com
 krakow.tvp.pl
 krasa.vk.com
 kroger.com
 krylon.ugc.bazaarvoice.com
 kseniia-ermakova.vk.com
+kt-417.alpha.dashboard.mgid.com
+kt-470.alpha.dashboard.mgid.com
+kt-486.beta.dashboard.mgid.com
 ku6.com
 kulinovich.vk.com
 kxcdn.com
@@ -2079,7 +2143,6 @@ lh6.google.com
 li.vk.com
 libsyn.com
 licensebuttons.net
-licensing.md.mp.microsoft.com
 licensing.mp.microsoft.com
 licensing.xboxlive.com
 lifehacker.com
@@ -2104,7 +2167,6 @@ livejasmin.com
 livejournal.com
 livepassdl.conviva.com
 livestream.com
-livetileedge.dsx.mp.microsoft.com
 livingdirect.ugc.bazaarvoice.com
 livingspaces.ugc.bazaarvoice.com
 lizearle.ugc.bazaarvoice.com
@@ -2150,6 +2212,7 @@ lubriderm.ugc.bazaarvoice.com
 luckyorange.com
 lwn.net
 lyncdiscover.coingeek.com
+m-sso.openx.com
 m.akolnogorov.cs7777.vk.com
 m.bestofmedia.com
 m.cs7777.vk.com
@@ -2223,6 +2286,8 @@ maxcdn.bootstrapcdn.com
 maxmind.com
 maxthon.com
 mbl.is
+mc-iap-test.openx.com
+mc-iap-test2.openx.com
 mcclatchyinteractive.com
 mdap.alipay.com
 media.licdn.com
@@ -2287,7 +2352,10 @@ mls.com
 mmd.ugc.bazaarvoice.com
 mncdn.com
 mobify.com
+mobile-devint.cdn.openx.com
+mobile-qa.cdn.openx.com
 mobile.beta.facebook.com
+mobile.cdn.openx.com
 mobile.facebook.com
 mobile.help.adfox.ru
 mobile.twitter.com
@@ -2319,6 +2387,11 @@ msg.edit.yahoo.com
 msg2.client.xunlei.com
 msh.amazon.com
 msn.com
+mt-1321.alpha.dashboard.mgid.com
+mt-1374.alpha.dashboard.mgid.com
+mt-1750.alpha.dashboard.mgid.com
+mt-1833.alpha.dashboard.mgid.com
+mt-centrifugo.alpha.dashboard.mgid.com
 mt0.google.com
 mt1.google.com
 mts.adfox.ru
@@ -2407,6 +2480,7 @@ nhl.com
 nike.com
 nikon.ugc.bazaarvoice.com
 nine.plugins.plexapp.com
+nineto5mac-d.openx.net
 ning.com
 nitroflare.com
 nizoral.ugc.bazaarvoice.com
@@ -2472,6 +2546,7 @@ oauth.vk.com
 ob.ugc.bazaarvoice.com
 oboom.com
 observer.com
+observium.openx.com
 ocdn.eu
 ocos-office365-s2s.msedge.net
 ocsn.com
@@ -2557,6 +2632,7 @@ openstreetmap.org
 opensubtitles.org
 openuserjs.org
 openwall.com
+openx.com
 opera-mini.net
 opera.software
 opf.ooyala.com
@@ -2570,6 +2646,9 @@ oregonlive.com
 org.skyline.vk.com
 orientaltrading.ugc.bazaarvoice.com
 oriflame.ugc.bazaarvoice.com
+origin-cdn.openx.com
+origin-www.openx.com
+origin.platform.dev.openx.com
 origincache-atn.fbcdn.net
 orion.ugc.bazaarvoice.com
 osce11-0-en.url.trendmicro.com
@@ -2589,12 +2668,16 @@ pacificcoast.ugc.bazaarvoice.com
 packages.chocolatey.org
 packages.linuxmint.com
 paddle.com
+pagead.l.doubleclick.net
+pagead2.googleadservices.com
 painton.ugc.bazaarvoice.com
 pandacommerce.net
 pando.com
 paper.li
 papi.vk.com
 parastorage.com
+partner.googleadservices.com
+partnerssl.googleadservices.com
 pasot.vk.com
 passets-cdn.pinterest.com
 passport.alipay.com
@@ -2617,6 +2700,7 @@ pdamts.adfox.ru
 pdc.micloud.xiaomi.net
 pdf.yt
 pediasure.ugc.bazaarvoice.com
+peeps.openx.com
 pennlive.com
 people.com
 peoplerecommendations.skype.com
@@ -2646,6 +2730,7 @@ piclens.com
 pilkanozna.pl
 ping.taplytics.com
 pingjs.qq.com
+pingone-login.openx.com
 pinimg.com
 pinterest.com
 piratebay.org
@@ -2702,6 +2787,7 @@ pop3.www.m.vk.com
 pornhub.com
 pornhubpremium.com
 porno.vk.com
+post.update.openx.com
 post.vk.com
 postimage.org
 postimg.cc
@@ -2718,6 +2804,7 @@ prismic.io
 privacy-policy.truste.com
 privateinternetaccess.com
 prnt.sc
+prod-docs.openx.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
 prod.telemetry.ros.rockstargames.com
@@ -2734,10 +2821,12 @@ proxy.novafusion.ea.com
 proxy.plex.bz
 ps.vk.com
 ps.w.org
+psa-i.openx.com
 psswrdbx.com
 pt.vk.com
 pti.store.microsoft.com
 pu.vk.com
+pub-21991.beta.dashboard.mgid.com
 public-api.wordpress.com
 public.slidesharecdn.com
 public.tableau.com
@@ -2763,6 +2852,11 @@ pv.awin1.com
 pwc.chase.com
 q.stripe.com
 q13fox.com
+qa-cdn.openx.com
+qa-docs.data-service-api.openx.com
+qa-docs.openaudience.openx.com
+qa-docs.openx.com
+qa.openx.com
 qapi.vk.com
 qq.com
 qualtrics.com
@@ -2835,6 +2929,7 @@ reply.vk.com
 report-uri.com
 res.cloudinary.com
 researchgate.net
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 rest-prde.immedia-semi.com
@@ -2878,6 +2973,7 @@ s.ndemiccreations.com
 s.pinimg.com
 s.reddit.com
 s.shopify.com
+s.update.openx.com
 s.w.org
 s.yimg.com
 s.youtube.com
@@ -2897,6 +2993,9 @@ s7.orientaltrading.com
 s9vk01jgn.vk.com
 sa.symcb.com
 sacramento.cbslocal.com
+sadc-24227.alpha.dashboard.mgid.com
+sadc-24227.beta.dashboard.mgid.com
+sadc-24702.beta.dashboard.mgid.com
 safe.txmblr.com
 safebrowsing-cache.google.com
 safebrowsing.google.com
@@ -2936,6 +3035,8 @@ scribblelive.com
 scribd.com
 script.google.com
 script.ioam.de
+sd-29059.alpha.dashboard.mgid.com
+sd-29849.alpha.dashboard.mgid.com
 sdad.guru
 sdc.pingan.com
 sdk.vk.com
@@ -2993,6 +3094,7 @@ shop-pro.jp
 shop.gadgetsnow.com
 shop.lego.com
 shop.samsung.com
+shopify-app.heatmap.it
 shopify.com
 shopping.com
 shoprunner.com
@@ -3000,6 +3102,7 @@ shuc-android.ksord.com
 si.2.cqcounter.com
 siatka.org
 sidearmsports.com
+sign-in.heatmap.it
 simage.gshifen.com
 similac.ugc.bazaarvoice.com
 similarweb.com
@@ -3038,7 +3141,6 @@ smugmug.com
 snapabug.appspot.com
 snapchat.com
 snapengage.com
-snaptu-mini.c10r.facebook.com
 snaptu-mini.facebook.com
 sndcdn.com
 snippets.cdn.mozilla.net
@@ -3126,12 +3228,14 @@ ss0.baidu.com
 ss1.baidu.com
 ss2.baidu.com
 ss3.baidu.com
+ssl-i.cdn.openx.com
 ssl.bblck.me
 ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 sslbl.abuse.ch
 sslshare.gshifen.com
+sso.openx.com
 sstakk.vk.com
 sstatic.net
 st-eu.dynamicyield.com
@@ -3141,6 +3245,7 @@ stackexchange.com
 stackoverflow.com
 stackpath.bootstrapcdn.com
 stacksocial.com
+stage.guce.advertising.com
 staging-discuss.newrelic.com
 staging.plex.tv
 stanev.org
@@ -3183,7 +3288,6 @@ staticxx.facebook.com
 stats.cqcounter.com
 stats.pusher.com
 stats.stackexchange.com
-statsfe2.update.microsoft.com
 status.coinbase.com
 status.newrelic.com
 status.plex.tv
@@ -3271,6 +3375,7 @@ tecmint.com
 teespring.com
 telemetry-incoming.r53-2.services.mozilla.com
 tena.ugc.bazaarvoice.com
+test-docs.openx.com
 test.coingeek.com
 test1.adfox.ru
 test1.help.adfox.ru
@@ -3350,6 +3455,7 @@ track.rutarget.ru
 track.ucas.com
 tracker.tvnihon.com
 tracking.epicgames.com
+tracking.openx.com
 tradingview.com
 traffic.alexa.com
 traffic.libsyn.com
@@ -3367,6 +3473,7 @@ trial.api.huangye.miui.com
 trk.klclick1.com
 truevalueprojects.ugc.bazaarvoice.com
 trumba.com
+trunk.guce.advertising.com
 trustkeeper.net
 trustpilot.com
 trustwave.com
@@ -3399,6 +3506,7 @@ typekit.net
 typepad.com
 typography.com
 tyt.vk.com
+u.heatmap.it
 u.vk.com
 ubuntuforums.org
 uc.pcbeta.com
@@ -3407,9 +3515,11 @@ ui-portal.de
 ui.cs7777.vk.com
 ui.tau.vk.com
 ui.vk.com
+uk-market.openx.com
 uk.2.cqcounter.com
 uk.com
 uk.cqcounter.com
+uk.openx.com
 ultimedia.com
 ultraimg.com
 umaskimages.vk.com
@@ -3431,6 +3541,7 @@ update.code.visualstudio.com
 update.intl.miui.com
 update.microsoft.com
 update.miui.com
+update.openx.com
 update.utorrent.com
 updates.push.services.mozilla.com
 upgrade.xl9.xunlei.com
@@ -3446,9 +3557,12 @@ urlhaus.abuse.ch
 urs.smartscreen.microsoft.com
 us-aebridge.aliexpress.com.gds.alibabadns.com
 us-east-1-a.route.herokuapp.com
+us-market.openx.com
 us.2.cqcounter.com
 us.configsvc1.live.com.akadns.net
 us.cqcounter.com
+us2.heatmap.it
+us4.heatmap.it
 usa.gov
 use.fontawesome.com
 use.typekit.com
@@ -3518,6 +3632,7 @@ vgy.me
 viafoura.net
 viarnd.112.2o7.net
 vice.com
+vid-1015.alpha.dashboard.mgid.com
 viddler.com
 video-stats.l.google.com
 video.google.com
@@ -3562,6 +3677,9 @@ void.gr
 vortex.accuweather.com
 vox.com
 voxmedia.com
+vt-23754-datadog.beta.dashboard.mgid.com
+vt-23815.alpha.dashboard.mgid.com
+vt-23817.alpha.dashboard.mgid.com
 vu.vk.com
 vupload2.facebook.com
 vww.vk.com
@@ -3618,6 +3736,7 @@ webtype.com
 weebly.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
+welcome.openx.com
 werbung.karstadt.de
 werbung.oebb.at
 werbung.pinkstinks.de
@@ -3728,7 +3847,6 @@ www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
-www.allure.com
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -3834,12 +3952,14 @@ www.gmodules.com
 www.gogousenet.com
 www.goo.gl
 www.google.com
+www.googleadservices.com
 www.googleapis.com
 www.googlecommerce.com
 www.googletagservices.com
 www.gravatar.com
 www.gstatic.com
 www.heapanalytics.com
+www.heatmap.it
 www.heise.de
 www.hotjar.com
 www.howtogeek.com
@@ -3931,6 +4051,7 @@ www.olark.com
 www.onesignal.com
 www.opensubtitles.org
 www.openwall.com
+www.openx.com
 www.optimizely.com
 www.pasteboard.co
 www.paypal.com
@@ -4009,7 +4130,6 @@ www.tinypass.com
 www.tinyurl.com
 www.tmz.com
 www.transfer.sh
-www.trumba.com
 www.tumblr.com
 www.turnto.com
 www.tusfiles.net
@@ -4061,6 +4181,7 @@ xboxlive.com
 xd.adobelanding.com
 xda-developers.com
 xerox.ugc.bazaarvoice.com
+xfer.openx.com
 xflight.xboxlive.com
 xiaomi.com
 xiaomi.net
