@@ -82,7 +82,6 @@ ABPindo,https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/
 ,https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt,Mitchell Krog,MIT,86400,IPBlocklist
 ,https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list,Mitchell Krog,MIT,86400,DomainBlocklist
 ,https://raw.githubusercontent.com/mitchellkrogza/Suspicious.Snooping.Sniffing.Hacking.IP.Addresses/master/ips.list,Mitchell Krog,MIT,86400,IPBlocklist
-,https://raw.githubusercontent.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/master/output/domains/ACTIVE/list,Mitchell Krog,MIT,86400,DomainBlocklist
 ,https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt,,MIT,86400,Hostfile
 ,https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt,,Public Domain,86400,DomainBlocklist
 ,https://raw.githubusercontent.com/ligyxy/Blocklist/master/BLOCKLIST,,MIT,86400,DomainBlocklist
