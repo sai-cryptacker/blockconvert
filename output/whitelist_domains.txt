@@ -1181,6 +1181,7 @@ device-metrics-us.amazon.com
 device.auth.xboxlive.com
 deviceportal.nettvservices.com
 devint-cdn.openx.com
+devint-docs.data-service-api.openx.com
 devint-docs.openaudience.openx.com
 devint-docs.openx.com
 di.com.pl
@@ -2363,6 +2364,7 @@ mobilecns.alipay.com
 mobilegw.alipay.com
 mobilenetworkscoring-pa.googleapis.com
 modern.watson.data.microsoft.com.akadns.net
+moja.bolha.com
 monero.org
 money.yandex.ru
 monicavinader.ugc.bazaarvoice.com
@@ -2544,6 +2546,7 @@ oauth.cs7777.vk.com
 oauth.tau.vk.com
 oauth.vk.com
 ob.ugc.bazaarvoice.com
+objava-oglasa.bolha.com
 oboom.com
 observer.com
 observium.openx.com
@@ -3847,6 +3850,7 @@ www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
+www.allure.com
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -4130,6 +4134,7 @@ www.tinypass.com
 www.tinyurl.com
 www.tmz.com
 www.transfer.sh
+www.trumba.com
 www.tumblr.com
 www.turnto.com
 www.tusfiles.net
