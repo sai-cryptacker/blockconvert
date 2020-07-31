@@ -3745,6 +3745,7 @@ www.au.2.cqcounter.com
 www.awin1.com
 www.baidu.com
 www.bankrate.com
+www.bazaarvoice.com
 www.bbc.com
 www.bcorg.web.burst-alliance.org
 www.bestbuy.com
@@ -3812,6 +3813,7 @@ www.flipboard.com
 www.flyertown.ca
 www.fonts.com
 www.forms.gle
+www.fortune.com
 www.forum.vk.com
 www.fr.2.cqcounter.com
 www.freedownloadmanager.org
@@ -4039,6 +4041,7 @@ www.yandex.ru
 www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
+www.ziplist.com
 www1.awin1.com
 www17.wixdns.net
 www2.cqcounter.com
