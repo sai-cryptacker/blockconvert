@@ -3234,6 +3234,7 @@ ss3.baidu.com
 ssl-i.cdn.openx.com
 ssl.bblck.me
 ssl.gstatic.com
+ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 sslbl.abuse.ch
@@ -3509,6 +3510,7 @@ typekit.net
 typepad.com
 typography.com
 tyt.vk.com
+u.corp.vk.com
 u.heatmap.it
 u.vk.com
 ubuntuforums.org
