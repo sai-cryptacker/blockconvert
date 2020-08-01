@@ -56,6 +56,7 @@ baidu.com
 *.b.akamaiedge.net
 b.akamaiedge.net
 battle.net
+bbci.co.uk
 berush.com
 bestbuy.ca
 betfair.com
@@ -413,6 +414,7 @@ ssl.marfeelcdn.com
 stacksocial.com
 staging-discuss.newrelic.com
 star-mini.c10r.facebook.com
+static.bbci.co.uk
 static-dot-virustotalcloud.appspot.com
 static.getmonero.org
 statics.streamable.com

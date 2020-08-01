@@ -3267,6 +3267,7 @@ static-pepper.dealabs.com
 static-xl9-ssl.xunlei.com
 static.3001.net
 static.ada.support
+static.bbci.co.uk
 static.beyondmenu.com
 static.coinbase.com
 static.dingtalk.com
@@ -4050,6 +4051,7 @@ www.newrelic.com
 www.no-ip.com
 www.no.2.cqcounter.com
 www.nordichardware.se
+www.npr.org
 www.ns1.com
 www.nytimes.com
 www.oboom.com
