@@ -35,6 +35,7 @@ PiHoleBlocklist - AndroidTracking,https://raw.githubusercontent.com/Perflyst/PiH
 PiHoleBlocklist - AmazonFireTV,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt,,MIT,86400,DomainBlocklist
 Pi-Hole blocklist,https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt,,GPL-3.0,86400,DomainBlocklist
 Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list,,MIT,86400,RegexBlocklist
+Not on my shift!,https://orca.pet/notonmyshift/domains.txt,,ISC license,86400,DomainBlocklist
 Nopelist,https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt,Gene Diaz,MIT,604800,DomainBlocklist
 NoTrack Tracker Blocklist,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,QuidsUp,GPLv3,86400,DomainBlocklist
 NoTrack Malware Blocklist,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,QuidsUp,GPLv3,86400,DomainBlocklist
@@ -48,6 +49,7 @@ Latvian List,https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/l
 KADhosts,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,,CC-BY-SA-4,86400,Hostfile
 International List,https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt,,The Unlicense,259200,Adblock
 I Hate Tracker,https://raw.githubusercontent.com/pirat28/IHateTracker/master/iHateTracker.txt,Pirat28,MIT,864000,DomainBlocklist
+Herm's Ad Black List,https://raw.githubusercontent.com/hermanjustinm/Herms-Blacklist/master/HermsAdBlacklist.txt,,MPL-2.0,864000,Adblock
 GOODBYE ADS,https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt,Jerryn70 (XDA Senior Member),MIT,86400,Hostfile
 Frellwit's Swedish Hosts File,https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt,,GPL-3.0,86400,Hostfile
 Fanboy's Annoyance List,https://easylist.to/easylist/fanboy-annoyance.txt,,GPLv3,345600,Adblock
