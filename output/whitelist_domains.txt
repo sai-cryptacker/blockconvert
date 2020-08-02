@@ -3917,6 +3917,7 @@ www.de.2.cqcounter.com
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
+www.distilnetworks.com
 www.drift.com
 www.driftt.com
 www.drive.google.com
@@ -4042,6 +4043,7 @@ www.msftncsi.com
 www.msn.com
 www.mywot.com
 www.namecheap.com
+www.naver.com
 www.nbcnews.com
 www.nbcnewyork.com
 www.neowin.net
@@ -4149,6 +4151,7 @@ www.ultimedia.com
 www.unibytes.com
 www.us.2.cqcounter.com
 www.userreplay.net
+www.vanityfair.com
 www.vidible.tv
 www.viglink.com
 www.vk.com
