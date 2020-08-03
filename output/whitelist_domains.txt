@@ -3849,7 +3849,6 @@ www.accuweather.com
 www.acehardware.com
 www.adfox.ru
 www.adwords.google.com
-www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
@@ -3973,6 +3972,7 @@ www.hotjar.com
 www.howtogeek.com
 www.hrblock.com
 www.hubpages.com
+www.hulu.com
 www.ibm.com
 www.ibsys.com
 www.icanhazip.com
@@ -3989,6 +3989,7 @@ www.intercom.io
 www.ip-adress.com
 www.ipify.org
 www.ipinfo.io
+www.istockphoto.com
 www.iubenda.com
 www.janrain.com
 www.jarv.is
@@ -4075,6 +4076,7 @@ www.placehold.it
 www.pocketnow.com
 www.polldaddy.com
 www.pornhub.com
+www.ppt.cc
 www.pricegrabber.com
 www.privateinternetaccess.com
 www.providesupport.com
@@ -4086,6 +4088,7 @@ www.quantummetric.com
 www.quickenloans.com
 www.quora.com
 www.rapidvideo.com
+www.real-debrid.com
 www.reddit.com
 www.redirectingat.com
 www.redtube.com
