@@ -3875,6 +3875,7 @@ www.bcorg.web.burst-alliance.org
 www.bestbuy.com
 www.betfair.com
 www.beyondmenu.com
+www.bgr.com
 www.binarydefense.com
 www.bing.com
 www.bit.ly
@@ -3898,6 +3899,7 @@ www.clicktale.net
 www.cnbc.com
 www.cnet.com
 www.code.createjs.com
+www.codeload.github.com
 www.coinbase.com
 www.coingeek.com
 www.coinpot.co
@@ -3940,7 +3942,9 @@ www.fonts.com
 www.forms.gle
 www.fortune.com
 www.forum.vk.com
+www.fox2now.com
 www.fr.2.cqcounter.com
+www.framasoft.org
 www.freedownloadmanager.org
 www.fullstory.com
 www.funk.eu
@@ -3953,9 +3957,11 @@ www.geotrust.com
 www.gigya.com
 www.github.com
 www.github.developerdan.com
+www.github.io
 www.glb.paypal.com
 www.gmail.com
 www.gmodules.com
+www.godaddy.com
 www.gogousenet.com
 www.goo.gl
 www.google.com
@@ -4051,6 +4057,7 @@ www.neowin.net
 www.netfort.com
 www.newegg.com
 www.newrelic.com
+www.nhl.com
 www.no-ip.com
 www.no.2.cqcounter.com
 www.nordichardware.se
@@ -4061,6 +4068,7 @@ www.oboom.com
 www.ojrq.net
 www.olark.com
 www.onesignal.com
+www.onion.to
 www.opensubtitles.org
 www.openwall.com
 www.openx.com
