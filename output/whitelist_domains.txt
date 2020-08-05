@@ -108,6 +108,7 @@ a-0009.a-msedge.net
 a-0010.a-msedge.net
 a-0011.a-msedge.net
 a-0012.a-msedge.net
+a-uswe-01.mps.skype.com
 a.adwolf.ru
 a.fsdn.com
 a.ooyala.com
@@ -888,7 +889,12 @@ cosmopolitan.com
 costco.com
 countryflags.io
 coupon.aliexpress.com
+cp101-int.do.dsp.mp.microsoft.com
+cp501-prod.do.dsp.mp.microsoft.com
+cp601-prod.do.dsp.mp.microsoft.com
+cp701-prod.do.dsp.mp.microsoft.com
 cp76677.edgefcs.net
+cp801-prod.do.dsp.mp.microsoft.com
 cqcounter.com
 cracked.com
 cracovia.pl
@@ -1196,6 +1202,11 @@ digitalattach-int.mp.microsoft.com
 digitalriver.com
 digitaltrends.com
 directvnow.com
+disc101-int.do.dsp.mp.microsoft.com
+disc501-prod.do.dsp.mp.microsoft.com
+disc601-prod.do.dsp.mp.microsoft.com
+disc701-prod.do.dsp.mp.microsoft.com
+disc801-prod.do.dsp.mp.microsoft.com
 discord.com
 discord.gg
 discovermagazine.com
@@ -1595,6 +1606,7 @@ geo3.ggpht.com
 geoplugin.net
 georiot.com
 geotrust.com
+geover-int.do.dsp.mp.microsoft.com
 get.adobe.com
 getmonero.org
 getpocket.com
@@ -2106,6 +2118,11 @@ kt-470.alpha.dashboard.mgid.com
 kt-486.beta.dashboard.mgid.com
 ku6.com
 kulinovich.vk.com
+kv101-int.do.dsp.mp.microsoft.com
+kv501-prod.do.dsp.mp.microsoft.com
+kv601-prod.do.dsp.mp.microsoft.com
+kv701-prod.do.dsp.mp.microsoft.com
+kv801-prod.do.dsp.mp.microsoft.com
 kxcdn.com
 l.betrad.com
 l.facebook.com
@@ -2697,6 +2714,7 @@ paypal.com
 paypalobjects.com
 pbs.twimg.com
 pc.xunlei.com
+pcmag.com
 pcmatic.com
 pdamts-content.adfox.ru
 pdamts.adfox.ru
@@ -3430,6 +3448,7 @@ title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tkx-acc.apis.anvato.net
 tkx2-prod.anvato.net
+tlaol.com
 tlc.com
 tld-list.com
 tlp.vk.com
@@ -3982,6 +4001,7 @@ www.hulu.com
 www.ibm.com
 www.ibsys.com
 www.icanhazip.com
+www.idg.se
 www.ign.com
 www.ignorelist.com
 www.ikea.com
@@ -4078,10 +4098,13 @@ www.paypal.com
 www.paypal.com.edgekey.net
 www.paypalobjects.com
 www.pcbeta.com
+www.pcmag.com
 www.pcmatic.com
 www.pinterest.com
+www.piratebay.org
 www.placehold.it
 www.pocketnow.com
+www.poll.fm
 www.polldaddy.com
 www.pornhub.com
 www.ppt.cc
@@ -4136,6 +4159,7 @@ www.srv78-190-240-87.vk.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
+www.stripe.com
 www.surveygizmo.com
 www.t-online.de
 www.tawk.to
@@ -4185,6 +4209,7 @@ www.yandex.ru
 www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
+www.zendesk.com
 www.ziplist.com
 www1.awin1.com
 www17.wixdns.net

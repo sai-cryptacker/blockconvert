@@ -334,6 +334,7 @@ pastebin.com
 pastebin.org
 pasteboard.co
 pbs.twimg.com
+pcmag.com # Blocked by PrivacyBadger
 pcmatic.com
 phishtank.com
 polyfill.io
