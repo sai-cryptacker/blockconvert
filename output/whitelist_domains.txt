@@ -3943,6 +3943,7 @@ www.driftt.com
 www.drive.google.com
 www.dropbox.com
 www.ebay.com
+www.ebay.pl
 www.ecdinterface.philips.com
 www.eloqua.com
 www.eltrafiko.com
@@ -4083,6 +4084,7 @@ www.no.2.cqcounter.com
 www.nordichardware.se
 www.npr.org
 www.ns1.com
+www.nydailynews.com
 www.nytimes.com
 www.oboom.com
 www.ojrq.net
@@ -4110,6 +4112,7 @@ www.pornhub.com
 www.ppt.cc
 www.pricegrabber.com
 www.privateinternetaccess.com
+www.proofpoint.com
 www.providesupport.com
 www.push.vk.com
 www.pushwoosh.com
@@ -4138,6 +4141,7 @@ www.segment.com
 www.semrush.com
 www.sgizmo.com
 www.share-online.biz
+www.shopify.com
 www.si.2.cqcounter.com
 www.sina.com.cn
 www.skimresources.com
@@ -4177,6 +4181,7 @@ www.tinyurl.com
 www.tmz.com
 www.transfer.sh
 www.trumba.com
+www.trustpilot.com
 www.tumblr.com
 www.turnto.com
 www.tusfiles.net
