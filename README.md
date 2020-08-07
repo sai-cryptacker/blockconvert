@@ -40,8 +40,6 @@ Malware, advert and tracking blocklist which consolidates and improves upon many
 
 [Blocked IP address list](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/ip_blocklist.txt)
 
-[IPSet format](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/ip_blocklist.ipset)
-
 [DNS Response Policy Zone(RPZ) format](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.rpz)
 
 As well as generating blocklists, this project also generates whitelists which are used in the process. If you maintain your own blocklist, you may find one of the following whitelists useful:
