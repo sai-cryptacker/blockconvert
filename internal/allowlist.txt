@@ -369,6 +369,7 @@ ris.api.iris.microsoft.com.akadns.net
 ris-prod-atm.trafficmanager.net
 router.utorrent.com
 s3.amazonaws.com
+s3.tradingview.com # https://github.com/mkb2091/blockconvert/issues/49
 s3-us-west-1.amazonaws.com
 s7.orientaltrading.com
 safebrowsing-cache.google.com
@@ -431,6 +432,7 @@ storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 store-images.microsoft.com
 store-images.s-microsoft.com
+s.tradingview.com # https://github.com/mkb2091/blockconvert/issues/49
 stripecdn.map.fastly.net
 substrate.office.com
 support.microsoft.com
@@ -500,6 +502,7 @@ webmd.com
 web.tresorit.com
 whiteboard.microsoft.com
 whiteboard.ms
+widgetdata.tradingview.com # https://github.com/mkb2091/blockconvert/issues/49
 widget-mediator.zopim.com
 wikidot.com
 wildcard.twimg.com

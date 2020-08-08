@@ -144,7 +144,6 @@ activation-v2.sls.microsoft.com
 activation.sls.microsoft.com
 activity.windows.com
 ad.10010.com
-ad.abchina.com
 ad.kazakinfo.com
 ad.ourgame.com
 ad2.uoocuniversity.com
@@ -152,6 +151,7 @@ adash.man.aliyuncs.com
 adashx.m.taobao.com
 adaway.org
 adb.juvander.net
+adback.de
 adblock.dk
 adblock.ee
 adblock.mahakala.is
@@ -606,7 +606,6 @@ boxrec.com
 braintreegateway.com
 brakrock.be
 breakingburner.com
-bridgestone.ugc.bazaarvoice.com
 brightcove.com
 brightcove.map.fastly.net
 brightcove.net
@@ -893,7 +892,6 @@ cp101-int.do.dsp.mp.microsoft.com
 cp501-prod.do.dsp.mp.microsoft.com
 cp601-prod.do.dsp.mp.microsoft.com
 cp701-prod.do.dsp.mp.microsoft.com
-cp76677.edgefcs.net
 cp801-prod.do.dsp.mp.microsoft.com
 cqcounter.com
 cracked.com
@@ -2522,7 +2520,6 @@ nordvpn.com
 noreply.vk.com
 northerntool.ugc.bazaarvoice.com
 northeu.pi-dns.com
-northface.ugc.bazaarvoice.com
 nos.netease.com
 notabug.org
 notebooksbilliger.de
@@ -2533,6 +2530,7 @@ now.notebooksbilliger.de
 now.sh
 npmcdn.com
 npr.org
+nrcdn.com
 ns1.com
 ns1.dropbox.com
 ns1.vk.com
@@ -2754,7 +2752,6 @@ pingjs.qq.com
 pingone-login.openx.com
 pinimg.com
 pinterest.com
-piratebay.org
 pistachio-cdn.graze.com
 piter-ix.vk.com
 pittsburgh.cbslocal.com
@@ -2950,7 +2947,6 @@ reply.vk.com
 report-uri.com
 res.cloudinary.com
 researchgate.net
-resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 rest-prde.immedia-semi.com
@@ -2994,6 +2990,7 @@ s.ndemiccreations.com
 s.pinimg.com
 s.reddit.com
 s.shopify.com
+s.tradingview.com
 s.update.openx.com
 s.w.org
 s.yimg.com
@@ -3010,6 +3007,7 @@ s3-1.amazonaws.com
 s3-us-west-1.amazonaws.com
 s3.amazonaws.com
 s3.graphiq.com
+s3.tradingview.com
 s7.orientaltrading.com
 s9vk01jgn.vk.com
 sa.symcb.com
@@ -3289,7 +3287,6 @@ static.bbci.co.uk
 static.beyondmenu.com
 static.coinbase.com
 static.dingtalk.com
-static.dynamicyield.com
 static.fontawesome.com
 static.getmonero.org
 static.kickstarter.com
@@ -3754,7 +3751,6 @@ webmail.laposte.net
 webmail.orange.fr
 webmasters.stackexchange.com
 webmd.com
-weboffice-static.docs.dingtalk.com
 webs.com
 websimages.com
 webtype.com
@@ -3779,6 +3775,7 @@ widget-cdn.rpxnow.com
 widget-mediator.zopim.com
 widget.pushbullet.com
 widget.uservoice.com
+widgetdata.tradingview.com
 widgets.dlvr.it
 widgetserver.com
 wifiapi.micloud.xiaomi.net
@@ -3887,12 +3884,10 @@ www.ar.2.cqcounter.com
 www.au.2.cqcounter.com
 www.awin1.com
 www.baidu.com
-www.bankrate.com
 www.bazaarvoice.com
 www.bbc.com
 www.bcorg.web.burst-alliance.org
 www.bestbuy.com
-www.betfair.com
 www.beyondmenu.com
 www.bgr.com
 www.binarydefense.com
@@ -3934,6 +3929,7 @@ www.datadoghq-browser-agent.com
 www.dataplicity.com
 www.db.burst-alliance.org
 www.de.2.cqcounter.com
+www.deviantart.com
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
@@ -4013,7 +4009,6 @@ www.inspectlet.com
 www.instagram.com
 www.instapaper.com
 www.intercom.io
-www.ip-adress.com
 www.ipify.org
 www.ipinfo.io
 www.istockphoto.com
