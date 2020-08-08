@@ -300,6 +300,7 @@ msedge.net
 msftconnecttest.com
 m.stripe.network
 mvaali1.ws.byteoversea.net
+mw1.wsj.net # https://github.com/mkb2091/blockconvert/issues/50
 mymonero.com
 namecheap.com
 narkive.com
@@ -516,6 +517,7 @@ wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
 wscont.apps.microsoft.com
 wsj.com
+w.soundcloud.com # https://github.com/mkb2091/blockconvert/issues/51
 x1.com
 yahoo.co.jp
 yahoo.uservoice.com

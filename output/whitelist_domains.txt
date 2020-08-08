@@ -2419,6 +2419,7 @@ multiup.org
 mv4.vk.com
 mvaali1.ws.byteoversea.net
 mw1.google.com
+mw1.wsj.net
 mw2.google.com
 mx.smtp.www.m.vk.com
 mx.srv194-139-240-87.vk.com
@@ -3708,6 +3709,7 @@ vww.vk.com
 vxvault.net
 w.apprep.smartscreen.microsoft.com
 w.graphiq.com
+w.soundcloud.com
 w3.org
 wac.edgecastcdn.net
 walgreens.com
@@ -3868,6 +3870,7 @@ www.adwords.google.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
+www.aliexpress.com
 www.allure.com
 www.amazon.co.uk
 www.amazon.com
