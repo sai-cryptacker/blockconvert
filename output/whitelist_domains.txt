@@ -2138,6 +2138,7 @@ lastfm-img2.akamaized.net
 lasvegas.cbslocal.com
 latimes.com
 latimesblogs.latimes.com
+launches.appsflyer.com
 lcdn-locator-usnkq.apple.com.akadns.net
 lcdn-locator.apple.com.akadns.net
 leagueoflegends.com
@@ -4190,7 +4191,6 @@ www.ultimedia.com
 www.unibytes.com
 www.us.2.cqcounter.com
 www.userreplay.net
-www.vanityfair.com
 www.vidible.tv
 www.viglink.com
 www.vk.com
