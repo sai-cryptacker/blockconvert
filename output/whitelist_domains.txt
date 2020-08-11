@@ -3294,6 +3294,7 @@ static.getmonero.org
 static.kickstarter.com
 static.licdn.com
 static.networkedblogs.com
+static.tacdn.com
 static.template.pcbeta.com
 static.tianya.cn
 static.tianyaui.com

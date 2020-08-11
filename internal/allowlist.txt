@@ -421,6 +421,7 @@ static.bbci.co.uk
 static-dot-virustotalcloud.appspot.com
 static.getmonero.org
 statics.streamable.com
+static.tacdn.com # https://github.com/mkb2091/blockconvert/issues/52
 static.tidiochat.com
 static.zdassets.com
 statsfe2.update.microsoft.com.akadns.net
