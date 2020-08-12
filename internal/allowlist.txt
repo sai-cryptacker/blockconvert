@@ -448,6 +448,7 @@ telecommand.telemetry.microsoft.com.akadns.net
 texashomebase.com
 thebot.net
 theoldnet.com
+tiktok.com # Causes adblock to block www.tiktok.com
 tile-service.weather.microsoft.com
 time.windows.com
 *.tlu.dl.delivery.mp.microsoft.com
