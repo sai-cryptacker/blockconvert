@@ -1640,6 +1640,7 @@ encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 engadget.com
+engagementapi.skype.com
 ensure.ugc.bazaarvoice.com
 entireweb.com
 entitlement.auth.adobe.com
@@ -2972,6 +2973,7 @@ p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
 pacificcoast.ugc.bazaarvoice.com
+packages-intppe.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.linuxmint.com
 paddle.com
@@ -3247,6 +3249,8 @@ resultspage.com
 returnpath.com
 rewardstyle.com
 richmedia.coolespiele.com
+riker-int.dps.mp.microsoft.com
+riker.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
@@ -3419,6 +3423,7 @@ sina.com.cn
 siteimprove.com
 sites.google.com
 sites.help.adfox.ru
+sj14.mktossl.com
 sketchfab.com
 skimresources.com
 skyhook.sonarr.tv
@@ -3827,6 +3832,7 @@ uc.pcbeta.com
 ueuev4.vk.com
 ui-portal.de
 ui.cs7777.vk.com
+ui.openaudience.openx.com
 ui.tau.vk.com
 ui.vk.com
 uk-market.openx.com
@@ -4157,7 +4163,9 @@ www.a.shifen.com
 www.accuweather.com
 www.acehardware.com
 www.adfox.ru
+www.adidas.com
 www.adwords.google.com
+www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
@@ -4203,6 +4211,7 @@ www.cda.pl
 www.cdn.optimizely.com
 www.chomikuj.pl
 www.civicscience.com
+www.cleveland.com
 www.clicktale.net
 www.cnbc.com
 www.cnet.com
@@ -4223,10 +4232,12 @@ www.datadoghq-browser-agent.com
 www.dataplicity.com
 www.db.burst-alliance.org
 www.de.2.cqcounter.com
+www.dell.com
 www.deviantart.com
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
+www.discovery.com
 www.distilnetworks.com
 www.drift.com
 www.driftt.com
@@ -4242,6 +4253,7 @@ www.engadget.com
 www.ethn.io
 www.expressen.se
 www.facebook.com
+www.familydollar.com
 www.fili.cc
 www.fiverr.com
 www.flickr.com
@@ -4342,6 +4354,7 @@ www.majorgeeks.com
 www.malwaredomainlist.com
 www.mapquestapi.com
 www.marketo.com
+www.masslive.com
 www.master.burst-alliance.org
 www.maxmind.com
 www.mbl.is
@@ -4349,6 +4362,7 @@ www.mediafire.com
 www.miaminewtimes.com
 www.microsoft.com
 www.miui.net
+www.mlive.com
 www.monero.org
 www.moonbit.co.in
 www.mouseflow.com
@@ -4368,6 +4382,7 @@ www.netfort.com
 www.newegg.com
 www.newrelic.com
 www.nhl.com
+www.nj.com
 www.no-ip.com
 www.no.2.cqcounter.com
 www.nordichardware.se
@@ -4384,6 +4399,7 @@ www.opensubtitles.org
 www.openwall.com
 www.openx.com
 www.optimizely.com
+www.oregonlive.com
 www.pastebin.com
 www.pasteboard.co
 www.paypal.com
@@ -4392,13 +4408,14 @@ www.paypalobjects.com
 www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
+www.pennlive.com
 www.pinterest.com
-www.piratebay.org
 www.placehold.it
 www.pocketnow.com
 www.poll.fm
 www.polldaddy.com
 www.pornhub.com
+www.powr.io
 www.ppt.cc
 www.pricegrabber.com
 www.privateinternetaccess.com
@@ -4456,6 +4473,7 @@ www.storage.googleapis.com
 www.stripe.com
 www.surveygizmo.com
 www.t-online.de
+www.target.com
 www.tawk.to
 www.techradar.com
 www.techrepublic.com
@@ -4481,6 +4499,7 @@ www.twitter.com
 www.uk.2.cqcounter.com
 www.ultimedia.com
 www.unibytes.com
+www.uplynk.com
 www.us.2.cqcounter.com
 www.userreplay.net
 www.vidible.tv
@@ -4493,6 +4512,7 @@ www.wangbase.com
 www.watchdog.burst-alliance.org
 www.web.burst-alliance.org
 www.wired.com
+www.wistia.com
 www.worldnow.com
 www.wshifen.com
 www.wupload.com

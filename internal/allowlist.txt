@@ -391,6 +391,7 @@ s.imgur.com
 similarweb.com
 *.simply.com
 sina.com.cn
+sj14.mktossl.com # CNAME for safe.riskiq.com
 *.skype.com
 skype.com
 skypeecs-prod-usw-0-b.cloudapp.net
