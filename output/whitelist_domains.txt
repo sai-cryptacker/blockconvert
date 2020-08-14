@@ -1750,6 +1750,7 @@ files.edx.org
 files.freedownloadmanager.org
 files.graphiq.com
 files2.freedownloadmanager.org
+filesapi.dps.mp.microsoft.com
 filesmonster.com
 fili.cc
 filmekmaskepp.vk.com
@@ -4453,6 +4454,7 @@ www.si.2.cqcounter.com
 www.sina.com.cn
 www.skimresources.com
 www.slate.com
+www.slickdeals.net
 www.sls.update.microsoft.com.akadns.net
 www.smartlook.com
 www.snapengage.com
@@ -4511,6 +4513,7 @@ www.walmart.com
 www.wangbase.com
 www.watchdog.burst-alliance.org
 www.web.burst-alliance.org
+www.windy.com
 www.wired.com
 www.wistia.com
 www.worldnow.com
@@ -4521,6 +4524,7 @@ www.wykop.pl
 www.xboxlive.com
 www.yahoo.com
 www.yahoo.comwww.vk.com
+www.yahoo.net
 www.yandex.ru
 www.youtube-nocookie.com
 www.youtube.com
