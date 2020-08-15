@@ -44,6 +44,7 @@ arc.msn.com
 arc.msn.com.nsatc.net
 arizona.edu
 ars.smartscreen.microsoft.com
+assets.bwbx.io # Breaks bloomberg.com layout
 assets.micpn.com
 assets.penny-arcade.com
 attfeedback.uservoice.com

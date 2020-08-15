@@ -292,6 +292,7 @@ ap108.cs304112.vk.com
 api-cdn.embed.ly
 api-glb.smoot.apple.com
 api-global.netflix.com
+api-int.dcat.dsp.mp.microsoft.com
 api-maps.yandex.ru
 api-partner.spotify.com
 api-tv.spotify.com
@@ -424,6 +425,7 @@ askubuntu.com
 assets-cdk.com
 assets.adobedtm.com
 assets.alicdn.com
+assets.bwbx.io
 assets.coinbase.com
 assets.gumroad.com
 assets.micpn.com
@@ -846,6 +848,7 @@ cm-beacon.nakanohito.jp
 cm-widget.nakanohito.jp
 cmail19.com
 cmail20.com
+cmd-int.dcat.dsp.mp.microsoft.com
 cn.bing.com
 cnbc.com
 cnet.com
@@ -2893,6 +2896,7 @@ ogio.ugc.bazaarvoice.com
 ogs.google.com
 oillarionov.api.cs7777.vk.com
 ojrq.net
+okta.com
 oladblock.me
 oladblock.services
 oladblock.xyz
@@ -3012,6 +3016,7 @@ pdc.micloud.xiaomi.net
 pdf.yt
 pediasure.ugc.bazaarvoice.com
 peeps.openx.com
+pending.sls-int.update.microsoft.com
 pennlive.com
 people.com
 peoplerecommendations.skype.com
@@ -4410,6 +4415,7 @@ www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
 www.pennlive.com
+www.pi-dns.com
 www.pinterest.com
 www.placehold.it
 www.pocketnow.com
@@ -4474,6 +4480,7 @@ www.statcounter.com
 www.storage.googleapis.com
 www.stripe.com
 www.surveygizmo.com
+www.surveymonkey.com
 www.t-online.de
 www.target.com
 www.tawk.to
