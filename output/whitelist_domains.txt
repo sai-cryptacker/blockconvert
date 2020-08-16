@@ -146,6 +146,7 @@ activation-v2.sls.microsoft.com
 activation.sls.microsoft.com
 activity.windows.com
 ad.10010.com
+ad.abchina.com
 ad.kazakinfo.com
 ad.ourgame.com
 ad2.uoocuniversity.com
@@ -185,7 +186,6 @@ ads.adfox.ru
 ads.bisnisjakarta.co.id
 ads.gadgetsquad.id
 ads.genmuda.com
-ads.hukumonline.com
 ads.id
 ads.iklandaerah.com
 ads.kaskus.co.id
@@ -1705,6 +1705,7 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
+extorigin-dev.dcat.dsp.mp.microsoft.com
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
 f1.g.mi.com
@@ -1941,7 +1942,6 @@ go.redirectingat.com
 go.ro
 go.trafficrouter.io
 go.trouter.io
-go.trouter.skype.com
 go2cloud.org
 godaddy.com
 godatafeed.com
@@ -2909,7 +2909,6 @@ oload.fun
 oload.icu
 oload.info
 oload.live
-oload.pw
 oload.services
 oload.site
 oload.space
@@ -3245,6 +3244,7 @@ reply.vk.com
 report-uri.com
 res.cloudinary.com
 researchgate.net
+resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 rest-prde.immedia-semi.com
@@ -3549,7 +3549,6 @@ ss1.baidu.com
 ss2.baidu.com
 ss3.baidu.com
 ssl-i.cdn.openx.com
-ssl.bblck.me
 ssl.gstatic.com
 ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
@@ -4056,6 +4055,7 @@ webmail.laposte.net
 webmail.orange.fr
 webmasters.stackexchange.com
 webmd.com
+weboffice-static.docs.dingtalk.com
 webs.com
 websimages.com
 webtype.com
@@ -4175,7 +4175,6 @@ www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
-www.aliexpress.com
 www.allure.com
 www.amazon.co.uk
 www.amazon.com
@@ -4195,6 +4194,7 @@ www.baidu.com
 www.bazaarvoice.com
 www.bbc.com
 www.bcorg.web.burst-alliance.org
+www.berush.com
 www.bestbuy.com
 www.beyondmenu.com
 www.bgr.com
@@ -4366,7 +4366,6 @@ www.maxmind.com
 www.mbl.is
 www.mediafire.com
 www.miaminewtimes.com
-www.microsoft.com
 www.miui.net
 www.mlive.com
 www.monero.org
@@ -4422,6 +4421,7 @@ www.pocketnow.com
 www.poll.fm
 www.polldaddy.com
 www.pornhub.com
+www.pornhubpremium.com
 www.powr.io
 www.ppt.cc
 www.pricegrabber.com
@@ -4499,7 +4499,6 @@ www.tinyurl.com
 www.tlc.com
 www.tmz.com
 www.transfer.sh
-www.trumba.com
 www.trustpilot.com
 www.tumblr.com
 www.turnto.com
@@ -4515,6 +4514,7 @@ www.vidible.tv
 www.viglink.com
 www.vk.com
 www.vk.vk.com
+www.vmn.net
 www.wallet.burst-alliance.org
 www.walmart.com
 www.wangbase.com
