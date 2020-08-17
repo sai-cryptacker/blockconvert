@@ -3637,6 +3637,7 @@ strefa.fm
 stripe.com
 stripecdn.com
 stripecdn.map.fastly.net
+substrate.ms-acdc.office.com
 substrate.office.com
 sudafed.ugc.bazaarvoice.com
 suggestqueries.google.com

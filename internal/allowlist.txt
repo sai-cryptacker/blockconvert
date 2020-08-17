@@ -439,7 +439,8 @@ store-images.microsoft.com
 store-images.s-microsoft.com
 s.tradingview.com # https://github.com/mkb2091/blockconvert/issues/49
 stripecdn.map.fastly.net
-substrate.office.com
+substrate.ms-acdc.office.com # CNAME for outlook.office.com
+substrate.office.com # CNAME for outlook.office.com
 support.microsoft.com
 survey.euro.confirmit.com
 survey.pearsoncmg.com
