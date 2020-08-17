@@ -19,6 +19,7 @@ addons.mozilla.org
 adguard.com
 adguardteam.github.io
 aeriagames.com
+aetna.com # blocks www.aetna.com which is a health website
 aftership.com
 aka.ms
 akismet.com
