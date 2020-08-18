@@ -378,6 +378,7 @@ appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com
 apptimize.com
+appxapi-intppe.dps.mp.microsoft.com
 apresolve.spotify.com
 apt.newrelic.com
 apt.sonarr.tv
@@ -1486,6 +1487,7 @@ digg.com
 digicert.com
 digitalassetlinks.googleapis.com
 digitalattach-int.mp.microsoft.com
+digitalattach.mp.microsoft.com
 digitalriver.com
 digitaltrends.com
 directvnow.com
@@ -1619,6 +1621,7 @@ edge.api.brightcove.com
 edge.skype.com
 edgecastcdn.net
 edgetipscdn.microsoft.com
+editcat-int.mp.microsoft.com
 editcat.mp.microsoft.com
 editmysite.com
 eds.xboxlive.com
@@ -2503,6 +2506,7 @@ login.live.com
 login.microsoftonline.com
 login.microsoftonline.us
 login.msa.akadns6.net
+login.sendpulse.com
 login.skype.com
 login.tau.vk.com
 login.vk.com
@@ -2981,6 +2985,8 @@ pacificcoast.ugc.bazaarvoice.com
 packages-intppe.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.linuxmint.com
+packagesapi-int.dps.mp.microsoft.com
+packagesapi-intppe.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
@@ -3237,6 +3243,7 @@ reebok.com
 reebokglobal.ugc.bazaarvoice.com
 reebokjp.ugc.bazaarvoice.com
 referrer.disqus.com
+refinery29.com
 release.theplatform.com
 releases.flowplayer.org
 remixstid.vk.com
@@ -3400,6 +3407,7 @@ services.sonarr.tv
 sessioncam.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
+sfdataservice.microsoft.com
 sfsapi.micloud.xiaomi.net
 sg2p.wns.windows.com
 sgpac.account.xiaomi.com
@@ -4259,6 +4267,7 @@ www.eloqua.com
 www.eltrafiko.com
 www.emjcd.com
 www.engadget.com
+www.espn.com
 www.ethn.io
 www.expressen.se
 www.facebook.com
@@ -4443,6 +4452,7 @@ www.real-debrid.com
 www.reddit.com
 www.redirectingat.com
 www.redtube.com
+www.refinery29.com
 www.researchgate.net
 www.returnpath.com
 www.roadandtrack.com
@@ -4504,6 +4514,7 @@ www.tmz.com
 www.transfer.sh
 www.trustpilot.com
 www.tumblr.com
+www.turner.com
 www.turnto.com
 www.tusfiles.net
 www.twitter.com

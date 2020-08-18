@@ -387,6 +387,7 @@ semrush.com
 service.weather.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
+sfdataservice.microsoft.com # Blocks Microsoft store payments
 shop.gadgetsnow.com
 sh.st
 s.imgur.com
@@ -524,6 +525,7 @@ wscont2.apps.microsoft.com
 wscont.apps.microsoft.com
 wsj.com
 w.soundcloud.com # https://github.com/mkb2091/blockconvert/issues/51
+www.refinery29.com # Blog website
 x1.com
 yahoo.co.jp
 yahoo.uservoice.com
