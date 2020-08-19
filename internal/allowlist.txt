@@ -219,6 +219,9 @@ go.microsoft.com
 google.*
 google.co.*
 google.com.*
+gsp-ssl-geomap.ls-apple.com.akadns.net # Breaks Apple Maps
+gsp-ssl.ls.apple.com # Break Apple Maps
+gsp-ssl.ls-apple.com.akadns.net # Breaks Apple Maps
 guce.advertising.com
 guce.huffpost.com
 hblock.molinero.dev

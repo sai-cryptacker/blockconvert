@@ -2005,6 +2005,9 @@ grp07.ias.rakuten.co.jp
 gs.apple.com
 gs.statcounter.com
 gscdn.nl
+gsp-ssl-geomap.ls-apple.com.akadns.net
+gsp-ssl.ls-apple.com.akadns.net
+gsp-ssl.ls.apple.com
 gsp1.apple.com
 gstatic.com
 gstaticadssl.l.google.com
@@ -2303,6 +2306,7 @@ informer.com
 infowars.com
 infowarsstore.com
 ing.sakeena.cs304111.vk.com
+ingestiondeveloperapi.dse.mp.microsoft.com
 inputdirector.com
 inq.com
 insight.rapid7.com
