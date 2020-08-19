@@ -1,5 +1,9 @@
 0-100-pool.burst-alliance.org
 0-109.vk.com
+0-11-213-95.vk.com
+0-11.vk.com
+0-118-213-95.vk.com
+0-12.vk.com
 0-196.vk.com
 0-amadeus.bvdinfo.com.biblio.vk.com
 0-edge-chat.facebook.com
@@ -208,6 +212,7 @@ advertising-indonesia.id
 advertising.katadata.co.id
 adwords.google.com
 adwords.safi-gmbh.ch
+adyen.com
 ae.ugc.bazaarvoice.com
 ae01.alicdn.com
 aeis.alicdn.com
@@ -446,6 +451,7 @@ attservicesinc.tt.omtrdc.net
 au.2.cqcounter.com
 au.download.windowsupdate.com
 au.v4.download.windowsupdate.com
+auar.trafficshaping.dsp.mp.microsoft.com
 audible.com
 audid-api.taobao.com
 audio-fa.scdn.co
@@ -877,6 +883,7 @@ coinbase.com
 coinpot.co
 cointraffic.io
 collamask.vk.com
+collections-int.mp.microsoft.com
 collegehumor.com
 columbiasportswear.ugc.bazaarvoice.com
 com.biblio.vk.com
@@ -975,6 +982,7 @@ cs302709.vk.com
 cs304110.vk.com
 cs304111.vk.com
 cs304112.vk.com
+cs305300.vk.com
 cs305608.vk.com
 cs316931.vk.com
 cs323817.vk.com
@@ -987,9 +995,12 @@ cs4111.vk.com
 cs4125.vk.com
 cs4218.vk.com
 cs4239.vk.com
+cs4340.vk.com
 cs4362.vk.com
 cs4394.vk.com
+cs4422.vk.com
 cs4423.vk.com
+cs4441.vk.com
 cs4700.vk.com
 cs4932.vk.com
 cs508407.vk.com
@@ -997,6 +1008,7 @@ cs509605.vk.com
 cs5172.vk.com
 cs5179.vk.com
 cs5302.vk.com
+cs5363.vk.com
 cs53835.vk.com
 cs540301.vk.com
 cs5414.vk.com
@@ -1006,6 +1018,7 @@ cs543509.vk.com
 cs543603.vk.com
 cs5475.vk.com
 cs5533.vk.com
+cs5840.vk.com
 cs5903.vk.com
 cs5920.vk.com
 cs5931.vk.com
@@ -1608,10 +1621,11 @@ easylist.to
 ebay.com
 ebay.pl
 ebd.cda.pl
-ebmedia.eventbrite.com
+ebscovideo.vk.com
 ec-ns.sascdn.com
 echo.edge.messenger.live.com
 ecn.dev.virtualearth.net
+ecovidrio.vk.com
 ecwid.com
 ecx.images-amazon.com
 edana.vk.com
@@ -1680,6 +1694,7 @@ eu9.heatmap.it
 ev.rdtcdn.com
 evans.ugc.bazaarvoice.com
 evanscycles-uk.ugc.bazaarvoice.com
+eventbrite.com
 events.launchdarkly.com
 events.mapbox.com
 eventus-design.com
@@ -1925,6 +1940,12 @@ gitlab.com
 gitter.im
 gizmodo.com
 gizmodo.com.au
+glb.auar-dev.trafficshaping.dsp.mp.microsoft.com
+glb.frontend-dev.trafficshaping.dsp.mp.microsoft.com
+glb.frontend-int.trafficshaping.dsp.mp.microsoft.com
+glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com
+glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com
+glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
 global.market.xiaomi.com
 global.search.xiaomi.net
 global.ssl.fastly.net
@@ -2822,6 +2843,7 @@ northeu.pi-dns.com
 nos.netease.com
 notabug.org
 notebooksbilliger.de
+notification-int.dce.mp.microsoft.com
 notifications.google.com
 notify.vk.com
 notify.xboxlive.com
@@ -2961,6 +2983,8 @@ orbitz.com
 orchardbrands.ugc.bazaarvoice.com
 oregonlive.com
 org.skyline.vk.com
+orgeover-int.do.dsp.mp.microsoft.com
+orgeover-prod.do.dsp.mp.microsoft.com
 orientaltrading.ugc.bazaarvoice.com
 oriflame.ugc.bazaarvoice.com
 origin-cdn.openx.com
@@ -3056,6 +3080,7 @@ pingone-login.openx.com
 pinimg.com
 pinterest.com
 pipe.skype.com
+pirate.vk.com
 pistachio-cdn.graze.com
 piter-ix.vk.com
 pittsburgh.cbslocal.com
@@ -3343,6 +3368,7 @@ saving.vk.com
 sberbank.cs9621.vk.com
 sbnation.com
 scan.ugc.bazaarvoice.com
+scene7.com
 schd.ws
 schibsted.com
 schibsted.no
@@ -3545,6 +3571,7 @@ srv228-182-240-87.vk.com
 srv233-185-240-87.vk.com
 srv251-165-240-87.vk.com
 srv3-6-213-95.vk.com
+srv66-139-137-79.vk.com
 srv67-190-240-87.vk.com
 srv69-190-240-87.vk.com
 srv70-190-240-87.vk.com
@@ -4120,6 +4147,7 @@ wns.windows.com
 wnyc.org
 wonderbox.ugc.bazaarvoice.com
 woodpecker.uc.cn
+woosmap.com
 wordpress.com
 world-gen.g.aaplimg.com
 worldnow.com
@@ -4181,6 +4209,7 @@ www.acehardware.com
 www.adfox.ru
 www.adidas.com
 www.adwords.google.com
+www.aeriagames.com
 www.aetna.com
 www.affirm.com
 www.agency.help.adfox.ru
@@ -4268,6 +4297,7 @@ www.eltrafiko.com
 www.emjcd.com
 www.engadget.com
 www.espn.com
+www.et4.de
 www.ethn.io
 www.expressen.se
 www.facebook.com
@@ -4279,6 +4309,7 @@ www.fling.com
 www.flipboard.com
 www.flyertown.ca
 www.fonts.com
+www.forbes.com
 www.forms.gle
 www.fortune.com
 www.forum.vk.com
@@ -4459,6 +4490,7 @@ www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
 www.salesforce.com
+www.salsalabs.com
 www.sdad.guru
 www.searchanise.com
 www.sears.com
@@ -4488,6 +4520,7 @@ www.srv67-190-240-87.vk.com
 www.srv71-129-240-87.vk.com
 www.srv72-190-240-87.vk.com
 www.srv78-190-240-87.vk.com
+www.starbucks.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
@@ -4533,6 +4566,7 @@ www.wallet.burst-alliance.org
 www.walmart.com
 www.wangbase.com
 www.watchdog.burst-alliance.org
+www.weather.gov
 www.web.burst-alliance.org
 www.windy.com
 www.wired.com
@@ -4547,6 +4581,7 @@ www.yahoo.com
 www.yahoo.comwww.vk.com
 www.yahoo.net
 www.yandex.ru
+www.yotpo.com
 www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
@@ -4587,6 +4622,7 @@ xsdownload.adobe.com
 xsts.auth.xboxlive.com
 xueshu.baidu.com
 xxx.cqcounter.com
+xxxxxxxxxxm.vk.com
 yahoo.co.jp
 yahoo.com
 yahoo.comwww.vk.com
@@ -4603,6 +4639,7 @@ yerl.org
 yimg.com
 ynuf.aliapp.org
 yoast.com
+yotpo.com
 yottaa.net
 youku.com
 youtu.be
