@@ -330,6 +330,7 @@ onesignal.com
 onion.to
 online.jimmyjohns.com
 openwall.com
+oracle.com # Breaks java download
 orbitz.com
 osce11-0-en.url.trendmicro.com
 outlook.office365.com

@@ -715,6 +715,7 @@ cardinalcommerce.com
 carsondellosa.ugc.bazaarvoice.com
 cartersoshkoshca.ugc.bazaarvoice.com
 cas.org.skyline.vk.com
+catalog.update.microsoft.com
 cbsi.com
 cc.cnetcontent.com
 cc.vk.com
@@ -1757,6 +1758,7 @@ feedly.com
 feedproxy.google.com
 feeds.soundcloud.com
 feeds2.feedburner.com
+fees-int.mp.microsoft.com
 fellowes.ugc.bazaarvoice.com
 feodotracker.abuse.ch
 fg.v4.download.windowsupdate.com
@@ -1790,6 +1792,7 @@ firstlook.org
 fiverr.com
 flattr.com
 flickr.com
+flighting.dps.mp.microsoft.com
 fling.com
 flipboard.com
 flipcause.com
@@ -2918,6 +2921,7 @@ officeclient.microsoft.com
 officedepot.com
 officedesigns.ugc.bazaarvoice.com
 officeworks.ugc.bazaarvoice.com
+official.paymaya.com
 ogin.vk.com
 ogio.ugc.bazaarvoice.com
 ogs.google.com
@@ -2977,6 +2981,7 @@ opera.software
 opf.ooyala.com
 opinion.latimes.com
 optimizely.com
+oracle.com
 orange.fr
 orange.ugc.bazaarvoice.com
 orbitz.com
@@ -4252,6 +4257,7 @@ www.businessinsider.com
 www.buymeacoffee.com
 www.buzzfeed.com
 www.ca.2.cqcounter.com
+www.catalog.update.microsoft.com
 www.cbsi.com
 www.cda.pl
 www.cdn.optimizely.com
@@ -4447,6 +4453,8 @@ www.opensubtitles.org
 www.openwall.com
 www.openx.com
 www.optimizely.com
+www.oracle.com
+www.orange.fr
 www.oregonlive.com
 www.pastebin.com
 www.pasteboard.co
