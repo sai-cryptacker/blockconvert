@@ -2369,6 +2369,7 @@ johndeere.ugc.bazaarvoice.com
 johnfrieda.ugc.bazaarvoice.com
 johnlewis.ugc.bazaarvoice.com
 jp06.zopim.com
+jpost.com
 jq.qq.com
 jquery.com
 jquerytools.org
@@ -4525,6 +4526,7 @@ www.tinyurl.com
 www.tlc.com
 www.tmz.com
 www.transfer.sh
+www.trumba.com
 www.trustpilot.com
 www.tumblr.com
 www.turner.com

@@ -258,6 +258,7 @@ itch.io
 it.toolbox.com
 jarv.is
 joblo.com
+jpost.com # News website
 js.t.sinajs.cn
 kaspersky.com
 kasperskycontenthub.com
