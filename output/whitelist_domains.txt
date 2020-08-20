@@ -28,11 +28,9 @@
 167274089.vk.com
 18.afs.googleadservices.com
 19534.redirect.appmetrica.yandex.com
-1ar.cqcounter.com
 1au.cqcounter.com
 1bm.cqcounter.com
 1ca.cqcounter.com
-1cn.cqcounter.com
 1de.cqcounter.com
 1drv.com
 1drv.ms
@@ -89,7 +87,6 @@
 4chan.org
 4shared.com
 5-edge-chat.facebook.com
-50-50-pool.burst-alliance.org
 5471782.fls.doubleclick.net
 6-edge-chat.facebook.com
 68post.vk.com
@@ -660,7 +657,6 @@ bt-1409.alpha.dashboard.mgid.com
 bt-1434.alpha.dashboard.mgid.com
 bt-1442.alpha.dashboard.mgid.com
 bt-1476.alpha.dashboard.mgid.com
-btcpay.gab.com
 bufferapp.com
 bugsnag.com
 build.origami.ft.com
@@ -1003,7 +999,6 @@ cs4422.vk.com
 cs4423.vk.com
 cs4441.vk.com
 cs4700.vk.com
-cs4932.vk.com
 cs508407.vk.com
 cs509605.vk.com
 cs5172.vk.com
@@ -2009,6 +2004,12 @@ gsp-ssl-geomap.ls-apple.com.akadns.net
 gsp-ssl.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
 gsp1.apple.com
+gsp10-ssl.ls.apple.com
+gsp36-ssl.ls.apple.com
+gsp47-ssl.ls.apple.com
+gsp51-ssl.ls.apple.com
+gsp64-ssl.ls.apple.com
+gsp85-ssl.ls.apple.com
 gstatic.com
 gstaticadssl.l.google.com
 gtms01.alicdn.com
@@ -2060,7 +2061,6 @@ hiphotos.baidu.com
 hiroservers.appspot.com
 history.com
 hitfile.net
-hk.2.cqcounter.com
 hk2.wns.windows.com
 hk2sch130020721.wns.windows.com
 hk2sch130020723.wns.windows.com
@@ -2231,7 +2231,6 @@ image.ibb.co
 image.prntscr.com
 imagebam.com
 imagecorn.com
-imagepublishingservice-dev.dps.mp.microsoft.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
@@ -2523,7 +2522,6 @@ location.services.mozilla.com
 lockdownteam.piter-ix.vk.com
 lodz.tvp.pl
 log.mmstat.com
-logger.cqcounter.com
 logging.apache.org
 loggly.com
 login.adfox.ru
@@ -2572,7 +2570,6 @@ macys.com
 macys.ugc.bazaarvoice.com
 madewell.ugc.bazaarvoice.com
 magpie-static.ugc.bazaarvoice.com
-mail.coingeek.com
 mail.com
 mail.getmonero.org
 mail.google.com
@@ -2665,7 +2662,6 @@ meta.vk.com
 meta.wikimedia.org
 metok.sys.miui.com
 metrics.mozilla.com
-metrics.notebooksbilliger.de
 metrics.torproject.org
 metrocashcarry.ugc.bazaarvoice.com
 mfstatic.cz
@@ -2768,7 +2764,6 @@ na01.safelinks.protection.outlook.com
 na1r.services.adobe.com
 na2m-pr.licenses.adobe.com
 na61-na62.wagbridge.alibaba.tanx.com
-nam03.safelinks.protection.outlook.com
 namecheap.com
 nanopool.org
 nanorep.co
@@ -2854,7 +2849,6 @@ notification-int.dce.mp.microsoft.com
 notifications.google.com
 notify.vk.com
 notify.xboxlive.com
-now.notebooksbilliger.de
 now.sh
 npmcdn.com
 npr.org
@@ -3302,7 +3296,6 @@ riker.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
-ro.2.cqcounter.com
 road.adblock.ro
 roadandtrack.com
 roku.com
@@ -3651,7 +3644,6 @@ static.zdassets.com
 staticamzn.com
 statics.streamable.com
 staticxx.facebook.com
-stats.cqcounter.com
 stats.pusher.com
 stats.stackexchange.com
 status.coinbase.com
@@ -4189,19 +4181,6 @@ www-new.awin1.com
 www-tc.pbs.org
 www.112.2o7.net
 www.122.2o7.net
-www.1au.cqcounter.com
-www.1bm.cqcounter.com
-www.1ca.cqcounter.com
-www.1de.cqcounter.com
-www.1es.cqcounter.com
-www.1fr.cqcounter.com
-www.1in.cqcounter.com
-www.1jo.cqcounter.com
-www.1nl.cqcounter.com
-www.1pt.cqcounter.com
-www.1se.cqcounter.com
-www.1uk.cqcounter.com
-www.1us.cqcounter.com
 www.4shared.com
 www.a-0001.a-msedge.net
 www.a-0002.a-msedge.net
@@ -4236,8 +4215,6 @@ www.answers.com
 www.aol.com
 www.apple.com
 www.apptimize.com
-www.ar.2.cqcounter.com
-www.au.2.cqcounter.com
 www.awin1.com
 www.baidu.com
 www.bazaarvoice.com
@@ -4260,7 +4237,6 @@ www.burst-alliance.org
 www.businessinsider.com
 www.buymeacoffee.com
 www.buzzfeed.com
-www.ca.2.cqcounter.com
 www.catalog.update.microsoft.com
 www.cbsi.com
 www.cda.pl
@@ -4274,7 +4250,6 @@ www.cnet.com
 www.code.createjs.com
 www.codeload.github.com
 www.coinbase.com
-www.coingeek.com
 www.coinpot.co
 www.cointraffic.io
 www.countryflags.io
@@ -4287,7 +4262,6 @@ www.dailymotion.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
 www.db.burst-alliance.org
-www.de.2.cqcounter.com
 www.dell.com
 www.deviantart.com
 www.digg.com
@@ -4324,7 +4298,6 @@ www.forms.gle
 www.fortune.com
 www.forum.vk.com
 www.fox2now.com
-www.fr.2.cqcounter.com
 www.framasoft.org
 www.freedownloadmanager.org
 www.fullstory.com
@@ -4399,8 +4372,6 @@ www.livechatinc.com
 www.livefyre.com
 www.livejasmin.com
 www.livejournal.com
-www.llnwd.net
-www.load.to
 www.localbitcoins.com
 www.loggly.com
 www.logrocket.com
@@ -4436,13 +4407,11 @@ www.naver.com
 www.nbcnews.com
 www.nbcnewyork.com
 www.neowin.net
-www.netfort.com
 www.newegg.com
 www.newrelic.com
 www.nhl.com
 www.nj.com
 www.no-ip.com
-www.no.2.cqcounter.com
 www.nordichardware.se
 www.npr.org
 www.ns1.com
@@ -4490,7 +4459,6 @@ www.qualtrics.com
 www.quantummetric.com
 www.quickenloans.com
 www.quora.com
-www.rapidvideo.com
 www.real-debrid.com
 www.reddit.com
 www.redirectingat.com
@@ -4513,7 +4481,6 @@ www.semrush.com
 www.sgizmo.com
 www.share-online.biz
 www.shopify.com
-www.si.2.cqcounter.com
 www.sina.com.cn
 www.skimresources.com
 www.slate.com
@@ -4563,11 +4530,9 @@ www.turner.com
 www.turnto.com
 www.tusfiles.net
 www.twitter.com
-www.uk.2.cqcounter.com
 www.ultimedia.com
 www.unibytes.com
 www.uplynk.com
-www.us.2.cqcounter.com
 www.userreplay.net
 www.vidible.tv
 www.viglink.com
