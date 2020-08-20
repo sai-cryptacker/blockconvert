@@ -183,6 +183,7 @@ files2.freedownloadmanager.org
 files.catbox.moe
 files.freedownloadmanager.org
 filtri-dns.ga
+firebaseremoteconfig.googleapis.com # Breaks android applications internally updating
 fiverr.com
 flipboard.com
 forms.office.com
