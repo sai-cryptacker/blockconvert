@@ -28,31 +28,53 @@
 167274089.vk.com
 18.afs.googleadservices.com
 19534.redirect.appmetrica.yandex.com
+1an.cqcounter.com
+1ar.cqcounter.com
+1at.cqcounter.com
 1au.cqcounter.com
+1bb.cqcounter.com
+1be.cqcounter.com
 1bm.cqcounter.com
 1ca.cqcounter.com
+1cn.cqcounter.com
 1de.cqcounter.com
+1dk.cqcounter.com
 1drv.com
 1drv.ms
+1eg.cqcounter.com
 1es.cqcounter.com
+1fi.cqcounter.com
 1fichier.com
 1fr.cqcounter.com
+1gr.cqcounter.com
+1hk.cqcounter.com
+1hu.cqcounter.com
+1il.cqcounter.com
 1in.cqcounter.com
 1it.cqcounter.com
 1jo.cqcounter.com
+1jp.cqcounter.com
 1m.vk.com
+1mil.cqcounter.com
+1my.cqcounter.com
 1nl.cqcounter.com
 1no.cqcounter.com
+1np.cqcounter.com
+1nt.cqcounter.com
 1pt.cqcounter.com
+1ro.cqcounter.com
 1se.cqcounter.com
 1si.cqcounter.com
+1su.cqcounter.com
 1th.cqcounter.com
 1tr.cqcounter.com
+1tw.cqcounter.com
 1ua.cqcounter.com
 1uk.cqcounter.com
 1und1.de
 1us.cqcounter.com
 1xxx.cqcounter.com
+1zz.cqcounter.com
 2-edge-chat.facebook.com
 2.afs.googleadservices.com
 2.android.pool.ntp.org
@@ -147,6 +169,7 @@ activation-v2.sls.microsoft.com
 activation.sls.microsoft.com
 activity.windows.com
 ad.10010.com
+ad.2.cqcounter.com
 ad.abchina.com
 ad.kazakinfo.com
 ad.ourgame.com
@@ -437,6 +460,7 @@ assets.nflxext.com
 assets.penny-arcade.com
 assets.ubuntu.com
 at-testnet.burst-alliance.org
+at.2.cqcounter.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 att.ugc.bazaarvoice.com
@@ -504,6 +528,7 @@ bbs.archlinux.org
 bbs.pcbeta.com
 bcee.lu
 bcorg.web.burst-alliance.org
+be.2.cqcounter.com
 bebe.ugc.bazaarvoice.com
 bedbathandbeyond.com
 bell.ugc.bazaarvoice.com
@@ -634,6 +659,7 @@ boulanger.ugc.bazaarvoice.com
 bountysource.com
 bowercdn.net
 boxrec.com
+br.2.cqcounter.com
 braintreegateway.com
 brakrock.be
 breakingburner.com
@@ -794,6 +820,7 @@ cert.mgt.xboxlive.com
 cf.hamreus.com
 cf.iadsdk.apple.com
 cfvod.kaltura.com
+ch.2.cqcounter.com
 chainreactioncycles.ugc.bazaarvoice.com
 change.org
 charter.com
@@ -1636,6 +1663,7 @@ editcat.mp.microsoft.com
 editmysite.com
 eds.xboxlive.com
 eec.crunchyroll.com
+eg.2.cqcounter.com
 ehc.com
 eitquarantine.vk.com
 elasticbeanstalk.com
@@ -1671,6 +1699,7 @@ epsonenau.ugc.bazaarvoice.com
 ereg.adobe.com
 ernestjones.ugc.bazaarvoice.com
 error.facebook.com
+es.2.cqcounter.com
 escentual.ugc.bazaarvoice.com
 esina.vk.com
 espn.com
@@ -1757,6 +1786,7 @@ fees-int.mp.microsoft.com
 fellowes.ugc.bazaarvoice.com
 feodotracker.abuse.ch
 fg.v4.download.windowsupdate.com
+fi.2.cqcounter.com
 fiddle.jshell.net
 fide.com
 fidelity-ssl.ugc.bazaarvoice.com
@@ -1862,6 +1892,7 @@ freshchat.com
 frys.com
 fs.microsoft.com
 ftp.chocolatey.org
+ftp.cqcounter.com
 ftp.heanet.ie
 ftp.srv67-190-240-87.vk.com
 ftp.srv72-190-240-87.vk.com
@@ -2062,6 +2093,7 @@ hiphotos.baidu.com
 hiroservers.appspot.com
 history.com
 hitfile.net
+hk.2.cqcounter.com
 hk2.wns.windows.com
 hk2sch130020721.wns.windows.com
 hk2sch130020723.wns.windows.com
@@ -2164,6 +2196,7 @@ hotspring.ugc.bazaarvoice.com
 houston.cbslocal.com
 howtoforge.com
 howtogeek.com
+hr.2.cqcounter.com
 hrblock.com
 href.li
 hsamuel.ugc.bazaarvoice.com
@@ -2218,6 +2251,7 @@ icemask.vk.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icloud.com
+id.2.cqcounter.com
 id.sonyentertainmentnetwork.com
 idealworld.ugc.bazaarvoice.com
 idg.se
@@ -2225,6 +2259,7 @@ ifmo.ru
 ign.com
 ignorelist.com
 ikea.com
+il.2.cqcounter.com
 im.vk.com
 im81.vk.com
 im89v4.vk.com
@@ -2255,6 +2290,8 @@ imap.srv71-129-240-87.vk.com
 imap.srv72-190-240-87.vk.com
 imap.vk.com
 imap.www.m.vk.com
+imap4.cqcounter.com
+imap4.ftp.cqcounter.com
 imap4.srv194-139-240-87.vk.com
 imap4.srv67-190-240-87.vk.com
 imap4.srv71-129-240-87.vk.com
@@ -2292,6 +2329,7 @@ imv1.vk.com
 imv2.vk.com
 imv3.vk.com
 imv4.vk.com
+in.2.cqcounter.com
 inapcache.boston.com
 inc.com
 incoming.telemetry.mozilla.org
@@ -2345,6 +2383,7 @@ is.gd
 issuu.com
 isterekhov.cs7777.vk.com
 istockphoto.com
+it.2.cqcounter.com
 it.toolbox.com
 itch.io
 itunes.apple.com
@@ -2368,6 +2407,7 @@ joewein.net
 johndeere.ugc.bazaarvoice.com
 johnfrieda.ugc.bazaarvoice.com
 johnlewis.ugc.bazaarvoice.com
+jp.2.cqcounter.com
 jp06.zopim.com
 jpost.com
 jq.qq.com
@@ -2445,7 +2485,9 @@ kv501-prod.do.dsp.mp.microsoft.com
 kv601-prod.do.dsp.mp.microsoft.com
 kv701-prod.do.dsp.mp.microsoft.com
 kv801-prod.do.dsp.mp.microsoft.com
+kw.2.cqcounter.com
 kxcdn.com
+kz.2.cqcounter.com
 l.betrad.com
 l.facebook.com
 l.ooyala.com
@@ -2524,6 +2566,8 @@ location.services.mozilla.com
 lockdownteam.piter-ix.vk.com
 lodz.tvp.pl
 log.mmstat.com
+logger.cqcounter.com
+logger2.cqcounter.com
 logging.apache.org
 loggly.com
 login.adfox.ru
@@ -2549,9 +2593,11 @@ lowendbox.com
 lowes.com
 lowes.ugc.bazaarvoice.com
 lp.vk.com
+lt.2.cqcounter.com
 lublin.tvp.pl
 lubriderm.ugc.bazaarvoice.com
 luckyorange.com
+lv.2.cqcounter.com
 lwn.net
 lyncdiscover.coingeek.com
 m-sso.openx.com
@@ -2745,6 +2791,7 @@ mvaali1.ws.byteoversea.net
 mw1.google.com
 mw1.wsj.net
 mw2.google.com
+mx.2.cqcounter.com
 mx.smtp.www.m.vk.com
 mx.srv194-139-240-87.vk.com
 mx.srv67-190-240-87.vk.com
@@ -2752,6 +2799,7 @@ mx.srv71-129-240-87.vk.com
 mx.srv72-190-240-87.vk.com
 mx.vk.com
 mx.www.m.vk.com
+my.2.cqcounter.com
 my.aliexpress.com
 my.plexapp.com
 my.tealiumiq.com
@@ -2795,6 +2843,7 @@ networksolutions.com
 new.vk.com
 newad.mail.wo.cn
 newegg.com
+newimv4.vk.com
 newjobs.com
 newrelic.com
 news.bitcoin.com
@@ -2827,6 +2876,7 @@ nitroflare.com
 nizoral.ugc.bazaarvoice.com
 nj.com
 nk.pl
+nl.2.cqcounter.com
 nl.cqcounter.com
 nl.notebooksbilliger.de
 nm.vk.com
@@ -3049,6 +3099,7 @@ pdamts-content.adfox.ru
 pdamts.adfox.ru
 pdc.micloud.xiaomi.net
 pdf.yt
+pe.2.cqcounter.com
 pediasure.ugc.bazaarvoice.com
 peeps.openx.com
 pending.sls-int.update.microsoft.com
@@ -3128,9 +3179,12 @@ polldaddy.com
 polyfill.io
 pool.burst-alliance.org
 pool.ntp.org
+pop.ftp.cqcounter.com
 pop.srv67-190-240-87.vk.com
 pop.srv72-190-240-87.vk.com
 pop.srv78-190-240-87.vk.com
+pop3.cqcounter.com
+pop3.imap4.cqcounter.com
 pop3.srv194-139-240-87.vk.com
 pop3.srv67-190-240-87.vk.com
 pop3.srv71-129-240-87.vk.com
@@ -3175,6 +3229,7 @@ ps.vk.com
 ps.w.org
 psa-i.openx.com
 psswrdbx.com
+pt.2.cqcounter.com
 pt.vk.com
 pti.store.microsoft.com
 pu.vk.com
@@ -3202,6 +3257,7 @@ puskesmaskota.vk.com
 pv-new.awin1.com
 pv.awin1.com
 pwc.chase.com
+py.2.cqcounter.com
 q.stripe.com
 q13fox.com
 qa-cdn.openx.com
@@ -3247,6 +3303,7 @@ rawhttp.cloudflareworkers.com
 razorpay.com
 rcom-eu.dynamicyield.com
 rcom.dynamicyield.com
+re.2.cqcounter.com
 readcomiconline.to
 readthedocs.org
 real-debrid.com
@@ -3311,6 +3368,7 @@ rq.adfox.ru
 rssinclude.com
 rt.imgur.com
 rt.vk.com
+ru.2.cqcounter.com
 rupload.facebook.com
 rutube.ru
 rybalkina.vk.com
@@ -3397,6 +3455,7 @@ sd-29849.alpha.dashboard.mgid.com
 sdad.guru
 sdc.pingan.com
 sdk.vk.com
+se.2.cqcounter.com
 se.cqcounter.com
 search.msn.com
 search.twitter.com
@@ -3439,6 +3498,7 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 sfdataservice.microsoft.com
 sfsapi.micloud.xiaomi.net
+sg.2.cqcounter.com
 sg2p.wns.windows.com
 sgpac.account.xiaomi.com
 sh.docs.dingtalk.com
@@ -3589,6 +3649,7 @@ ss1.baidu.com
 ss2.baidu.com
 ss3.baidu.com
 ssl-i.cdn.openx.com
+ssl.cqcounter.com
 ssl.gstatic.com
 ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
@@ -3646,6 +3707,7 @@ static.zdassets.com
 staticamzn.com
 statics.streamable.com
 staticxx.facebook.com
+stats.cqcounter.com
 stats.pusher.com
 stats.stackexchange.com
 status.coinbase.com
@@ -3859,6 +3921,7 @@ tvp.pl
 tvsn.ugc.bazaarvoice.com
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
+tw.2.cqcounter.com
 twimg0-a.akamaihd.net
 twitch.tv
 twitter.com
@@ -3887,6 +3950,7 @@ uk.cqcounter.com
 uk.openx.com
 ultimedia.com
 ultraimg.com
+um.cqcounter.com
 umaskimages.vk.com
 umich.qualtrics.com
 unbouncepages.com
@@ -4035,6 +4099,7 @@ vkadmin.vk.com
 vkontakte.ru
 vmixcore.com
 vmn.net
+vn.2.cqcounter.com
 vod.pl
 vod.tvp.pl
 vodafone.ugc.bazaarvoice.com
@@ -4183,6 +4248,8 @@ www-new.awin1.com
 www-tc.pbs.org
 www.112.2o7.net
 www.122.2o7.net
+www.1pt.cqcounter.com
+www.1zz.cqcounter.com
 www.4shared.com
 www.a-0001.a-msedge.net
 www.a-0002.a-msedge.net
@@ -4631,6 +4698,7 @@ yt3.ggpht.com
 ytimg-edge-static.l.google.com
 ytimg.l.google.com
 ytstatic.l.google.com
+yu.2.cqcounter.com
 yunfile.com
 yvesrocher.ugc.bazaarvoice.com
 yvjnex.vk.com
@@ -4638,6 +4706,7 @@ z-ecx.images-amazon.com
 z-m.c10r.facebook.com
 z-m.facebook.com
 z.cdn.turner.com
+za.2.cqcounter.com
 zajefajna.com
 zaloapp.com
 zam.zamimg.com
