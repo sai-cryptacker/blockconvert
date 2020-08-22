@@ -1633,6 +1633,7 @@ e5070.g.akamaiedge.net
 e5413.g.akamaiedge.net
 e5460.g.akamaiedge.net
 e6603.g.akamaiedge.net
+e688.g.akamaiedge.net
 e7081.g.akamaiedge.net
 e785s8hz.micpn.com
 e8999.b.akamaiedge.net
@@ -4262,7 +4263,6 @@ www.a-0008.a-msedge.net
 www.a-0009.a-msedge.net
 www.a.shifen.com
 www.accuweather.com
-www.acehardware.com
 www.adfox.ru
 www.adidas.com
 www.adwords.google.com
@@ -4508,6 +4508,7 @@ www.pcmag.com
 www.pcmatic.com
 www.pennlive.com
 www.pi-dns.com
+www.pi-hole.net
 www.pinterest.com
 www.placehold.it
 www.pocketnow.com
@@ -4574,7 +4575,6 @@ www.statcounter.com
 www.storage.googleapis.com
 www.stripe.com
 www.surveygizmo.com
-www.surveymonkey.com
 www.t-online.de
 www.target.com
 www.tawk.to
