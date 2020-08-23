@@ -1691,6 +1691,8 @@ ensure.ugc.bazaarvoice.com
 entireweb.com
 entitlement.auth.adobe.com
 entitlements.jwplayer.com
+entitlements.mp.microsoft.com
+entitlementsinternal.mp.microsoft.com
 entpsz.alipay.com
 eonline.com
 epoch.com
@@ -2345,6 +2347,7 @@ informer.com
 infowars.com
 infowarsstore.com
 ing.sakeena.cs304111.vk.com
+ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestiondeveloperapi.dse.mp.microsoft.com
 inputdirector.com
 inq.com
@@ -3061,6 +3064,7 @@ ow.ly
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
+pac.dce.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
 packages-intppe.dps.mp.microsoft.com
 packages.chocolatey.org
@@ -3243,6 +3247,7 @@ publicsuffix.org
 publicvoidlife.vk.com
 publiekeomroep.nl
 publisher.adservice.com
+publishingapi.dps.mp.microsoft.com
 publix.com
 pubsub.plex.bz
 pubsub.plex.tv
@@ -3555,6 +3560,7 @@ smtp.mail.yahoo.com
 smtp.srv67-190-240-87.vk.com
 smtp.srv71-129-240-87.vk.com
 smtp.srv72-190-240-87.vk.com
+smtp.vk.com
 smtp.www.m.vk.com
 smtpp.srv67-190-240-87.vk.com
 smugmug.com
@@ -4270,6 +4276,7 @@ www.aeriagames.com
 www.aetna.com
 www.affirm.com
 www.agency.help.adfox.ru
+www.aka.ms
 www.alexa.com
 www.algolia.com
 www.allure.com
@@ -4300,6 +4307,7 @@ www.blog.xuite.net
 www.blogger.com
 www.bloomberg.com
 www.boldchat.com
+www.bountysource.com
 www.brightcove.com
 www.bugsnag.com
 www.burst-alliance.org
@@ -4319,8 +4327,10 @@ www.cnet.com
 www.code.createjs.com
 www.codeload.github.com
 www.coinbase.com
+www.coingeek.com
 www.coinpot.co
 www.cointraffic.io
+www.collamask.vk.com
 www.countryflags.io
 www.cqcounter.com
 www.crashlytics.com
@@ -4357,6 +4367,7 @@ www.facebook.com
 www.familydollar.com
 www.fili.cc
 www.fiverr.com
+www.flattr.com
 www.flickr.com
 www.fling.com
 www.flipboard.com
@@ -4459,6 +4470,7 @@ www.maxmind.com
 www.mbl.is
 www.mediafire.com
 www.miaminewtimes.com
+www.microsoft.com
 www.miui.net
 www.mlive.com
 www.monero.org
@@ -4652,6 +4664,7 @@ xbox.ipv6.microsoft.com
 xboxlive.com
 xd.adobelanding.com
 xda-developers.com
+xdpmmgmt.dps.mp.microsoft.com
 xerox.ugc.bazaarvoice.com
 xfer.openx.com
 xflight.xboxlive.com
