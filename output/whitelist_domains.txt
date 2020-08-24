@@ -403,6 +403,7 @@ appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com
 apptimize.com
+appxapi-int.dps.mp.microsoft.com
 appxapi-intppe.dps.mp.microsoft.com
 apresolve.spotify.com
 apt.newrelic.com
@@ -488,6 +489,7 @@ auto.search.msn.com
 autodiscover.coingeek.com
 autodiscover.corp.vk.com
 autodiscover.team.vk.com
+availability.dps.mp.microsoft.com
 aviva.ugc.bazaarvoice.com
 avon-ru.ugc.bazaarvoice.com
 avon-uk.ugc.bazaarvoice.com
@@ -1501,6 +1503,8 @@ dev-distance.vk.com
 dev.tau.vk.com
 dev.twitter.com
 dev.virtualearth.net
+devcenterapi-df.dce.mp.microsoft.com
+devcenterapi.dce.mp.microsoft.com
 developer.twitter.com
 developers.facebook.com
 developers.google.com
@@ -1536,6 +1540,7 @@ discord.com
 discord.gg
 discovermagazine.com
 discovery.com
+discrequest.dps.mp.microsoft.com
 discuss.newrelic.com
 discussions.apple.com
 disneystore.ugc.bazaarvoice.com
@@ -1570,7 +1575,9 @@ dnsotls-ds.metric.gstatic.com
 do.co
 doc.vk.com
 docs.bugsnag.com
+docs.data-service-api.openx.com
 docs.google.com
+docs.openaudience.openx.com
 docs.openx.com
 docs.vk.com
 documentcloud.org
@@ -1660,8 +1667,8 @@ edge.skype.com
 edgecastcdn.net
 edgetipscdn.microsoft.com
 editcat-int.mp.microsoft.com
-editcat.mp.microsoft.com
 editmysite.com
+eds-gateway.mp.microsoft.com
 eds.xboxlive.com
 eec.crunchyroll.com
 eg.2.cqcounter.com
@@ -1708,7 +1715,6 @@ esina.vk.com
 espn.com
 esteelauder.ugc.bazaarvoice.com
 estimulos-y-respuestas.piter-ix.vk.com
-et4.de
 ethn.io
 etl.tindersparks.com
 eu-v20.events.data.microsoft.com
@@ -1752,7 +1758,6 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
-extorigin-dev.dcat.dsp.mp.microsoft.com
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
 f1.g.mi.com
@@ -2701,7 +2706,6 @@ menshealth.com
 merchantapi.coingeek.com
 merkur-werbebanner.de
 merriam-webster.com
-mesh.com
 messaging.internetofthings.ibmcloud.com
 messenger.com
 messenger.live.com
@@ -2908,7 +2912,6 @@ notify.xboxlive.com
 now.sh
 npmcdn.com
 npr.org
-nrcdn.com
 ns1.com
 ns1.dropbox.com
 ns1.vk.com
@@ -3022,6 +3025,7 @@ opendesktop.org
 openlayers.org
 openlibrary.org
 openload.co
+openload.io
 openload.link
 openload.pw
 openloed.co
@@ -3093,7 +3097,6 @@ pastebin.org
 pasteboard.co
 pathe.emsecure.net
 pay.google.com
-paymentinstruments-int.mp.microsoft.com
 paypal.com
 paypalobjects.com
 pbs.twimg.com
@@ -3215,6 +3218,7 @@ prismic.io
 privacy-policy.truste.com
 privateinternetaccess.com
 prnt.sc
+prod-docs.openaudience.openx.com
 prod-docs.openx.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
@@ -3656,6 +3660,7 @@ ss1.baidu.com
 ss2.baidu.com
 ss3.baidu.com
 ssl-i.cdn.openx.com
+ssl.bblck.me
 ssl.cqcounter.com
 ssl.gstatic.com
 ssl.marfeelcdn.com
@@ -3702,7 +3707,6 @@ static.licdn.com
 static.networkedblogs.com
 static.tacdn.com
 static.template.pcbeta.com
-static.tianya.cn
 static.tianyaui.com
 static.tidiochat.com
 static.twisto.cz
@@ -4052,7 +4056,6 @@ v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v4.download.windowsupdate.com
-validation-int.dps.mp.microsoft.com
 validation-v2.sls.microsoft.com
 vandenborre.ugc.bazaarvoice.com
 vanilla.futurecdn.net
@@ -4128,6 +4131,7 @@ w3.org
 wac.edgecastcdn.net
 walgreens.com
 wallet.burst-alliance.org
+wallet.microsoft.com
 wallis.ugc.bazaarvoice.com
 wallpaper.pandora.xiaomi.com
 wallst.com
@@ -4279,7 +4283,6 @@ www.agency.help.adfox.ru
 www.aka.ms
 www.alexa.com
 www.algolia.com
-www.allure.com
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -4289,7 +4292,6 @@ www.amzn.to
 www.anrdoezrs.net
 www.answers.com
 www.aol.com
-www.apple.com
 www.apptimize.com
 www.awin1.com
 www.baidu.com
@@ -4318,6 +4320,7 @@ www.catalog.update.microsoft.com
 www.cbsi.com
 www.cda.pl
 www.cdn.optimizely.com
+www.change.org
 www.chomikuj.pl
 www.civicscience.com
 www.cleveland.com
@@ -4331,7 +4334,6 @@ www.coingeek.com
 www.coinpot.co
 www.cointraffic.io
 www.collamask.vk.com
-www.countryflags.io
 www.cqcounter.com
 www.crashlytics.com
 www.cs00000000000000000000000000000000.vk.com
@@ -4411,7 +4413,6 @@ www.heise.de
 www.hotjar.com
 www.howtogeek.com
 www.hrblock.com
-www.hubpages.com
 www.hulu.com
 www.ibm.com
 www.ibsys.com
@@ -4424,7 +4425,6 @@ www.img-bahn.de
 www.inc.com
 www.inputdirector.com
 www.inspectlet.com
-www.instagram.com
 www.instapaper.com
 www.intercom.io
 www.ipify.org
@@ -4444,7 +4444,6 @@ www.komputerswiat.pl
 www.kopimi.com
 www.latimes.com
 www.leanplum.com
-www.libsyn.com
 www.liftoff.io
 www.linkedin.com
 www.linkwithin.com
@@ -4455,7 +4454,6 @@ www.livejournal.com
 www.localbitcoins.com
 www.loggly.com
 www.logrocket.com
-www.lowes.com
 www.luckyorange.com
 www.m.vk.com
 www.macys.com
@@ -4471,7 +4469,6 @@ www.mbl.is
 www.mediafire.com
 www.miaminewtimes.com
 www.microsoft.com
-www.miui.net
 www.mlive.com
 www.monero.org
 www.moonbit.co.in
@@ -4495,7 +4492,6 @@ www.nj.com
 www.no-ip.com
 www.nordichardware.se
 www.npr.org
-www.ns1.com
 www.nydailynews.com
 www.nytimes.com
 www.oboom.com
@@ -4539,7 +4535,6 @@ www.pushwoosh.com
 www.qq.com
 www.qualtrics.com
 www.quantummetric.com
-www.quickenloans.com
 www.quora.com
 www.real-debrid.com
 www.reddit.com
@@ -4571,6 +4566,7 @@ www.sls.update.microsoft.com.akadns.net
 www.smartlook.com
 www.snapengage.com
 www.sohu.com
+www.someonewhocares.org
 www.speedcurve.com
 www.spot.im
 www.spotify.com
