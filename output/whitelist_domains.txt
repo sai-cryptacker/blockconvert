@@ -2511,6 +2511,7 @@ laposte.net
 larati.net
 lastfm-img2.akamaized.net
 lasvegas.cbslocal.com
+latest.web.skype.com
 latimes.com
 latimesblogs.latimes.com
 launches.appsflyer.com
@@ -4162,6 +4163,7 @@ web.facebook.com
 web.getmonero.org
 web.pcbeta.com
 web.poecdn.com
+web.skype.com
 web.tresorit.com
 web5913.cs304110.vk.com
 web7.vk.com
@@ -4318,6 +4320,7 @@ www.buymeacoffee.com
 www.buzzfeed.com
 www.catalog.update.microsoft.com
 www.cbsi.com
+www.ccleaner.com
 www.cda.pl
 www.cdn.optimizely.com
 www.change.org
@@ -4364,6 +4367,7 @@ www.engadget.com
 www.espn.com
 www.et4.de
 www.ethn.io
+www.eventbrite.com
 www.expressen.se
 www.facebook.com
 www.familydollar.com
@@ -4440,6 +4444,7 @@ www.kaltura.com
 www.kampyle.com
 www.kcsoftwares.com
 www.klarna.com
+www.kohls.com
 www.komputerswiat.pl
 www.kopimi.com
 www.latimes.com
