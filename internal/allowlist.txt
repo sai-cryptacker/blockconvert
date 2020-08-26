@@ -256,6 +256,7 @@ ip-tracker.org
 ipv4.login.msa.akadns6.net
 itch.io
 it.toolbox.com
+jaleco.com # Breaks download link for GIMP
 jarv.is
 joblo.com
 jpost.com # News website
