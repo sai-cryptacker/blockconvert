@@ -340,6 +340,7 @@ api.embed.ly
 api.facebook.com
 api.fast.com
 api.giphy.com
+api.hubspot.com
 api.intsig.net
 api.io.mi.com
 api.ipify.org
@@ -384,6 +385,7 @@ app.adjust.com
 app.alipay.com
 app.chat.global.xiaomi.net
 app.chat.xiaomi.net
+app.hubspot.com
 app.launchdarkly.com
 app.migc.xiaomi.com
 app.plex.tv
@@ -725,6 +727,7 @@ ca.2.cqcounter.com
 ca.cqcounter.com
 cabelas.ugc.bazaarvoice.com
 calendar.google.com
+calendly.com
 callaway.ugc.bazaarvoice.com
 callawaygolfpreowned.ugc.bazaarvoice.com
 callawayjapan.ugc.bazaarvoice.com
@@ -1152,6 +1155,7 @@ csdnimg.cn
 cse.google.com
 csi.gstatic.com
 ct.sendgrid.net
+cta-service-cms2.hubspot.com
 ctldl.windowsupdate.com
 cu.vk.com
 cubesmart.ugc.bazaarvoice.com
@@ -1693,10 +1697,12 @@ encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 engadget.com
+engagement-int.dce.mp.microsoft.com
 engagementapi.skype.com
 ensure.ugc.bazaarvoice.com
 entireweb.com
 entitlement.auth.adobe.com
+entitlements-int.mp.microsoft.com
 entitlements.jwplayer.com
 entitlements.mp.microsoft.com
 entitlementsinternal.mp.microsoft.com
@@ -1823,6 +1829,8 @@ findnsave.com
 finishline.ugc.bazaarvoice.com
 firebaseremoteconfig.googleapis.com
 firstlook.org
+firstparty-collections-int.mp.microsoft.com
+firstparty-entitlements-int.mp.microsoft.com
 fiverr.com
 flattr.com
 flickr.com
@@ -1847,6 +1855,7 @@ footlocker.com
 forbes.com
 force.com
 forms.gle
+forms.hubspot.com
 forms.office.com
 formstack.com
 fortune.com
@@ -2354,6 +2363,7 @@ infowarsstore.com
 ing.sakeena.cs304111.vk.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestiondeveloperapi.dse.mp.microsoft.com
+ingestionuxservice-int.dps.mp.microsoft.com
 inputdirector.com
 inq.com
 insight.rapid7.com
@@ -2423,6 +2433,7 @@ jq.qq.com
 jquery.com
 jquerytools.org
 js-agent.newrelic.com
+js.hubspot.com
 js.maxmind.com
 js.pusher.com
 js.stripe.com
@@ -2536,6 +2547,7 @@ lh6.google.com
 li.vk.com
 libsyn.com
 licensebuttons.net
+licensing-entitlements-int.md.mp.microsoft.com
 licensing.mp.microsoft.com
 licensing.xboxlive.com
 lifehacker.com
@@ -2698,6 +2710,7 @@ mediamarkt.nl
 mediamarkt.pl
 mediaworks.co.nz
 medium.com
+meetings.hubspot.com
 mega.co.nz
 mega.nz
 mega.vk.com
@@ -2887,10 +2900,10 @@ nj.com
 nk.pl
 nl.2.cqcounter.com
 nl.cqcounter.com
-nl.notebooksbilliger.de
 nm.vk.com
 nmcdn.us
 nmcheck.gnome.org
+no-cache.hubspot.com
 no-ip.com
 no.2.cqcounter.com
 node.plexapp.com
@@ -3703,6 +3716,7 @@ static.coinbase.com
 static.dingtalk.com
 static.fontawesome.com
 static.getmonero.org
+static.hubspot.com
 static.kickstarter.com
 static.licdn.com
 static.networkedblogs.com
@@ -3852,6 +3866,7 @@ tile2.opencyclemap.org
 tiles.mapbox.com
 tim.vk.com
 time.com
+time.samsungcloudsolution.com
 time.windows.com
 timeinc.net
 tinypass.com
@@ -4285,6 +4300,7 @@ www.agency.help.adfox.ru
 www.aka.ms
 www.alexa.com
 www.algolia.com
+www.allure.com
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -4294,6 +4310,7 @@ www.amzn.to
 www.anrdoezrs.net
 www.answers.com
 www.aol.com
+www.apple.com
 www.apptimize.com
 www.awin1.com
 www.baidu.com
@@ -4454,6 +4471,7 @@ www.linkedin.com
 www.linkwithin.com
 www.livechatinc.com
 www.livefyre.com
+www.livehelpnow.net
 www.livejasmin.com
 www.livejournal.com
 www.localbitcoins.com
@@ -4535,6 +4553,7 @@ www.pricegrabber.com
 www.privateinternetaccess.com
 www.proofpoint.com
 www.providesupport.com
+www.publix.com
 www.push.vk.com
 www.pushwoosh.com
 www.qq.com
@@ -4661,6 +4680,7 @@ wxug.com
 wykop.pl
 wyspagier.pl
 x1.com
+xbox-collections-int.mp.microsoft.com
 xbox.ipv6.microsoft.com
 xboxlive.com
 xd.adobelanding.com

@@ -461,6 +461,7 @@ thebot.net
 theoldnet.com
 tiktok.com # Causes adblock to block www.tiktok.com
 tile-service.weather.microsoft.com
+time.samsungcloudsolution.com # Issues #3, blocks services like Plex, YouTube and Amazon Video on Samsung TV
 time.windows.com
 *.tlu.dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
