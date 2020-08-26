@@ -4349,6 +4349,7 @@ www.clicktale.net
 www.cnbc.com
 www.cnet.com
 www.code.createjs.com
+www.codeberg.org
 www.codeload.github.com
 www.coinbase.com
 www.coingeek.com
@@ -4700,6 +4701,7 @@ xl7xml.client.xunlei.com
 xmpp-server.l.google.com
 xn--80aa5alfu.vk.com
 xn--allestrungen-9ib.de
+xnxx.com
 xovide.vk.com
 xsdownload.adobe.com
 xsts.auth.xboxlive.com
