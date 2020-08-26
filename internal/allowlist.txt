@@ -64,6 +64,7 @@ bestbuy.ca
 betfair.com
 better.fyi
 b-graph.facebook.com
+bilder.bild.de # https://github.com/mkb2091/blockconvert/issues/57 Breaks images on https://www.bild.de/
 binarydefense.com
 bing.com
 bitbucket.org
