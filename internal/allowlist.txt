@@ -19,6 +19,7 @@ addons.mozilla.org
 adguard.com
 adguardteam.github.io
 aeriagames.com
+a.espncdn.com # https://github.com/mkb2091/blockconvert/issues/58 Breaks ESPN
 aetna.com # blocks www.aetna.com which is a health website
 aftership.com
 aka.ms

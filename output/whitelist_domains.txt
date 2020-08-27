@@ -135,6 +135,7 @@ a-9999.a-msedge.net
 a-ring.a-9999.a-msedge.net
 a-uswe-01.mps.skype.com
 a.adwolf.ru
+a.espncdn.com
 a.fsdn.com
 a.ooyala.com
 a1.awin1.com
@@ -516,6 +517,7 @@ b1.awin1.com
 baidu.com
 balancer.wixdns.net
 baltimore.cbslocal.com
+bandaid.ugc.bazaarvoice.com
 bandaidca.ugc.bazaarvoice.com
 bandcamp.com
 bankid.no
@@ -537,6 +539,8 @@ bebe.ugc.bazaarvoice.com
 bedbathandbeyond.com
 bell.ugc.bazaarvoice.com
 benadryl.ugc.bazaarvoice.com
+benadrylca.ugc.bazaarvoice.com
+bengay.ugc.bazaarvoice.com
 benylinca.ugc.bazaarvoice.com
 berush.com
 bestbuy.ca
@@ -727,6 +731,7 @@ c64.assets-yammer.com
 ca.2.cqcounter.com
 ca.cqcounter.com
 cabelas.ugc.bazaarvoice.com
+calderaspas.ugc.bazaarvoice.com
 calendar.google.com
 calendly.com
 callaway.ugc.bazaarvoice.com
@@ -882,6 +887,7 @@ cloud.google.com
 cloudflare.com
 cloudflareworkers.com
 cloudinary.com
+cloudplatform.coveo.com
 cm-beacon.nakanohito.jp
 cm-widget.nakanohito.jp
 cmail19.com
@@ -1746,7 +1752,6 @@ ew.com
 ew.vk.com
 example.com
 example.org
-exchange.help.adfox.ru
 expedia.ugc.bazaarvoice.com
 explorer.burst-alliance.org
 expovaccins.vk.com
@@ -3171,6 +3176,7 @@ pkobp.pl
 pl-pl.facebook.com
 placehold.it
 planet.vk.com
+platform.cloud.coveo.com
 platform.instagram.com
 platform.twitter.com
 play.app.goo.gl
@@ -3445,6 +3451,7 @@ salemove.com
 salesforce.com
 salesforceliveagent.com
 salsalabs.com
+salsalabs.org
 saltcdn2.vk.com
 samsung.com
 sanfrancisco.cbslocal.com
@@ -3714,6 +3721,7 @@ static.3001.net
 static.ada.support
 static.bbci.co.uk
 static.beyondmenu.com
+static.cloud.coveo.com
 static.coinbase.com
 static.dingtalk.com
 static.fontawesome.com
@@ -4496,6 +4504,7 @@ www.mbl.is
 www.mediafire.com
 www.miaminewtimes.com
 www.microsoft.com
+www.microsofttranslator.com
 www.mlive.com
 www.monero.org
 www.moonbit.co.in
