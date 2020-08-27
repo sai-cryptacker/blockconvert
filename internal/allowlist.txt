@@ -288,6 +288,7 @@ mail.com
 mail.getmonero.org
 mail.google.com
 malwaredomainlist.com
+manager-magazin-de.manager-magazin.de # https://github.com/mkb2091/blockconvert/issues/60 Breaks accepting cookie banner
 maps.windows.com
 mbl.is
 *.md.mp.microsoft.com.*

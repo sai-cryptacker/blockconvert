@@ -2664,6 +2664,7 @@ majorgeeks.com
 malwaredomainlist.com
 malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com
+manager-magazin-de.manager-magazin.de
 mandrillapp.com
 manifest.googlevideo.com
 mapbox.com
