@@ -4280,6 +4280,7 @@ wupload.com
 wusthof.ugc.bazaarvoice.com
 wut.smartscreen.microsoft.com
 ww.vk.com
+ww.youporn.com
 www-cdn.icloud.com.akadns.net
 www-lhr1.awin1.com
 www-new.awin1.com
@@ -4684,6 +4685,7 @@ www17.wixdns.net
 www2.cqcounter.com
 www3.l.google.com
 wwwimages.adobe.com
+wwww.youporn.com
 wx.qlogo.cn
 wx1.sinaimg.cn
 wx2.sinaimg.cn
@@ -4737,6 +4739,7 @@ yoast.com
 yotpo.com
 yottaa.net
 youku.com
+youporn.com
 youtu.be
 youtube-nocookie.com
 youtube.com
