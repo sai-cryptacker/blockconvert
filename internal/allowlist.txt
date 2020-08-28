@@ -1,3 +1,4 @@
+spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
 1drv.ms
 1.www.s81c.com
 24timezones.com
