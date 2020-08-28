@@ -1,4 +1,3 @@
-spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
 1drv.ms
 1.www.s81c.com
 24timezones.com
@@ -425,6 +424,7 @@ som.aeroplan.com
 soundcloud.com
 sourceforge.net
 speedcurve.com
+spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
 squidblacklist.org
 ssl.bblck.me
 sslbl.abuse.ch
