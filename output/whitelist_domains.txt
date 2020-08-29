@@ -159,6 +159,7 @@ acast.com
 account.xiaomi.com
 accounts.eu1.gigya.com
 accounts.google.com
+accounts.us1.gigya.com
 accuweather.com
 acehardware.com
 acs.m.taobao.com
@@ -3601,6 +3602,7 @@ snaptu-mini.facebook.com
 sndcdn.com
 snippets.cdn.mozilla.net
 social.krunker.io
+socialize.us1.gigya.com
 software.informer.com
 sohu.com
 solidfiles.com

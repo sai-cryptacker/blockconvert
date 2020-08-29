@@ -9,6 +9,7 @@ a248.e.akamai.net
 aaa.com
 aax-us-east.amazon-adsystem.com
 accounts.eu1.gigya.com
+accounts.us1.gigya.com # Needed for iRobot app https://github.com/mkb2091/blockconvert/issues/3#issuecomment-683157232
 activation.sls.microsoft.com
 activation-v2.sls.microsoft.com
 *.adafruit.com
@@ -420,6 +421,7 @@ s-media-cache-ak0.pinimg.com
 *.s-msedge.net
 s-msedge.net
 s.ndemiccreations.com
+socialize.us1.gigya.com # Needed for iRobot app https://github.com/mkb2091/blockconvert/issues/3#issuecomment-683157232
 software.informer.com
 sohu.com
 som.aeroplan.com
