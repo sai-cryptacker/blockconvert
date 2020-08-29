@@ -608,6 +608,7 @@
 @@||blog.csdn.net^
 @@||blog.hubspot.com^
 @@||blog.logrocket.com^
+@@||blog.tube8.com^
 @@||blog.xuite.net^
 @@||blogblog.com^
 @@||blogger.com^
@@ -2786,6 +2787,7 @@
 @@||mobile.cdn.openx.com^
 @@||mobile.facebook.com^
 @@||mobile.help.adfox.ru^
+@@||mobile.tube8.com^
 @@||mobile.twitter.com^
 @@||mobilecns.alipay.com^
 @@||mobilegw.alipay.com^
@@ -3958,6 +3960,7 @@
 @@||ts.w.org^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||tuba.fm^
+@@||tube8.com^
 @@||tumblr.com^
 @@||tunein.com^
 @@||turbotax.ugc.bazaarvoice.com^

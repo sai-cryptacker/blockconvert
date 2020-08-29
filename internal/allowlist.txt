@@ -76,6 +76,7 @@ bitlord.com
 bitly.com
 blob.weather.microsoft.com
 blog.hubspot.com
+blog.tube8.com
 bountysource.com
 browser.pipe.aria.microsoft.com
 *.burst-alliance.org
@@ -301,6 +302,7 @@ media.pearsoncmg.com
 mediaredirect.microsoft.com
 mine.nu
 m.me
+mobile.tube8.com
 mobile.twitter.com
 modern.watson.data.microsoft.com.akadns.net
 monero.org
@@ -482,6 +484,7 @@ transfer.sh
 travelocity.com
 trk.klclick1.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+tube8.com
 *.ugc.bazaarvoice.com
 uk.com
 umich.qualtrics.com
