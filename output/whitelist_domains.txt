@@ -36,7 +36,6 @@
 1be.cqcounter.com
 1bm.cqcounter.com
 1ca.cqcounter.com
-1cn.cqcounter.com
 1de.cqcounter.com
 1dk.cqcounter.com
 1drv.com
@@ -317,6 +316,7 @@ ap.org
 ap.spotify.com
 ap108.cs304112.vk.com
 api-cdn.embed.ly
+api-dev.dcat.dsp.mp.microsoft.com
 api-glb.smoot.apple.com
 api-global.netflix.com
 api-int.dcat.dsp.mp.microsoft.com
@@ -884,6 +884,7 @@ clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
 cloud.google.com
+cloudflare-dns.com
 cloudflare.com
 cloudflareworkers.com
 cloudinary.com
@@ -4073,6 +4074,7 @@ userscripts-mirror.org
 userstream.twitter.com
 uservoice.com
 uth.vk.com
+uwpproc-int.mix.mp.microsoft.com
 v.adfox.ru
 v.firebog.net
 v.pinimg.com
@@ -4169,6 +4171,7 @@ wangbase.com
 washington.cbslocal.com
 washingtonpost.com
 watchdog.burst-alliance.org
+watchdogs-int.dps.mp.microsoft.com
 watson.telemetry.microsoft.com
 way.vk.com
 wbd.ms
@@ -4280,7 +4283,6 @@ wtkr.com
 wufoo.com
 wupload.com
 wusthof.ugc.bazaarvoice.com
-wut.smartscreen.microsoft.com
 ww.vk.com
 ww.youporn.com
 www-cdn.icloud.com.akadns.net
@@ -4358,6 +4360,7 @@ www.chomikuj.pl
 www.civicscience.com
 www.cleveland.com
 www.clicktale.net
+www.cloudflare-dns.com
 www.cnbc.com
 www.cnet.com
 www.code.createjs.com
@@ -4421,7 +4424,6 @@ www.fullstory.com
 www.funk.eu
 www.g.ezoic.net
 www.gamespot.com
-www.gap.com
 www.geoplugin.net
 www.georiot.com
 www.geotrust.com
@@ -4468,7 +4470,6 @@ www.istockphoto.com
 www.iubenda.com
 www.jaleco.com
 www.janrain.com
-www.jarv.is
 www.jdoqocy.com
 www.joblo.com
 www.jsonip.com
@@ -4494,7 +4495,6 @@ www.loggly.com
 www.logrocket.com
 www.luckyorange.com
 www.m.vk.com
-www.macys.com
 www.mailchimp.com
 www.majorgeeks.com
 www.malwaredomainlist.com
@@ -4522,7 +4522,6 @@ www.mywot.com
 www.namecheap.com
 www.naver.com
 www.nbcnews.com
-www.nbcnewyork.com
 www.neowin.net
 www.newegg.com
 www.newrelic.com
@@ -4586,7 +4585,6 @@ www.returnpath.com
 www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
-www.salesforce.com
 www.salsalabs.com
 www.sdad.guru
 www.searchanise.com
@@ -4652,13 +4650,13 @@ www.ultimedia.com
 www.unibytes.com
 www.uplynk.com
 www.userreplay.net
+www.uservoice.com
 www.vidible.tv
 www.viglink.com
 www.vk.com
 www.vk.vk.com
 www.vmn.net
 www.wallet.burst-alliance.org
-www.walmart.com
 www.wangbase.com
 www.watchdog.burst-alliance.org
 www.weather.gov

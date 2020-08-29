@@ -17,6 +17,7 @@ adblock.ee
 add0n.com
 addons.mozilla.org
 adguard.com
+adguard.com # Adblocking tool
 adguardteam.github.io
 aeriagames.com
 a.espncdn.com # https://github.com/mkb2091/blockconvert/issues/58 Breaks ESPN
@@ -89,6 +90,7 @@ ci4.googleusercontent.com
 ci5.googleusercontent.com
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
+cloudflare-dns.com # Cloudflare dns server
 cloudfront.net
 cmail19.com
 cmail20.com
