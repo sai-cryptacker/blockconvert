@@ -11,6 +11,8 @@ converseboom24.live
 cp.milano2000.it
 dxnp7918p5axx.cloudfront.net
 ee.caleidoscopio-singoli-pisa.it
+*.getemails.com # De-anonymization
+getemails.com # De-anonymization
 installflash-s3.com
 mobile-global-app-market1.life
 noireblur2.live

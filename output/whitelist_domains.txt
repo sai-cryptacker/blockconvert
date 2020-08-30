@@ -695,7 +695,6 @@ bt-1409.alpha.dashboard.mgid.com
 bt-1434.alpha.dashboard.mgid.com
 bt-1442.alpha.dashboard.mgid.com
 bt-1476.alpha.dashboard.mgid.com
-bufferapp.com
 bugsnag.com
 build.origami.ft.com
 builder-assets.unbounce.com
@@ -886,6 +885,17 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 clk.tradedoubler.com
+clkap.tradedoubler.com
+clkax.tradedoubler.com
+clkde.tradedoubler.com
+clkes.tradedoubler.com
+clkfr.tradedoubler.com
+clkgb.tradedoubler.com
+clkit.tradedoubler.com
+clkpl.tradedoubler.com
+clkru.tradedoubler.com
+clkse.tradedoubler.com
+clkuk.tradedoubler.com
 cloud.google.com
 cloudflare-dns.com
 cloudflare.com
@@ -1181,6 +1191,7 @@ cvc.vk.com
 cvp1.cdn.turner.com
 cvs.com
 cvspharmacydrugs.ugc.bazaarvoice.com
+cws.conviva.com
 cy2.displaycatalog.md.mp.microsoft.com.akadns.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cybercrime-tracker.net
@@ -1976,6 +1987,7 @@ geover-prod.do.dsp.mp.microsoft.com
 get.adobe.com
 getmonero.org
 getpocket.com
+gfwsl.geforce.com
 gfycat.com
 ghdhair.ugc.bazaarvoice.com
 gia.jd.com
@@ -2604,7 +2616,6 @@ logger2.cqcounter.com
 logging.apache.org
 loggly.com
 login.adfox.ru
-login.aliexpress.com
 login.cloudflarewarp.com
 login.cs7777.vk.com
 login.live.com
@@ -3168,6 +3179,7 @@ pilkanozna.pl
 ping.taplytics.com
 pingjs.qq.com
 pingone-login.openx.com
+pings.conviva.com
 pinimg.com
 pinterest.com
 pipe.skype.com
@@ -3544,7 +3556,6 @@ sh.docs.dingtalk.com
 sh.st
 sh.wagbridge.taobao.com.gds.alibabadns.com
 share-online.biz
-sharepoint.com
 sharp.ugc.bazaarvoice.com
 shield.sitelock.com
 shop-pro.jp
@@ -4084,7 +4095,6 @@ uwpproc-int.mix.mp.microsoft.com
 v.adfox.ru
 v.firebog.net
 v.pinimg.com
-v.shopify.com
 v0.wordpress.com
 v10-win.vortex.data.microsoft.com.akadns.net
 v10.events.data.microsoft.com
@@ -4119,6 +4129,7 @@ videos.oovvuu.com
 videos.videopress.com
 videos.vidible.tv
 vidible.tv
+vidtech.cbsinteractive.com
 vidto.me
 viduki.com
 viglink.com
@@ -4335,7 +4346,6 @@ www.apple.com
 www.apptimize.com
 www.awin1.com
 www.baidu.com
-www.bazaarvoice.com
 www.bbc.com
 www.bcorg.web.burst-alliance.org
 www.berush.com
@@ -4366,6 +4376,8 @@ www.chomikuj.pl
 www.civicscience.com
 www.cleveland.com
 www.clicktale.net
+www.clkap.tradedoubler.com
+www.clkgb.tradedoubler.com
 www.cloudflare-dns.com
 www.cnbc.com
 www.cnet.com
@@ -4382,6 +4394,7 @@ www.crashlytics.com
 www.cs00000000000000000000000000000000.vk.com
 www.cs001.vk.com
 www.cs292596712.vk.com
+www.cws.conviva.com
 www.dailymotion.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
@@ -4421,7 +4434,6 @@ www.flyertown.ca
 www.fonts.com
 www.forbes.com
 www.forms.gle
-www.fortune.com
 www.forum.vk.com
 www.fox2now.com
 www.framasoft.org
@@ -4684,8 +4696,8 @@ www.yotpo.com
 www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
+www.zee.cws.conviva.com
 www.zendesk.com
-www.ziplist.com
 www1.awin1.com
 www17.wixdns.net
 www2.cqcounter.com
@@ -4771,6 +4783,7 @@ zappa-st.www.cs00000000000000000000000000000000.vk.com
 zcbprod.alipay.com
 zdbb.net
 zdnet.com
+zee.cws.conviva.com
 zendesk.com
 zero.facebook.com
 zerodot1.gitlab.io
