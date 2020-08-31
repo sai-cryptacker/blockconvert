@@ -138,6 +138,7 @@ dlsrc.getmonero.org
 dm3p.wns.notify.windows.com.akadns.net
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
+dmqdd6hw24ucf.cloudfront.net # https://github.com/mkb2091/blockconvert/issues/63 Breaks Amazon Prime Subtitles
 dns.google.com
 do.co
 donate.getmonero.org

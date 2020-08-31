@@ -1594,6 +1594,7 @@ dm3p.wns.notify.windows.com.akadns.net
 dmcdn.com
 dmcdn.net
 dmd.metaservices.microsoft.com
+dmqdd6hw24ucf.cloudfront.net
 dn.se
 dns.google.com
 dns.msftncsi.com
