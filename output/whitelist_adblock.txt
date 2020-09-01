@@ -824,6 +824,10 @@
 @@||cdnbakmi.kaltura.com^
 @@||cdngeneral.rentcafe.com^
 @@||cdnjs.cloudflare.com^
+@@||cdnp0.stackassets.com^
+@@||cdnp1.stackassets.com^
+@@||cdnp2.stackassets.com^
+@@||cdnp3.stackassets.com^
 @@||cdnpk.com^
 @@||cdnsecakmi.kaltura.com^
 @@||cdp.aliexpress.com^

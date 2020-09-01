@@ -84,6 +84,10 @@ candycrushsoda.king.com
 cdn2.editmysite.com
 cdnjs.cloudflare.com
 cdn.onenote.net
+cdnp0.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
+cdnp1.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
+cdnp2.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
+cdnp3.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
 change.org
 checkappexec.microsoft.com
 chng.it
