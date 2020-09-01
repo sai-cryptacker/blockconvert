@@ -243,6 +243,7 @@ aetna.com
 aeu.alicdn.com
 affirm.com
 aftership.com
+ag.tags.crwdcntrl.net
 agency.help.adfox.ru
 agrippa-eu.ugc.bazaarvoice.com
 ahm.vk.com
@@ -533,7 +534,6 @@ bbc.co.uk
 bbc.com
 bbci.co.uk
 bbs.archlinux.org
-bbs.pcbeta.com
 bcee.lu
 bcorg.web.burst-alliance.org
 be.2.cqcounter.com
@@ -787,9 +787,6 @@ cdn.leafletjs.com
 cdn.mxpnl.com
 cdn.onenote.net
 cdn.optimizely.com
-cdn.pcbeta.attachment.inimc.com
-cdn.pcbeta.css.inimc.com
-cdn.pcbeta.static.inimc.com
 cdn.platform.dev.openx.com
 cdn.platform.openx.com
 cdn.platform.qa.openx.com
@@ -826,6 +823,7 @@ cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 cdw.ugc.bazaarvoice.com
 cdwg.ugc.bazaarvoice.com
+celebslam.tags.crwdcntrl.net
 centraleu.pi-dns.com
 cern.ch
 ceros.com
@@ -911,6 +909,7 @@ cn.bing.com
 cnbc.com
 cnet.com
 cnn.com
+cnnmoney.tags.crwdcntrl.net
 co4.telecommand.telemetry.microsoft.com.akadns.net
 coach-ssl.ugc.bazaarvoice.com
 coachuk.ugc.bazaarvoice.com
@@ -1175,6 +1174,7 @@ cs9993890.vk.com
 csdnimg.cn
 cse.google.com
 csi.gstatic.com
+cstv.com
 ct.sendgrid.net
 cta-service-cms2.hubspot.com
 ctldl.windowsupdate.com
@@ -1744,6 +1744,7 @@ esina.vk.com
 espn.com
 esteelauder.ugc.bazaarvoice.com
 estimulos-y-respuestas.piter-ix.vk.com
+et4.de
 ethn.io
 etl.tindersparks.com
 eu-v20.events.data.microsoft.com
@@ -1794,6 +1795,8 @@ faast.schibsted.io
 facebook.com
 familydollar.com
 fandom.wikia.com
+fanpop.tags.crwdcntrl.net
+fansites.tags.crwdcntrl.net
 fast.fonts.net
 fast.wistia.com
 fast.wistia.net
@@ -2266,7 +2269,6 @@ i.ibb.co
 i.imgur.com
 i.lithium.com
 i.loli.net
-i.pcbeta.com
 i.pinimg.com
 i.s-microsoft.com
 i.vgy.me
@@ -2594,6 +2596,7 @@ livefyre.com
 livehelpnow.net
 livejasmin.com
 livejournal.com
+livejournal.tags.crwdcntrl.net
 livepassdl.conviva.com
 livestream.com
 livetileedge.dsx.mp.microsoft.com
@@ -2653,12 +2656,10 @@ m.facebook.com
 m.hotmail.com
 m.me
 m.media-amazon.com
-m.pcbeta.com
 m.stripe.network
 m.tau.vk.com
 m.vk.com
 m.youtube.com
-mac.pcbeta.com
 macys.com
 macys.ugc.bazaarvoice.com
 madewell.ugc.bazaarvoice.com
@@ -2874,6 +2875,7 @@ naver.com
 nba.com
 nbcnews.com
 nbcnewyork.com
+nbcu.tags.crwdcntrl.net
 nbcuni.com
 nbs.cs9591.vk.com
 ncl.ugc.bazaarvoice.com
@@ -3021,6 +3023,7 @@ official.paymaya.com
 ogin.vk.com
 ogio.ugc.bazaarvoice.com
 ogs.google.com
+oh.tags.crwdcntrl.net
 oillarionov.api.cs7777.vk.com
 ojrq.net
 okta.com
@@ -3359,6 +3362,7 @@ readcomiconline.to
 readthedocs.org
 real-debrid.com
 realestate.nj.com
+realnetwork.tags.crwdcntrl.net
 recaptcha.net
 recruitics.com
 recurly.com
@@ -3617,6 +3621,7 @@ sndcdn.com
 snippets.cdn.mozilla.net
 social.krunker.io
 socialize.us1.gigya.com
+sociallitelife.tags.crwdcntrl.net
 software.informer.com
 sohu.com
 solidfiles.com
@@ -3641,6 +3646,7 @@ sport.onet.pl
 sport.pl
 sports.latimes.com
 sports.yahoo.com
+sportsillustrated.tags.crwdcntrl.net
 spot.im
 spotify.com
 spreadsheets.google.com
@@ -3751,7 +3757,6 @@ static.kickstarter.com
 static.licdn.com
 static.networkedblogs.com
 static.tacdn.com
-static.template.pcbeta.com
 static.tianyaui.com
 static.tidiochat.com
 static.twisto.cz
@@ -3830,6 +3835,7 @@ t0.ssl.ak.tiles.virtualearth.net
 t1.g.mi.com
 t11.baidu.com
 t12.baidu.com
+tags.crwdcntrl.net
 taleo.net
 talk.google.com
 talk.l.google.com
@@ -3994,7 +4000,6 @@ u.corp.vk.com
 u.heatmap.it
 u.vk.com
 ubuntuforums.org
-uc.pcbeta.com
 ueuev4.vk.com
 ui-portal.de
 ui.cs7777.vk.com
@@ -4104,6 +4109,7 @@ v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v4.download.windowsupdate.com
 validation-v2.sls.microsoft.com
+vampirefreaks.tags.crwdcntrl.net
 vandenborre.ugc.bazaarvoice.com
 vanilla.futurecdn.net
 vanityfair.com
@@ -4123,6 +4129,7 @@ viddler.com
 video-stats.l.google.com
 video.google.com
 videocopilot.net
+videogum.tags.crwdcntrl.net
 videolan.org
 videopress.com
 videos.files.wordpress.com
@@ -4247,7 +4254,6 @@ widget-mediator.zopim.com
 widget.pushbullet.com
 widget.uservoice.com
 widgetdata.tradingview.com
-widgets.dlvr.it
 widgetserver.com
 wifiapi.micloud.xiaomi.net
 wiggle.ugc.bazaarvoice.com
@@ -4303,6 +4309,7 @@ wupload.com
 wusthof.ugc.bazaarvoice.com
 ww.vk.com
 ww.youporn.com
+wwtdd.tags.crwdcntrl.net
 www-cdn.icloud.com.akadns.net
 www-lhr1.awin1.com
 www-new.awin1.com
@@ -4350,7 +4357,6 @@ www.baidu.com
 www.bbc.com
 www.bcorg.web.burst-alliance.org
 www.berush.com
-www.bestbuy.com
 www.beyondmenu.com
 www.bgr.com
 www.binarydefense.com
@@ -4382,6 +4388,7 @@ www.clkgb.tradedoubler.com
 www.cloudflare-dns.com
 www.cnbc.com
 www.cnet.com
+www.cnnmoney.tags.crwdcntrl.net
 www.code.createjs.com
 www.codeberg.org
 www.codeload.github.com
@@ -4426,12 +4433,10 @@ www.expressen.se
 www.facebook.com
 www.familydollar.com
 www.fili.cc
-www.fiverr.com
 www.flattr.com
 www.flickr.com
 www.fling.com
 www.flipboard.com
-www.flyertown.ca
 www.fonts.com
 www.forbes.com
 www.forms.gle
@@ -4541,14 +4546,12 @@ www.mywot.com
 www.namecheap.com
 www.naver.com
 www.nbcnews.com
-www.neowin.net
 www.newegg.com
 www.newrelic.com
 www.nhl.com
 www.nj.com
 www.no-ip.com
 www.nordichardware.se
-www.npr.org
 www.nydailynews.com
 www.nytimes.com
 www.oboom.com
@@ -4568,7 +4571,6 @@ www.pasteboard.co
 www.paypal.com
 www.paypal.com.edgekey.net
 www.paypalobjects.com
-www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
 www.pennlive.com
@@ -4583,7 +4585,6 @@ www.pornhub.com
 www.pornhubpremium.com
 www.powr.io
 www.ppt.cc
-www.pricegrabber.com
 www.privateinternetaccess.com
 www.proofpoint.com
 www.providesupport.com
@@ -4622,9 +4623,11 @@ www.slickdeals.net
 www.sls.update.microsoft.com.akadns.net
 www.smartlook.com
 www.snapengage.com
+www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
 www.someonewhocares.org
 www.speedcurve.com
+www.sportsillustrated.tags.crwdcntrl.net
 www.spot.im
 www.spotify.com
 www.springboardplatform.com
@@ -4641,6 +4644,7 @@ www.storage.googleapis.com
 www.stripe.com
 www.surveygizmo.com
 www.t-online.de
+www.tags.crwdcntrl.net
 www.target.com
 www.tawk.to
 www.techradar.com
@@ -4748,6 +4752,7 @@ yahooapis.com
 yandex.ocsp-responder.com
 yandex.ru
 yardbarker.com
+yardbarker.tags.crwdcntrl.net
 yastatic.net
 yeastinfection.vk.com
 yellowpages.com
