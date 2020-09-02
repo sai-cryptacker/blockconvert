@@ -3118,9 +3118,11 @@ pac.dce.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
 packages-intppe.dps.mp.microsoft.com
 packages.chocolatey.org
+packages.dps.mp.microsoft.com
 packages.linuxmint.com
 packagesapi-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
+packagesweb.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
@@ -4599,7 +4601,6 @@ www.qq.com
 www.qualtrics.com
 www.quantummetric.com
 www.quora.com
-www.real-debrid.com
 www.reddit.com
 www.redirectingat.com
 www.redtube.com
