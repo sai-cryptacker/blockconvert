@@ -681,6 +681,7 @@ brightcove.net
 brother-emea.ugc.bazaarvoice.com
 browser.pipe.aria.microsoft.com
 browser.vk.com
+bsxcommerce-int.mp.microsoft.com
 bt-1262.beta.dashboard.mgid.com
 bt-1279.beta.dashboard.mgid.com
 bt-1290.beta.dashboard.mgid.com
@@ -942,6 +943,8 @@ columbiasportswear.ugc.bazaarvoice.com
 com.biblio.vk.com
 community.spiceworks.com
 completion.amazon.com
+composerapi.dps.mp.microsoft.com
+composerweb.dps.mp.microsoft.com
 comwww.vk.com
 confib.ifmo.ru
 config.edge.skype.com
@@ -1791,6 +1794,7 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
+extorigin-int.dcat.dsp.mp.microsoft.com
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
 f1.g.mi.com
@@ -1817,6 +1821,7 @@ fe2.update.microsoft.com
 fe2.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
+feature.duellinksmeta.com
 feed.adrelayer.com
 feedback.aliexpress.com
 feedburner.com
@@ -1863,6 +1868,7 @@ firstparty-entitlements-int.mp.microsoft.com
 fiverr.com
 flattr.com
 flickr.com
+flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 fling.com
 flipboard.com
@@ -2593,6 +2599,7 @@ links.mint.com
 linktr.ee
 linkwithin.com
 list-manage.com
+listingsapi-int.dps.mp.microsoft.com
 lithium.facebook.com
 live.com
 livechatinc.com
@@ -3178,6 +3185,7 @@ photobucket.com
 photos-ugc.l.googleusercontent.com
 phplist.com
 phs.tanx.com
+phx.sfs-int.dcat.dsp.mp.microsoft.com
 pi-dns.com
 pi-hole.net
 pi.vk.com
@@ -3624,6 +3632,7 @@ snapchat.com
 snapengage.com
 snaptu-mini.facebook.com
 sndcdn.com
+snipcart.com
 snippets.cdn.mozilla.net
 social.krunker.io
 socialize.us1.gigya.com
@@ -4104,6 +4113,7 @@ userstream.twitter.com
 uservoice.com
 uth.vk.com
 uwpproc-int.mix.mp.microsoft.com
+uwpproc.mix.mp.microsoft.com
 v.adfox.ru
 v.firebog.net
 v.pinimg.com
@@ -4384,6 +4394,7 @@ www.cbsi.com
 www.ccleaner.com
 www.cda.pl
 www.cdn.optimizely.com
+www.cern.ch
 www.change.org
 www.chomikuj.pl
 www.civicscience.com
@@ -4447,7 +4458,6 @@ www.fonts.com
 www.forbes.com
 www.forms.gle
 www.forum.vk.com
-www.fox2now.com
 www.framasoft.org
 www.freedownloadmanager.org
 www.fullstory.com
@@ -4523,6 +4533,7 @@ www.livejournal.com
 www.localbitcoins.com
 www.loggly.com
 www.logrocket.com
+www.lowes.com
 www.luckyorange.com
 www.m.vk.com
 www.mailchimp.com
@@ -4550,6 +4561,7 @@ www.msftncsi.com
 www.msn.com
 www.mywot.com
 www.namecheap.com
+www.narkive.com
 www.naver.com
 www.nbcnews.com
 www.newegg.com
@@ -4559,6 +4571,7 @@ www.nj.com
 www.no-ip.com
 www.nordichardware.se
 www.nydailynews.com
+www.nypost.com
 www.nytimes.com
 www.oboom.com
 www.ojrq.net
