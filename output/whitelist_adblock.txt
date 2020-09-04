@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-03Z
+! Version: 2020-09-04Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-03Z
+! Last modified: 2020-09-04Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -142,7 +142,6 @@
 @@||a-0012.a-msedge.net^
 @@||a-9999.a-msedge.net^
 @@||a-ring.a-9999.a-msedge.net^
-@@||a-uswe-01.mps.skype.com^
 @@||a.adwolf.ru^
 @@||a.espncdn.com^
 @@||a.fsdn.com^
@@ -420,6 +419,7 @@
 @@||apptimize.com^
 @@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi-intppe.dps.mp.microsoft.com^
+@@||appxapi.dps.mp.microsoft.com^
 @@||apresolve.spotify.com^
 @@||apt.newrelic.com^
 @@||apt.sonarr.tv^
@@ -990,9 +990,7 @@
 @@||costco.com^
 @@||countryflags.io^
 @@||coupon.aliexpress.com^
-@@||cp101-int.do.dsp.mp.microsoft.com^
 @@||cp501-prod.do.dsp.mp.microsoft.com^
-@@||cp601-prod.do.dsp.mp.microsoft.com^
 @@||cp701-prod.do.dsp.mp.microsoft.com^
 @@||cp801-prod.do.dsp.mp.microsoft.com^
 @@||cqcounter.com^
@@ -1573,9 +1571,7 @@
 @@||digitalriver.com^
 @@||digitaltrends.com^
 @@||directvnow.com^
-@@||disc101-int.do.dsp.mp.microsoft.com^
 @@||disc501-prod.do.dsp.mp.microsoft.com^
-@@||disc601-prod.do.dsp.mp.microsoft.com^
 @@||disc701-prod.do.dsp.mp.microsoft.com^
 @@||disc801-prod.do.dsp.mp.microsoft.com^
 @@||discord.com^
@@ -2032,6 +2028,7 @@
 @@||gitter.im^
 @@||gizmodo.com^
 @@||gizmodo.com.au^
+@@||glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.auar-dev.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.frontend-dev.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.frontend-int.trafficshaping.dsp.mp.microsoft.com^
@@ -2545,9 +2542,7 @@
 @@||kt-486.beta.dashboard.mgid.com^
 @@||ku6.com^
 @@||kulinovich.vk.com^
-@@||kv101-int.do.dsp.mp.microsoft.com^
 @@||kv501-prod.do.dsp.mp.microsoft.com^
-@@||kv601-prod.do.dsp.mp.microsoft.com^
 @@||kv701-prod.do.dsp.mp.microsoft.com^
 @@||kv801-prod.do.dsp.mp.microsoft.com^
 @@||kw.2.cqcounter.com^
@@ -3290,12 +3285,15 @@
 @@||prod.appnexus.map.fastly.net^
 @@||prod.disqus.map.fastlylb.net^
 @@||prod.telemetry.ros.rockstargames.com^
+@@||productcatalogservice-df.dce.mp.microsoft.com^
+@@||productcatalogservice.dce.mp.microsoft.com^
 @@||products.office.com^
 @@||profile.target.com^
 @@||promodj.com^
 @@||promotion.aliexpress.com^
 @@||promotions.newegg.com^
 @@||proofpoint.com^
+@@||proto2ad.durasite.net^
 @@||protonmail.com^
 @@||provacinema.vk.com^
 @@||providesupport.com^
@@ -4309,6 +4307,7 @@
 @@||woodpecker.uc.cn^
 @@||woosmap.com^
 @@||wordpress.com^
+@@||workflowservice.dps.mp.microsoft.com^
 @@||world-gen.g.aaplimg.com^
 @@||worldnow.com^
 @@||worldstream.nl^
@@ -4383,7 +4382,6 @@
 @@||www.bcorg.web.burst-alliance.org^
 @@||www.berush.com^
 @@||www.beyondmenu.com^
-@@||www.bgr.com^
 @@||www.binarydefense.com^
 @@||www.bing.com^
 @@||www.bit.ly^
@@ -4503,6 +4501,7 @@
 @@||www.ibm.com^
 @@||www.ibsys.com^
 @@||www.icanhazip.com^
+@@||www.icloud.com^
 @@||www.idg.se^
 @@||www.ign.com^
 @@||www.ignorelist.com^
@@ -4557,7 +4556,6 @@
 @@||www.mediafire.com^
 @@||www.miaminewtimes.com^
 @@||www.microsoft.com^
-@@||www.microsofttranslator.com^
 @@||www.mlive.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
@@ -4579,6 +4577,7 @@
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.nordichardware.se^
+@@||www.northeu.pi-dns.com^
 @@||www.nydailynews.com^
 @@||www.nypost.com^
 @@||www.nytimes.com^
@@ -4607,7 +4606,6 @@
 @@||www.pinterest.com^
 @@||www.placehold.it^
 @@||www.pocketnow.com^
-@@||www.poll.fm^
 @@||www.polldaddy.com^
 @@||www.pornhub.com^
 @@||www.pornhubpremium.com^
@@ -4668,7 +4666,6 @@
 @@||www.startpage.com^
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
-@@||www.stripe.com^
 @@||www.surveygizmo.com^
 @@||www.t-online.de^
 @@||www.tags.crwdcntrl.net^
@@ -4729,7 +4726,6 @@
 @@||www.youtube.com^
 @@||www.zdnet.com^
 @@||www.zee.cws.conviva.com^
-@@||www.zendesk.com^
 @@||www1.awin1.com^
 @@||www17.wixdns.net^
 @@||www2.cqcounter.com^
