@@ -2700,6 +2700,7 @@
 @@||manager-magazin-de.manager-magazin.de^
 @@||mandrillapp.com^
 @@||manifest.googlevideo.com^
+@@||manifest.prod.boltdns.net^
 @@||mapbox.com^
 @@||mapquestapi.com^
 @@||maps-api-ssl.google.com^
@@ -4574,6 +4575,7 @@
 @@||www.narkive.com^
 @@||www.naver.com^
 @@||www.nbcnews.com^
+@@||www.nbcnewyork.com^
 @@||www.networksolutions.com^
 @@||www.newegg.com^
 @@||www.newrelic.com^
@@ -4616,7 +4618,6 @@
 @@||www.powr.io^
 @@||www.ppt.cc^
 @@||www.privateinternetaccess.com^
-@@||www.proofpoint.com^
 @@||www.providesupport.com^
 @@||www.publix.com^
 @@||www.push.vk.com^
@@ -4703,6 +4704,7 @@
 @@||www.uplynk.com^
 @@||www.userreplay.net^
 @@||www.uservoice.com^
+@@||www.vanityfair.com^
 @@||www.vgwort.de^
 @@||www.vidible.tv^
 @@||www.viglink.com^
