@@ -82,6 +82,7 @@ browser.pipe.aria.microsoft.com
 *.burst-alliance.org
 candycrushsoda.king.com
 cdn2.editmysite.com
+cdn.content.prod.cms.msn.com # Needed for Windows 10 News Images https://github.com/mkb2091/blockconvert/issues/3#issuecomment-687662575
 cdnjs.cloudflare.com
 cdn.onenote.net
 cdnp0.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
@@ -511,6 +512,7 @@ v20.events.data.microsoft.com
 validation-v2.sls.microsoft.com
 vanilla.futurecdn.net
 vanityfair.com
+version.hybrid.api.here.com # Needed for "Here We Go" map download https://github.com/mkb2091/blockconvert/issues/3#issuecomment-687661883
 v.firebog.net
 vgwort.de
 videos.oovvuu.com

@@ -766,6 +766,7 @@ cdn-us-ec.yottaa.net
 cdn.arstechnica.net
 cdn.auth0.com
 cdn.cnetcontent.com
+cdn.content.prod.cms.msn.com
 cdn.cpnscdn.com
 cdn.datatables.net
 cdn.discordapp.com
@@ -4138,6 +4139,7 @@ vegascom.ugc.bazaarvoice.com
 verify.monzo.com
 verisign.com
 verkkokauppa.ugc.bazaarvoice.com
+version.hybrid.api.here.com
 vgwort.de
 vgy.me
 viafoura.net
