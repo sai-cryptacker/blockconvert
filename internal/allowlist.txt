@@ -252,6 +252,7 @@ image.prntscr.com
 images.gounlimited.to
 imagizer.imageshack.com
 img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net # https://github.com/mkb2091/blockconvert/issues/67 Breaks msn.com images
 inc.com
 inference.location.live.net
 informer.com

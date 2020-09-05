@@ -2360,6 +2360,7 @@
 @@||img-bahn.de^
 @@||img-fotki.yandex.ru^
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^
+@@||img-s-msn-com.akamaized.net^
 @@||img.ads.tvb.com^
 @@||img.alicdn.com^
 @@||img.alicdn.com.danuoyi.alicdn.com^
