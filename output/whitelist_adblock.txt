@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-04Z
+! Version: 2020-09-05Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-04Z
+! Last modified: 2020-09-05Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2424,6 +2424,7 @@
 @@||intensedebate.com^
 @@||intercom.io^
 @@||intercontinental.ugc.bazaarvoice.com^
+@@||internal.paymentinstruments.mp.microsoft.com^
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
 @@||investingchannel.com^
@@ -3156,6 +3157,8 @@
 @@||pasteboard.co^
 @@||pathe.emsecure.net^
 @@||pay.google.com^
+@@||paymentinstruments.md.mp.microsoft.com^
+@@||paymentinstruments.mp.microsoft.com^
 @@||paypal.com^
 @@||paypalobjects.com^
 @@||pbs.twimg.com^
@@ -4571,6 +4574,7 @@
 @@||www.narkive.com^
 @@||www.naver.com^
 @@||www.nbcnews.com^
+@@||www.networksolutions.com^
 @@||www.newegg.com^
 @@||www.newrelic.com^
 @@||www.nhl.com^
@@ -4648,6 +4652,7 @@
 @@||www.sls.update.microsoft.com.akadns.net^
 @@||www.smartlook.com^
 @@||www.snapengage.com^
+@@||www.snipcart.com^
 @@||www.sociallitelife.tags.crwdcntrl.net^
 @@||www.sohu.com^
 @@||www.someonewhocares.org^
@@ -4698,6 +4703,7 @@
 @@||www.uplynk.com^
 @@||www.userreplay.net^
 @@||www.uservoice.com^
+@@||www.vgwort.de^
 @@||www.vidible.tv^
 @@||www.viglink.com^
 @@||www.vk.com^

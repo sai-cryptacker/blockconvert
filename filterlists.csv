@@ -74,7 +74,7 @@ CB-Malicious-Domains,https://raw.githubusercontent.com/cb-software/CB-Malicious-
 Binary Defense Banlist,https://www.binarydefense.com/banlist.txt,,Public use only,86400,IPBlocklist
 Better content blocking rules,https://better.fyi/blockerList.txt,,CC-BY-SA-4.0,86400,Adblock
 Basic tracking list by Disconnect,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,,GPLv3,86400,DomainBlocklist
-BarbBlock,https://ssl.bblck.me/blacklists/domain-list.txt,,MIT,86400,DomainBlocklist
+BarbBlock,https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt,,MIT,86400,DomainBlocklist
 BAR-list,https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list,,GPL-3.0,864000,DomainBlocklist
 Anudeep's Blacklist,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,Anudeep <anudeep@protonmail.com>,MIT,86400,Hostfile
 Anti-WebMiner,https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt,,Apache2,86400,DomainBlocklist
