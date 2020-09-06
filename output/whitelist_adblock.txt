@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-05Z
+! Version: 2020-09-06Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-05Z
+! Last modified: 2020-09-06Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2776,6 +2776,7 @@
 @@||meta.wikimedia.org^
 @@||metok.sys.miui.com^
 @@||metrics.mozilla.com^
+@@||metrics.notebooksbilliger.de^
 @@||metrics.torproject.org^
 @@||metrocashcarry.ugc.bazaarvoice.com^
 @@||mfstatic.cz^
@@ -2969,6 +2970,7 @@
 @@||notifications.google.com^
 @@||notify.vk.com^
 @@||notify.xboxlive.com^
+@@||now.notebooksbilliger.de^
 @@||now.sh^
 @@||npmcdn.com^
 @@||npr.org^
@@ -3600,6 +3602,7 @@
 @@||shoprunner.com^
 @@||shuc-android.ksord.com^
 @@||si.2.cqcounter.com^
+@@||si6ling.incestflix.com^
 @@||siatka.org^
 @@||sidearmsports.com^
 @@||sign-in.heatmap.it^

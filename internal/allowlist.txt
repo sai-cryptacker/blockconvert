@@ -413,6 +413,7 @@ settings-win.data.microsoft.com
 sfdataservice.microsoft.com # Blocks Microsoft store payments
 shop.gadgetsnow.com
 sh.st
+si6ling.incestflix.com # https://github.com/mkb2091/blockconvert/issues/65 Static Assets
 s.imgur.com
 similarweb.com
 *.simply.com

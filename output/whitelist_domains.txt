@@ -2767,6 +2767,7 @@ meta.vk.com
 meta.wikimedia.org
 metok.sys.miui.com
 metrics.mozilla.com
+metrics.notebooksbilliger.de
 metrics.torproject.org
 metrocashcarry.ugc.bazaarvoice.com
 mfstatic.cz
@@ -2960,6 +2961,7 @@ notification-int.dce.mp.microsoft.com
 notifications.google.com
 notify.vk.com
 notify.xboxlive.com
+now.notebooksbilliger.de
 now.sh
 npmcdn.com
 npr.org
@@ -3591,6 +3593,7 @@ shopping.com
 shoprunner.com
 shuc-android.ksord.com
 si.2.cqcounter.com
+si6ling.incestflix.com
 siatka.org
 sidearmsports.com
 sign-in.heatmap.it
