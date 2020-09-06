@@ -763,6 +763,7 @@ cdn-a.sonyentertainmentnetwork.com
 cdn-content.ampproject.org
 cdn-eu.dynamicyield.com
 cdn-us-ec.yottaa.net
+cdn.ampproject.org
 cdn.arstechnica.net
 cdn.auth0.com
 cdn.cnetcontent.com
