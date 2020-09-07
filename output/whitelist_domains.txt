@@ -2028,6 +2028,7 @@ glb.frontend-int.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
+global.edge.bamgrid.com
 global.market.xiaomi.com
 global.search.xiaomi.net
 global.ssl.fastly.net
@@ -2382,6 +2383,7 @@ imv2.vk.com
 imv3.vk.com
 imv4.vk.com
 in.2.cqcounter.com
+in.appcenter.ms
 inapcache.boston.com
 inc.com
 incoming.telemetry.mozilla.org
@@ -3392,6 +3394,7 @@ reddit.app.link
 reddit.com
 redditarchive.com
 redditmedia.com
+redditstatic.s3.amazonaws.com
 redefine.pl
 redfin.com
 redir.diamond.synacor.com
