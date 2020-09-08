@@ -534,6 +534,7 @@ bbc.co.uk
 bbc.com
 bbci.co.uk
 bbs.archlinux.org
+bbs.pcbeta.com
 bcee.lu
 bcorg.web.burst-alliance.org
 be.2.cqcounter.com
@@ -790,6 +791,9 @@ cdn.leafletjs.com
 cdn.mxpnl.com
 cdn.onenote.net
 cdn.optimizely.com
+cdn.pcbeta.attachment.inimc.com
+cdn.pcbeta.css.inimc.com
+cdn.pcbeta.static.inimc.com
 cdn.platform.dev.openx.com
 cdn.platform.openx.com
 cdn.platform.qa.openx.com
@@ -2279,6 +2283,7 @@ i.ibb.co
 i.imgur.com
 i.lithium.com
 i.loli.net
+i.pcbeta.com
 i.pinimg.com
 i.s-microsoft.com
 i.vgy.me
@@ -2464,7 +2469,6 @@ joemonster.org
 joewein.net
 johndeere.ugc.bazaarvoice.com
 johnfrieda.ugc.bazaarvoice.com
-johnlewis.ugc.bazaarvoice.com
 jp.2.cqcounter.com
 jp06.zopim.com
 jpost.com
@@ -2668,10 +2672,12 @@ m.facebook.com
 m.hotmail.com
 m.me
 m.media-amazon.com
+m.pcbeta.com
 m.stripe.network
 m.tau.vk.com
 m.vk.com
 m.youtube.com
+mac.pcbeta.com
 macys.com
 macys.ugc.bazaarvoice.com
 madewell.ugc.bazaarvoice.com
@@ -3418,7 +3424,6 @@ reply.vk.com
 report-uri.com
 res.cloudinary.com
 researchgate.net
-resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 rest-prde.immedia-semi.com
@@ -3783,6 +3788,8 @@ static.kickstarter.com
 static.licdn.com
 static.networkedblogs.com
 static.tacdn.com
+static.template.pcbeta.com
+static.tianya.cn
 static.tianyaui.com
 static.tidiochat.com
 static.twisto.cz
@@ -4026,6 +4033,7 @@ u.corp.vk.com
 u.heatmap.it
 u.vk.com
 ubuntuforums.org
+uc.pcbeta.com
 ueuev4.vk.com
 ui-portal.de
 ui.cs7777.vk.com
@@ -4359,6 +4367,7 @@ www.a-0008.a-msedge.net
 www.a-0009.a-msedge.net
 www.a.shifen.com
 www.accuweather.com
+www.acehardware.com
 www.adfox.ru
 www.adidas.com
 www.adwords.google.com
@@ -4383,6 +4392,7 @@ www.apple.com
 www.apptimize.com
 www.awin1.com
 www.baidu.com
+www.battle.net
 www.bbc.com
 www.bcorg.web.burst-alliance.org
 www.berush.com
@@ -4426,6 +4436,7 @@ www.coingeek.com
 www.coinpot.co
 www.cointraffic.io
 www.collamask.vk.com
+www.countryflags.io
 www.cqcounter.com
 www.crashlytics.com
 www.cs00000000000000000000000000000000.vk.com
@@ -4462,6 +4473,7 @@ www.expressen.se
 www.facebook.com
 www.familydollar.com
 www.fili.cc
+www.fiverr.com
 www.flattr.com
 www.flickr.com
 www.fling.com
@@ -4515,6 +4527,7 @@ www.img-bahn.de
 www.inc.com
 www.inputdirector.com
 www.inspectlet.com
+www.instagram.com
 www.instapaper.com
 www.intercom.io
 www.ipify.org
@@ -4549,6 +4562,7 @@ www.logrocket.com
 www.lowes.com
 www.luckyorange.com
 www.m.vk.com
+www.macys.com
 www.mailchimp.com
 www.majorgeeks.com
 www.malwaredomainlist.com
@@ -4605,6 +4619,7 @@ www.pasteboard.co
 www.paypal.com
 www.paypal.com.edgekey.net
 www.paypalobjects.com
+www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
 www.pennlive.com
@@ -4674,6 +4689,7 @@ www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
 www.surveygizmo.com
+www.surveymonkey.com
 www.t-online.de
 www.tags.crwdcntrl.net
 www.target.com
@@ -4692,6 +4708,7 @@ www.tinypass.com
 www.tinyurl.com
 www.tlc.com
 www.tmz.com
+www.townnews.com
 www.transfer.sh
 www.trumba.com
 www.trustpilot.com
@@ -4713,6 +4730,7 @@ www.vk.com
 www.vk.vk.com
 www.vmn.net
 www.wallet.burst-alliance.org
+www.walmart.com
 www.wangbase.com
 www.watchdog.burst-alliance.org
 www.weather.gov
@@ -4720,7 +4738,6 @@ www.web.burst-alliance.org
 www.windy.com
 www.wired.com
 www.wistia.com
-www.worldnow.com
 www.wshifen.com
 www.wupload.com
 www.www.m.vk.com
