@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-08Z
+! Version: 2020-09-09Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-08Z
+! Last modified: 2020-09-09Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2024,6 +2024,7 @@
 @@||gist.githubusercontent.com^
 @@||git.io^
 @@||git.teknik.io^
+@@||gitbook.com^
 @@||gitcdn.xyz^
 @@||gitee.com^
 @@||github.com^
@@ -2774,6 +2775,7 @@
 @@||merkur-werbebanner.de^
 @@||merriam-webster.com^
 @@||messaging.internetofthings.ibmcloud.com^
+@@||messagingexporter.skype.com^
 @@||messenger.com^
 @@||messenger.live.com^
 @@||messenger.msn.com^
@@ -2934,6 +2936,7 @@
 @@||newstogram.com^
 @@||newyork.cbslocal.com^
 @@||next-services.apps.microsoft.com^
+@@||nextcloud.com^
 @@||nextopiasoftware.com^
 @@||nexus.ensighten.com^
 @@||nexus.passport.com^
@@ -3334,6 +3337,7 @@
 @@||publiekeomroep.nl^
 @@||publisher.adservice.com^
 @@||publishingapi.dps.mp.microsoft.com^
+@@||publishingmgmt-dev.dps.mp.microsoft.com^
 @@||publix.com^
 @@||pubsub.plex.bz^
 @@||pubsub.plex.tv^
@@ -4329,6 +4333,7 @@
 @@||woodpecker.uc.cn^
 @@||woosmap.com^
 @@||wordpress.com^
+@@||workflowservice-int.dps.mp.microsoft.com^
 @@||workflowservice.dps.mp.microsoft.com^
 @@||world-gen.g.aaplimg.com^
 @@||worldnow.com^
@@ -4520,6 +4525,7 @@
 @@||www.heapanalytics.com^
 @@||www.heatmap.it^
 @@||www.heise.de^
+@@||www.hoopshype.com^
 @@||www.hotjar.com^
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
@@ -4556,6 +4562,7 @@
 @@||www.komputerswiat.pl^
 @@||www.kopimi.com^
 @@||www.latimes.com^
+@@||www.leagueoflegends.com^
 @@||www.leanplum.com^
 @@||www.liftoff.io^
 @@||www.linkedin.com^
@@ -4735,6 +4742,7 @@
 @@||www.vgwort.de^
 @@||www.vidible.tv^
 @@||www.viglink.com^
+@@||www.visa.com^
 @@||www.vk.com^
 @@||www.vk.vk.com^
 @@||www.vmn.net^
