@@ -963,6 +963,7 @@ connect.facebook.net
 connect.rom.miui.com
 connect.tau.vk.com
 connect.vk.com
+connectivitycheck.android.com
 connectivitycheck.gstatic.com
 conrad.ugc.bazaarvoice.com
 consent.google.com
@@ -3408,6 +3409,7 @@ redditstatic.s3.amazonaws.com
 redefine.pl
 redfin.com
 redir.diamond.synacor.com
+redir.tradedoubler.com
 redirect.appmetrica.yandex.com
 redirect.viglink.com
 redirectingat.com
@@ -4487,7 +4489,6 @@ www.fonts.com
 www.forbes.com
 www.forms.gle
 www.forum.vk.com
-www.framasoft.org
 www.freedownloadmanager.org
 www.fullstory.com
 www.funk.eu
@@ -4503,7 +4504,6 @@ www.github.io
 www.glb.paypal.com
 www.gmail.com
 www.gmodules.com
-www.godaddy.com
 www.gogousenet.com
 www.goo.gl
 www.google.com
@@ -4582,6 +4582,7 @@ www.mbl.is
 www.mediafire.com
 www.miaminewtimes.com
 www.microsoft.com
+www.microsofttranslator.com
 www.mlive.com
 www.monero.org
 www.moonbit.co.in
@@ -4601,7 +4602,6 @@ www.nbcnewyork.com
 www.networksolutions.com
 www.newegg.com
 www.newrelic.com
-www.nhl.com
 www.nj.com
 www.no-ip.com
 www.nordichardware.se
@@ -4659,6 +4659,7 @@ www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
 www.salsalabs.com
+www.scribd.com
 www.sdad.guru
 www.searchanise.com
 www.sears.com

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-10Z
+! Version: 2020-09-11Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-10Z
+! Last modified: 2020-09-11Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -972,6 +972,7 @@
 @@||connect.rom.miui.com^
 @@||connect.tau.vk.com^
 @@||connect.vk.com^
+@@||connectivitycheck.android.com^
 @@||connectivitycheck.gstatic.com^
 @@||conrad.ugc.bazaarvoice.com^
 @@||consent.google.com^
@@ -3417,6 +3418,7 @@
 @@||redefine.pl^
 @@||redfin.com^
 @@||redir.diamond.synacor.com^
+@@||redir.tradedoubler.com^
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.viglink.com^
 @@||redirectingat.com^
@@ -4496,7 +4498,6 @@
 @@||www.forbes.com^
 @@||www.forms.gle^
 @@||www.forum.vk.com^
-@@||www.framasoft.org^
 @@||www.freedownloadmanager.org^
 @@||www.fullstory.com^
 @@||www.funk.eu^
@@ -4512,7 +4513,6 @@
 @@||www.glb.paypal.com^
 @@||www.gmail.com^
 @@||www.gmodules.com^
-@@||www.godaddy.com^
 @@||www.gogousenet.com^
 @@||www.goo.gl^
 @@||www.google.com^
@@ -4591,6 +4591,7 @@
 @@||www.mediafire.com^
 @@||www.miaminewtimes.com^
 @@||www.microsoft.com^
+@@||www.microsofttranslator.com^
 @@||www.mlive.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
@@ -4610,7 +4611,6 @@
 @@||www.networksolutions.com^
 @@||www.newegg.com^
 @@||www.newrelic.com^
-@@||www.nhl.com^
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.nordichardware.se^
@@ -4668,6 +4668,7 @@
 @@||www.rpxnow.com^
 @@||www.salemove.com^
 @@||www.salsalabs.com^
+@@||www.scribd.com^
 @@||www.sdad.guru^
 @@||www.searchanise.com^
 @@||www.sears.com^
