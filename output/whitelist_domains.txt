@@ -265,6 +265,7 @@ aliexpress.com
 allegro.pl
 allencorona.vk.com
 allenedmonds.ugc.bazaarvoice.com
+allow.vk.com
 allure.com
 alluremedia.com.au
 ally.com
@@ -975,6 +976,7 @@ content.adfox.ru
 content.invisioncic.com
 content.jwplatform.com
 content.logmein.com
+contentservice.dce.mp.microsoft.com
 continuum.dds.microsoft.com
 cookieblock.trackersimulate.org
 cookielawinfo.com
@@ -990,7 +992,6 @@ countryflags.io
 coupon.aliexpress.com
 cp501-prod.do.dsp.mp.microsoft.com
 cp701-prod.do.dsp.mp.microsoft.com
-cp801-prod.do.dsp.mp.microsoft.com
 cqcounter.com
 cracked.com
 cracovia.pl
@@ -1076,6 +1077,7 @@ cs543304.vk.com
 cs543501.vk.com
 cs543509.vk.com
 cs543603.vk.com
+cs5447.vk.com
 cs5475.vk.com
 cs5533.vk.com
 cs5840.vk.com
@@ -1168,7 +1170,9 @@ cs829417-20.vk.com
 cs829417-30.vk.com
 cs9.wac.phicdn.net
 cs910.vk.com
+cs9360.vk.com
 cs9385.vk.com
+cs949.vk.com
 cs9530.vk.com
 cs9591.vk.com
 cs9602.vk.com
@@ -1176,6 +1180,7 @@ cs9612.vk.com
 cs9621.vk.com
 cs9681.vk.com
 cs9710.vk.com
+cs9763.vk.com
 cs9813.vk.com
 cs9916.vk.com
 cs9947.vk.com
@@ -1566,12 +1571,12 @@ digicert.com
 digitalassetlinks.googleapis.com
 digitalattach-int.mp.microsoft.com
 digitalattach.mp.microsoft.com
+digitalattachclaims-int.purchase.mp.microsoft.com
 digitalriver.com
 digitaltrends.com
 directvnow.com
 disc501-prod.do.dsp.mp.microsoft.com
 disc701-prod.do.dsp.mp.microsoft.com
-disc801-prod.do.dsp.mp.microsoft.com
 discord.com
 discord.gg
 discovermagazine.com
@@ -1939,6 +1944,7 @@ fr.osdn.net
 framasoft.org
 frankerfacez.com
 free.facebook.com
+free.vk.com
 freebsd.org
 freedownloadmanager.org
 freenet.de
@@ -2028,6 +2034,7 @@ gitter.im
 gizmodo.com
 gizmodo.com.au
 glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com
+glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com
 glb.auar-dev.trafficshaping.dsp.mp.microsoft.com
 glb.frontend-dev.trafficshaping.dsp.mp.microsoft.com
 glb.frontend-int.trafficshaping.dsp.mp.microsoft.com
@@ -2547,7 +2554,6 @@ ku6.com
 kulinovich.vk.com
 kv501-prod.do.dsp.mp.microsoft.com
 kv701-prod.do.dsp.mp.microsoft.com
-kv801-prod.do.dsp.mp.microsoft.com
 kw.2.cqcounter.com
 kxcdn.com
 kz.2.cqcounter.com
@@ -2687,6 +2693,7 @@ magpie-static.ugc.bazaarvoice.com
 mail.com
 mail.getmonero.org
 mail.google.com
+mail.mobile-legend.free.vk.com
 mail.ru
 mail.srv194-139-240-87.vk.com
 mail.srv67-190-240-87.vk.com
@@ -2760,6 +2767,7 @@ meetings.hubspot.com
 mega.co.nz
 mega.nz
 mega.vk.com
+megaphone.fm
 mellamaskayla.vk.com
 members.internetdefenseleague.org
 menshealth.com
@@ -2809,6 +2817,7 @@ mmd.ugc.bazaarvoice.com
 mncdn.com
 mobify.com
 mobile-devint.cdn.openx.com
+mobile-legend.free.vk.com
 mobile-qa.cdn.openx.com
 mobile.beta.facebook.com
 mobile.cdn.openx.com
@@ -3137,7 +3146,6 @@ p.imgur.com
 p.jwpcdn.com
 pac.dce.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
-packages-intppe.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.dps.mp.microsoft.com
 packages.linuxmint.com
@@ -3297,10 +3305,12 @@ prod-docs.openx.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
 prod.telemetry.ros.rockstargames.com
+product.dps.mp.microsoft.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 products.office.com
 profile.target.com
+profimasking.dev.tau.vk.com
 promodj.com
 promotion.aliexpress.com
 promotions.newegg.com
@@ -3422,6 +3432,7 @@ reebokglobal.ugc.bazaarvoice.com
 reebokjp.ugc.bazaarvoice.com
 referrer.disqus.com
 refinery29.com
+reflex.tau.vk.com
 release.theplatform.com
 releases.flowplayer.org
 remixstid.vk.com
@@ -3440,8 +3451,6 @@ resultspage.com
 returnpath.com
 rewardstyle.com
 richmedia.coolespiele.com
-riker-int.dps.mp.microsoft.com
-riker.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
@@ -3964,6 +3973,7 @@ token.services.mozilla.com
 tomshardware.com
 tools.l.google.com
 tools.pingdom.com
+topengkacaindo.dev.tau.vk.com
 toppstiles.ugc.bazaarvoice.com
 toptenreviews.com
 torbit.com
@@ -4016,6 +4026,7 @@ turner.com
 turnto.com
 tusfiles.net
 tutut.thefeel.cs624620.vk.com
+tv.vk.com
 tv.wp.pl
 tvdb2.plex.tv
 tvn24.pl
@@ -4266,6 +4277,7 @@ web5913.cs304110.vk.com
 web7.vk.com
 webflow.com
 weblb-wg.dual-gslb.spotify.com
+webmail.adstyle.com
 webmail.laposte.net
 webmail.orange.fr
 webmasters.stackexchange.com
@@ -4377,6 +4389,7 @@ www.accuweather.com
 www.acehardware.com
 www.adfox.ru
 www.adidas.com
+www.adstyle.com
 www.adwords.google.com
 www.aeriagames.com
 www.aetna.com
@@ -4459,14 +4472,12 @@ www.deviantart.com
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
-www.discovery.com
 www.distilnetworks.com
 www.drift.com
 www.driftt.com
 www.drive.google.com
 www.dropbox.com
 www.ebay.com
-www.ebay.pl
 www.ecdinterface.philips.com
 www.eloqua.com
 www.eltrafiko.com
@@ -4606,7 +4617,6 @@ www.nj.com
 www.no-ip.com
 www.nordichardware.se
 www.northeu.pi-dns.com
-www.nydailynews.com
 www.nypost.com
 www.nytimes.com
 www.oboom.com
@@ -4638,7 +4648,6 @@ www.pocketnow.com
 www.polldaddy.com
 www.pornhub.com
 www.pornhubpremium.com
-www.powr.io
 www.ppt.cc
 www.privateinternetaccess.com
 www.providesupport.com
@@ -4714,7 +4723,6 @@ www.theverge.com
 www.tiktok.com
 www.tinypass.com
 www.tinyurl.com
-www.tlc.com
 www.tmz.com
 www.townnews.com
 www.transfer.sh
@@ -4727,7 +4735,6 @@ www.tusfiles.net
 www.twitter.com
 www.ultimedia.com
 www.unibytes.com
-www.uplynk.com
 www.userreplay.net
 www.uservoice.com
 www.vanityfair.com
@@ -4813,6 +4820,7 @@ yardbarker.com
 yardbarker.tags.crwdcntrl.net
 yastatic.net
 yeastinfection.vk.com
+yeastinfectioncurehq.dev.tau.vk.com
 yellowpages.com
 yerl.org
 yimg.com
