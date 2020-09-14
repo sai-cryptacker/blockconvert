@@ -8,6 +8,7 @@
 0-amadeus.bvdinfo.com.biblio.vk.com
 0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
+0.afs.googleadservices.com
 0.client-channel.google.com
 0.vk.com
 007jamesbondfragrances.ugc.bazaarvoice.com
@@ -27,7 +28,10 @@
 167274089.vk.com
 18.afs.googleadservices.com
 19534.redirect.appmetrica.yandex.com
+1an.cqcounter.com
+1ar.cqcounter.com
 1au.cqcounter.com
+1be.cqcounter.com
 1bm.cqcounter.com
 1ca.cqcounter.com
 1cn.cqcounter.com
@@ -35,8 +39,11 @@
 1drv.com
 1drv.ms
 1es.cqcounter.com
+1fi.cqcounter.com
 1fichier.com
 1fr.cqcounter.com
+1hk.cqcounter.com
+1il.cqcounter.com
 1in.cqcounter.com
 1it.cqcounter.com
 1jo.cqcounter.com
@@ -45,9 +52,12 @@
 1nl.cqcounter.com
 1no.cqcounter.com
 1np.cqcounter.com
+1nt.cqcounter.com
 1pt.cqcounter.com
+1ro.cqcounter.com
 1se.cqcounter.com
 1si.cqcounter.com
+1su.cqcounter.com
 1th.cqcounter.com
 1tr.cqcounter.com
 1ua.cqcounter.com
@@ -298,6 +308,7 @@ ap.org
 ap.spotify.com
 ap108.cs304112.vk.com
 api-cdn.embed.ly
+api-dev.dcat.dsp.mp.microsoft.com
 api-glb.smoot.apple.com
 api-global.netflix.com
 api-int.dcat.dsp.mp.microsoft.com
@@ -446,6 +457,7 @@ assets.nflxext.com
 assets.penny-arcade.com
 assets.ubuntu.com
 at-testnet.burst-alliance.org
+at.2.cqcounter.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 att.ugc.bazaarvoice.com
@@ -515,6 +527,7 @@ bbs.archlinux.org
 bbs.pcbeta.com
 bcee.lu
 bcorg.web.burst-alliance.org
+be.2.cqcounter.com
 bebe.ugc.bazaarvoice.com
 bedbathandbeyond.com
 bell.ugc.bazaarvoice.com
@@ -649,6 +662,7 @@ boulanger.ugc.bazaarvoice.com
 bountysource.com
 bowercdn.net
 boxrec.com
+br.2.cqcounter.com
 braintreegateway.com
 brakrock.be
 breakingburner.com
@@ -2282,6 +2296,7 @@ icemask.vk.com
 ichnaea-web.netflix.com
 ichnaea.netflix.com
 icloud.com
+id.2.cqcounter.com
 id.sonyentertainmentnetwork.com
 idealworld.ugc.bazaarvoice.com
 idg.se
@@ -2394,6 +2409,7 @@ intellicast.com
 intensedebate.com
 intercom.io
 intercontinental.ugc.bazaarvoice.com
+internal.paymentinstruments.mp.microsoft.com
 internetofthings.ibmcloud.com
 intersport.peerius.com
 investingchannel.com
@@ -2513,6 +2529,7 @@ kulinovich.vk.com
 kv501-prod.do.dsp.mp.microsoft.com
 kv701-prod.do.dsp.mp.microsoft.com
 kxcdn.com
+kz.2.cqcounter.com
 l.betrad.com
 l.facebook.com
 l.ooyala.com
@@ -2595,6 +2612,7 @@ location.services.mozilla.com
 lockdownteam.piter-ix.vk.com
 lodz.tvp.pl
 log.mmstat.com
+logger.cqcounter.com
 logging.apache.org
 loggly.com
 login.adfox.ru
@@ -2739,7 +2757,6 @@ meta.vk.com
 meta.wikimedia.org
 metok.sys.miui.com
 metrics.mozilla.com
-metrics.notebooksbilliger.de
 metrics.torproject.org
 metrocashcarry.ugc.bazaarvoice.com
 mfstatic.cz
@@ -2875,6 +2892,7 @@ networksolutions.com
 new.vk.com
 newad.mail.wo.cn
 newegg.com
+newimv4.vk.com
 newjobs.com
 newrelic.com
 news.bitcoin.com
@@ -2932,7 +2950,6 @@ notification-int.dce.mp.microsoft.com
 notifications.google.com
 notify.vk.com
 notify.xboxlive.com
-now.notebooksbilliger.de
 now.sh
 npmcdn.com
 npr.org
@@ -3536,6 +3553,7 @@ settings-win.data.microsoft.com
 settings.data.microsoft.com
 sfdataservice.microsoft.com
 sfsapi.micloud.xiaomi.net
+sg.2.cqcounter.com
 sg2p.wns.windows.com
 sgpac.account.xiaomi.com
 sh.docs.dingtalk.com
@@ -3693,6 +3711,7 @@ ss2.baidu.com
 ss3.baidu.com
 ssl-i.cdn.openx.com
 ssl.bblck.me
+ssl.cqcounter.com
 ssl.gstatic.com
 ssl.marfeelcdn.com
 ssl.p.jwpcdn.com
@@ -3923,6 +3942,7 @@ toyo.ugc.bazaarvoice.com
 toyota.ugc.bazaarvoice.com
 toysrus.com
 tr.2.cqcounter.com
+tr.vk.com
 track.customer.io
 track.rutarget.ru
 track.ucas.com
@@ -3971,6 +3991,7 @@ tvp.pl
 tvsn.ugc.bazaarvoice.com
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
+tw.2.cqcounter.com
 twimg0-a.akamaihd.net
 twitch.tv
 twitter.com
@@ -4304,6 +4325,7 @@ www-new.awin1.com
 www-tc.pbs.org
 www.112.2o7.net
 www.122.2o7.net
+www.1zz.cqcounter.com
 www.4shared.com
 www.a-0001.a-msedge.net
 www.a-0002.a-msedge.net
@@ -4318,6 +4340,7 @@ www.a.shifen.com
 www.accuweather.com
 www.acehardware.com
 www.adfox.ru
+www.adidas.com
 www.adstyle.com
 www.aeriagames.com
 www.aetna.com
@@ -4371,6 +4394,7 @@ www.cleveland.com
 www.clicktale.net
 www.clkap.tradedoubler.com
 www.clkgb.tradedoubler.com
+www.cloudflare-dns.com
 www.cnbc.com
 www.cnet.com
 www.cnnmoney.tags.crwdcntrl.net
@@ -4508,6 +4532,7 @@ www.macys.com
 www.mailchimp.com
 www.majorgeeks.com
 www.malwaredomainlist.com
+www.mapquestapi.com
 www.marketo.com
 www.masslive.com
 www.master.burst-alliance.org
@@ -4533,6 +4558,7 @@ www.narkive.com
 www.naver.com
 www.nbcnews.com
 www.nbcnewyork.com
+www.networksolutions.com
 www.newegg.com
 www.newrelic.com
 www.nj.com
@@ -4606,6 +4632,7 @@ www.slate.com
 www.sls.update.microsoft.com.akadns.net
 www.smartlook.com
 www.snapengage.com
+www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
 www.someonewhocares.org
@@ -4654,6 +4681,7 @@ www.twitter.com
 www.ultimedia.com
 www.unibytes.com
 www.userreplay.net
+www.vgwort.de
 www.vidible.tv
 www.viglink.com
 www.visa.com
@@ -4667,6 +4695,7 @@ www.watchdog.burst-alliance.org
 www.weather.gov
 www.web.burst-alliance.org
 www.wired.com
+www.wistia.com
 www.wshifen.com
 www.wupload.com
 www.www.m.vk.com
