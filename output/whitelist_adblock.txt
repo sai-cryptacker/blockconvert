@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-14Z
+! Version: 2020-09-16Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-14Z
+! Last modified: 2020-09-16Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -39,24 +39,32 @@
 @@||19534.redirect.appmetrica.yandex.com^
 @@||1an.cqcounter.com^
 @@||1ar.cqcounter.com^
+@@||1at.cqcounter.com^
 @@||1au.cqcounter.com^
+@@||1bb.cqcounter.com^
 @@||1be.cqcounter.com^
 @@||1bm.cqcounter.com^
 @@||1ca.cqcounter.com^
 @@||1cn.cqcounter.com^
 @@||1de.cqcounter.com^
+@@||1dk.cqcounter.com^
 @@||1drv.com^
 @@||1drv.ms^
+@@||1eg.cqcounter.com^
 @@||1es.cqcounter.com^
 @@||1fi.cqcounter.com^
 @@||1fichier.com^
 @@||1fr.cqcounter.com^
+@@||1gr.cqcounter.com^
 @@||1hk.cqcounter.com^
+@@||1hu.cqcounter.com^
 @@||1il.cqcounter.com^
 @@||1in.cqcounter.com^
 @@||1it.cqcounter.com^
 @@||1jo.cqcounter.com^
+@@||1jp.cqcounter.com^
 @@||1m.vk.com^
+@@||1mil.cqcounter.com^
 @@||1my.cqcounter.com^
 @@||1nl.cqcounter.com^
 @@||1no.cqcounter.com^
@@ -69,11 +77,13 @@
 @@||1su.cqcounter.com^
 @@||1th.cqcounter.com^
 @@||1tr.cqcounter.com^
+@@||1tw.cqcounter.com^
 @@||1ua.cqcounter.com^
 @@||1uk.cqcounter.com^
 @@||1und1.de^
 @@||1us.cqcounter.com^
 @@||1xxx.cqcounter.com^
+@@||1zz.cqcounter.com^
 @@||2-edge-chat.facebook.com^
 @@||2.afs.googleadservices.com^
 @@||2.android.pool.ntp.org^
@@ -298,6 +308,7 @@
 @@||ams.amazon.co.jp^
 @@||ams.amazon.co.uk^
 @@||ams.amazon.com^
+@@||amuniversal.com^
 @@||amzn.to^
 @@||anabiullin.cs7777.vk.com^
 @@||analytics-static.ugc.bazaarvoice.com^
@@ -516,6 +527,7 @@
 @@||b-www.facebook.com^
 @@||b.hatena.ne.jp^
 @@||b1.awin1.com^
+@@||backend.vk.com^
 @@||baidu.com^
 @@||balancer.wixdns.net^
 @@||baltimore.cbslocal.com^
@@ -565,7 +577,6 @@
 @@||bigfishgames.ugc.bazaarvoice.com^
 @@||bilder.bild.de^
 @@||billiger.de^
-@@||billing1.cs636521.vk.com^
 @@||binarydefense.com^
 @@||bing.at^
 @@||bing.ch^
@@ -756,7 +767,6 @@
 @@||cc.cnetcontent.com^
 @@||cc.vk.com^
 @@||ccleaner.com^
-@@||ccns.cs636521.vk.com^
 @@||cda.pl^
 @@||cdiscount.ugc.bazaarvoice.com^
 @@||cdn-a.sonyentertainmentnetwork.com^
@@ -771,6 +781,7 @@
 @@||cdn.cpnscdn.com^
 @@||cdn.datatables.net^
 @@||cdn.discordapp.com^
+@@||cdn.dopc.cz^
 @@||cdn.dynamicyield.com^
 @@||cdn.edgesuite.net^
 @@||cdn.embed.ly^
@@ -840,6 +851,7 @@
 @@||cf.hamreus.com^
 @@||cf.iadsdk.apple.com^
 @@||cfvod.kaltura.com^
+@@||ch.2.cqcounter.com^
 @@||chainreactioncycles.ugc.bazaarvoice.com^
 @@||change.org^
 @@||charter.com^
@@ -903,6 +915,7 @@
 @@||clkse.tradedoubler.com^
 @@||clkuk.tradedoubler.com^
 @@||cloud.google.com^
+@@||cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudflareworkers.com^
 @@||cloudinary.com^
@@ -1708,6 +1721,7 @@
 @@||eds-gateway.mp.microsoft.com^
 @@||eds.xboxlive.com^
 @@||eec.crunchyroll.com^
+@@||eg.2.cqcounter.com^
 @@||ehc.com^
 @@||eitquarantine.vk.com^
 @@||elasticbeanstalk.com^
@@ -1835,6 +1849,7 @@
 @@||fellowes.ugc.bazaarvoice.com^
 @@||feodotracker.abuse.ch^
 @@||fg.v4.download.windowsupdate.com^
+@@||fi.2.cqcounter.com^
 @@||fiddle.jshell.net^
 @@||fide.com^
 @@||fidelity-ssl.ugc.bazaarvoice.com^
@@ -1848,7 +1863,6 @@
 @@||files.freedownloadmanager.org^
 @@||files.graphiq.com^
 @@||files2.freedownloadmanager.org^
-@@||filesapi.dps.mp.microsoft.com^
 @@||filesmonster.com^
 @@||fili.cc^
 @@||filmekmaskepp.vk.com^
@@ -1873,6 +1887,7 @@
 @@||fling.com^
 @@||flipboard.com^
 @@||flipcause.com^
+@@||flo.uri.sh^
 @@||flowplayer.org^
 @@||fls-na.amazon.com^
 @@||flyertown.ca^
@@ -1944,6 +1959,7 @@
 @@||frys.com^
 @@||fs.microsoft.com^
 @@||ftp.chocolatey.org^
+@@||ftp.cqcounter.com^
 @@||ftp.heanet.ie^
 @@||ftp.srv67-190-240-87.vk.com^
 @@||ftp.srv72-190-240-87.vk.com^
@@ -2103,7 +2119,6 @@
 @@||gtms01.alicdn.com^
 @@||gtms02.alicdn.com^
 @@||gtms03.alicdn.com^
-@@||gtms04.alicdn.com^
 @@||guardian.co.uk^
 @@||guce.advertising.com^
 @@||guce.huffpost.com^
@@ -2122,6 +2137,7 @@
 @@||halkalit31maskot41.vk.com^
 @@||happyangler.ugc.bazaarvoice.com^
 @@||happymasksalesman.vk.com^
+@@||hb.afl.rakuten.co.jp^
 @@||hb.vk.com^
 @@||hblock.molinero.dev^
 @@||hbogo.com^
@@ -2149,6 +2165,7 @@
 @@||hiroservers.appspot.com^
 @@||history.com^
 @@||hitfile.net^
+@@||hk.2.cqcounter.com^
 @@||hk2.wns.windows.com^
 @@||hk2sch130020721.wns.windows.com^
 @@||hk2sch130020723.wns.windows.com^
@@ -2251,6 +2268,7 @@
 @@||houston.cbslocal.com^
 @@||howtoforge.com^
 @@||howtogeek.com^
+@@||hr.2.cqcounter.com^
 @@||hrblock.com^
 @@||href.li^
 @@||hsamuel.ugc.bazaarvoice.com^
@@ -2313,6 +2331,7 @@
 @@||ign.com^
 @@||ignorelist.com^
 @@||ikea.com^
+@@||il.2.cqcounter.com^
 @@||im.vk.com^
 @@||im81.vk.com^
 @@||im89v4.vk.com^
@@ -2343,6 +2362,8 @@
 @@||imap.srv72-190-240-87.vk.com^
 @@||imap.vk.com^
 @@||imap.www.m.vk.com^
+@@||imap4.cqcounter.com^
+@@||imap4.ftp.cqcounter.com^
 @@||imap4.srv194-139-240-87.vk.com^
 @@||imap4.srv67-190-240-87.vk.com^
 @@||imap4.srv71-129-240-87.vk.com^
@@ -2381,6 +2402,7 @@
 @@||imv2.vk.com^
 @@||imv3.vk.com^
 @@||imv4.vk.com^
+@@||in.2.cqcounter.com^
 @@||in.appcenter.ms^
 @@||inapcache.boston.com^
 @@||inc.com^
@@ -2462,6 +2484,7 @@
 @@||joewein.net^
 @@||johndeere.ugc.bazaarvoice.com^
 @@||johnfrieda.ugc.bazaarvoice.com^
+@@||jp.2.cqcounter.com^
 @@||jp06.zopim.com^
 @@||jpost.com^
 @@||jq.qq.com^
@@ -2537,6 +2560,7 @@
 @@||kulinovich.vk.com^
 @@||kv501-prod.do.dsp.mp.microsoft.com^
 @@||kv701-prod.do.dsp.mp.microsoft.com^
+@@||kw.2.cqcounter.com^
 @@||kxcdn.com^
 @@||kz.2.cqcounter.com^
 @@||l.betrad.com^
@@ -2622,6 +2646,7 @@
 @@||lodz.tvp.pl^
 @@||log.mmstat.com^
 @@||logger.cqcounter.com^
+@@||logger2.cqcounter.com^
 @@||logging.apache.org^
 @@||loggly.com^
 @@||login.adfox.ru^
@@ -2646,9 +2671,11 @@
 @@||lowes.com^
 @@||lowes.ugc.bazaarvoice.com^
 @@||lp.vk.com^
+@@||lt.2.cqcounter.com^
 @@||lublin.tvp.pl^
 @@||lubriderm.ugc.bazaarvoice.com^
 @@||luckyorange.com^
+@@||lv.2.cqcounter.com^
 @@||lwn.net^
 @@||lyncdiscover.coingeek.com^
 @@||m-sso.openx.com^
@@ -2766,6 +2793,7 @@
 @@||meta.wikimedia.org^
 @@||metok.sys.miui.com^
 @@||metrics.mozilla.com^
+@@||metrics.notebooksbilliger.de^
 @@||metrics.torproject.org^
 @@||metrocashcarry.ugc.bazaarvoice.com^
 @@||mfstatic.cz^
@@ -2857,6 +2885,7 @@
 @@||mx.srv72-190-240-87.vk.com^
 @@||mx.vk.com^
 @@||mx.www.m.vk.com^
+@@||my.2.cqcounter.com^
 @@||my.aliexpress.com^
 @@||my.plexapp.com^
 @@||my.tealiumiq.com^
@@ -2935,6 +2964,7 @@
 @@||nizoral.ugc.bazaarvoice.com^
 @@||nj.com^
 @@||nk.pl^
+@@||nl.2.cqcounter.com^
 @@||nl.cqcounter.com^
 @@||nm.vk.com^
 @@||nmcdn.us^
@@ -2959,6 +2989,7 @@
 @@||notifications.google.com^
 @@||notify.vk.com^
 @@||notify.xboxlive.com^
+@@||now.notebooksbilliger.de^
 @@||now.sh^
 @@||npmcdn.com^
 @@||npr.org^
@@ -3149,6 +3180,8 @@
 @@||pasteboard.co^
 @@||pathe.emsecure.net^
 @@||pay.google.com^
+@@||paymentinstruments.md.mp.microsoft.com^
+@@||paymentinstruments.mp.microsoft.com^
 @@||paypal.com^
 @@||paypalobjects.com^
 @@||pbs.twimg.com^
@@ -3159,6 +3192,7 @@
 @@||pdamts.adfox.ru^
 @@||pdc.micloud.xiaomi.net^
 @@||pdf.yt^
+@@||pe.2.cqcounter.com^
 @@||pediasure.ugc.bazaarvoice.com^
 @@||peeps.openx.com^
 @@||pending.sls-int.update.microsoft.com^
@@ -3198,6 +3232,7 @@
 @@||pinterest.com^
 @@||pipe.skype.com^
 @@||pirate.vk.com^
+@@||piratebay.org^
 @@||pistachio-cdn.graze.com^
 @@||piter-ix.vk.com^
 @@||pittsburgh.cbslocal.com^
@@ -3224,6 +3259,7 @@
 @@||playerstatic.entropymedia.com^
 @@||playstation.com^
 @@||plex.tv^
+@@||pling.com^
 @@||plot.ly^
 @@||plugins.longtailvideo.com^
 @@||plus.google.com^
@@ -3240,9 +3276,12 @@
 @@||polyfill.io^
 @@||pool.burst-alliance.org^
 @@||pool.ntp.org^
+@@||pop.ftp.cqcounter.com^
 @@||pop.srv67-190-240-87.vk.com^
 @@||pop.srv72-190-240-87.vk.com^
 @@||pop.srv78-190-240-87.vk.com^
+@@||pop3.cqcounter.com^
+@@||pop3.imap4.cqcounter.com^
 @@||pop3.srv194-139-240-87.vk.com^
 @@||pop3.srv67-190-240-87.vk.com^
 @@||pop3.srv71-129-240-87.vk.com^
@@ -3293,6 +3332,8 @@
 @@||ps.w.org^
 @@||psa-i.openx.com^
 @@||psswrdbx.com^
+@@||pt.2.cqcounter.com^
+@@||pt.afl.rakuten.co.jp^
 @@||pt.vk.com^
 @@||pti.store.microsoft.com^
 @@||pu.vk.com^
@@ -3322,6 +3363,7 @@
 @@||pv-new.awin1.com^
 @@||pv.awin1.com^
 @@||pwc.chase.com^
+@@||py.2.cqcounter.com^
 @@||q.stripe.com^
 @@||q13fox.com^
 @@||qa-cdn.openx.com^
@@ -3433,6 +3475,7 @@
 @@||rssinclude.com^
 @@||rt.imgur.com^
 @@||rt.vk.com^
+@@||ru.2.cqcounter.com^
 @@||rupload.facebook.com^
 @@||rutube.ru^
 @@||rybalkina.vk.com^
@@ -3520,6 +3563,7 @@
 @@||sdad.guru^
 @@||sdc.pingan.com^
 @@||sdk.vk.com^
+@@||se.2.cqcounter.com^
 @@||se.cqcounter.com^
 @@||search.msn.com^
 @@||search.twitter.com^
@@ -3554,6 +3598,7 @@
 @@||sendgrid.net^
 @@||sendspace.com^
 @@||sephora.ugc.bazaarvoice.com^
+@@||sept.vk.com^
 @@||serta.ugc.bazaarvoice.com^
 @@||service.weather.microsoft.com^
 @@||services.sonarr.tv^
@@ -4029,6 +4074,7 @@
 @@||uk.openx.com^
 @@||ultimedia.com^
 @@||ultraimg.com^
+@@||um.cqcounter.com^
 @@||umaskimages.vk.com^
 @@||umich.qualtrics.com^
 @@||unbouncepages.com^
@@ -4112,6 +4158,7 @@
 @@||userstream.twitter.com^
 @@||uservoice.com^
 @@||uth.vk.com^
+@@||uwpproc-int.mix.mp.microsoft.com^
 @@||uwpproc.mix.mp.microsoft.com^
 @@||v.adfox.ru^
 @@||v.firebog.net^
@@ -4212,6 +4259,7 @@
 @@||washington.cbslocal.com^
 @@||washingtonpost.com^
 @@||watchdog.burst-alliance.org^
+@@||watchdogs-int.dps.mp.microsoft.com^
 @@||watson.telemetry.microsoft.com^
 @@||way.vk.com^
 @@||wbd.ms^
@@ -4334,6 +4382,7 @@
 @@||www-tc.pbs.org^
 @@||www.112.2o7.net^
 @@||www.122.2o7.net^
+@@||www.1pt.cqcounter.com^
 @@||www.1zz.cqcounter.com^
 @@||www.4shared.com^
 @@||www.a-0001.a-msedge.net^
@@ -4347,12 +4396,13 @@
 @@||www.a-0009.a-msedge.net^
 @@||www.a.shifen.com^
 @@||www.accuweather.com^
-@@||www.acehardware.com^
 @@||www.adfox.ru^
 @@||www.adidas.com^
 @@||www.adstyle.com^
+@@||www.adwords.google.com^
 @@||www.aeriagames.com^
 @@||www.aetna.com^
+@@||www.affirm.com^
 @@||www.agency.help.adfox.ru^
 @@||www.aka.ms^
 @@||www.alexa.com^
@@ -4369,6 +4419,7 @@
 @@||www.aol.com^
 @@||www.apple.com^
 @@||www.apptimize.com^
+@@||www.ar.2.cqcounter.com^
 @@||www.awin1.com^
 @@||www.baidu.com^
 @@||www.battle.net^
@@ -4450,7 +4501,6 @@
 @@||www.facebook.com^
 @@||www.familydollar.com^
 @@||www.fili.cc^
-@@||www.fiverr.com^
 @@||www.flattr.com^
 @@||www.flickr.com^
 @@||www.fling.com^
@@ -4463,6 +4513,7 @@
 @@||www.fullstory.com^
 @@||www.funk.eu^
 @@||www.g.ezoic.net^
+@@||www.gamespot.com^
 @@||www.geoplugin.net^
 @@||www.georiot.com^
 @@||www.geotrust.com^
@@ -4471,6 +4522,7 @@
 @@||www.github.developerdan.com^
 @@||www.github.io^
 @@||www.glb.paypal.com^
+@@||www.gmail.com^
 @@||www.gmodules.com^
 @@||www.gogousenet.com^
 @@||www.goo.gl^
@@ -4501,11 +4553,9 @@
 @@||www.inc.com^
 @@||www.inputdirector.com^
 @@||www.inspectlet.com^
-@@||www.instagram.com^
 @@||www.instapaper.com^
 @@||www.intercom.io^
 @@||www.ipify.org^
-@@||www.ipinfo.io^
 @@||www.istockphoto.com^
 @@||www.iubenda.com^
 @@||www.jaleco.com^
@@ -4537,7 +4587,6 @@
 @@||www.lowes.com^
 @@||www.luckyorange.com^
 @@||www.m.vk.com^
-@@||www.macys.com^
 @@||www.mailchimp.com^
 @@||www.majorgeeks.com^
 @@||www.malwaredomainlist.com^
@@ -4597,14 +4646,12 @@
 @@||www.pcmag.com^
 @@||www.pcmatic.com^
 @@||www.pennlive.com^
-@@||www.pi-dns.com^
 @@||www.pi-hole.net^
 @@||www.pinterest.com^
 @@||www.placehold.it^
 @@||www.pocketnow.com^
 @@||www.polldaddy.com^
 @@||www.pornhub.com^
-@@||www.pornhubpremium.com^
 @@||www.ppt.cc^
 @@||www.privateinternetaccess.com^
 @@||www.providesupport.com^
@@ -4635,6 +4682,7 @@
 @@||www.semrush.com^
 @@||www.sgizmo.com^
 @@||www.share-online.biz^
+@@||www.shopify.com^
 @@||www.sina.com.cn^
 @@||www.skimresources.com^
 @@||www.slate.com^
@@ -4661,7 +4709,6 @@
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
 @@||www.surveygizmo.com^
-@@||www.surveymonkey.com^
 @@||www.t-online.de^
 @@||www.tags.crwdcntrl.net^
 @@||www.target.com^
@@ -4682,6 +4729,7 @@
 @@||www.townnews.com^
 @@||www.transfer.sh^
 @@||www.trumba.com^
+@@||www.trustpilot.com^
 @@||www.tumblr.com^
 @@||www.turner.com^
 @@||www.turnto.com^
@@ -4690,6 +4738,7 @@
 @@||www.ultimedia.com^
 @@||www.unibytes.com^
 @@||www.userreplay.net^
+@@||www.uservoice.com^
 @@||www.vgwort.de^
 @@||www.vidible.tv^
 @@||www.viglink.com^
@@ -4698,7 +4747,6 @@
 @@||www.vk.vk.com^
 @@||www.vmn.net^
 @@||www.wallet.burst-alliance.org^
-@@||www.walmart.com^
 @@||www.wangbase.com^
 @@||www.watchdog.burst-alliance.org^
 @@||www.weather.gov^
@@ -4790,6 +4838,7 @@
 @@||ytimg-edge-static.l.google.com^
 @@||ytimg.l.google.com^
 @@||ytstatic.l.google.com^
+@@||yu.2.cqcounter.com^
 @@||yunfile.com^
 @@||yvesrocher.ugc.bazaarvoice.com^
 @@||yvjnex.vk.com^
@@ -4797,6 +4846,7 @@
 @@||z-m.c10r.facebook.com^
 @@||z-m.facebook.com^
 @@||z.cdn.turner.com^
+@@||za.2.cqcounter.com^
 @@||zajefajna.com^
 @@||zaloapp.com^
 @@||zam.zamimg.com^
