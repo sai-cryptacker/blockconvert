@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-16Z
+! Version: 2020-09-17Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-16Z
+! Last modified: 2020-09-17Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2119,6 +2119,7 @@
 @@||gtms01.alicdn.com^
 @@||gtms02.alicdn.com^
 @@||gtms03.alicdn.com^
+@@||gtms04.alicdn.com^
 @@||guardian.co.uk^
 @@||guce.advertising.com^
 @@||guce.huffpost.com^
@@ -3232,7 +3233,6 @@
 @@||pinterest.com^
 @@||pipe.skype.com^
 @@||pirate.vk.com^
-@@||piratebay.org^
 @@||pistachio-cdn.graze.com^
 @@||piter-ix.vk.com^
 @@||pittsburgh.cbslocal.com^
@@ -4482,7 +4482,6 @@
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
-@@||www.distilnetworks.com^
 @@||www.drift.com^
 @@||www.driftt.com^
 @@||www.drive.google.com^
@@ -4613,7 +4612,6 @@
 @@||www.mywot.com^
 @@||www.namecheap.com^
 @@||www.narkive.com^
-@@||www.naver.com^
 @@||www.nbcnews.com^
 @@||www.nbcnewyork.com^
 @@||www.networksolutions.com^
@@ -4648,6 +4646,7 @@
 @@||www.pennlive.com^
 @@||www.pi-hole.net^
 @@||www.pinterest.com^
+@@||www.piratebay.org^
 @@||www.placehold.it^
 @@||www.pocketnow.com^
 @@||www.polldaddy.com^
@@ -4752,7 +4751,6 @@
 @@||www.weather.gov^
 @@||www.web.burst-alliance.org^
 @@||www.wired.com^
-@@||www.wistia.com^
 @@||www.wshifen.com^
 @@||www.wupload.com^
 @@||www.www.m.vk.com^

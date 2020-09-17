@@ -2110,6 +2110,7 @@ gstaticadssl.l.google.com
 gtms01.alicdn.com
 gtms02.alicdn.com
 gtms03.alicdn.com
+gtms04.alicdn.com
 guardian.co.uk
 guce.advertising.com
 guce.huffpost.com
@@ -3223,7 +3224,6 @@ pinimg.com
 pinterest.com
 pipe.skype.com
 pirate.vk.com
-piratebay.org
 pistachio-cdn.graze.com
 piter-ix.vk.com
 pittsburgh.cbslocal.com
@@ -4473,7 +4473,6 @@ www.deviantart.com
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
-www.distilnetworks.com
 www.drift.com
 www.driftt.com
 www.drive.google.com
@@ -4604,7 +4603,6 @@ www.msn.com
 www.mywot.com
 www.namecheap.com
 www.narkive.com
-www.naver.com
 www.nbcnews.com
 www.nbcnewyork.com
 www.networksolutions.com
@@ -4639,6 +4637,7 @@ www.pcmatic.com
 www.pennlive.com
 www.pi-hole.net
 www.pinterest.com
+www.piratebay.org
 www.placehold.it
 www.pocketnow.com
 www.polldaddy.com
@@ -4743,7 +4742,6 @@ www.watchdog.burst-alliance.org
 www.weather.gov
 www.web.burst-alliance.org
 www.wired.com
-www.wistia.com
 www.wshifen.com
 www.wupload.com
 www.www.m.vk.com
