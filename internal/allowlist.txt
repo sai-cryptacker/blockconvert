@@ -444,6 +444,7 @@ soundcloud.com
 sourceforge.net
 speedcurve.com
 spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
+*.splunk.com
 squidblacklist.org
 ssl.bblck.me
 sslbl.abuse.ch
@@ -537,6 +538,7 @@ wbd.ms
 wdcp.microsoft.*
 wdcp.microsoft.com
 wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com
+wd-prod-ss.trafficmanager.net
 web.getmonero.org
 webmasters.stackexchange.com
 webmd.com
