@@ -885,6 +885,7 @@
 @@||ci4.googleusercontent.com^
 @@||ci5.googleusercontent.com^
 @@||cindyholbrook.lpages.co^
+@@||ciso-int.dps.mp.microsoft.com^
 @@||civicscience.com^
 @@||cj.dotomi.com^
 @@||classicindustries.ugc.bazaarvoice.com^
@@ -1880,6 +1881,8 @@
 @@||files.freedownloadmanager.org^
 @@||files.graphiq.com^
 @@||files2.freedownloadmanager.org^
+@@||filesapi-int.dps.mp.microsoft.com^
+@@||filesapi.dps.mp.microsoft.com^
 @@||filesmonster.com^
 @@||fili.cc^
 @@||filmekmaskepp.vk.com^
@@ -2119,6 +2122,7 @@
 @@||groups.google.com^
 @@||groups.openx.com^
 @@||grp07.ias.rakuten.co.jp^
+@@||gs-loc.apple.com^
 @@||gs.apple.com^
 @@||gs.statcounter.com^
 @@||gscdn.nl^
@@ -3048,6 +3052,7 @@
 @@||ob.ugc.bazaarvoice.com^
 @@||objava-oglasa.bolha.com^
 @@||oboom.com^
+@@||observability.splunk.com^
 @@||observer.com^
 @@||observium.openx.com^
 @@||ocdn.eu^
@@ -3338,6 +3343,7 @@
 @@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||productcatalogservice.dce.mp.microsoft.com^
 @@||products.office.com^
+@@||productsummary-int.dps.mp.microsoft.com^
 @@||profile.target.com^
 @@||profimasking.dev.tau.vk.com^
 @@||promodj.com^
@@ -3869,6 +3875,7 @@
 @@||stenaline.ugc.bazaarvoice.com^
 @@||sterilite.ugc.bazaarvoice.com^
 @@||stopklatka.pl^
+@@||storage-int.mp.microsoft.com^
 @@||storage.googleapis.com^
 @@||storage.msn.com^
 @@||storage2.vk.com^
@@ -3892,6 +3899,8 @@
 @@||sup.adfox.ru^
 @@||support.coinbase.com^
 @@||support.microsoft.com^
+@@||survey-int.dps.mp.microsoft.com^
+@@||survey.dps.mp.microsoft.com^
 @@||survey.euro.confirmit.com^
 @@||survey.forseeresults.com^
 @@||survey.pearsoncmg.com^
@@ -4204,6 +4213,7 @@
 @@||vandenborre.ugc.bazaarvoice.com^
 @@||vanilla.futurecdn.net^
 @@||vanityfair.com^
+@@||variant-int.dps.mp.microsoft.com^
 @@||variety.com^
 @@||vb64z9th8faec4b0.vk.com^
 @@||vegascom.ugc.bazaarvoice.com^
@@ -4444,6 +4454,7 @@
 @@||www.amazon.in^
 @@||www.amazoncustomerservice.d2.sc.omtrdc.net^
 @@||www.amzn.to^
+@@||www.angularjs.org^
 @@||www.anrdoezrs.net^
 @@||www.answers.com^
 @@||www.aol.com^
@@ -4652,6 +4663,8 @@
 @@||www.nypost.com^
 @@||www.nytimes.com^
 @@||www.oboom.com^
+@@||www.observability.splunk.com^
+@@||www.observer.com^
 @@||www.ojrq.net^
 @@||www.olark.com^
 @@||www.onesignal.com^
@@ -4764,6 +4777,7 @@
 @@||www.unibytes.com^
 @@||www.userreplay.net^
 @@||www.uservoice.com^
+@@||www.vanityfair.com^
 @@||www.vgwort.de^
 @@||www.vidible.tv^
 @@||www.viglink.com^

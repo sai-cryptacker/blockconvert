@@ -234,6 +234,7 @@ go.microsoft.com
 google.*
 google.co.*
 google.com.*
+gs-loc.apple.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-695044303 Needed for Apple geolocation
 gsp-ssl-geomap.ls-apple.com.akadns.net # Breaks Apple Maps
 gsp-ssl.ls.apple.com # Break Apple Maps
 gsp-ssl.ls-apple.com.akadns.net # Breaks Apple Maps
