@@ -486,7 +486,6 @@ attservicesinc.tt.omtrdc.net
 au.2.cqcounter.com
 au.download.windowsupdate.com
 au.v4.download.windowsupdate.com
-auar.trafficshaping.dsp.mp.microsoft.com
 audible.com
 audid-api.taobao.com
 audio-fa.scdn.co
@@ -764,7 +763,6 @@ cardinalcommerce.com
 carsondellosa.ugc.bazaarvoice.com
 cartersoshkoshca.ugc.bazaarvoice.com
 cas.org.skyline.vk.com
-catalog.update.microsoft.com
 cbsi.com
 cc.cnetcontent.com
 cc.vk.com
@@ -1005,8 +1003,6 @@ cosmopolitan.com
 costco.com
 countryflags.io
 coupon.aliexpress.com
-cp501-prod.do.dsp.mp.microsoft.com
-cp701-prod.do.dsp.mp.microsoft.com
 cqcounter.com
 cracked.com
 cracovia.pl
@@ -1591,8 +1587,6 @@ digitalattachclaims-int.purchase.mp.microsoft.com
 digitalriver.com
 digitaltrends.com
 directvnow.com
-disc501-prod.do.dsp.mp.microsoft.com
-disc701-prod.do.dsp.mp.microsoft.com
 discord.com
 discord.gg
 discovermagazine.com
@@ -1854,7 +1848,6 @@ feedly.com
 feedproxy.google.com
 feeds.soundcloud.com
 feeds2.feedburner.com
-fees-int.mp.microsoft.com
 fellowes.ugc.bazaarvoice.com
 feodotracker.abuse.ch
 fg.v4.download.windowsupdate.com
@@ -1954,6 +1947,7 @@ fox6now.com
 fox8.com
 foxsports.com.au
 fpdownload.adobe.com
+fpt.skype.com
 fr.2.cqcounter.com
 fr.aliexpress.com
 fr.app.chat.global.xiaomi.net
@@ -2022,7 +2016,6 @@ geo3.ggpht.com
 geoplugin.net
 georiot.com
 geotrust.com
-geover-int.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
 get.adobe.com
 getmonero.org
@@ -2052,12 +2045,6 @@ gizmodo.com
 gizmodo.com.au
 glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com
 glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com
-glb.auar-dev.trafficshaping.dsp.mp.microsoft.com
-glb.frontend-dev.trafficshaping.dsp.mp.microsoft.com
-glb.frontend-int.trafficshaping.dsp.mp.microsoft.com
-glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com
-glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com
-glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
 global.edge.bamgrid.com
 global.market.xiaomi.com
 global.search.xiaomi.net
@@ -2129,6 +2116,7 @@ gsp64-ssl.ls.apple.com
 gsp85-ssl.ls.apple.com
 gstatic.com
 gstaticadssl.l.google.com
+gsuite.splunk.com
 gtms01.alicdn.com
 gtms02.alicdn.com
 gtms03.alicdn.com
@@ -2575,8 +2563,6 @@ kt-470.alpha.dashboard.mgid.com
 kt-486.beta.dashboard.mgid.com
 ku6.com
 kulinovich.vk.com
-kv501-prod.do.dsp.mp.microsoft.com
-kv701-prod.do.dsp.mp.microsoft.com
 kw.2.cqcounter.com
 kxcdn.com
 kz.2.cqcounter.com
@@ -3003,7 +2989,6 @@ northeu.pi-dns.com
 nos.netease.com
 notabug.org
 notebooksbilliger.de
-notification-int.dce.mp.microsoft.com
 notifications.google.com
 notify.vk.com
 notify.xboxlive.com
@@ -3147,8 +3132,6 @@ orbitz.com
 orchardbrands.ugc.bazaarvoice.com
 oregonlive.com
 org.skyline.vk.com
-orgeover-int.do.dsp.mp.microsoft.com
-orgeover-prod.do.dsp.mp.microsoft.com
 orientaltrading.ugc.bazaarvoice.com
 oriflame.ugc.bazaarvoice.com
 origin-cdn.openx.com
@@ -3375,6 +3358,7 @@ pulsar-app-play1.playground.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
 puma.ugc.bazaarvoice.com
 pumajapan.ugc.bazaarvoice.com
+purchase-int.mp.microsoft.com
 purchase.mp.microsoft.com
 purdy.ugc.bazaarvoice.com
 push.services.mozilla.com
@@ -3384,7 +3368,6 @@ puskesmaskota.vk.com
 pv-new.awin1.com
 pv.awin1.com
 pwc.chase.com
-px.playground.scp.splunk.com
 py.2.cqcounter.com
 q.stripe.com
 q13fox.com
@@ -4013,6 +3996,7 @@ tools.l.google.com
 tools.pingdom.com
 topengkacaindo.dev.tau.vk.com
 toppstiles.ugc.bazaarvoice.com
+tops.purchase-int.mp.microsoft.com
 toptenreviews.com
 torbit.com
 toro.ugc.bazaarvoice.com
@@ -4431,7 +4415,6 @@ www.adfox.ru
 www.adidas.com
 www.adstyle.com
 www.adwords.google.com
-www.aeriagames.com
 www.aetna.com
 www.affirm.com
 www.agency.help.adfox.ru
@@ -4473,7 +4456,6 @@ www.burst-alliance.org
 www.businessinsider.com
 www.buymeacoffee.com
 www.buzzfeed.com
-www.catalog.update.microsoft.com
 www.cbsi.com
 www.ccleaner.com
 www.cda.pl
@@ -4524,24 +4506,21 @@ www.eloqua.com
 www.eltrafiko.com
 www.emjcd.com
 www.engadget.com
-www.et4.de
 www.ethn.io
 www.eventbrite.com
+www.everyaction.com
 www.expressen.se
 www.facebook.com
-www.familydollar.com
 www.fili.cc
 www.flattr.com
 www.flickr.com
 www.fling.com
 www.flipboard.com
 www.fonts.com
-www.forbes.com
 www.forms.gle
 www.forum.vk.com
 www.freedownloadmanager.org
 www.fullstory.com
-www.funk.eu
 www.g.ezoic.net
 www.gamespot.com
 www.geoplugin.net
@@ -4566,6 +4545,7 @@ www.gstatic.com
 www.heapanalytics.com
 www.heatmap.it
 www.heise.de
+www.helium.com
 www.hoopshype.com
 www.hotjar.com
 www.howtogeek.com
@@ -4665,7 +4645,6 @@ www.openwall.com
 www.openx.com
 www.optimizely.com
 www.oracle.com
-www.orange.fr
 www.oregonlive.com
 www.pastebin.com
 www.pasteboard.co
@@ -4702,7 +4681,6 @@ www.returnpath.com
 www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
-www.salsalabs.com
 www.sdad.guru
 www.searchanise.com
 www.sears.com
@@ -4734,7 +4712,6 @@ www.srv67-190-240-87.vk.com
 www.srv71-129-240-87.vk.com
 www.srv72-190-240-87.vk.com
 www.srv78-190-240-87.vk.com
-www.starbucks.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
