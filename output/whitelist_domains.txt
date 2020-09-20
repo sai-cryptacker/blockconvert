@@ -367,6 +367,7 @@ api.hubspot.com
 api.intsig.net
 api.io.mi.com
 api.ipify.org
+api.join.skype.com
 api.jr.mi.com
 api.map.baidu.com
 api.mapbox.com
@@ -937,6 +938,7 @@ clkse.tradedoubler.com
 clkuk.tradedoubler.com
 cloud.google.com
 cloud.splunk.com
+cloudflare-dns.com
 cloudflare.cloudflare-dns.com
 cloudflare.com
 cloudflareworkers.com
@@ -2513,6 +2515,7 @@ joemonster.org
 joewein.net
 johndeere.ugc.bazaarvoice.com
 johnfrieda.ugc.bazaarvoice.com
+join.skype.com
 jp.2.cqcounter.com
 jp06.zopim.com
 jpost.com
@@ -4567,6 +4570,7 @@ www.flickr.com
 www.fling.com
 www.flipboard.com
 www.fonts.com
+www.footlocker-inc.com
 www.forms.gle
 www.forum.vk.com
 www.freedownloadmanager.org
@@ -4616,6 +4620,7 @@ www.inspectlet.com
 www.instapaper.com
 www.intercom.io
 www.ipify.org
+www.istockphoto.com
 www.iubenda.com
 www.jaleco.com
 www.janrain.com
@@ -4713,9 +4718,11 @@ www.placehold.it
 www.pocketnow.com
 www.polldaddy.com
 www.pornhub.com
+www.powerreviews.com
 www.ppt.cc
 www.privateinternetaccess.com
 www.providesupport.com
+www.publicsuffix.org
 www.publix.com
 www.push.vk.com
 www.pushwoosh.com
@@ -4732,6 +4739,7 @@ www.returnpath.com
 www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
+www.scribd.com
 www.sdad.guru
 www.searchanise.com
 www.sears.com
