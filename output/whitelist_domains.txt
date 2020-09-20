@@ -8,18 +8,27 @@
 0-amadeus.bvdinfo.com.biblio.vk.com
 0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
+0.0.1.cloudflare-dns.com
+0.1.cloudflare-dns.com
 0.afs.googleadservices.com
 0.client-channel.google.com
 0.vk.com
 007jamesbondfragrances.ugc.bazaarvoice.com
 09.vk.com
 1-edge-chat.facebook.com
+1.0.0.1.cloudflare-dns.com
+1.1.1.1.cloudflare-dns.com
+1.1.1.cloudflare-dns.com
+1.1.cloudflare-dns.com
 1.adfox.ru
+1.cloudflare-dns.com
 1.vk.com
 1.www.s81c.com
 10.afs.googleadservices.com
 100-0-pool.burst-alliance.org
+1001.cloudflare-dns.com
 110415.libdd.com
+1111.cloudflare-dns.com
 112.2o7.net
 116profile.vk.com
 12.vk.com
@@ -39,6 +48,12 @@
 1cn.cqcounter.com
 1de.cqcounter.com
 1dk.cqcounter.com
+1dot0dot0dot1.cloudflare-dns.com
+1dot1dot1do1.cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns.com
+1dot1dot1dot1dot.cloudflare-dns.com
+1dot1dot1dot2.cloudflare-dns.com
+1dot1dot1dot3.cloudflare-dns.com
 1drv.com
 1drv.ms
 1eg.cqcounter.com
@@ -260,6 +275,7 @@ albert.apple.com
 aldermore.ugc.bazaarvoice.com
 alexa.com
 alfabank.adfox.ru
+algin.ns.cloudflare-dns.com
 algolia.com
 alicdn.com
 aliexpress.com
@@ -336,6 +352,7 @@ api.amazonalexa.com
 api.b.hatena.ne.jp
 api.bing.com
 api.chat.xiaomi.net
+api.cloudflare-dns.com
 api.cloudflareapps.com
 api.coinbase.com
 api.comm.miui.com
@@ -521,6 +538,7 @@ ax.phobos.apple.com.edgesuite.net
 ay.gy
 ayakushev.api.cs7777.vk.com
 azorult-tracker.net
+azure.cloudflare-dns.com
 b-api.facebook.com
 b-graph.facebook.com
 b-www.facebook.com
@@ -546,6 +564,7 @@ bbc.com
 bbci.co.uk
 bbs.archlinux.org
 bbs.pcbeta.com
+bc81c677f335277f324c3ce13a.cloudflare-dns.com
 bcee.lu
 bcorg.web.burst-alliance.org
 be.2.cqcounter.com
@@ -870,6 +889,7 @@ choice-au.ugc.bazaarvoice.com
 choice.ugc.bazaarvoice.com
 chomikuj.pl
 christianpost.com
+chrome.cloudflare-dns.com
 chrome.google.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
@@ -917,7 +937,7 @@ clkse.tradedoubler.com
 clkuk.tradedoubler.com
 cloud.google.com
 cloud.splunk.com
-cloudflare-dns.com
+cloudflare.cloudflare-dns.com
 cloudflare.com
 cloudflareworkers.com
 cloudinary.com
@@ -958,6 +978,8 @@ collections-int.mp.microsoft.com
 collegehumor.com
 columbiasportswear.ugc.bazaarvoice.com
 com.biblio.vk.com
+com.cloudflare-dns.com
+commozilla.cloudflare-dns.com
 community.spiceworks.com
 community.staging.splunk.com
 completion.amazon.com
@@ -978,6 +1000,7 @@ connect.tau.vk.com
 connect.vk.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
+connectmozilla.cloudflare-dns.com
 conrad.ugc.bazaarvoice.com
 consent.google.com
 console.cloud.google.com
@@ -1645,6 +1668,7 @@ dot.centraleu.pi-dns.com
 dot.eastus.pi-dns.com
 dot.northeu.pi-dns.com
 dot.westus.pi-dns.com
+dot1dot1dot1.cloudflare-dns.com
 dotsub.com
 douglas.ugc.bazaarvoice.com
 down-cdn.dingtalk.com
@@ -1819,6 +1843,7 @@ f1.g.mi.com
 f1.media.brightcove.com
 faast.schibsted.io
 facebook.com
+family.cloudflare-dns.com
 familydollar.com
 fandom.wikia.com
 fanpop.tags.crwdcntrl.net
@@ -2505,6 +2530,7 @@ jsonip.com
 justin.tv
 jwpltx.com
 jwpsrv.com
+kads.cloudflare-dns.com
 kaltura.com
 kampyle.com
 karstadt.ugc.bazaarvoice.com
@@ -2713,6 +2739,7 @@ mail.www.m.vk.com
 mail1.coingeek.com
 mailchi.mp
 mailchimp.com
+main.cloudflare-dns.com
 majorgeeks.com
 malwaredomainlist.com
 malwaredomains.lehigh.edu
@@ -2734,6 +2761,7 @@ market.xiaomi.com
 marketo.com
 marketwatch.com
 marksandspencer.ugc.bazaarvoice.com
+maroc.cloudflare-dns.com
 marriott.ugc.bazaarvoice.com
 mas-ext.amazon.com
 mashable.com
@@ -2849,6 +2877,8 @@ mountainhardwear.ugc.bazaarvoice.com
 mouseflow.com
 movable-ink-397.com
 movies.netflix.com
+mozila.cloudflare-dns.com
+mozilla.cloudflare-dns.com
 mozilla.org
 mozillazine.org
 mozu.com
@@ -2924,6 +2954,7 @@ ncl.ugc.bazaarvoice.com
 neighborsink.com
 neowin.net
 nesn.com
+net.cloudflare-dns.com
 netbsd.org
 netdna-ssl.com
 netdna.bootstrapcdn.com
@@ -2996,13 +3027,18 @@ now.notebooksbilliger.de
 now.sh
 npmcdn.com
 npr.org
+ns.cloudflare-dns.com
+ns1.cloudflare-dns.com
 ns1.com
 ns1.dropbox.com
 ns1.vk.com
+ns2.cloudflare-dns.com
 ns2.dropbox.com
 ns2.vk.com
 ns3.adfox.ru
+ns3.cloudflare-dns.com
 ns3.vk.com
+ns8.cloudflare-dns.com
 nsatc.net
 nt3.ggpht.com
 ntoss.vk.com
@@ -3095,6 +3131,10 @@ om.cbsi.com
 omniture.walmart.com
 omny.fm
 omroep.nl
+one.cloudflare-dns.com
+one.one.cloudflare-dns.com
+one.one.one.cloudflare-dns.com
+one.one.one.one.cloudflare-dns.com
 oneclient.sfx.ms
 onedrive.live.com
 onesignal.com
@@ -3121,6 +3161,7 @@ openuserjs.org
 openwall.com
 openx.com
 opera-mini.net
+opera.cloudflare-dns.com
 opera.software
 opf.ooyala.com
 opinion.latimes.com
@@ -3149,6 +3190,7 @@ outlook.com
 outlook.live.com
 outlook.office365.com
 ow.ly
+ozilla.cloudflare-dns.com
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
@@ -3596,6 +3638,7 @@ securel.longtailvideo.com
 securemecca.com
 secureplugins.longtailvideo.com
 securesuite.co.uk
+security.cloudflare-dns.com
 security.vk.com
 securitymetrics.com
 seeclickfix.com
@@ -3788,6 +3831,7 @@ st.mycdn.me
 stackexchange.com
 stackoverflow.com
 stackpath.bootstrapcdn.com
+stackpathdns.net.cloudflare-dns.com
 stacksocial.com
 stage.guce.advertising.com
 staging-discuss.newrelic.com
@@ -3850,6 +3894,7 @@ stenaline.ugc.bazaarvoice.com
 sterilite.ugc.bazaarvoice.com
 stopklatka.pl
 storage-int.mp.microsoft.com
+storage.cloud.google.com
 storage.googleapis.com
 storage.msn.com
 storage2.vk.com
@@ -3985,6 +4030,7 @@ tlaol.com
 tlc.com
 tld-list.com
 tlp.vk.com
+tls.cloudflare-dns.com
 tlu.dl.delivery.mp.microsoft.com
 tmblr.co
 tmz.com
@@ -3998,6 +4044,7 @@ topengkacaindo.dev.tau.vk.com
 toppstiles.ugc.bazaarvoice.com
 tops.purchase-int.mp.microsoft.com
 toptenreviews.com
+tor.cloudflare-dns.com
 torbit.com
 toro.ugc.bazaarvoice.com
 torrentfreak.com
@@ -4044,6 +4091,7 @@ tuba.fm
 tube8.com
 tumblr.com
 tunein.com
+tunnelbear.cloudflare-dns.com
 turbotax.ugc.bazaarvoice.com
 turner.com
 turnto.com
@@ -4062,6 +4110,7 @@ tw.2.cqcounter.com
 twimg0-a.akamaihd.net
 twitch.tv
 twitter.com
+two.cloudflare-dns.com
 tylenol.ugc.bazaarvoice.com
 typeform.com
 typekit.com
@@ -4270,6 +4319,7 @@ wallst.com
 walmart.com
 walmart.ugc.bazaarvoice.com
 wangbase.com
+warp.cloudflare-dns.com
 washington.cbslocal.com
 washingtonpost.com
 watchdog.burst-alliance.org
@@ -4596,6 +4646,7 @@ www.logrocket.com
 www.lowes.com
 www.luckyorange.com
 www.m.vk.com
+www.mail.ru
 www.mailchimp.com
 www.majorgeeks.com
 www.malwaredomainlist.com
@@ -4838,6 +4889,7 @@ youporn.com
 youtu.be
 youtube-nocookie.com
 youtube.com
+youtube.com.cloudflare-dns.com
 youtubei.googleapis.com
 youwatch.org
 yt3.ggpht.com
