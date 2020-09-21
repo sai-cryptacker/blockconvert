@@ -2980,6 +2980,7 @@ newsinc.com
 newslook.com
 newstogram.com
 newyork.cbslocal.com
+newyorker.com
 next-services.apps.microsoft.com
 nextcloud.com
 nextopiasoftware.com
@@ -4683,6 +4684,7 @@ www.nbcnewyork.com
 www.networksolutions.com
 www.newegg.com
 www.newrelic.com
+www.newyorker.com
 www.nj.com
 www.no-ip.com
 www.nordichardware.se

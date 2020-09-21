@@ -98,8 +98,8 @@ ci4.googleusercontent.com
 ci5.googleusercontent.com
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
-*.cloudflare-dns.com # Cloudflare dns server
 cloudflare-dns.com
+*.cloudflare-dns.com # Cloudflare dns server
 cloudfront.net
 cmail19.com
 cmail20.com
@@ -337,6 +337,7 @@ naver.com
 netfort.com
 newrelic.com
 news.bitcoin.com
+newyorker.com # News website
 next-services.apps.microsoft.com
 nexus.ensighten.com
 nexusrules.officeapps.live.com

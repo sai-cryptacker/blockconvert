@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-20Z
+! Version: 2020-09-21Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-20Z
+! Last modified: 2020-09-21Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2989,6 +2989,7 @@
 @@||newslook.com^
 @@||newstogram.com^
 @@||newyork.cbslocal.com^
+@@||newyorker.com^
 @@||next-services.apps.microsoft.com^
 @@||nextcloud.com^
 @@||nextopiasoftware.com^
@@ -4692,6 +4693,7 @@
 @@||www.networksolutions.com^
 @@||www.newegg.com^
 @@||www.newrelic.com^
+@@||www.newyorker.com^
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.nordichardware.se^
