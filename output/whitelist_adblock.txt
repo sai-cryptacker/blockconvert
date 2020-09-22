@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-21Z
+! Version: 2020-09-22Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-21Z
+! Last modified: 2020-09-22Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -162,6 +162,7 @@
 @@||a.espncdn.com^
 @@||a.fsdn.com^
 @@||a.ooyala.com^
+@@||a.sellpoint.net^
 @@||a1.awin1.com^
 @@||a1014.g.akamai.net^
 @@||a1599.g.akamai.net^

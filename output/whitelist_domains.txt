@@ -153,6 +153,7 @@ a.adwolf.ru
 a.espncdn.com
 a.fsdn.com
 a.ooyala.com
+a.sellpoint.net
 a1.awin1.com
 a1014.g.akamai.net
 a1599.g.akamai.net
