@@ -643,6 +643,8 @@ blogspot.com
 blogspot.l.googleusercontent.com
 bloomberg.com
 bloxcms.com
+bn2-extorigin.delivery.mp.microsoft.com
+bn2-prod.delivery.mp.microsoft.com
 bn2wns1.wns.windows.com
 bn3sch020010558.wns.windows.com
 bn3sch020010560.wns.windows.com
@@ -1246,6 +1248,7 @@ cvp1.cdn.turner.com
 cvs.com
 cvspharmacydrugs.ugc.bazaarvoice.com
 cws.conviva.com
+cy2-extorigin.delivery.mp.microsoft.com
 cy2.displaycatalog.md.mp.microsoft.com.akadns.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cybercrime-tracker.net
@@ -2753,6 +2756,9 @@ mandrillapp.com
 manifest.googlevideo.com
 manifest.prod.boltdns.net
 mapbox.com
+maponline1.bdimg.com
+maponline2.bdimg.com
+maponline3.bdimg.com
 mapquestapi.com
 maps-api-ssl.google.com
 maps.google.com
@@ -4260,6 +4266,7 @@ viddler.com
 video-stats.l.google.com
 video.google.com
 videocopilot.net
+videodelivery.net
 videogum.tags.crwdcntrl.net
 videolan.org
 videopress.com
@@ -4777,6 +4784,7 @@ www.srv78-190-240-87.vk.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
+www.stripe.com
 www.surveygizmo.com
 www.t-online.de
 www.tags.crwdcntrl.net

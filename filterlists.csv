@@ -41,11 +41,6 @@ Nopelist,https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.t
 NoTrack Tracker Blocklist,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt,QuidsUp,GPLv3,86400,DomainBlocklist
 NoTrack Malware Blocklist,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,QuidsUp,GPLv3,86400,DomainBlocklist
 NoCoin Filter List,https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt,,MIT,86400,Hostfile
-Mischosts - WhiteOps Hosts,https://raw.githubusercontent.com/llacb47/mischosts/master/whiteops-hosts,,MIT,86400,Hostfile
-Mischosts - Tiktok Hosts,https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts,,MIT,86400,Hostfile
-Mischosts - Streaming Hosts,https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts,,MIT,86400,Hostfile
-Mischosts - Microsoft Telemetry,https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry,,MIT,86400,Hostfile
-Mischosts - Apple Telemetry,https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry,,MIT,86400,Hostfile
 MinerBlock Filters,https://raw.githubusercontent.com/xd4rker/MinerBlock/master/assets/filters.txt,,MIT,86400,Adblock
 Malicious URL Blocklist,https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt,,CC0,86400,Adblock
 Magneto Malware Skanner - Burner Domains,https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt,,GPLv3,864000,DomainBlocklist
