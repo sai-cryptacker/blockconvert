@@ -907,6 +907,7 @@ cleanclearca.ugc.bazaarvoice.com
 cleanprint.net
 cleveland.com
 click.simba.taobao.com
+click.trafficguard.ai
 click.virt.exacttarget.com
 click.virt.s10.exacttarget.com
 click.virt.s4.exacttarget.com
@@ -1249,6 +1250,7 @@ cvs.com
 cvspharmacydrugs.ugc.bazaarvoice.com
 cws.conviva.com
 cy2-extorigin.delivery.mp.microsoft.com
+cy2-prod.delivery.mp.microsoft.com
 cy2.displaycatalog.md.mp.microsoft.com.akadns.net
 cy2.licensing.md.mp.microsoft.com.akadns.net
 cybercrime-tracker.net
@@ -1285,6 +1287,7 @@ datei.to
 davidsbridal.ugc.bazaarvoice.com
 db.burst-alliance.org
 db.local.clamav.net
+db5-extorigin.delivery.mp.microsoft.com
 db5.wns.windows.com
 db5sch101100122.wns.windows.com
 db5sch101100127.wns.windows.com
@@ -1843,6 +1846,7 @@ external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
 extorigin-int.dcat.dsp.mp.microsoft.com
+extorigin-tip.dcat.dsp.mp.microsoft.com
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
 f1.g.mi.com
@@ -2200,6 +2204,8 @@ hiroservers.appspot.com
 history.com
 hitfile.net
 hk.2.cqcounter.com
+hk2-extorigin.delivery.mp.microsoft.com
+hk2-prod.delivery.mp.microsoft.com
 hk2.wns.windows.com
 hk2sch130020721.wns.windows.com
 hk2sch130020723.wns.windows.com
@@ -2373,6 +2379,7 @@ image.ibb.co
 image.prntscr.com
 imagebam.com
 imagecorn.com
+imagepublishingservice-dev.dps.mp.microsoft.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
@@ -2756,6 +2763,7 @@ mandrillapp.com
 manifest.googlevideo.com
 manifest.prod.boltdns.net
 mapbox.com
+maponline0.bdimg.com
 maponline1.bdimg.com
 maponline2.bdimg.com
 maponline3.bdimg.com
@@ -3012,6 +3020,7 @@ nj.com
 nk.pl
 nl.2.cqcounter.com
 nl.cqcounter.com
+nl.notebooksbilliger.de
 nm.vk.com
 nmcdn.us
 nmcheck.gnome.org
@@ -3177,6 +3186,7 @@ opera.software
 opf.ooyala.com
 opinion.latimes.com
 optimizely.com
+or.delivery.mp.microsoft.com
 oracle.com
 orange.fr
 orange.ugc.bazaarvoice.com
@@ -3188,6 +3198,7 @@ orientaltrading.ugc.bazaarvoice.com
 oriflame.ugc.bazaarvoice.com
 origin-cdn.openx.com
 origin-www.openx.com
+origin.delivery.mp.microsoft.com
 origin.platform.dev.openx.com
 origincache-atn.fbcdn.net
 orion.ugc.bazaarvoice.com
@@ -3269,6 +3280,7 @@ photobucket.com
 photos-ugc.l.googleusercontent.com
 phplist.com
 phs.tanx.com
+phx.origin.delivery.mp.microsoft.com
 phx.sfs-int.dcat.dsp.mp.microsoft.com
 pi-dns.com
 pi-hole.net
@@ -3929,6 +3941,7 @@ sunglasshut.ugc.bazaarvoice.com
 sup.adfox.ru
 support.coinbase.com
 support.microsoft.com
+support.skype.com
 survey-int.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
 survey.euro.confirmit.com
@@ -4033,6 +4046,7 @@ timeinc.net
 tinypass.com
 tinypic.com
 tinyurl.com
+tip.or.delivery.mp.microsoft.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tkx-acc.apis.anvato.net
@@ -4573,6 +4587,7 @@ www.eventbrite.com
 www.everyaction.com
 www.expressen.se
 www.facebook.com
+www.fbcdn.net
 www.fili.cc
 www.flattr.com
 www.flickr.com
@@ -4828,6 +4843,7 @@ www.wangbase.com
 www.watchdog.burst-alliance.org
 www.weather.gov
 www.web.burst-alliance.org
+www.windy.com
 www.wired.com
 www.wshifen.com
 www.wupload.com
