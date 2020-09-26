@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-25Z
+! Version: 2020-09-26Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-25Z
+! Last modified: 2020-09-26Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -516,8 +516,6 @@
 @@||auth.adfox.ru^
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||auth.gfx.ms^
-@@||auth.scp.splunk.com^
-@@||auth.staging.scp.splunk.com^
 @@||auth.vk.com^
 @@||auth0.com^
 @@||authbe.sec.intl.miui.com^
@@ -990,7 +988,6 @@
 @@||com.cloudflare-dns.com^
 @@||commozilla.cloudflare-dns.com^
 @@||community.spiceworks.com^
-@@||community.staging.splunk.com^
 @@||completion.amazon.com^
 @@||composerapi.dps.mp.microsoft.com^
 @@||composerweb.dps.mp.microsoft.com^
@@ -1776,11 +1773,9 @@
 @@||encrypted-tbn2.gstatic.com^
 @@||encrypted-tbn3.gstatic.com^
 @@||engadget.com^
-@@||engagement-int.dce.mp.microsoft.com^
 @@||ensure.ugc.bazaarvoice.com^
 @@||entireweb.com^
 @@||entitlement.auth.adobe.com^
-@@||entitlements-int.mp.microsoft.com^
 @@||entitlements.jwplayer.com^
 @@||entpsz.alipay.com^
 @@||eonline.com^
@@ -1911,8 +1906,6 @@
 @@||finishline.ugc.bazaarvoice.com^
 @@||firebaseremoteconfig.googleapis.com^
 @@||firstlook.org^
-@@||firstparty-collections-int.mp.microsoft.com^
-@@||firstparty-entitlements-int.mp.microsoft.com^
 @@||fiverr.com^
 @@||flattr.com^
 @@||flickr.com^
@@ -2455,7 +2448,6 @@
 @@||infowarsstore.com^
 @@||ing.sakeena.cs304111.vk.com^
 @@||ingestiondeveloperapi.dse.mp.microsoft.com^
-@@||ingestionuxservice-int.dps.mp.microsoft.com^
 @@||inputdirector.com^
 @@||inq.com^
 @@||insight.rapid7.com^
@@ -2555,7 +2547,6 @@
 @@||khms1.google.com^
 @@||khms2.google.com^
 @@||khms3.google.com^
-@@||khoros.staging.splunk.com^
 @@||khromovskikh.vk.com^
 @@||kickapps.com^
 @@||kickstarter.com^
@@ -2638,7 +2629,6 @@
 @@||li.vk.com^
 @@||libsyn.com^
 @@||licensebuttons.net^
-@@||licensing-entitlements-int.md.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
 @@||licensing.xboxlive.com^
 @@||lifehacker.com^
@@ -3409,7 +3399,6 @@
 @@||pubsub.plex.bz^
 @@||pubsub.plex.tv^
 @@||pull.ticktick.com^
-@@||pulsar-app-play1.playground.scp.splunk.com^
 @@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||puma.ugc.bazaarvoice.com^
 @@||pumajapan.ugc.bazaarvoice.com^
@@ -4533,7 +4522,6 @@
 @@||www.cnet.com^
 @@||www.cnnmoney.tags.crwdcntrl.net^
 @@||www.code.createjs.com^
-@@||www.codeberg.org^
 @@||www.codeload.github.com^
 @@||www.coinbase.com^
 @@||www.coinpot.co^
@@ -4729,7 +4717,6 @@
 @@||www.privateinternetaccess.com^
 @@||www.providesupport.com^
 @@||www.publicsuffix.org^
-@@||www.publix.com^
 @@||www.push.vk.com^
 @@||www.pushwoosh.com^
 @@||www.qq.com^
@@ -4854,7 +4841,6 @@
 @@||wyspagier.pl^
 @@||wywy.com^
 @@||x1.com^
-@@||xbox-collections-int.mp.microsoft.com^
 @@||xbox.ipv6.microsoft.com^
 @@||xboxlive.com^
 @@||xd.adobelanding.com^
