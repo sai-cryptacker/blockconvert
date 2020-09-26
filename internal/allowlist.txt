@@ -153,6 +153,7 @@ download.electrum.org
 download.newrelic.com
 downloads.getmonero.org
 download.windowsupdate.com
+download.windowsupdate.com.c.footprint.net
 dpreview.com
 drh1.img.digitalriver.com
 drh.img.digitalriver.com

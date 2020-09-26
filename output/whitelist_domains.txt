@@ -1,4 +1,3 @@
-0-100-pool.burst-alliance.org
 0-109.vk.com
 0-11-213-95.vk.com
 0-11.vk.com
@@ -341,7 +340,6 @@ api-dev.dcat.dsp.mp.microsoft.com
 api-glb.smoot.apple.com
 api-global.netflix.com
 api-iad10.playground.scp.splunk.com
-api-int.dcat.dsp.mp.microsoft.com
 api-maps.yandex.ru
 api-partner.spotify.com
 api-tv.spotify.com
@@ -414,10 +412,8 @@ app.chat.xiaomi.net
 app.hubspot.com
 app.launchdarkly.com
 app.migc.xiaomi.com
-app.playground.scp.splunk.com
 app.plex.tv
 app.qq.com
-app.staging.scp.splunk.com
 app.vk.com
 appboot.netflix.com
 appcloud.ironbeast.io
@@ -511,7 +507,6 @@ audio-fa.scdn.co
 auth.adfox.ru
 auth.api.sonyentertainmentnetwork.com
 auth.gfx.ms
-auth.playground.scp.splunk.com
 auth.scp.splunk.com
 auth.staging.scp.splunk.com
 auth.vk.com
@@ -523,7 +518,6 @@ auto.search.msn.com
 autodiscover.coingeek.com
 autodiscover.corp.vk.com
 autodiscover.team.vk.com
-availability.dps.mp.microsoft.com
 aviva.ugc.bazaarvoice.com
 avon-ru.ugc.bazaarvoice.com
 avon-uk.ugc.bazaarvoice.com
@@ -1590,8 +1584,6 @@ dev.appinspect.splunk.com
 dev.tau.vk.com
 dev.twitter.com
 dev.virtualearth.net
-devcenterapi-df.dce.mp.microsoft.com
-devcenterapi.dce.mp.microsoft.com
 developer.twitter.com
 developers.facebook.com
 developers.google.com
@@ -1659,9 +1651,7 @@ dnsotls-ds.metric.gstatic.com
 do.co
 doc.vk.com
 docs.bugsnag.com
-docs.data-service-api.openx.com
 docs.google.com
-docs.openaudience.openx.com
 docs.openx.com
 docs.vk.com
 documentcloud.org
@@ -1681,7 +1671,6 @@ dot1dot1dot1.cloudflare-dns.com
 dotsub.com
 douglas.ugc.bazaarvoice.com
 down-cdn.dingtalk.com
-down.sandai.net
 download.cnet.com
 download.electrum.org
 download.intsig.net
@@ -1690,6 +1679,7 @@ download.scp.splunk.com
 download.skype.com
 download.sonarr.tv
 download.windowsupdate.com
+download.windowsupdate.com.c.footprint.net
 downloads.getmonero.org
 dpreview.com
 drh.img.digitalriver.com
@@ -1727,7 +1717,6 @@ e5070.g.akamaiedge.net
 e5413.g.akamaiedge.net
 e5460.g.akamaiedge.net
 e6603.g.akamaiedge.net
-e688.g.akamaiedge.net
 e7081.g.akamaiedge.net
 e785s8hz.micpn.com
 e8999.b.akamaiedge.net
@@ -1754,7 +1743,6 @@ edge.skype.com
 edgecastcdn.net
 edgetipscdn.microsoft.com
 editmysite.com
-eds-gateway.mp.microsoft.com
 eds.xboxlive.com
 eec.crunchyroll.com
 eg.2.cqcounter.com
@@ -1785,8 +1773,6 @@ entireweb.com
 entitlement.auth.adobe.com
 entitlements-int.mp.microsoft.com
 entitlements.jwplayer.com
-entitlements.mp.microsoft.com
-entitlementsinternal.mp.microsoft.com
 entpsz.alipay.com
 eonline.com
 epoch.com
@@ -2459,7 +2445,6 @@ informer.com
 infowars.com
 infowarsstore.com
 ing.sakeena.cs304111.vk.com
-ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestiondeveloperapi.dse.mp.microsoft.com
 ingestionuxservice-int.dps.mp.microsoft.com
 inputdirector.com
@@ -2620,7 +2605,6 @@ laposte.net
 larati.net
 lastfm-img2.akamaized.net
 lasvegas.cbslocal.com
-latest.web.skype.com
 latimes.com
 latimesblogs.latimes.com
 launches.appsflyer.com
@@ -2984,7 +2968,6 @@ new.vk.com
 newad.mail.wo.cn
 newegg.com
 newimv4.vk.com
-newjobs.com
 newrelic.com
 news.bitcoin.com
 news.ebc.net.tw
@@ -3216,7 +3199,6 @@ ozilla.cloudflare-dns.com
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
-pac.dce.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
 packages.chocolatey.org
 packages.dps.mp.microsoft.com
@@ -3298,6 +3280,7 @@ pinimg.com
 pinterest.com
 pipe.skype.com
 pirate.vk.com
+piratebay.org
 pistachio-cdn.graze.com
 piter-ix.vk.com
 pittsburgh.cbslocal.com
@@ -3373,7 +3356,6 @@ prismic.io
 privacy-policy.truste.com
 privateinternetaccess.com
 prnt.sc
-prod-docs.openaudience.openx.com
 prod-docs.openx.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
@@ -3413,7 +3395,6 @@ publicsuffix.org
 publicvoidlife.vk.com
 publiekeomroep.nl
 publisher.adservice.com
-publishingapi.dps.mp.microsoft.com
 publishingmgmt-dev.dps.mp.microsoft.com
 publix.com
 pubsub.plex.bz
@@ -3837,7 +3818,6 @@ ss1.baidu.com
 ss2.baidu.com
 ss3.baidu.com
 ssl-i.cdn.openx.com
-ssl.bblck.me
 ssl.cqcounter.com
 ssl.gstatic.com
 ssl.marfeelcdn.com
@@ -4372,7 +4352,6 @@ web.facebook.com
 web.getmonero.org
 web.pcbeta.com
 web.poecdn.com
-web.skype.com
 web.tresorit.com
 web5913.cs304110.vk.com
 web7.vk.com
@@ -4488,13 +4467,11 @@ www.a-0009.a-msedge.net
 www.a.shifen.com
 www.accuweather.com
 www.adfox.ru
-www.adidas.com
 www.adstyle.com
 www.adwords.google.com
 www.aetna.com
 www.affirm.com
 www.agency.help.adfox.ru
-www.aka.ms
 www.alexa.com
 www.algolia.com
 www.allure.com
@@ -4525,7 +4502,6 @@ www.blog.xuite.net
 www.blogger.com
 www.bloomberg.com
 www.boldchat.com
-www.bountysource.com
 www.brightcove.com
 www.bugsnag.com
 www.burst-alliance.org
@@ -4537,7 +4513,6 @@ www.ccleaner.com
 www.cda.pl
 www.cdn.optimizely.com
 www.cern.ch
-www.change.org
 www.chomikuj.pl
 www.civicscience.com
 www.cleveland.com
@@ -4552,7 +4527,6 @@ www.code.createjs.com
 www.codeberg.org
 www.codeload.github.com
 www.coinbase.com
-www.coingeek.com
 www.coinpot.co
 www.cointraffic.io
 www.collamask.vk.com
@@ -4589,7 +4563,6 @@ www.expressen.se
 www.facebook.com
 www.fbcdn.net
 www.fili.cc
-www.flattr.com
 www.flickr.com
 www.fling.com
 www.flipboard.com
@@ -4644,6 +4617,7 @@ www.inspectlet.com
 www.instapaper.com
 www.intercom.io
 www.ipify.org
+www.ipinfo.io
 www.istockphoto.com
 www.iubenda.com
 www.jaleco.com
@@ -4655,7 +4629,6 @@ www.kaltura.com
 www.kampyle.com
 www.kcsoftwares.com
 www.klarna.com
-www.kohls.com
 www.komputerswiat.pl
 www.kopimi.com
 www.latimes.com
@@ -4705,13 +4678,13 @@ www.narkive.com
 www.nbcnews.com
 www.nbcnewyork.com
 www.networksolutions.com
-www.newegg.com
 www.newrelic.com
 www.newyorker.com
 www.nj.com
 www.no-ip.com
 www.nordichardware.se
 www.northeu.pi-dns.com
+www.npr.org
 www.nypost.com
 www.nytimes.com
 www.oboom.com
@@ -4736,7 +4709,6 @@ www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
 www.pennlive.com
-www.pi-hole.net
 www.pinterest.com
 www.piratebay.org
 www.placehold.it
@@ -4757,7 +4729,6 @@ www.quantummetric.com
 www.quora.com
 www.reddit.com
 www.redirectingat.com
-www.redtube.com
 www.refinery29.com
 www.researchgate.net
 www.returnpath.com
@@ -4774,7 +4745,6 @@ www.segment.com
 www.semrush.com
 www.sgizmo.com
 www.share-online.biz
-www.shopify.com
 www.sina.com.cn
 www.skimresources.com
 www.slate.com
@@ -4784,7 +4754,6 @@ www.snapengage.com
 www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
-www.someonewhocares.org
 www.speedcurve.com
 www.sportsillustrated.tags.crwdcntrl.net
 www.spot.im
@@ -4796,6 +4765,7 @@ www.srv67-190-240-87.vk.com
 www.srv71-129-240-87.vk.com
 www.srv72-190-240-87.vk.com
 www.srv78-190-240-87.vk.com
+www.starbucks.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
@@ -4849,10 +4819,10 @@ www.wshifen.com
 www.wupload.com
 www.www.m.vk.com
 www.wykop.pl
+www.wywy.com
 www.xboxlive.com
 www.yahoo.com
 www.yahoo.comwww.vk.com
-www.yahoo.net
 www.yandex.ru
 www.yotpo.com
 www.youtube-nocookie.com
@@ -4873,13 +4843,13 @@ wxc.com
 wxug.com
 wykop.pl
 wyspagier.pl
+wywy.com
 x1.com
 xbox-collections-int.mp.microsoft.com
 xbox.ipv6.microsoft.com
 xboxlive.com
 xd.adobelanding.com
 xda-developers.com
-xdpmmgmt.dps.mp.microsoft.com
 xerox.ugc.bazaarvoice.com
 xfer.openx.com
 xflight.xboxlive.com
