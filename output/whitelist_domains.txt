@@ -318,6 +318,7 @@ amuniversal.com
 amzn.to
 anabiullin.cs7777.vk.com
 analytics-static.ugc.bazaarvoice.com
+analytics.itunes.apple.com
 analytics.twitter.com
 ancestry.com
 android.clients.google.com
@@ -869,6 +870,7 @@ cindyholbrook.lpages.co
 ciso-int.dps.mp.microsoft.com
 civicscience.com
 cj.dotomi.com
+class.splunk.com
 classicindustries.ugc.bazaarvoice.com
 cleanandclear.ugc.bazaarvoice.com
 cleanclearca.ugc.bazaarvoice.com
@@ -1306,6 +1308,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 deviceportal.nettvservices.com
+devicequalificationservice.mp.microsoft.com
 devint-cdn.openx.com
 devint-docs.data-service-api.openx.com
 devint-docs.openaudience.openx.com
@@ -2173,6 +2176,7 @@ intersport.peerius.com
 investingchannel.com
 investorplace.com
 io9.com
+iodapi.class.splunk.com
 ip-adress.com
 ip-tracker.org
 ipapi.co
@@ -4162,6 +4166,7 @@ www.a-0008.a-msedge.net
 www.a-0009.a-msedge.net
 www.a.shifen.com
 www.accuweather.com
+www.adblock.ee
 www.adfox.ru
 www.adstyle.com
 www.adwords.google.com
@@ -4306,9 +4311,11 @@ www.ign.com
 www.ignorelist.com
 www.ikea.com
 www.img-bahn.de
+www.imgspice.com
 www.inc.com
 www.inputdirector.com
 www.inspectlet.com
+www.instagram.com
 www.instapaper.com
 www.intercom.io
 www.ipify.org
@@ -4317,6 +4324,7 @@ www.istockphoto.com
 www.iubenda.com
 www.jaleco.com
 www.janrain.com
+www.jarv.is
 www.jdoqocy.com
 www.joblo.com
 www.jsonip.com
@@ -4428,7 +4436,6 @@ www.returnpath.com
 www.roadandtrack.com
 www.rpxnow.com
 www.salemove.com
-www.scribd.com
 www.sdad.guru
 www.searchanise.com
 www.sears.com
