@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-09-29Z
+! Version: 2020-10-02Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-09-29Z
+! Last modified: 2020-10-02Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -410,6 +410,7 @@
 @@||apnewsregistry.com^
 @@||apollo.m.tau.vk.com^
 @@||apollo.tau.vk.com^
+@@||app-admin.staging.scp.splunk.com^
 @@||app-advertise.zhihuishu.com^
 @@||app-api.ted.com^
 @@||app-measurement.com^
@@ -577,6 +578,7 @@
 @@||bgr.com^
 @@||bhldn.ugc.bazaarvoice.com^
 @@||bialystok.tvp.pl^
+@@||bias.dps.mp.microsoft.com^
 @@||biblio.vk.com^
 @@||bigcommerce.com^
 @@||bigfishgames.ugc.bazaarvoice.com^
@@ -808,6 +810,7 @@
 @@||cdn.platform.openx.com^
 @@||cdn.platform.qa.openx.com^
 @@||cdn.plyr.io^
+@@||cdn.privacy-mgmt.com^
 @@||cdn.radiantmediatechs.com^
 @@||cdn.ravenjs.com^
 @@||cdn.rawgit.com^
@@ -1416,6 +1419,7 @@
 @@||drudgereport.com^
 @@||dsp.brand.sogou.com^
 @@||dsp.scp.splunk.com^
+@@||dsp.staging.scs.splunk.com^
 @@||dsw.tt.omtrdc.net^
 @@||duckdns.org^
 @@||duckduckgo.com^
@@ -1536,6 +1540,7 @@
 @@||ew.vk.com^
 @@||example.com^
 @@||example.org^
+@@||exchange.help.adfox.ru^
 @@||expedia.ugc.bazaarvoice.com^
 @@||explorer.burst-alliance.org^
 @@||expovaccins.vk.com^
@@ -1872,6 +1877,7 @@
 @@||ha3virus.vk.com^
 @@||hackerone-user-content.com^
 @@||halifax.appinspect.splunk.com^
+@@||halifax.staging.appinspect.splunk.com^
 @@||halkalit31maskot41.vk.com^
 @@||happyangler.ugc.bazaarvoice.com^
 @@||happymasksalesman.vk.com^
@@ -3403,6 +3409,7 @@
 @@||sj14.mktossl.com^
 @@||sketchfab.com^
 @@||skimresources.com^
+@@||skinny-demo.staging.scs.splunk.com^
 @@||skyhook.sonarr.tv^
 @@||skyline.vk.com^
 @@||skype.com^
@@ -3547,6 +3554,7 @@
 @@||stacksocial.com^
 @@||stage.guce.advertising.com^
 @@||staging-discuss.newrelic.com^
+@@||staging.appinspect.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
 @@||staging.splunk.com^
@@ -4348,6 +4356,7 @@
 @@||www.leanplum.com^
 @@||www.liftoff.io^
 @@||www.linkedin.com^
+@@||www.linktr.ee^
 @@||www.linkwithin.com^
 @@||www.livechatinc.com^
 @@||www.livefyre.com^
@@ -4366,6 +4375,7 @@
 @@||www.malwaredomainlist.com^
 @@||www.mapquestapi.com^
 @@||www.marketo.com^
+@@||www.marketwatch.com^
 @@||www.mask13.vk.com^
 @@||www.masslive.com^
 @@||www.master.burst-alliance.org^
@@ -4378,6 +4388,7 @@
 @@||www.monero.org^
 @@||www.moonbit.co.in^
 @@||www.mouseflow.com^
+@@||www.mozilla.net^
 @@||www.mozilla.org^
 @@||www.mparticle.com^
 @@||www.msedge.net^
@@ -4495,6 +4506,7 @@
 @@||www.tiktok.com^
 @@||www.tinypass.com^
 @@||www.tinyurl.com^
+@@||www.tlc.com^
 @@||www.tmz.com^
 @@||www.townnews.com^
 @@||www.transfer.sh^
@@ -4503,6 +4515,7 @@
 @@||www.tumblr.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^
+@@||www.tvnstyle.pl^
 @@||www.twitter.com^
 @@||www.ultimedia.com^
 @@||www.unibytes.com^

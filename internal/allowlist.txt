@@ -90,6 +90,7 @@ cdnp0.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static
 cdnp1.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
 cdnp2.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
 cdnp3.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
+cdn.privacy-mgmt.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-701373707 Breaks closing of a popup
 change.org
 checkappexec.microsoft.com
 chng.it
