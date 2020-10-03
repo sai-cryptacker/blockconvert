@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-02Z
+! Version: 2020-10-03Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-02Z
+! Last modified: 2020-10-03Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
 !
 !-----------------------Filters-----------------------!
+@@||0-100-pool.burst-alliance.org^
 @@||0-109.vk.com^
 @@||0-11-213-95.vk.com^
 @@||0-11.vk.com^
@@ -344,7 +345,6 @@
 @@||ap.spotify.com^
 @@||ap108.cs304112.vk.com^
 @@||api-cdn.embed.ly^
-@@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||api-glb.smoot.apple.com^
 @@||api-global.netflix.com^
 @@||api-iad10.playground.scp.splunk.com^
@@ -845,8 +845,6 @@
 @@||cds.d2s7q6s2.hwcdn.net^
 @@||cds.j3z9t3p6.hwcdn.net^
 @@||cds.s5x3j6q5.hwcdn.net^
-@@||cdw.ugc.bazaarvoice.com^
-@@||cdwg.ugc.bazaarvoice.com^
 @@||celebslam.tags.crwdcntrl.net^
 @@||centraleu.pi-dns.com^
 @@||cern.ch^
@@ -1399,6 +1397,7 @@
 @@||dotsub.com^
 @@||douglas.ugc.bazaarvoice.com^
 @@||down-cdn.dingtalk.com^
+@@||down.sandai.net^
 @@||download.cnet.com^
 @@||download.electrum.org^
 @@||download.intsig.net^
@@ -2424,7 +2423,6 @@
 @@||lyncdiscover.coingeek.com^
 @@||m-sso.openx.com^
 @@||m.akolnogorov.cs7777.vk.com^
-@@||m.bestofmedia.com^
 @@||m.cs7777.vk.com^
 @@||m.facebook.com^
 @@||m.hotmail.com^
@@ -2685,6 +2683,7 @@
 @@||newad.mail.wo.cn^
 @@||newegg.com^
 @@||newimv4.vk.com^
+@@||newjobs.com^
 @@||newrelic.com^
 @@||news.bitcoin.com^
 @@||news.ebc.net.tw^
@@ -2921,7 +2920,6 @@
 @@||packages.dps.mp.microsoft.com^
 @@||packages.linuxmint.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
-@@||packagesweb.dps.mp.microsoft.com^
 @@||paddle.com^
 @@||pagead.l.doubleclick.net^
 @@||pagead2.googleadservices.com^
@@ -3090,7 +3088,6 @@
 @@||proto2ad.durasite.net^
 @@||protonmail.com^
 @@||provacinema.vk.com^
-@@||providesupport.com^
 @@||proxy.novafusion.ea.com^
 @@||proxy.plex.bz^
 @@||ps.vk.com^
@@ -3218,6 +3215,7 @@
 @@||resolver.msg.global.xiaomi.net^
 @@||resolver.msg.xiaomi.net^
 @@||rest-prde.immedia-semi.com^
+@@||rest.growinginteractive.com^
 @@||restapi.amap.com^
 @@||restaurant.ugc.bazaarvoice.com^
 @@||restore.vk.com^
@@ -4046,7 +4044,6 @@
 @@||washington.cbslocal.com^
 @@||washingtonpost.com^
 @@||watchdog.burst-alliance.org^
-@@||watchdogs-int.dps.mp.microsoft.com^
 @@||watson.telemetry.microsoft.com^
 @@||way.vk.com^
 @@||wbd.ms^
@@ -4520,7 +4517,6 @@
 @@||www.ultimedia.com^
 @@||www.unibytes.com^
 @@||www.userreplay.net^
-@@||www.uservoice.com^
 @@||www.vanityfair.com^
 @@||www.vgwort.de^
 @@||www.vidible.tv^

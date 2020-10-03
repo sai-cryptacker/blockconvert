@@ -1,3 +1,4 @@
+0-100-pool.burst-alliance.org
 0-109.vk.com
 0-11-213-95.vk.com
 0-11.vk.com
@@ -335,7 +336,6 @@ ap.org
 ap.spotify.com
 ap108.cs304112.vk.com
 api-cdn.embed.ly
-api-dev.dcat.dsp.mp.microsoft.com
 api-glb.smoot.apple.com
 api-global.netflix.com
 api-iad10.playground.scp.splunk.com
@@ -836,8 +836,6 @@ cdp.aliexpress.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
-cdw.ugc.bazaarvoice.com
-cdwg.ugc.bazaarvoice.com
 celebslam.tags.crwdcntrl.net
 centraleu.pi-dns.com
 cern.ch
@@ -1390,6 +1388,7 @@ dot1dot1dot1.cloudflare-dns.com
 dotsub.com
 douglas.ugc.bazaarvoice.com
 down-cdn.dingtalk.com
+down.sandai.net
 download.cnet.com
 download.electrum.org
 download.intsig.net
@@ -2415,7 +2414,6 @@ lwn.net
 lyncdiscover.coingeek.com
 m-sso.openx.com
 m.akolnogorov.cs7777.vk.com
-m.bestofmedia.com
 m.cs7777.vk.com
 m.facebook.com
 m.hotmail.com
@@ -2676,6 +2674,7 @@ new.vk.com
 newad.mail.wo.cn
 newegg.com
 newimv4.vk.com
+newjobs.com
 newrelic.com
 news.bitcoin.com
 news.ebc.net.tw
@@ -2912,7 +2911,6 @@ packages.chocolatey.org
 packages.dps.mp.microsoft.com
 packages.linuxmint.com
 packagesapi-int.dps.mp.microsoft.com
-packagesweb.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
@@ -3081,7 +3079,6 @@ proofpoint.com
 proto2ad.durasite.net
 protonmail.com
 provacinema.vk.com
-providesupport.com
 proxy.novafusion.ea.com
 proxy.plex.bz
 ps.vk.com
@@ -3209,6 +3206,7 @@ researchgate.net
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 rest-prde.immedia-semi.com
+rest.growinginteractive.com
 restapi.amap.com
 restaurant.ugc.bazaarvoice.com
 restore.vk.com
@@ -4037,7 +4035,6 @@ warp.cloudflare-dns.com
 washington.cbslocal.com
 washingtonpost.com
 watchdog.burst-alliance.org
-watchdogs-int.dps.mp.microsoft.com
 watson.telemetry.microsoft.com
 way.vk.com
 wbd.ms
@@ -4511,7 +4508,6 @@ www.twitter.com
 www.ultimedia.com
 www.unibytes.com
 www.userreplay.net
-www.uservoice.com
 www.vanityfair.com
 www.vgwort.de
 www.vidible.tv
