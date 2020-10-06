@@ -62,6 +62,7 @@ baidu.com
 b.akamaiedge.net
 battle.net
 bbci.co.uk
+behance.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-703781874 Not malware
 berush.com
 bestbuy.ca
 betfair.com

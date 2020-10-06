@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-03Z
+! Version: 2020-10-06Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-03Z
+! Last modified: 2020-10-06Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -441,7 +441,6 @@
 @@||apptimize.com^
 @@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi-intppe.dps.mp.microsoft.com^
-@@||appxapi.dps.mp.microsoft.com^
 @@||apresolve.spotify.com^
 @@||apt.newrelic.com^
 @@||apt.sonarr.tv^
@@ -557,6 +556,7 @@
 @@||be.2.cqcounter.com^
 @@||bebe.ugc.bazaarvoice.com^
 @@||bedbathandbeyond.com^
+@@||behance.net^
 @@||bell.ugc.bazaarvoice.com^
 @@||benadryl.ugc.bazaarvoice.com^
 @@||benadrylca.ugc.bazaarvoice.com^
@@ -696,7 +696,6 @@
 @@||brother-emea.ugc.bazaarvoice.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||browser.vk.com^
-@@||bsxcommerce-int.mp.microsoft.com^
 @@||bt-1262.beta.dashboard.mgid.com^
 @@||bt-1279.beta.dashboard.mgid.com^
 @@||bt-1290.beta.dashboard.mgid.com^
@@ -967,8 +966,6 @@
 @@||commozilla.cloudflare-dns.com^
 @@||community.spiceworks.com^
 @@||completion.amazon.com^
-@@||composerapi.dps.mp.microsoft.com^
-@@||composerweb.dps.mp.microsoft.com^
 @@||comwww.vk.com^
 @@||conf.splunk.com^
 @@||confib.ifmo.ru^
@@ -1558,7 +1555,6 @@
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external-lhr9-1.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
-@@||extorigin-int.dcat.dsp.mp.microsoft.com^
 @@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||exxonmobil.ugc.bazaarvoice.com^
 @@||f.chtah.com^
@@ -1587,7 +1583,6 @@
 @@||fe2.update.microsoft.com.akadns.net^
 @@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
 @@||fe3.delivery.mp.microsoft.com^
-@@||feature.duellinksmeta.com^
 @@||feed.adrelayer.com^
 @@||feedback.aliexpress.com^
 @@||feedburner.com^
@@ -1627,6 +1622,7 @@
 @@||find.api.micloud.xiaomi.net^
 @@||findnsave.com^
 @@||finishline.ugc.bazaarvoice.com^
+@@||firebaseinstallations.googleapis.com^
 @@||firebaseremoteconfig.googleapis.com^
 @@||firstlook.org^
 @@||fiverr.com^
@@ -1788,7 +1784,6 @@
 @@||gitter.im^
 @@||gizmodo.com^
 @@||gizmodo.com.au^
-@@||glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com^
 @@||global.edge.bamgrid.com^
 @@||global.market.xiaomi.com^
@@ -2164,7 +2159,6 @@
 @@||infowars.com^
 @@||infowarsstore.com^
 @@||ing.sakeena.cs304111.vk.com^
-@@||ingestiondeveloperapi.dse.mp.microsoft.com^
 @@||inputdirector.com^
 @@||inq.com^
 @@||insight.rapid7.com^
@@ -2978,7 +2972,6 @@
 @@||phplist.com^
 @@||phs.tanx.com^
 @@||phx.origin.delivery.mp.microsoft.com^
-@@||phx.sfs-int.dcat.dsp.mp.microsoft.com^
 @@||pi-dns.com^
 @@||pi-hole.net^
 @@||pi.vk.com^
@@ -4133,7 +4126,6 @@
 @@||woosmap.com^
 @@||wordpress.com^
 @@||workflowservice-int.dps.mp.microsoft.com^
-@@||workflowservice.dps.mp.microsoft.com^
 @@||world-gen.g.aaplimg.com^
 @@||worldnow.com^
 @@||worldstream.nl^
@@ -4227,10 +4219,8 @@
 @@||www.ccleaner.com^
 @@||www.cda.pl^
 @@||www.cdn.optimizely.com^
-@@||www.cern.ch^
 @@||www.chomikuj.pl^
 @@||www.civicscience.com^
-@@||www.cleveland.com^
 @@||www.clicktale.net^
 @@||www.clkap.tradedoubler.com^
 @@||www.clkgb.tradedoubler.com^
@@ -4284,6 +4274,7 @@
 @@||www.footlocker-inc.com^
 @@||www.forms.gle^
 @@||www.forum.vk.com^
+@@||www.framasoft.org^
 @@||www.freedownloadmanager.org^
 @@||www.fullstory.com^
 @@||www.g.ezoic.net^
@@ -4319,7 +4310,6 @@
 @@||www.ibm.com^
 @@||www.ibsys.com^
 @@||www.icanhazip.com^
-@@||www.icloud.com^
 @@||www.idg.se^
 @@||www.ign.com^
 @@||www.ignorelist.com^
@@ -4374,14 +4364,13 @@
 @@||www.marketo.com^
 @@||www.marketwatch.com^
 @@||www.mask13.vk.com^
-@@||www.masslive.com^
 @@||www.master.burst-alliance.org^
 @@||www.maxmind.com^
 @@||www.mbl.is^
 @@||www.mediafire.com^
 @@||www.miaminewtimes.com^
 @@||www.microsoft.com^
-@@||www.mlive.com^
+@@||www.microsofttranslator.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
 @@||www.mouseflow.com^
@@ -4396,16 +4385,12 @@
 @@||www.namecheap.com^
 @@||www.narkive.com^
 @@||www.nbcnews.com^
-@@||www.nbcnewyork.com^
 @@||www.networksolutions.com^
 @@||www.newrelic.com^
 @@||www.newyorker.com^
-@@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.nordichardware.se^
-@@||www.northeu.pi-dns.com^
 @@||www.npr.org^
-@@||www.nypost.com^
 @@||www.nytimes.com^
 @@||www.oboom.com^
 @@||www.observability.splunk.com^
@@ -4413,12 +4398,10 @@
 @@||www.ojrq.net^
 @@||www.olark.com^
 @@||www.onesignal.com^
-@@||www.onion.to^
 @@||www.opensubtitles.org^
 @@||www.openwall.com^
 @@||www.openx.com^
 @@||www.optimizely.com^
-@@||www.oregonlive.com^
 @@||www.pastebin.com^
 @@||www.pasteboard.co^
 @@||www.paypal.com^
@@ -4427,7 +4410,6 @@
 @@||www.pcbeta.com^
 @@||www.pcmag.com^
 @@||www.pcmatic.com^
-@@||www.pennlive.com^
 @@||www.pinterest.com^
 @@||www.piratebay.org^
 @@||www.placehold.it^
@@ -4530,6 +4512,7 @@
 @@||www.watchdog.burst-alliance.org^
 @@||www.weather.gov^
 @@||www.web.burst-alliance.org^
+@@||www.wikipedia.org^
 @@||www.windy.com^
 @@||www.wired.com^
 @@||www.wshifen.com^
