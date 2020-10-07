@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-06Z
+! Version: 2020-10-07Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-06Z
+! Last modified: 2020-10-07Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -3354,6 +3354,7 @@
 @@||seeclickfix.com^
 @@||segment.com^
 @@||semrush.com^
+@@||sendgrid.com^
 @@||sendgrid.net^
 @@||sendspace.com^
 @@||sephora.ugc.bazaarvoice.com^
@@ -4172,6 +4173,7 @@
 @@||www.a-0009.a-msedge.net^
 @@||www.a.shifen.com^
 @@||www.accuweather.com^
+@@||www.acehardware.com^
 @@||www.adblock.ee^
 @@||www.adfox.ru^
 @@||www.adstyle.com^
@@ -4267,6 +4269,7 @@
 @@||www.facebook.com^
 @@||www.fbcdn.net^
 @@||www.fili.cc^
+@@||www.fiverr.com^
 @@||www.flickr.com^
 @@||www.fling.com^
 @@||www.flipboard.com^

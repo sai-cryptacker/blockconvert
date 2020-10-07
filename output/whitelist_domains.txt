@@ -3345,6 +3345,7 @@ securitymetrics.com
 seeclickfix.com
 segment.com
 semrush.com
+sendgrid.com
 sendgrid.net
 sendspace.com
 sephora.ugc.bazaarvoice.com
@@ -4163,6 +4164,7 @@ www.a-0008.a-msedge.net
 www.a-0009.a-msedge.net
 www.a.shifen.com
 www.accuweather.com
+www.acehardware.com
 www.adblock.ee
 www.adfox.ru
 www.adstyle.com
@@ -4258,6 +4260,7 @@ www.expressen.se
 www.facebook.com
 www.fbcdn.net
 www.fili.cc
+www.fiverr.com
 www.flickr.com
 www.fling.com
 www.flipboard.com

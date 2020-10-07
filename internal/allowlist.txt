@@ -417,6 +417,7 @@ searchenginejournal.com
 search.msn.com
 secure.mbl.is
 semrush.com
+sendgrid.com # https://github.com/mkb2091/blockconvert/issues/70 Base domain is not used for tracking
 service.weather.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
