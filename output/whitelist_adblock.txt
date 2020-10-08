@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-07Z
+! Version: 2020-10-08Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-07Z
+! Last modified: 2020-10-08Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2181,6 +2181,7 @@
 @@||internal.paymentinstruments.mp.microsoft.com^
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
+@@||inventory-int.mp.microsoft.com^
 @@||investingchannel.com^
 @@||investorplace.com^
 @@||io9.com^
@@ -2351,6 +2352,7 @@
 @@||limtu.ifmo.ru^
 @@||linebinevaskemaskine.piter-ix.vk.com^
 @@||linkedin.com^
+@@||links.getblueshift.com^
 @@||links.iterable.com^
 @@||links.mint.com^
 @@||linktr.ee^
@@ -2491,6 +2493,7 @@
 @@||matchinguu.com^
 @@||matcotools.ugc.bazaarvoice.com^
 @@||mathjax.org^
+@@||matterport.com^
 @@||matytsina.vk.com^
 @@||maxcdn.bootstrapcdn.com^
 @@||maxmind.com^
@@ -3052,6 +3055,7 @@
 @@||postimg.cc^
 @@||powerreviews.com^
 @@||powr.io^
+@@||pp.ephapay.net^
 @@||pp.userapi.com^
 @@||ppt.cc^
 @@||ppurifier.game.xiaomi.com^
@@ -3277,6 +3281,7 @@
 @@||safe.txmblr.com^
 @@||safebrowsing-cache.google.com^
 @@||safebrowsing.google.com^
+@@||sagepay.com^
 @@||sainsburysgrocery.ugc.bazaarvoice.com^
 @@||sakeena.cs304111.vk.com^
 @@||salemove.com^
@@ -3334,6 +3339,7 @@
 @@||secure-cf-c.ooyala.com^
 @@||secure.aadcdn.microsoftonline-p.com^
 @@||secure.avangate.com^
+@@||secure.barclaycard.co.uk^
 @@||secure.brightcove.com^
 @@||secure.consumer.entitlement.skype.com^
 @@||secure.dshield.org^
@@ -3955,6 +3961,7 @@
 @@||variety.com^
 @@||vb64z9th8faec4b0.vk.com^
 @@||vegascom.ugc.bazaarvoice.com^
+@@||verifiedbyvisa.barclays.co.uk^
 @@||verify.monzo.com^
 @@||verisign.com^
 @@||verkkokauppa.ugc.bazaarvoice.com^
@@ -3981,6 +3988,7 @@
 @@||vidtech.cbsinteractive.com^
 @@||vidto.me^
 @@||viduki.com^
+@@||vidyard.com^
 @@||viglink.com^
 @@||vignette.wikia.nocookie.net^
 @@||vimeo.com^
@@ -4150,6 +4158,7 @@
 @@||wufoo.com^
 @@||wupload.com^
 @@||wusthof.ugc.bazaarvoice.com^
+@@||wut.smartscreen.microsoft.com^
 @@||ww.vk.com^
 @@||ww.youporn.com^
 @@||wwtdd.tags.crwdcntrl.net^
@@ -4231,6 +4240,7 @@
 @@||www.cnet.com^
 @@||www.cnnmoney.tags.crwdcntrl.net^
 @@||www.code.createjs.com^
+@@||www.codeberg.org^
 @@||www.codeload.github.com^
 @@||www.coinbase.com^
 @@||www.coinpot.co^
@@ -4252,6 +4262,7 @@
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
+@@||www.dn.se^
 @@||www.drift.com^
 @@||www.driftt.com^
 @@||www.drive.google.com^
@@ -4305,6 +4316,7 @@
 @@||www.heatmap.it^
 @@||www.heise.de^
 @@||www.helium.com^
+@@||www.hm.com^
 @@||www.hoopshype.com^
 @@||www.hotjar.com^
 @@||www.howtogeek.com^
@@ -4334,6 +4346,7 @@
 @@||www.jarv.is^
 @@||www.jdoqocy.com^
 @@||www.joblo.com^
+@@||www.jquery.com^
 @@||www.jsonip.com^
 @@||www.kaltura.com^
 @@||www.kampyle.com^

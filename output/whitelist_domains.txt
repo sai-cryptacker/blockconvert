@@ -2172,6 +2172,7 @@ intercontinental.ugc.bazaarvoice.com
 internal.paymentinstruments.mp.microsoft.com
 internetofthings.ibmcloud.com
 intersport.peerius.com
+inventory-int.mp.microsoft.com
 investingchannel.com
 investorplace.com
 io9.com
@@ -2342,6 +2343,7 @@ limited-prod.giphy.map.fastly.net
 limtu.ifmo.ru
 linebinevaskemaskine.piter-ix.vk.com
 linkedin.com
+links.getblueshift.com
 links.iterable.com
 links.mint.com
 linktr.ee
@@ -2482,6 +2484,7 @@ matalan.ugc.bazaarvoice.com
 matchinguu.com
 matcotools.ugc.bazaarvoice.com
 mathjax.org
+matterport.com
 matytsina.vk.com
 maxcdn.bootstrapcdn.com
 maxmind.com
@@ -3043,6 +3046,7 @@ postimage.org
 postimg.cc
 powerreviews.com
 powr.io
+pp.ephapay.net
 pp.userapi.com
 ppt.cc
 ppurifier.game.xiaomi.com
@@ -3268,6 +3272,7 @@ sadc-24702.beta.dashboard.mgid.com
 safe.txmblr.com
 safebrowsing-cache.google.com
 safebrowsing.google.com
+sagepay.com
 sainsburysgrocery.ugc.bazaarvoice.com
 sakeena.cs304111.vk.com
 salemove.com
@@ -3325,6 +3330,7 @@ seatme.yelp.com
 secure-cf-c.ooyala.com
 secure.aadcdn.microsoftonline-p.com
 secure.avangate.com
+secure.barclaycard.co.uk
 secure.brightcove.com
 secure.consumer.entitlement.skype.com
 secure.dshield.org
@@ -3946,6 +3952,7 @@ variant-int.dps.mp.microsoft.com
 variety.com
 vb64z9th8faec4b0.vk.com
 vegascom.ugc.bazaarvoice.com
+verifiedbyvisa.barclays.co.uk
 verify.monzo.com
 verisign.com
 verkkokauppa.ugc.bazaarvoice.com
@@ -3972,6 +3979,7 @@ vidible.tv
 vidtech.cbsinteractive.com
 vidto.me
 viduki.com
+vidyard.com
 viglink.com
 vignette.wikia.nocookie.net
 vimeo.com
@@ -4141,6 +4149,7 @@ wtkr.com
 wufoo.com
 wupload.com
 wusthof.ugc.bazaarvoice.com
+wut.smartscreen.microsoft.com
 ww.vk.com
 ww.youporn.com
 wwtdd.tags.crwdcntrl.net
@@ -4222,6 +4231,7 @@ www.cnbc.com
 www.cnet.com
 www.cnnmoney.tags.crwdcntrl.net
 www.code.createjs.com
+www.codeberg.org
 www.codeload.github.com
 www.coinbase.com
 www.coinpot.co
@@ -4243,6 +4253,7 @@ www.deviantart.com
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
+www.dn.se
 www.drift.com
 www.driftt.com
 www.drive.google.com
@@ -4296,6 +4307,7 @@ www.heapanalytics.com
 www.heatmap.it
 www.heise.de
 www.helium.com
+www.hm.com
 www.hoopshype.com
 www.hotjar.com
 www.howtogeek.com
@@ -4325,6 +4337,7 @@ www.janrain.com
 www.jarv.is
 www.jdoqocy.com
 www.joblo.com
+www.jquery.com
 www.jsonip.com
 www.kaltura.com
 www.kampyle.com
