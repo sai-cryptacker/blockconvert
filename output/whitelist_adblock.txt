@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-08Z
+! Version: 2020-10-09Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-08Z
+! Last modified: 2020-10-09Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -36,6 +36,7 @@
 @@||10.afs.googleadservices.com^
 @@||100-0-pool.burst-alliance.org^
 @@||1001.cloudflare-dns.com^
+@@||11.vk.com^
 @@||110415.libdd.com^
 @@||1111.cloudflare-dns.com^
 @@||112.2o7.net^
@@ -487,6 +488,7 @@
 @@||att.ugc.bazaarvoice.com^
 @@||attach2.mobile01.com^
 @@||attachment.fbsbx.com^
+@@||attestation.dps.mp.microsoft.com^
 @@||attestation.xboxlive.com^
 @@||attfeedback.uservoice.com^
 @@||attservicesinc.tt.omtrdc.net^
@@ -686,6 +688,7 @@
 @@||bountysource.com^
 @@||bowercdn.net^
 @@||boxrec.com^
+@@||bpc.vk.com^
 @@||br.2.cqcounter.com^
 @@||braintreegateway.com^
 @@||brakrock.be^
@@ -766,12 +769,14 @@
 @@||cartersoshkoshca.ugc.bazaarvoice.com^
 @@||cas.org.skyline.vk.com^
 @@||cbsi.com^
+@@||cbsl.mp.microsoft.com^
 @@||cc.cnetcontent.com^
 @@||cc.vk.com^
 @@||ccleaner.com^
 @@||cda.pl^
 @@||cdiscount.ugc.bazaarvoice.com^
 @@||cdn-a.sonyentertainmentnetwork.com^
+@@||cdn-ads.vk.com^
 @@||cdn-content.ampproject.org^
 @@||cdn-eu.dynamicyield.com^
 @@||cdn-us-ec.yottaa.net^
@@ -1060,6 +1065,7 @@
 @@||cs304111.vk.com^
 @@||cs304112.vk.com^
 @@||cs305300.vk.com^
+@@||cs305605.vk.com^
 @@||cs305608.vk.com^
 @@||cs316931.vk.com^
 @@||cs323817.vk.com^
@@ -1078,6 +1084,8 @@
 @@||cs4422.vk.com^
 @@||cs4423.vk.com^
 @@||cs4441.vk.com^
+@@||cs4473.vk.com^
+@@||cs4479.vk.com^
 @@||cs4700.vk.com^
 @@||cs508407.vk.com^
 @@||cs509605.vk.com^
@@ -1093,8 +1101,10 @@
 @@||cs543509.vk.com^
 @@||cs543603.vk.com^
 @@||cs5447.vk.com^
+@@||cs5472.vk.com^
 @@||cs5475.vk.com^
 @@||cs5533.vk.com^
+@@||cs5744.vk.com^
 @@||cs5840.vk.com^
 @@||cs5903.vk.com^
 @@||cs5920.vk.com^
@@ -1347,6 +1357,7 @@
 @@||display-stg.ugc.bazaarvoice.com^
 @@||display-test.ugc.bazaarvoice.com^
 @@||display.ugc.bazaarvoice.com^
+@@||displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||disq.us^
 @@||disqus.com^
@@ -1989,6 +2000,7 @@
 @@||hobbs.ugc.bazaarvoice.com^
 @@||hobbycraft.ugc.bazaarvoice.com^
 @@||hockeyapp.net^
+@@||hol.class.splunk.com^
 @@||hollywoodlife.com^
 @@||homedepot.com^
 @@||homedepot.tt.omtrdc.net^
@@ -2159,6 +2171,7 @@
 @@||infowars.com^
 @@||infowarsstore.com^
 @@||ing.sakeena.cs304111.vk.com^
+@@||ingestionuxservice-int.dps.mp.microsoft.com^
 @@||inputdirector.com^
 @@||inq.com^
 @@||insight.rapid7.com^
@@ -2308,6 +2321,8 @@
 @@||l.facebook.com^
 @@||l.ooyala.com^
 @@||lab.coingeek.com^
+@@||label-int.mp.microsoft.com^
+@@||label.mp.microsoft.com^
 @@||labs.google.com^
 @@||lactaid.ugc.bazaarvoice.com^
 @@||lads.myspacecdn.com^
@@ -2344,6 +2359,8 @@
 @@||licensebuttons.net^
 @@||licensing.mp.microsoft.com^
 @@||licensing.xboxlive.com^
+@@||licensingdiagnostics-int.mp.microsoft.com^
+@@||licensingdiagnostics.mp.microsoft.com^
 @@||lifehacker.com^
 @@||liftoff.io^
 @@||light.ifmo.ru^
@@ -2783,7 +2800,11 @@
 @@||observability.splunk.com^
 @@||observer.com^
 @@||observium.openx.com^
+@@||ocadmin-int.mp.microsoft.com^
+@@||ocadmin.mp.microsoft.com^
 @@||ocdn.eu^
+@@||ocfm-int.mp.microsoft.com^
+@@||ocfm.mp.microsoft.com^
 @@||ocos-office365-s2s.msedge.net^
 @@||ocsn.com^
 @@||ocsp.apple.com^
@@ -2913,10 +2934,12 @@
 @@||p.imgur.com^
 @@||p.jwpcdn.com^
 @@||pacificcoast.ugc.bazaarvoice.com^
+@@||packages-int.dps.mp.microsoft.com^
 @@||packages.chocolatey.org^
 @@||packages.dps.mp.microsoft.com^
 @@||packages.linuxmint.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
+@@||packagesweb.dps.mp.microsoft.com^
 @@||paddle.com^
 @@||pagead.l.doubleclick.net^
 @@||pagead2.googleadservices.com^
@@ -3076,9 +3099,11 @@
 @@||productcatalogservice.dce.mp.microsoft.com^
 @@||products.office.com^
 @@||productsummary-int.dps.mp.microsoft.com^
+@@||productweb-int.dps.mp.microsoft.com^
 @@||profile.target.com^
 @@||profimasking.dev.tau.vk.com^
 @@||promodj.com^
+@@||promopolicy.mp.microsoft.com^
 @@||promotion.aliexpress.com^
 @@||promotions.newegg.com^
 @@||proofpoint.com^
@@ -3223,6 +3248,7 @@
 @@||ris-lx09.roslin.www.cs001.vk.com^
 @@||ris.api.iris.microsoft.com^
 @@||rk-agoglev.cs7777.vk.com^
+@@||rk-master.admin.cs7777.vk.com^
 @@||road.adblock.ro^
 @@||roadandtrack.com^
 @@||roku.com^
@@ -3392,6 +3418,7 @@
 @@||shopping.com^
 @@||shoprunner.com^
 @@||shuc-android.ksord.com^
+@@||shutdown.vk.com^
 @@||si.2.cqcounter.com^
 @@||si6ling.incestflix.com^
 @@||siatka.org^
@@ -3408,6 +3435,7 @@
 @@||sketchfab.com^
 @@||skimresources.com^
 @@||skinny-demo.staging.scs.splunk.com^
+@@||sklep.vk.com^
 @@||skyhook.sonarr.tv^
 @@||skyline.vk.com^
 @@||skype.com^
@@ -3452,6 +3480,7 @@
 @@||soma.ugc.bazaarvoice.com^
 @@||someonewhocares.org^
 @@||son-video.ugc.bazaarvoice.com^
+@@||sonar-int.px.mp.microsoft.com^
 @@||sorelintl.ugc.bazaarvoice.com^
 @@||soundcloud.com^
 @@||sourceforge.net^
@@ -3496,7 +3525,9 @@
 @@||srv140-129-240-87.vk.com^
 @@||srv142-185-240-87.vk.com^
 @@||srv146-185-240-87.vk.com^
+@@||srv15-116-213-95.vk.com^
 @@||srv157-185-240-87.vk.com^
+@@||srv157-189-240-87.vk.com^
 @@||srv158-137-240-87.vk.com^
 @@||srv16-132-240-87.vk.com^
 @@||srv160-185-240-87.vk.com^
@@ -3512,12 +3543,16 @@
 @@||srv194-139-240-87.vk.com^
 @@||srv206-137-240-87.vk.com^
 @@||srv207-137-240-87.vk.com^
+@@||srv207-228-186-93.vk.com^
 @@||srv208-137-240-87.vk.com^
+@@||srv218-0-213-95.vk.com^
+@@||srv220-151-240-87.vk.com^
 @@||srv226-191-240-87.vk.com^
 @@||srv228-182-240-87.vk.com^
 @@||srv233-185-240-87.vk.com^
 @@||srv251-165-240-87.vk.com^
 @@||srv3-6-213-95.vk.com^
+@@||srv41-129-240-87.vk.com^
 @@||srv66-139-137-79.vk.com^
 @@||srv67-190-240-87.vk.com^
 @@||srv69-190-240-87.vk.com^
@@ -3628,6 +3663,9 @@
 @@||stripe.com^
 @@||stripecdn.com^
 @@||stripecdn.map.fastly.net^
+@@||submissionapi-int.dps.mp.microsoft.com^
+@@||submissioncompareapi-int.dps.mp.microsoft.com^
+@@||submissionweb-int.dps.mp.microsoft.com^
 @@||substrate.ms-acdc.office.com^
 @@||substrate.office.com^
 @@||sudafed.ugc.bazaarvoice.com^
@@ -3939,6 +3977,8 @@
 @@||userscripts-mirror.org^
 @@||userstream.twitter.com^
 @@||uservoice.com^
+@@||ustrl-int.mp.microsoft.com^
+@@||ustrl.mp.microsoft.com^
 @@||uth.vk.com^
 @@||uwpproc-int.mix.mp.microsoft.com^
 @@||uwpproc.mix.mp.microsoft.com^
@@ -4135,6 +4175,7 @@
 @@||woosmap.com^
 @@||wordpress.com^
 @@||workflowservice-int.dps.mp.microsoft.com^
+@@||workflowservice.dps.mp.microsoft.com^
 @@||world-gen.g.aaplimg.com^
 @@||worldnow.com^
 @@||worldstream.nl^
@@ -4157,6 +4198,7 @@
 @@||wtkr.com^
 @@||wufoo.com^
 @@||wupload.com^
+@@||wus2.displaycatalog-int.mp.microsoft.com^
 @@||wusthof.ugc.bazaarvoice.com^
 @@||wut.smartscreen.microsoft.com^
 @@||ww.vk.com^
@@ -4199,6 +4241,7 @@
 @@||www.amazon.in^
 @@||www.amazoncustomerservice.d2.sc.omtrdc.net^
 @@||www.amzn.to^
+@@||www.androidauthority.com^
 @@||www.angularjs.org^
 @@||www.anrdoezrs.net^
 @@||www.answers.com^
@@ -4209,6 +4252,7 @@
 @@||www.awin1.com^
 @@||www.baidu.com^
 @@||www.battle.net^
+@@||www.bbc.co.uk^
 @@||www.bbc.com^
 @@||www.bcorg.web.burst-alliance.org^
 @@||www.berush.com^
@@ -4259,6 +4303,7 @@
 @@||www.db.burst-alliance.org^
 @@||www.dell.com^
 @@||www.deviantart.com^
+@@||www.dictionary.cambridge.org^
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
@@ -4267,6 +4312,7 @@
 @@||www.driftt.com^
 @@||www.drive.google.com^
 @@||www.dropbox.com^
+@@||www.duckdns.org^
 @@||www.ebay.com^
 @@||www.ecdinterface.philips.com^
 @@||www.eloqua.com^
@@ -4311,6 +4357,7 @@
 @@||www.googlecommerce.com^
 @@||www.googletagservices.com^
 @@||www.gravatar.com^
+@@||www.greasyfork.org^
 @@||www.gstatic.com^
 @@||www.heapanalytics.com^
 @@||www.heatmap.it^
@@ -4533,6 +4580,7 @@
 @@||www.wired.com^
 @@||www.wshifen.com^
 @@||www.wupload.com^
+@@||www.ww.vk.com^
 @@||www.www.m.vk.com^
 @@||www.wykop.pl^
 @@||www.wywy.com^
