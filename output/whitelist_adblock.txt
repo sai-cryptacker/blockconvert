@@ -4160,6 +4160,7 @@
 @@||wistia.com^
 @@||wix.com^
 @@||wl.jd.com^
+@@||wl.spotify.com^
 @@||wn.vk.com^
 @@||wnba.com^
 @@||wns.windows.com^

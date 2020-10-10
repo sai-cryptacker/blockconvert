@@ -558,6 +558,7 @@ wikidot.com
 wildcard.twimg.com
 *.windowsupdate.com
 windowsupdate.com
+wl.spotify.com # Breaks spotify account confirmation
 *.wns.windows.com
 wns.windows.com
 worldstream.nl
