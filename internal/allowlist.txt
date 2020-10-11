@@ -130,6 +130,7 @@ cy2.settings.data.microsoft.com.akadns.net
 cybercrime-tracker.net
 d2405b0jymm2dk.cloudfront.net
 d2gatte9o95jao.cloudfront.net
+dailymail.co.uk # Blocked by PrivacyBadger
 datadoghq-browser-agent.com
 *.delivery.mp.microsoft.com
 delivery.mp.microsoft.com

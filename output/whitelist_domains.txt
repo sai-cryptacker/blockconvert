@@ -1241,6 +1241,7 @@ d2gatte9o95jao.cloudfront.net
 d3js.org
 d3orhvfyxudxxq.cloudfront.net
 d9hhrg4mnvzow.cloudfront.net
+dailymail.co.uk
 dailymotion.com
 damaskus.vk.com
 danid.dk
@@ -4275,6 +4276,7 @@ www.cs00000000000000000000000000000000.vk.com
 www.cs001.vk.com
 www.cs292596712.vk.com
 www.cws.conviva.com
+www.dailymail.co.uk
 www.dailymotion.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
