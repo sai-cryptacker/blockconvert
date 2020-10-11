@@ -321,6 +321,7 @@ amuniversal.com
 amzn.to
 anabiullin.cs7777.vk.com
 analytics-static.ugc.bazaarvoice.com
+analytics.amplitude.com
 analytics.itunes.apple.com
 analytics.twitter.com
 ancestry.com
@@ -432,7 +433,6 @@ appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com
 apptimize.com
-appxapi-intppe.dps.mp.microsoft.com
 apresolve.spotify.com
 apt.adafruit.com
 apt.newrelic.com
@@ -1629,7 +1629,6 @@ firstlook.org
 fiverr.com
 flattr.com
 flickr.com
-flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 fling.com
 flipboard.com
@@ -2327,6 +2326,7 @@ lcdn-locator-usnkq.apple.com.akadns.net
 lcdn-locator.apple.com.akadns.net
 leagueoflegends.com
 leanplum.com
+legacy.publisher.adservice.com
 lego.ugc.bazaarvoice.com
 leifsex.com
 lemon-ads.com
@@ -2839,7 +2839,6 @@ oload.cloud
 oload.club
 oload.download
 oload.fun
-oload.icu
 oload.info
 oload.live
 oload.services
@@ -2924,7 +2923,6 @@ packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.dps.mp.microsoft.com
 packages.linuxmint.com
-packagesapi-int.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
@@ -2948,7 +2946,6 @@ pastebin.org
 pasteboard.co
 pathe.emsecure.net
 pay.google.com
-paymentinstruments.mp.microsoft.com
 paypal.com
 paypalobjects.com
 pbs.twimg.com
@@ -2970,7 +2967,6 @@ personalweb.alipay.com
 pfsense.org
 pgl.yoyo.org
 philadelphia.cbslocal.com
-philips.ugc.bazaarvoice.com
 phishtank.com
 phncdn.com
 phobos.apple.com
@@ -3966,7 +3962,6 @@ ustrl-int.mp.microsoft.com
 ustrl.mp.microsoft.com
 uth.vk.com
 uwpproc-int.mix.mp.microsoft.com
-uwpproc.mix.mp.microsoft.com
 v.adfox.ru
 v.firebog.net
 v.pinimg.com
@@ -4234,6 +4229,7 @@ www.aol.com
 www.apple.com
 www.apptimize.com
 www.ar.2.cqcounter.com
+www.attservicesinc.tt.omtrdc.net
 www.awin1.com
 www.baidu.com
 www.bbc.co.uk
@@ -4269,7 +4265,6 @@ www.cnet.com
 www.cnnmoney.tags.crwdcntrl.net
 www.code.createjs.com
 www.codeberg.org
-www.codeload.github.com
 www.coinbase.com
 www.coinpot.co
 www.cointraffic.io
@@ -4304,7 +4299,6 @@ www.eltrafiko.com
 www.emjcd.com
 www.engadget.com
 www.ethn.io
-www.eventbrite.com
 www.everyaction.com
 www.expressen.se
 www.facebook.com
@@ -4394,7 +4388,6 @@ www.linktr.ee
 www.linkwithin.com
 www.livechatinc.com
 www.livefyre.com
-www.livehelpnow.net
 www.livejasmin.com
 www.livejournal.com
 www.localbitcoins.com
@@ -4415,6 +4408,7 @@ www.master.burst-alliance.org
 www.maxmind.com
 www.mbl.is
 www.mediafire.com
+www.megaphone.fm
 www.mesh.com
 www.miaminewtimes.com
 www.microsoft.com
@@ -4431,7 +4425,6 @@ www.msftncsi.com
 www.msn.com
 www.mywot.com
 www.namecheap.com
-www.narkive.com
 www.nbcnews.com
 www.newrelic.com
 www.newyorker.com
@@ -4450,6 +4443,7 @@ www.openwall.com
 www.openx.com
 www.optimizely.com
 www.oracle.com
+www.pastebin.com
 www.pasteboard.co
 www.paypal.com
 www.paypal.com.edgekey.net
@@ -4458,12 +4452,12 @@ www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
 www.pinterest.com
+www.piratebay.org
 www.placehold.it
 www.pocketnow.com
 www.polldaddy.com
 www.pornhub.com
 www.powerreviews.com
-www.ppt.cc
 www.privateinternetaccess.com
 www.providesupport.com
 www.publicsuffix.org
@@ -4549,7 +4543,6 @@ www.vgwort.de
 www.videopress.com
 www.vidible.tv
 www.viglink.com
-www.visa.com
 www.vk.com
 www.vk.vk.com
 www.vmn.net
