@@ -108,6 +108,7 @@ cmail20.com
 *.c-msedge.net
 c-msedge.net
 cnet.com
+cn-geo1.uber.com # https://github.com/mkb2091/blockconvert/issues/71 Breaks Uber geolocation
 codeberg.org
 code.jquery.com
 code.tidio.co
