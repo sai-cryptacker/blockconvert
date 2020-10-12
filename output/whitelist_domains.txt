@@ -148,6 +148,7 @@ a-0009.a-msedge.net
 a-0010.a-msedge.net
 a-0011.a-msedge.net
 a-0012.a-msedge.net
+a-uswe-01.mps.skype.com
 a.adwolf.ru
 a.espncdn.com
 a.fsdn.com
@@ -698,6 +699,7 @@ brother-emea.ugc.bazaarvoice.com
 browser.pipe.aria.microsoft.com
 browser.vk.com
 bsp.mp.microsoft.com
+bsxcdn.mp.microsoft.com
 bt-1262.beta.dashboard.mgid.com
 bt-1279.beta.dashboard.mgid.com
 bt-1290.beta.dashboard.mgid.com
@@ -720,6 +722,8 @@ burton.ugc.bazaarvoice.com
 business.officedepot.com.edgekey.net
 businessfinder.nj.com
 businessinsider.com
+businessstorecdn-dev.mp.microsoft.com
+businessstorecdn-int.mp.microsoft.com
 buy.geni.us
 buyad.bi-xenon.cn
 buymeacoffee.com
@@ -1332,6 +1336,7 @@ devint-cdn.openx.com
 devint-docs.data-service-api.openx.com
 devint-docs.openaudience.openx.com
 devint-docs.openx.com
+df.storage.live.com
 di.com.pl
 di.vk.com
 diagvirus.vk.com
@@ -1454,6 +1459,7 @@ e688.g.akamaiedge.net
 e7081.g.akamaiedge.net
 e785s8hz.micpn.com
 e8999.b.akamaiedge.net
+ea.az.tops.purchase.mp.microsoft.com
 ea.com
 eas-canary.messagingthread.skype.com
 eastus.pi-dns.com
@@ -1496,6 +1502,7 @@ embed.blog.logrocket.com
 embed.flowplayer.org
 embed.spotify.com
 emdl.ws.microsoft.com
+emea01.safelinks.protection.outlook.com
 emeaquarantine.vk.com
 en.bab.la
 encrypted-tbn0.gstatic.com
@@ -1535,6 +1542,7 @@ eu7.heatmap.it
 eu8.heatmap.it
 eu9.heatmap.it
 eus2-canary.messagingthread.skype.com
+eus2.az.tops.purchase.mp.microsoft.com
 ev.rdtcdn.com
 evans.ugc.bazaarvoice.com
 evanscycles-uk.ugc.bazaarvoice.com
@@ -2491,6 +2499,7 @@ mapsengine.google.com
 margevicius.lt
 market.xiaomi.com
 marketo.com
+marketplace-x360.mp.microsoft.com
 marketwatch.com
 marksandspencer.ugc.bazaarvoice.com
 maroc.cloudflare-dns.com
@@ -2683,6 +2692,7 @@ nbcu.tags.crwdcntrl.net
 nbcuni.com
 nbs.cs9591.vk.com
 ncl.ugc.bazaarvoice.com
+ne.az.tops.purchase.mp.microsoft.com
 neighborsink.com
 neowin.net
 nesn.com
@@ -3094,12 +3104,14 @@ prnt.sc
 prod-docs.openx.com
 prod.appnexus.map.fastly.net
 prod.disqus.map.fastlylb.net
+prod.registrar.skype.com
 prod.telemetry.ros.rockstargames.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 products.office.com
 productsummary-int.dps.mp.microsoft.com
 productweb-int.dps.mp.microsoft.com
+productweb.dps.mp.microsoft.com
 profile.target.com
 profimasking.dev.tau.vk.com
 promodj.com
@@ -3352,6 +3364,7 @@ sd-29849.alpha.dashboard.mgid.com
 sdad.guru
 sdc.pingan.com
 sdk.vk.com
+sdks.shopifycdn.com
 se.2.cqcounter.com
 se.cqcounter.com
 search.msn.com
@@ -3665,8 +3678,11 @@ stripe.com
 stripecdn.com
 stripecdn.map.fastly.net
 submissionapi-int.dps.mp.microsoft.com
+submissionapi.dps.mp.microsoft.com
 submissioncompareapi-int.dps.mp.microsoft.com
+submissioncompareapi.dps.mp.microsoft.com
 submissionweb-int.dps.mp.microsoft.com
+submissionweb.dps.mp.microsoft.com
 substrate.ms-acdc.office.com
 substrate.office.com
 sudafed.ugc.bazaarvoice.com
@@ -3802,7 +3818,9 @@ tools.l.google.com
 tools.pingdom.com
 topengkacaindo.dev.tau.vk.com
 toppstiles.ugc.bazaarvoice.com
+tops.mp.microsoft.com
 tops.purchase-int.mp.microsoft.com
+tops.purchase.mp.microsoft.com
 toptenreviews.com
 tor.cloudflare-dns.com
 torbit.com
@@ -4200,6 +4218,7 @@ wtkr.com
 wufoo.com
 wupload.com
 wus2.az.tops.purchase-int.mp.microsoft.com
+wus2.az.tops.purchase.mp.microsoft.com
 wus2.displaycatalog-int.mp.microsoft.com
 wusthof.ugc.bazaarvoice.com
 wut.smartscreen.microsoft.com
@@ -4275,6 +4294,7 @@ www.cbsi.com
 www.ccleaner.com
 www.cda.pl
 www.cdn.optimizely.com
+www.charter.com
 www.chomikuj.pl
 www.civicscience.com
 www.clicktale.net
@@ -4296,7 +4316,6 @@ www.cs00000000000000000000000000000000.vk.com
 www.cs001.vk.com
 www.cs292596712.vk.com
 www.cws.conviva.com
-www.dailymail.co.uk
 www.dailymotion.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
@@ -4392,12 +4411,14 @@ www.janrain.com
 www.jarv.is
 www.jdoqocy.com
 www.joblo.com
+www.joemonster.org
 www.joewein.net
 www.jquery.com
 www.jsonip.com
 www.kaltura.com
 www.kampyle.com
 www.kcsoftwares.com
+www.kohls.com
 www.komputerswiat.pl
 www.kopimi.com
 www.latimes.com
@@ -4432,7 +4453,6 @@ www.megaphone.fm
 www.mesh.com
 www.miaminewtimes.com
 www.microsoft.com
-www.microsofttranslator.com
 www.monero.org
 www.moonbit.co.in
 www.mouseflow.com

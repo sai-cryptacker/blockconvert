@@ -414,6 +414,7 @@ safebrowsing-cache.google.com
 safebrowsing.google.com
 *.safelinks.protection.outlook.com
 scrapinghub.com
+sdks.shopifycdn.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-707148021 Needed for webshops
 searchenginejournal.com
 *.search.msn.com
 search.msn.com
