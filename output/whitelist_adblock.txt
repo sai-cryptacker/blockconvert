@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-12Z
+! Version: 2020-10-13Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-12Z
+! Last modified: 2020-10-13Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -68,6 +68,7 @@
 @@||1drv.ms^
 @@||1eg.cqcounter.com^
 @@||1es.cqcounter.com^
+@@||1f.cqcounter.com^
 @@||1fi.cqcounter.com^
 @@||1fichier.com^
 @@||1fr.cqcounter.com^
@@ -563,6 +564,7 @@
 @@||bcee.lu^
 @@||bcorg.web.burst-alliance.org^
 @@||be.2.cqcounter.com^
+@@||be.cqcounter.com^
 @@||bebe.ugc.bazaarvoice.com^
 @@||bedbathandbeyond.com^
 @@||behance.net^
@@ -1015,6 +1017,8 @@
 @@||contracts.openx.com^
 @@||cookieblock.trackersimulate.org^
 @@||cookielawinfo.com^
+@@||coordinator-dcatbackend-int.mp.microsoft.com^
+@@||coordinator-dcatbackend.mp.microsoft.com^
 @@||corona.docs.vk.com^
 @@||coronagolf.vk.com^
 @@||corp-ldap.openx.com^
@@ -1372,6 +1376,7 @@
 @@||display.ugc.bazaarvoice.com^
 @@||displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
+@@||displaycatalog1p-int.mp.microsoft.com^
 @@||disq.us^
 @@||disqus.com^
 @@||distancecalculator.vk.com^
@@ -2233,6 +2238,7 @@
 @@||isterekhov.cs7777.vk.com^
 @@||istockphoto.com^
 @@||it.2.cqcounter.com^
+@@||it.cqcounter.com^
 @@||it.toolbox.com^
 @@||itch.io^
 @@||itunes.apple.com^
@@ -2250,6 +2256,7 @@
 @@||jcrewfactory.ugc.bazaarvoice.com^
 @@||jdownloader.org^
 @@||jmbruneau.ugc.bazaarvoice.com^
+@@||jo.cqcounter.com^
 @@||joblo.com^
 @@||jobs.lifehacker.com^
 @@||joemonster.org^
@@ -3455,6 +3462,7 @@
 @@||sites.google.com^
 @@||sites.help.adfox.ru^
 @@||sj14.mktossl.com^
+@@||sk.2.cqcounter.com^
 @@||sketchfab.com^
 @@||skimresources.com^
 @@||skinny-demo.staging.scs.splunk.com^
@@ -3610,10 +3618,12 @@
 @@||stackpathdns.net.cloudflare-dns.com^
 @@||stacksocial.com^
 @@||stage.guce.advertising.com^
+@@||staging-dcatbackend-int.mp.microsoft.com^
 @@||staging-discuss.newrelic.com^
 @@||staging.appinspect.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
+@@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||stanev.org^
 @@||star-mini.c10r.facebook.com^
 @@||star-r-bat-bing-com.a-0001.a-msedge.net^
@@ -3843,6 +3853,7 @@
 @@||toyota.ugc.bazaarvoice.com^
 @@||toysrus.com^
 @@||tr.2.cqcounter.com^
+@@||tr.cqcounter.com^
 @@||tr.vk.com^
 @@||track.customer.io^
 @@||track.rutarget.ru^
@@ -3908,6 +3919,7 @@
 @@||u.corp.vk.com^
 @@||u.heatmap.it^
 @@||u.vk.com^
+@@||ua.cqcounter.com^
 @@||ubuntuforums.org^
 @@||uc.pcbeta.com^
 @@||ueuev4.vk.com^
@@ -4299,6 +4311,7 @@
 @@||www.businessinsider.com^
 @@||www.buymeacoffee.com^
 @@||www.buzzfeed.com^
+@@||www.ca.2.cqcounter.com^
 @@||www.cbsi.com^
 @@||www.ccleaner.com^
 @@||www.cda.pl^
@@ -4363,6 +4376,7 @@
 @@||www.force.com^
 @@||www.forms.gle^
 @@||www.forum.vk.com^
+@@||www.fr.2.cqcounter.com^
 @@||www.framasoft.org^
 @@||www.freedownloadmanager.org^
 @@||www.fullstory.com^
@@ -4395,6 +4409,7 @@
 @@||www.hotjar.com^
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
+@@||www.href.li^
 @@||www.hulu.com^
 @@||www.ibm.com^
 @@||www.ibsys.com^
@@ -4478,6 +4493,7 @@
 @@||www.newrelic.com^
 @@||www.newyorker.com^
 @@||www.no-ip.com^
+@@||www.no.2.cqcounter.com^
 @@||www.nordichardware.se^
 @@||www.npr.org^
 @@||www.nytimes.com^
@@ -4634,6 +4650,8 @@
 @@||wyspagier.pl^
 @@||wywy.com^
 @@||x1.com^
+@@||xbox-displaycatalog-int.mp.microsoft.com^
+@@||xbox-displaycatalog.mp.microsoft.com^
 @@||xbox.ipv6.microsoft.com^
 @@||xboxlive.com^
 @@||xd.adobelanding.com^
