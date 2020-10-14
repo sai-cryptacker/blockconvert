@@ -176,10 +176,12 @@ abroad.apilocate.amap.com
 acast.com
 account.xiaomi.com
 accountmgmtservice-df.dce.mp.microsoft.com
+accountmgmtservice-int.dce.mp.microsoft.com
 accountmgmtservice.dce.mp.microsoft.com
 accounts.eu1.gigya.com
 accounts.google.com
 accounts.us1.gigya.com
+accountuserservice-int.dce.mp.microsoft.com
 accountuserservice.dce.mp.microsoft.com
 accuweather.com
 acehardware.com
@@ -269,6 +271,7 @@ agency.help.adfox.ru
 agrippa-eu.ugc.bazaarvoice.com
 ahm.vk.com
 aicpa.ugc.bazaarvoice.com
+aircapi.displaycatalog.mp.microsoft.com
 ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
@@ -381,6 +384,7 @@ api.mymonero.com
 api.onedrive.com
 api.ooyala.com
 api.particle.io
+api.playground.scp.splunk.com
 api.promotions.skype.com
 api.pushbullet.com
 api.razorpay.com
@@ -389,6 +393,7 @@ api.scs.splunk.com
 api.sec.miui.com
 api.soundcloud.com
 api.splunk.com
+api.staging.scp.splunk.com
 api.target.com
 api.tau.vk.com
 api.tw06.xlmc.sandai.net
@@ -420,8 +425,10 @@ app.chat.xiaomi.net
 app.hubspot.com
 app.launchdarkly.com
 app.migc.xiaomi.com
+app.playground.scp.splunk.com
 app.plex.tv
 app.qq.com
+app.staging.scp.splunk.com
 app.vk.com
 appboot.netflix.com
 appcloud.ironbeast.io
@@ -498,7 +505,9 @@ audio-fa.scdn.co
 auth.adfox.ru
 auth.api.sonyentertainmentnetwork.com
 auth.gfx.ms
+auth.playground.scp.splunk.com
 auth.scs.splunk.com
+auth.staging.scp.splunk.com
 auth.vk.com
 auth0.com
 authbe.sec.intl.miui.com
@@ -701,6 +710,7 @@ brother-emea.ugc.bazaarvoice.com
 browser.pipe.aria.microsoft.com
 browser.vk.com
 bsp.mp.microsoft.com
+bspmgmtsvc.mp.microsoft.com
 bsxcdn.mp.microsoft.com
 bt-1262.beta.dashboard.mgid.com
 bt-1279.beta.dashboard.mgid.com
@@ -1323,6 +1333,7 @@ dev-21461.alpha.dashboard.mgid.com
 dev-21461.beta.dashboard.mgid.com
 dev-21468.beta.dashboard.mgid.com
 dev-distance.vk.com
+dev.splunk.com
 dev.tau.vk.com
 dev.twitter.com
 dev.virtualearth.net
@@ -2227,6 +2238,7 @@ ir.ebaystatic.com
 is.gd
 issuu.com
 isterekhov.cs7777.vk.com
+istio-play1-gw.playground.scp.splunk.com
 istockphoto.com
 it.2.cqcounter.com
 it.cqcounter.com
@@ -2506,6 +2518,7 @@ mapsengine.google.com
 margevicius.lt
 market.xiaomi.com
 marketo.com
+marketplace-x360-ppe.mp.microsoft.com
 marketplace-x360.mp.microsoft.com
 marketwatch.com
 marksandspencer.ugc.bazaarvoice.com
@@ -3056,6 +3069,8 @@ player.radio.com
 player.vimeo.com
 players.brightcove.net
 playerstatic.entropymedia.com
+playground.dev.splunk.com
+playground.scp.splunk.com
 playstation.com
 plex.tv
 pling.com
@@ -3130,6 +3145,7 @@ proto2ad.durasite.net
 protonmail.com
 provacinema.vk.com
 proxy.novafusion.ea.com
+proxy.playground.dev.splunk.com
 proxy.plex.bz
 ps.vk.com
 ps.w.org
@@ -3504,6 +3520,7 @@ soma.ugc.bazaarvoice.com
 someonewhocares.org
 son-video.ugc.bazaarvoice.com
 sonar-int.px.mp.microsoft.com
+sonar.px.mp.microsoft.com
 sorelintl.ugc.bazaarvoice.com
 soundcloud.com
 sourceforge.net
@@ -4364,6 +4381,7 @@ www.fling.com
 www.flipboard.com
 www.fonts.com
 www.footlocker-inc.com
+www.forbes.com
 www.force.com
 www.forms.gle
 www.forum.vk.com
@@ -4377,6 +4395,7 @@ www.georiot.com
 www.geotrust.com
 www.gfycat.com
 www.gigya.com
+www.github.com
 www.github.developerdan.com
 www.github.io
 www.glb.paypal.com
@@ -4402,6 +4421,7 @@ www.howtogeek.com
 www.hrblock.com
 www.href.li
 www.hulu.com
+www.i.cmpnet.com
 www.ibm.com
 www.ibsys.com
 www.icanhazip.com
@@ -4510,8 +4530,10 @@ www.pcmatic.com
 www.pinterest.com
 www.piratebay.org
 www.placehold.it
+www.playstation.com
 www.pocketnow.com
 www.polldaddy.com
+www.pool.ntp.org
 www.pornhub.com
 www.powerreviews.com
 www.privateinternetaccess.com
@@ -4564,6 +4586,7 @@ www.starbucks.com
 www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
+www.strefa.fm
 www.stripe.com
 www.surveygizmo.com
 www.t-online.de
@@ -4609,6 +4632,7 @@ www.weather.gov
 www.web.burst-alliance.org
 www.wikipedia.org
 www.windy.com
+www.winhelp2002.mvps.org
 www.wired.com
 www.wshifen.com
 www.wupload.com

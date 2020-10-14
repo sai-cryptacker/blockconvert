@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-13Z
+! Version: 2020-10-14Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-13Z
+! Last modified: 2020-10-14Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -185,10 +185,12 @@
 @@||acast.com^
 @@||account.xiaomi.com^
 @@||accountmgmtservice-df.dce.mp.microsoft.com^
+@@||accountmgmtservice-int.dce.mp.microsoft.com^
 @@||accountmgmtservice.dce.mp.microsoft.com^
 @@||accounts.eu1.gigya.com^
 @@||accounts.google.com^
 @@||accounts.us1.gigya.com^
+@@||accountuserservice-int.dce.mp.microsoft.com^
 @@||accountuserservice.dce.mp.microsoft.com^
 @@||accuweather.com^
 @@||acehardware.com^
@@ -278,6 +280,7 @@
 @@||agrippa-eu.ugc.bazaarvoice.com^
 @@||ahm.vk.com^
 @@||aicpa.ugc.bazaarvoice.com^
+@@||aircapi.displaycatalog.mp.microsoft.com^
 @@||ajax.aspnetcdn.com^
 @@||ajax.cloudflare.com^
 @@||ajax.googleapis.com^
@@ -390,6 +393,7 @@
 @@||api.onedrive.com^
 @@||api.ooyala.com^
 @@||api.particle.io^
+@@||api.playground.scp.splunk.com^
 @@||api.promotions.skype.com^
 @@||api.pushbullet.com^
 @@||api.razorpay.com^
@@ -398,6 +402,7 @@
 @@||api.sec.miui.com^
 @@||api.soundcloud.com^
 @@||api.splunk.com^
+@@||api.staging.scp.splunk.com^
 @@||api.target.com^
 @@||api.tau.vk.com^
 @@||api.tw06.xlmc.sandai.net^
@@ -429,8 +434,10 @@
 @@||app.hubspot.com^
 @@||app.launchdarkly.com^
 @@||app.migc.xiaomi.com^
+@@||app.playground.scp.splunk.com^
 @@||app.plex.tv^
 @@||app.qq.com^
+@@||app.staging.scp.splunk.com^
 @@||app.vk.com^
 @@||appboot.netflix.com^
 @@||appcloud.ironbeast.io^
@@ -507,7 +514,9 @@
 @@||auth.adfox.ru^
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||auth.gfx.ms^
+@@||auth.playground.scp.splunk.com^
 @@||auth.scs.splunk.com^
+@@||auth.staging.scp.splunk.com^
 @@||auth.vk.com^
 @@||auth0.com^
 @@||authbe.sec.intl.miui.com^
@@ -710,6 +719,7 @@
 @@||browser.pipe.aria.microsoft.com^
 @@||browser.vk.com^
 @@||bsp.mp.microsoft.com^
+@@||bspmgmtsvc.mp.microsoft.com^
 @@||bsxcdn.mp.microsoft.com^
 @@||bt-1262.beta.dashboard.mgid.com^
 @@||bt-1279.beta.dashboard.mgid.com^
@@ -1332,6 +1342,7 @@
 @@||dev-21461.beta.dashboard.mgid.com^
 @@||dev-21468.beta.dashboard.mgid.com^
 @@||dev-distance.vk.com^
+@@||dev.splunk.com^
 @@||dev.tau.vk.com^
 @@||dev.twitter.com^
 @@||dev.virtualearth.net^
@@ -2236,6 +2247,7 @@
 @@||is.gd^
 @@||issuu.com^
 @@||isterekhov.cs7777.vk.com^
+@@||istio-play1-gw.playground.scp.splunk.com^
 @@||istockphoto.com^
 @@||it.2.cqcounter.com^
 @@||it.cqcounter.com^
@@ -2515,6 +2527,7 @@
 @@||margevicius.lt^
 @@||market.xiaomi.com^
 @@||marketo.com^
+@@||marketplace-x360-ppe.mp.microsoft.com^
 @@||marketplace-x360.mp.microsoft.com^
 @@||marketwatch.com^
 @@||marksandspencer.ugc.bazaarvoice.com^
@@ -3065,6 +3078,8 @@
 @@||player.vimeo.com^
 @@||players.brightcove.net^
 @@||playerstatic.entropymedia.com^
+@@||playground.dev.splunk.com^
+@@||playground.scp.splunk.com^
 @@||playstation.com^
 @@||plex.tv^
 @@||pling.com^
@@ -3139,6 +3154,7 @@
 @@||protonmail.com^
 @@||provacinema.vk.com^
 @@||proxy.novafusion.ea.com^
+@@||proxy.playground.dev.splunk.com^
 @@||proxy.plex.bz^
 @@||ps.vk.com^
 @@||ps.w.org^
@@ -3513,6 +3529,7 @@
 @@||someonewhocares.org^
 @@||son-video.ugc.bazaarvoice.com^
 @@||sonar-int.px.mp.microsoft.com^
+@@||sonar.px.mp.microsoft.com^
 @@||sorelintl.ugc.bazaarvoice.com^
 @@||soundcloud.com^
 @@||sourceforge.net^
@@ -4373,6 +4390,7 @@
 @@||www.flipboard.com^
 @@||www.fonts.com^
 @@||www.footlocker-inc.com^
+@@||www.forbes.com^
 @@||www.force.com^
 @@||www.forms.gle^
 @@||www.forum.vk.com^
@@ -4386,6 +4404,7 @@
 @@||www.geotrust.com^
 @@||www.gfycat.com^
 @@||www.gigya.com^
+@@||www.github.com^
 @@||www.github.developerdan.com^
 @@||www.github.io^
 @@||www.glb.paypal.com^
@@ -4411,6 +4430,7 @@
 @@||www.hrblock.com^
 @@||www.href.li^
 @@||www.hulu.com^
+@@||www.i.cmpnet.com^
 @@||www.ibm.com^
 @@||www.ibsys.com^
 @@||www.icanhazip.com^
@@ -4519,8 +4539,10 @@
 @@||www.pinterest.com^
 @@||www.piratebay.org^
 @@||www.placehold.it^
+@@||www.playstation.com^
 @@||www.pocketnow.com^
 @@||www.polldaddy.com^
+@@||www.pool.ntp.org^
 @@||www.pornhub.com^
 @@||www.powerreviews.com^
 @@||www.privateinternetaccess.com^
@@ -4573,6 +4595,7 @@
 @@||www.startpage.com^
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
+@@||www.strefa.fm^
 @@||www.stripe.com^
 @@||www.surveygizmo.com^
 @@||www.t-online.de^
@@ -4618,6 +4641,7 @@
 @@||www.web.burst-alliance.org^
 @@||www.wikipedia.org^
 @@||www.windy.com^
+@@||www.winhelp2002.mvps.org^
 @@||www.wired.com^
 @@||www.wshifen.com^
 @@||www.wupload.com^
