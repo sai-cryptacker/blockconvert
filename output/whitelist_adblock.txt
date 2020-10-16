@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-15Z
+! Version: 2020-10-16Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-15Z
+! Last modified: 2020-10-16Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -250,12 +250,12 @@
 @@||admin.brightcove.com^
 @@||admin.cs7777.vk.com^
 @@||admin.dable.io^
+@@||admin.scs.splunk.com^
 @@||admin.tau.vk.com^
 @@||admin.vk.com^
 @@||adnet.qq.com^
 @@||adobe-dns.adobe.com^
 @@||adobe.ugc.bazaarvoice.com^
-@@||adonline.anonza.de^
 @@||adpartner.de^
 @@||ads-adnxs.tradedoubler.com^
 @@||ads.adfox.ru^
@@ -392,6 +392,7 @@
 @@||ap.spotify.com^
 @@||ap108.cs304112.vk.com^
 @@||api-cdn.embed.ly^
+@@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||api-glb.smoot.apple.com^
 @@||api-global.netflix.com^
 @@||api-maps.yandex.ru^
@@ -491,6 +492,7 @@
 @@||appspot-preview.l.google.com^
 @@||appspot.com^
 @@||apptimize.com^
+@@||appxapi-intppe.dps.mp.microsoft.com^
 @@||apresolve.spotify.com^
 @@||apt.adafruit.com^
 @@||apt.newrelic.com^
@@ -1049,6 +1051,7 @@
 @@||coinpot.co^
 @@||cointraffic.io^
 @@||collamask.vk.com^
+@@||collections-int.mp.microsoft.com^
 @@||collegehumor.com^
 @@||columbiasportswear.ugc.bazaarvoice.com^
 @@||com.biblio.vk.com^
@@ -1613,7 +1616,14 @@
 @@||ensure.ugc.bazaarvoice.com^
 @@||entireweb.com^
 @@||entitlement.auth.adobe.com^
+@@||entitlements-int.mp.microsoft.com^
 @@||entitlements.jwplayer.com^
+@@||entitlementsfederation-int.mp.microsoft.com^
+@@||entitlementsfederation.mp.microsoft.com^
+@@||entitlementsfederationinternal-int.mp.microsoft.com^
+@@||entitlementsfederationinternal.mp.microsoft.com^
+@@||entitlementssubscriptionnotifications-int.mp.microsoft.com^
+@@||entitlementssubscriptionnotifications.mp.microsoft.com^
 @@||entpsz.alipay.com^
 @@||eonline.com^
 @@||epoch.com^
@@ -1748,9 +1758,12 @@
 @@||firebaseinstallations.googleapis.com^
 @@||firebaseremoteconfig.googleapis.com^
 @@||firstlook.org^
+@@||firstparty-entitlements-int.mp.microsoft.com^
+@@||firstparty-entitlements.mp.microsoft.com^
 @@||fiverr.com^
 @@||flattr.com^
 @@||flickr.com^
+@@||flighting.dps.mp.microsoft.com^
 @@||fling.com^
 @@||flipboard.com^
 @@||flipcause.com^
@@ -1836,6 +1849,11 @@
 @@||ftp.srv78-190-240-87.vk.com^
 @@||ftp.tsukuba.wide.ad.jp^
 @@||ftpcontent.worldnow.com^
+@@||fulfillment-int.mp.microsoft.com^
+@@||fulfillment.mp.microsoft.com^
+@@||fulfillmentchangeportal-int.mp.microsoft.com^
+@@||fulfillmentlscreceiver-int.mp.microsoft.com^
+@@||fulfillmentlscreceiver.mp.microsoft.com^
 @@||full.pr0gramm.com^
 @@||fullstory.com^
 @@||funk.eu^
@@ -2360,6 +2378,7 @@
 @@||internal.paymentinstruments.mp.microsoft.com^
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
+@@||inv-int.mp.microsoft.com^
 @@||inventory-int.mp.microsoft.com^
 @@||inventory.md.mp.microsoft.com^
 @@||inventory.mp.microsoft.com^
@@ -2532,6 +2551,10 @@
 @@||li.vk.com^
 @@||libsyn.com^
 @@||licensebuttons.net^
+@@||licensing-entitlements-int.md.mp.microsoft.com^
+@@||licensing-entitlements-int.mp.microsoft.com^
+@@||licensing-entitlements.md.mp.microsoft.com^
+@@||licensing-entitlements.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
 @@||licensing.xboxlive.com^
 @@||licensingdiagnostics-int.mp.microsoft.com^
@@ -3129,6 +3152,8 @@
 @@||packages.chocolatey.org^
 @@||packages.dps.mp.microsoft.com^
 @@||packages.linuxmint.com^
+@@||packagesapi-int.dps.mp.microsoft.com^
+@@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
 @@||paddle.com^
 @@||pagead.l.doubleclick.net^
@@ -3819,6 +3844,7 @@
 @@||staging-dcatbackend-int.mp.microsoft.com^
 @@||staging-discuss.newrelic.com^
 @@||staging.appinspect.splunk.com^
+@@||staging.dev.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
 @@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
@@ -4611,6 +4637,7 @@
 @@||www.fonts.com^
 @@||www.fonts.tradedoubler.com^
 @@||www.footlocker-inc.com^
+@@||www.footlocker.com^
 @@||www.forbes.com^
 @@||www.force.com^
 @@||www.forms.gle^
@@ -4685,9 +4712,11 @@
 @@||www.kaltura.com^
 @@||www.kampyle.com^
 @@||www.kcsoftwares.com^
+@@||www.kidsfootlocker.com^
 @@||www.kohls.com^
 @@||www.komputerswiat.pl^
 @@||www.kopimi.com^
+@@||www.ladyfootlocker.com^
 @@||www.latimes.com^
 @@||www.leanplum.com^
 @@||www.liftoff.io^
@@ -4733,6 +4762,7 @@
 @@||www.mywot.com^
 @@||www.namecheap.com^
 @@||www.nbcnews.com^
+@@||www.nbcnewyork.com^
 @@||www.new.tradedoubler.com^
 @@||www.newrelic.com^
 @@||www.newyorker.com^
@@ -4779,6 +4809,7 @@
 @@||www.qq.com^
 @@||www.qualtrics.com^
 @@||www.quantummetric.com^
+@@||www.quickenloans.com^
 @@||www.quora.com^
 @@||www.reddit.com^
 @@||www.redirectingat.com^
@@ -4868,6 +4899,7 @@
 @@||www.vk.vk.com^
 @@||www.vmn.net^
 @@||www.wallet.burst-alliance.org^
+@@||www.walmart.com^
 @@||www.wangbase.com^
 @@||www.watchdog.burst-alliance.org^
 @@||www.weather.gov^
