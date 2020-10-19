@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-16Z
+! Version: 2020-10-19Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-16Z
+! Last modified: 2020-10-19Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -234,6 +234,7 @@
 @@||adblock.ee^
 @@||adblock.mahakala.is^
 @@||adcdn.pingan.com^
+@@||adcolo.com^
 @@||add0n.com^
 @@||addon.lidl.de^
 @@||addons.mozilla.org^
@@ -456,8 +457,6 @@
 @@||api3.siftscience.com^
 @@||apis.google.com^
 @@||apis.vk.com^
-@@||apiv0.adfox.ru^
-@@||apiv1.adfox.ru^
 @@||apnewsregistry.com^
 @@||apollo.m.tau.vk.com^
 @@||apollo.tau.vk.com^
@@ -1023,6 +1022,7 @@
 @@||cm3.adform.net^
 @@||cmail19.com^
 @@||cmail20.com^
+@@||cmd-dev.dcat.dsp.mp.microsoft.com^
 @@||cn-geo1.uber.com^
 @@||cn.bing.com^
 @@||cnbc.com^
@@ -1460,6 +1460,7 @@
 @@||display-test.ugc.bazaarvoice.com^
 @@||display.ugc.bazaarvoice.com^
 @@||displaycatalog-int.mp.microsoft.com^
+@@||displaycatalog.md.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||displaycatalog1p-int.mp.microsoft.com^
 @@||disq.us^
@@ -1741,7 +1742,6 @@
 @@||files.graphiq.com^
 @@||files2.freedownloadmanager.org^
 @@||files5.adform.net^
-@@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
 @@||filesmonster.com^
 @@||fili.cc^
@@ -1807,9 +1807,9 @@
 @@||forums.plex.tv^
 @@||forums.roku.com^
 @@||forums.sonarr.tv^
-@@||forums.storagereview.com^
 @@||forums.techguy.org^
 @@||forums.whirlpool.net.au^
+@@||forwarders.staging.scs.splunk.com^
 @@||fossbytes.com^
 @@||fourier.taobao.com^
 @@||fox13now.com^
@@ -1852,6 +1852,7 @@
 @@||fulfillment-int.mp.microsoft.com^
 @@||fulfillment.mp.microsoft.com^
 @@||fulfillmentchangeportal-int.mp.microsoft.com^
+@@||fulfillmentchangeportal.mp.microsoft.com^
 @@||fulfillmentlscreceiver-int.mp.microsoft.com^
 @@||fulfillmentlscreceiver.mp.microsoft.com^
 @@||full.pr0gramm.com^
@@ -1862,7 +1863,6 @@
 @@||fuseservice.com^
 @@||fusiontables.google.com^
 @@||fyre.co^
-@@||g.alicdn.com^
 @@||g.alicdn.com.danuoyi.alicdn.com^
 @@||g.co^
 @@||g.ezoic.net^
@@ -1949,6 +1949,7 @@
 @@||go.openx.com^
 @@||go.redirectingat.com^
 @@||go.ro^
+@@||go.scorptec.com.au^
 @@||go.trafficrouter.io^
 @@||go.trouter.io^
 @@||go2cloud.org^
@@ -2000,7 +2001,6 @@
 @@||gtms01.alicdn.com^
 @@||gtms02.alicdn.com^
 @@||gtms03.alicdn.com^
-@@||gtms04.alicdn.com^
 @@||guardian.co.uk^
 @@||guce.advertising.com^
 @@||guce.huffpost.com^
@@ -2379,11 +2379,14 @@
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
 @@||inv-int.mp.microsoft.com^
+@@||inv.mp.microsoft.com^
 @@||inventory-int.mp.microsoft.com^
 @@||inventory.md.mp.microsoft.com^
 @@||inventory.mp.microsoft.com^
 @@||investingchannel.com^
 @@||investorplace.com^
+@@||invreservations-int.mp.microsoft.com^
+@@||invreservations.mp.microsoft.com^
 @@||io9.com^
 @@||iodapi.class.splunk.com^
 @@||ip-adress.com^
@@ -3010,7 +3013,6 @@
 @@||ob.ugc.bazaarvoice.com^
 @@||objava-oglasa.bolha.com^
 @@||oboom.com^
-@@||observability.splunk.com^
 @@||observer.com^
 @@||observium.openx.com^
 @@||ocadmin-int.mp.microsoft.com^
@@ -3066,6 +3068,7 @@
 @@||oload.club^
 @@||oload.download^
 @@||oload.fun^
+@@||oload.icu^
 @@||oload.info^
 @@||oload.live^
 @@||oload.services^
@@ -3209,7 +3212,6 @@
 @@||phobos.apple.com^
 @@||phoenix.burst-alliance.org^
 @@||phonecallapi.micloud.xiaomi.net^
-@@||photo.store.qq.com^
 @@||photobucket.com^
 @@||photos-ugc.l.googleusercontent.com^
 @@||phplist.com^
@@ -3264,7 +3266,6 @@
 @@||plex.tv^
 @@||pling.com^
 @@||plot.ly^
-@@||plugins.longtailvideo.com^
 @@||plus.google.com^
 @@||plus.l.google.com^
 @@||pn.notebooksbilliger.de^
@@ -3322,7 +3323,6 @@
 @@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||productcatalogservice.dce.mp.microsoft.com^
 @@||products.office.com^
-@@||productsummary-int.dps.mp.microsoft.com^
 @@||productweb-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
 @@||profile.target.com^
@@ -3336,6 +3336,7 @@
 @@||proto2ad.durasite.net^
 @@||protonmail.com^
 @@||provacinema.vk.com^
+@@||providesupport.com^
 @@||proxy.novafusion.ea.com^
 @@||proxy.playground.dev.splunk.com^
 @@||proxy.plex.bz^
@@ -3570,6 +3571,7 @@
 @@||scene7.com^
 @@||schd.ws^
 @@||sched.org^
+@@||schemaapi-int.dps.mp.microsoft.com^
 @@||schibsted.com^
 @@||schibsted.no^
 @@||scholastic.ugc.bazaarvoice.com^
@@ -3582,6 +3584,7 @@
 @@||scontent.xx.fbcdn.net^
 @@||scp.splunk.com^
 @@||scrapinghub.com^
+@@||screceiver-int.mp.microsoft.com^
 @@||screendoor.dobt.co^
 @@||screenshots.firefox.com^
 @@||screwfix.ugc.bazaarvoice.com^
@@ -3620,9 +3623,7 @@
 @@||secure.surveymonkey.com^
 @@||secure5.arcot.com^
 @@||secureir.ebaystatic.com^
-@@||securel.longtailvideo.com^
 @@||securemecca.com^
-@@||secureplugins.longtailvideo.com^
 @@||securesuite.co.uk^
 @@||security.cloudflare-dns.com^
 @@||security.vk.com^
@@ -3693,7 +3694,6 @@
 @@||slashdot.org^
 @@||slate.com^
 @@||slb-content-operators.adfox.ru^
-@@||slb-content.adfox.ru^
 @@||slickdeals.net^
 @@||slidedeck.com^
 @@||sls.update.microsoft.com^
@@ -3909,6 +3909,7 @@
 @@||storage-int.mp.microsoft.com^
 @@||storage.cloud.google.com^
 @@||storage.googleapis.com^
+@@||storage.mp.microsoft.com^
 @@||storage.msn.com^
 @@||storage2.vk.com^
 @@||store-images.microsoft.com^
@@ -3939,8 +3940,6 @@
 @@||support.coinbase.com^
 @@||support.microsoft.com^
 @@||support.skype.com^
-@@||survey-int.dps.mp.microsoft.com^
-@@||survey.dps.mp.microsoft.com^
 @@||survey.euro.confirmit.com^
 @@||survey.forseeresults.com^
 @@||survey.pearsoncmg.com^
@@ -4280,7 +4279,6 @@
 @@||ustrl-int.mp.microsoft.com^
 @@||ustrl.mp.microsoft.com^
 @@||uth.vk.com^
-@@||uwpproc-int.mix.mp.microsoft.com^
 @@||v.adfox.ru^
 @@||v.firebog.net^
 @@||v.pinimg.com^
@@ -4296,7 +4294,6 @@
 @@||vandenborre.ugc.bazaarvoice.com^
 @@||vanilla.futurecdn.net^
 @@||vanityfair.com^
-@@||variant-int.dps.mp.microsoft.com^
 @@||variety.com^
 @@||vb64z9th8faec4b0.vk.com^
 @@||vegascom.ugc.bazaarvoice.com^
@@ -4547,7 +4544,6 @@
 @@||www.amzn.to^
 @@||www.analytics.tradedoubler.com^
 @@||www.androidauthority.com^
-@@||www.angularjs.org^
 @@||www.anrdoezrs.net^
 @@||www.answers.com^
 @@||www.aol.com^
@@ -4592,6 +4588,7 @@
 @@||www.cnnmoney.tags.crwdcntrl.net^
 @@||www.code.createjs.com^
 @@||www.codeberg.org^
+@@||www.codeload.github.com^
 @@||www.coinbase.com^
 @@||www.coinpot.co^
 @@||www.cointraffic.io^
@@ -4646,6 +4643,7 @@
 @@||www.framasoft.org^
 @@||www.freedownloadmanager.org^
 @@||www.fullstory.com^
+@@||www.funk.eu^
 @@||www.g.ezoic.net^
 @@||www.geoplugin.net^
 @@||www.georiot.com^
@@ -4677,7 +4675,9 @@
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
 @@||www.href.li^
+@@||www.hstno.tradedoubler.com^
 @@||www.hstse.tradedoubler.com^
+@@||www.hstus.tradedoubler.com^
 @@||www.hulu.com^
 @@||www.i.cmpnet.com^
 @@||www.ibm.com^
@@ -4745,6 +4745,7 @@
 @@||www.maxmind.com^
 @@||www.mbl.is^
 @@||www.mediafire.com^
+@@||www.mediaworks.co.nz^
 @@||www.megaphone.fm^
 @@||www.mesh.com^
 @@||www.miaminewtimes.com^
@@ -4772,8 +4773,6 @@
 @@||www.npr.org^
 @@||www.nytimes.com^
 @@||www.oboom.com^
-@@||www.observability.splunk.com^
-@@||www.observer.com^
 @@||www.ojrq.net^
 @@||www.olark.com^
 @@||www.onesignal.com^
@@ -4839,6 +4838,7 @@
 @@||www.snipcart.com^
 @@||www.sociallitelife.tags.crwdcntrl.net^
 @@||www.sohu.com^
+@@||www.spaceport.tradedoubler.com^
 @@||www.speedcurve.com^
 @@||www.sportsillustrated.tags.crwdcntrl.net^
 @@||www.spot.im^
@@ -4880,7 +4880,6 @@
 @@||www.tradedoubler.com^
 @@||www.transfer.sh^
 @@||www.trumba.com^
-@@||www.trustpilot.com^
 @@||www.tumblr.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^

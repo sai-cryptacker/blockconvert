@@ -225,6 +225,7 @@ adblock.dk
 adblock.ee
 adblock.mahakala.is
 adcdn.pingan.com
+adcolo.com
 add0n.com
 addon.lidl.de
 addons.mozilla.org
@@ -447,8 +448,6 @@ api.zaloapp.com
 api3.siftscience.com
 apis.google.com
 apis.vk.com
-apiv0.adfox.ru
-apiv1.adfox.ru
 apnewsregistry.com
 apollo.m.tau.vk.com
 apollo.tau.vk.com
@@ -1014,6 +1013,7 @@ cm2.adform.net
 cm3.adform.net
 cmail19.com
 cmail20.com
+cmd-dev.dcat.dsp.mp.microsoft.com
 cn-geo1.uber.com
 cn.bing.com
 cnbc.com
@@ -1451,6 +1451,7 @@ display-stg.ugc.bazaarvoice.com
 display-test.ugc.bazaarvoice.com
 display.ugc.bazaarvoice.com
 displaycatalog-int.mp.microsoft.com
+displaycatalog.md.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 displaycatalog1p-int.mp.microsoft.com
 disq.us
@@ -1732,7 +1733,6 @@ files.freedownloadmanager.org
 files.graphiq.com
 files2.freedownloadmanager.org
 files5.adform.net
-filesapi-int.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
 filesmonster.com
 fili.cc
@@ -1798,9 +1798,9 @@ forums.mozillazine.org
 forums.plex.tv
 forums.roku.com
 forums.sonarr.tv
-forums.storagereview.com
 forums.techguy.org
 forums.whirlpool.net.au
+forwarders.staging.scs.splunk.com
 fossbytes.com
 fourier.taobao.com
 fox13now.com
@@ -1843,6 +1843,7 @@ ftpcontent.worldnow.com
 fulfillment-int.mp.microsoft.com
 fulfillment.mp.microsoft.com
 fulfillmentchangeportal-int.mp.microsoft.com
+fulfillmentchangeportal.mp.microsoft.com
 fulfillmentlscreceiver-int.mp.microsoft.com
 fulfillmentlscreceiver.mp.microsoft.com
 full.pr0gramm.com
@@ -1853,7 +1854,6 @@ furniturerow.ugc.bazaarvoice.com
 fuseservice.com
 fusiontables.google.com
 fyre.co
-g.alicdn.com
 g.alicdn.com.danuoyi.alicdn.com
 g.co
 g.ezoic.net
@@ -1940,6 +1940,7 @@ go.microsoft.com
 go.openx.com
 go.redirectingat.com
 go.ro
+go.scorptec.com.au
 go.trafficrouter.io
 go.trouter.io
 go2cloud.org
@@ -1991,7 +1992,6 @@ gsuite.splunk.com
 gtms01.alicdn.com
 gtms02.alicdn.com
 gtms03.alicdn.com
-gtms04.alicdn.com
 guardian.co.uk
 guce.advertising.com
 guce.huffpost.com
@@ -2370,11 +2370,14 @@ internal.paymentinstruments.mp.microsoft.com
 internetofthings.ibmcloud.com
 intersport.peerius.com
 inv-int.mp.microsoft.com
+inv.mp.microsoft.com
 inventory-int.mp.microsoft.com
 inventory.md.mp.microsoft.com
 inventory.mp.microsoft.com
 investingchannel.com
 investorplace.com
+invreservations-int.mp.microsoft.com
+invreservations.mp.microsoft.com
 io9.com
 iodapi.class.splunk.com
 ip-adress.com
@@ -3001,7 +3004,6 @@ oauth.vk.com
 ob.ugc.bazaarvoice.com
 objava-oglasa.bolha.com
 oboom.com
-observability.splunk.com
 observer.com
 observium.openx.com
 ocadmin-int.mp.microsoft.com
@@ -3057,6 +3059,7 @@ oload.cloud
 oload.club
 oload.download
 oload.fun
+oload.icu
 oload.info
 oload.live
 oload.services
@@ -3200,7 +3203,6 @@ phncdn.com
 phobos.apple.com
 phoenix.burst-alliance.org
 phonecallapi.micloud.xiaomi.net
-photo.store.qq.com
 photobucket.com
 photos-ugc.l.googleusercontent.com
 phplist.com
@@ -3255,7 +3257,6 @@ playstation.com
 plex.tv
 pling.com
 plot.ly
-plugins.longtailvideo.com
 plus.google.com
 plus.l.google.com
 pn.notebooksbilliger.de
@@ -3313,7 +3314,6 @@ prod.tradedoubler.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 products.office.com
-productsummary-int.dps.mp.microsoft.com
 productweb-int.dps.mp.microsoft.com
 productweb.dps.mp.microsoft.com
 profile.target.com
@@ -3327,6 +3327,7 @@ proofpoint.com
 proto2ad.durasite.net
 protonmail.com
 provacinema.vk.com
+providesupport.com
 proxy.novafusion.ea.com
 proxy.playground.dev.splunk.com
 proxy.plex.bz
@@ -3561,6 +3562,7 @@ scan.ugc.bazaarvoice.com
 scene7.com
 schd.ws
 sched.org
+schemaapi-int.dps.mp.microsoft.com
 schibsted.com
 schibsted.no
 scholastic.ugc.bazaarvoice.com
@@ -3573,6 +3575,7 @@ scontent.cdninstagram.com
 scontent.xx.fbcdn.net
 scp.splunk.com
 scrapinghub.com
+screceiver-int.mp.microsoft.com
 screendoor.dobt.co
 screenshots.firefox.com
 screwfix.ugc.bazaarvoice.com
@@ -3611,9 +3614,7 @@ secure.netflix.com
 secure.surveymonkey.com
 secure5.arcot.com
 secureir.ebaystatic.com
-securel.longtailvideo.com
 securemecca.com
-secureplugins.longtailvideo.com
 securesuite.co.uk
 security.cloudflare-dns.com
 security.vk.com
@@ -3684,7 +3685,6 @@ slack-redir.net
 slashdot.org
 slate.com
 slb-content-operators.adfox.ru
-slb-content.adfox.ru
 slickdeals.net
 slidedeck.com
 sls.update.microsoft.com
@@ -3900,6 +3900,7 @@ stopklatka.pl
 storage-int.mp.microsoft.com
 storage.cloud.google.com
 storage.googleapis.com
+storage.mp.microsoft.com
 storage.msn.com
 storage2.vk.com
 store-images.microsoft.com
@@ -3930,8 +3931,6 @@ sup.adfox.ru
 support.coinbase.com
 support.microsoft.com
 support.skype.com
-survey-int.dps.mp.microsoft.com
-survey.dps.mp.microsoft.com
 survey.euro.confirmit.com
 survey.forseeresults.com
 survey.pearsoncmg.com
@@ -4271,7 +4270,6 @@ uservoice.com
 ustrl-int.mp.microsoft.com
 ustrl.mp.microsoft.com
 uth.vk.com
-uwpproc-int.mix.mp.microsoft.com
 v.adfox.ru
 v.firebog.net
 v.pinimg.com
@@ -4287,7 +4285,6 @@ vampirefreaks.tags.crwdcntrl.net
 vandenborre.ugc.bazaarvoice.com
 vanilla.futurecdn.net
 vanityfair.com
-variant-int.dps.mp.microsoft.com
 variety.com
 vb64z9th8faec4b0.vk.com
 vegascom.ugc.bazaarvoice.com
@@ -4538,7 +4535,6 @@ www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.analytics.tradedoubler.com
 www.androidauthority.com
-www.angularjs.org
 www.anrdoezrs.net
 www.answers.com
 www.aol.com
@@ -4583,6 +4579,7 @@ www.cnet.com
 www.cnnmoney.tags.crwdcntrl.net
 www.code.createjs.com
 www.codeberg.org
+www.codeload.github.com
 www.coinbase.com
 www.coinpot.co
 www.cointraffic.io
@@ -4637,6 +4634,7 @@ www.fr.2.cqcounter.com
 www.framasoft.org
 www.freedownloadmanager.org
 www.fullstory.com
+www.funk.eu
 www.g.ezoic.net
 www.geoplugin.net
 www.georiot.com
@@ -4668,7 +4666,9 @@ www.hotjar.com
 www.howtogeek.com
 www.hrblock.com
 www.href.li
+www.hstno.tradedoubler.com
 www.hstse.tradedoubler.com
+www.hstus.tradedoubler.com
 www.hulu.com
 www.i.cmpnet.com
 www.ibm.com
@@ -4736,6 +4736,7 @@ www.master.burst-alliance.org
 www.maxmind.com
 www.mbl.is
 www.mediafire.com
+www.mediaworks.co.nz
 www.megaphone.fm
 www.mesh.com
 www.miaminewtimes.com
@@ -4763,8 +4764,6 @@ www.nordichardware.se
 www.npr.org
 www.nytimes.com
 www.oboom.com
-www.observability.splunk.com
-www.observer.com
 www.ojrq.net
 www.olark.com
 www.onesignal.com
@@ -4830,6 +4829,7 @@ www.snapengage.com
 www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
+www.spaceport.tradedoubler.com
 www.speedcurve.com
 www.sportsillustrated.tags.crwdcntrl.net
 www.spot.im
@@ -4871,7 +4871,6 @@ www.tools.tradedoubler.com
 www.tradedoubler.com
 www.transfer.sh
 www.trumba.com
-www.trustpilot.com
 www.tumblr.com
 www.turnto.com
 www.tusfiles.net
