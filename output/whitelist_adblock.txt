@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-19Z
+! Version: 2020-10-20Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-19Z
+! Last modified: 2020-10-20Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -556,6 +556,7 @@
 @@||auth.playground.scp.splunk.com^
 @@||auth.scs.splunk.com^
 @@||auth.staging.scp.splunk.com^
+@@||auth.staging.scs.splunk.com^
 @@||auth.vk.com^
 @@||auth0.com^
 @@||authbe.sec.intl.miui.com^
@@ -1824,7 +1825,6 @@
 @@||fox8.com^
 @@||foxsports.com.au^
 @@||fpdownload.adobe.com^
-@@||fpt.skype.com^
 @@||fptest.tradedoubler.com^
 @@||fr.2.cqcounter.com^
 @@||fr.aliexpress.com^
@@ -1997,7 +1997,6 @@
 @@||gsp1.apple.com^
 @@||gstatic.com^
 @@||gstaticadssl.l.google.com^
-@@||gsuite.splunk.com^
 @@||gtms01.alicdn.com^
 @@||gtms02.alicdn.com^
 @@||gtms03.alicdn.com^
@@ -2375,6 +2374,7 @@
 @@||intensedebate.com^
 @@||intercom.io^
 @@||intercontinental.ugc.bazaarvoice.com^
+@@||internal.api.splunk.com^
 @@||internal.paymentinstruments.mp.microsoft.com^
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
@@ -2403,6 +2403,7 @@
 @@||isobar.adform.net^
 @@||issuu.com^
 @@||isterekhov.cs7777.vk.com^
+@@||istio-play1-auth.playground.scp.splunk.com^
 @@||istio-play1-gw.playground.scp.splunk.com^
 @@||istockphoto.com^
 @@||it.2.cqcounter.com^
@@ -3013,6 +3014,7 @@
 @@||ob.ugc.bazaarvoice.com^
 @@||objava-oglasa.bolha.com^
 @@||oboom.com^
+@@||observability.splunk.com^
 @@||observer.com^
 @@||observium.openx.com^
 @@||ocadmin-int.mp.microsoft.com^
@@ -3180,6 +3182,7 @@
 @@||pasteboard.co^
 @@||pathe.emsecure.net^
 @@||pay.google.com^
+@@||paymentinstruments-int.mp.microsoft.com^
 @@||paymentinstruments.md.mp.microsoft.com^
 @@||paymentinstruments.mp.microsoft.com^
 @@||paypal.com^
@@ -3493,6 +3496,13 @@
 @@||rover.ebay.com^
 @@||rpc.adfox.ru^
 @@||rpmh.skype.com^
+@@||rps-asea.skypetoken.skype.com^
+@@||rps-euno.skypetoken.skype.com^
+@@||rps-euwe.skypetoken.skype.com^
+@@||rps-usea.skypetoken.skype.com^
+@@||rps-uswe.skypetoken.skype.com^
+@@||rps.skype.com^
+@@||rps.skypetoken.skype.com^
 @@||rptrcks.walmart.com^
 @@||rpxnow.com^
 @@||rq.adfox.ru^
@@ -3842,6 +3852,7 @@
 @@||stadk.tradedoubler.com^
 @@||stage.guce.advertising.com^
 @@||staging-dcatbackend-int.mp.microsoft.com^
+@@||staging-dcatbackend.mp.microsoft.com^
 @@||staging-discuss.newrelic.com^
 @@||staging.appinspect.splunk.com^
 @@||staging.dev.splunk.com^
@@ -3945,6 +3956,7 @@
 @@||survey.pearsoncmg.com^
 @@||surveygizmo.com^
 @@||surveymonkey.com^
+@@||surveys.twilio.com^
 @@||suunto.ugc.bazaarvoice.com^
 @@||svht.tradedoubler.com^
 @@||swap.tradedoubler.com^
@@ -4084,6 +4096,7 @@
 @@||tools.tradedoubler.com^
 @@||topengkacaindo.dev.tau.vk.com^
 @@||toppstiles.ugc.bazaarvoice.com^
+@@||tops-int.mp.microsoft.com^
 @@||tops.mp.microsoft.com^
 @@||tops.purchase-int.mp.microsoft.com^
 @@||tops.purchase.mp.microsoft.com^
@@ -4386,6 +4399,7 @@
 @@||watson.telemetry.microsoft.com^
 @@||way.vk.com^
 @@||wbd.ms^
+@@||wbtapi.class.splunk.com^
 @@||wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com^
 @@||wd-prod-ss.trafficmanager.net^
 @@||wdcp.microsoft.com^
@@ -4583,6 +4597,7 @@
 @@||www.clkap.tradedoubler.com^
 @@||www.clkgb.tradedoubler.com^
 @@||www.cloudflare-dns.com^
+@@||www.cloudflare.com^
 @@||www.cnbc.com^
 @@||www.cnet.com^
 @@||www.cnnmoney.tags.crwdcntrl.net^
@@ -4622,7 +4637,6 @@
 @@||www.emjcd.com^
 @@||www.engadget.com^
 @@||www.ethn.io^
-@@||www.everyaction.com^
 @@||www.expressen.se^
 @@||www.facebook.com^
 @@||www.fbcdn.net^
@@ -4669,7 +4683,6 @@
 @@||www.heapanalytics.com^
 @@||www.heatmap.it^
 @@||www.heise.de^
-@@||www.helium.com^
 @@||www.hm.com^
 @@||www.hotjar.com^
 @@||www.howtogeek.com^
@@ -4746,6 +4759,7 @@
 @@||www.mbl.is^
 @@||www.mediafire.com^
 @@||www.mediaworks.co.nz^
+@@||www.mega.nz^
 @@||www.megaphone.fm^
 @@||www.mesh.com^
 @@||www.miaminewtimes.com^
@@ -4773,6 +4787,7 @@
 @@||www.npr.org^
 @@||www.nytimes.com^
 @@||www.oboom.com^
+@@||www.observability.splunk.com^
 @@||www.ojrq.net^
 @@||www.olark.com^
 @@||www.onesignal.com^
@@ -4901,7 +4916,6 @@
 @@||www.walmart.com^
 @@||www.wangbase.com^
 @@||www.watchdog.burst-alliance.org^
-@@||www.weather.gov^
 @@||www.web.burst-alliance.org^
 @@||www.wikipedia.org^
 @@||www.windy.com^
