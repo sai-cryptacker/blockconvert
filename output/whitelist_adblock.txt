@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-20Z
+! Version: 2020-10-21Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-20Z
+! Last modified: 2020-10-21Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -252,6 +252,7 @@
 @@||admin.cs7777.vk.com^
 @@||admin.dable.io^
 @@||admin.scs.splunk.com^
+@@||admin.staging.scs.splunk.com^
 @@||admin.tau.vk.com^
 @@||admin.vk.com^
 @@||adnet.qq.com^
@@ -1565,6 +1566,7 @@
 @@||ea.az.tops.purchase.mp.microsoft.com^
 @@||ea.com^
 @@||eas-canary.messagingthread.skype.com^
+@@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
 @@||eastus.pi-dns.com^
 @@||easybytez.com^
 @@||easylist-downloads.adblockplus.org^
@@ -2137,6 +2139,7 @@
 @@||hobbs.ugc.bazaarvoice.com^
 @@||hobbycraft.ugc.bazaarvoice.com^
 @@||hockeyapp.net^
+@@||hol-deploy-three.class.splunk.com^
 @@||hol.class.splunk.com^
 @@||hollywoodlife.com^
 @@||home.tradedoubler.com^
@@ -2385,6 +2388,7 @@
 @@||inventory.mp.microsoft.com^
 @@||investingchannel.com^
 @@||investorplace.com^
+@@||investors.splunk.com^
 @@||invreservations-int.mp.microsoft.com^
 @@||invreservations.mp.microsoft.com^
 @@||io9.com^
@@ -2865,6 +2869,7 @@
 @@||mx.www.m.vk.com^
 @@||my.2.cqcounter.com^
 @@||my.aliexpress.com^
+@@||my.matterport.com^
 @@||my.plexapp.com^
 @@||my.tealiumiq.com^
 @@||mycapture.com^
@@ -2971,6 +2976,7 @@
 @@||notabug.org^
 @@||notebooksbilliger.de^
 @@||notifications.google.com^
+@@||notifications.skype.com^
 @@||notify.vk.com^
 @@||notify.xboxlive.com^
 @@||now.notebooksbilliger.de^
@@ -3380,6 +3386,7 @@
 @@||pv-new.awin1.com^
 @@||pv.awin1.com^
 @@||pwc.chase.com^
+@@||pxt.adafruit.com^
 @@||py.2.cqcounter.com^
 @@||q.stripe.com^
 @@||q13fox.com^
@@ -3887,6 +3894,7 @@
 @@||static.hubspot.com^
 @@||static.kickstarter.com^
 @@||static.licdn.com^
+@@||static.matterport.com^
 @@||static.networkedblogs.com^
 @@||static.tacdn.com^
 @@||static.template.pcbeta.com^
@@ -4816,6 +4824,7 @@
 @@||www.powerreviews.com^
 @@||www.ppc.tradedoubler.com^
 @@||www.privateinternetaccess.com^
+@@||www.proofpoint.com^
 @@||www.providesupport.com^
 @@||www.publicsuffix.org^
 @@||www.push.vk.com^
@@ -4834,6 +4843,7 @@
 @@||www.roadandtrack.com^
 @@||www.rpxnow.com^
 @@||www.salemove.com^
+@@||www.samsung.com^
 @@||www.sdad.guru^
 @@||www.searchanise.com^
 @@||www.sears.com^
@@ -4895,6 +4905,7 @@
 @@||www.tradedoubler.com^
 @@||www.transfer.sh^
 @@||www.trumba.com^
+@@||www.trustkeeper.net^
 @@||www.tumblr.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^

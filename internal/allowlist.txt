@@ -335,6 +335,7 @@ msftconnecttest.com
 m.stripe.network
 mvaali1.ws.byteoversea.net
 mw1.wsj.net # https://github.com/mkb2091/blockconvert/issues/50
+my.matterport.com # https://github.com/mkb2091/blockconvert/issues/72 Breaks a 3D space capture platform
 mymonero.com
 namecheap.com
 narkive.com
@@ -465,6 +466,7 @@ star-mini.c10r.facebook.com
 static.bbci.co.uk
 static-dot-virustotalcloud.appspot.com
 static.getmonero.org
+static.matterport.com # https://github.com/mkb2091/blockconvert/issues/72 Breaks a 3D space capture platform
 statics.streamable.com
 static.tacdn.com # https://github.com/mkb2091/blockconvert/issues/52
 static.tidiochat.com
