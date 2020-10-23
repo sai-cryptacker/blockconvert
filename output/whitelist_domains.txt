@@ -284,6 +284,7 @@ adx3.adform.net
 adyen.com
 ae.ugc.bazaarvoice.com
 ae01.alicdn.com
+aeg.ugc.bazaarvoice.com
 aeis.alicdn.com
 aeriagames.com
 aetna.com
@@ -4056,6 +4057,7 @@ thebodyshopca.ugc.bazaarvoice.com
 thebot.net
 thechive.com
 theentertainer.ugc.bazaarvoice.com
+theepochtimes.com
 thefeel.cs624620.vk.com
 thefreethoughtproject.com
 thehill.com
@@ -4898,6 +4900,7 @@ www.techrepublic.com
 www.testnet-2.burst-alliance.org
 www.texashomebase.com
 www.thebot.net
+www.theepochtimes.com
 www.theoldnet.com
 www.theregister.co.uk
 www.theverge.com

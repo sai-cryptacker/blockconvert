@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-22Z
+! Version: 2020-10-23Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-22Z
+! Last modified: 2020-10-23Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -293,6 +293,7 @@
 @@||adyen.com^
 @@||ae.ugc.bazaarvoice.com^
 @@||ae01.alicdn.com^
+@@||aeg.ugc.bazaarvoice.com^
 @@||aeis.alicdn.com^
 @@||aeriagames.com^
 @@||aetna.com^
@@ -4065,6 +4066,7 @@
 @@||thebot.net^
 @@||thechive.com^
 @@||theentertainer.ugc.bazaarvoice.com^
+@@||theepochtimes.com^
 @@||thefeel.cs624620.vk.com^
 @@||thefreethoughtproject.com^
 @@||thehill.com^
@@ -4907,6 +4909,7 @@
 @@||www.testnet-2.burst-alliance.org^
 @@||www.texashomebase.com^
 @@||www.thebot.net^
+@@||www.theepochtimes.com^
 @@||www.theoldnet.com^
 @@||www.theregister.co.uk^
 @@||www.theverge.com^

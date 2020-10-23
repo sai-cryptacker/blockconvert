@@ -495,6 +495,7 @@ teespring.com
 telecommand.telemetry.microsoft.com.akadns.net
 texashomebase.com
 thebot.net
+theepochtimes.com # https://github.com/mkb2091/blockconvert/issues/73 News website
 theoldnet.com
 tiktok.com # Causes adblock to block www.tiktok.com
 tile-service.weather.microsoft.com
