@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-21Z
+! Version: 2020-10-22Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-21Z
+! Last modified: 2020-10-22Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -423,7 +423,6 @@
 @@||api.intsig.net^
 @@||api.io.mi.com^
 @@||api.ipify.org^
-@@||api.join.skype.com^
 @@||api.jr.mi.com^
 @@||api.map.baidu.com^
 @@||api.mapbox.com^
@@ -486,12 +485,15 @@
 @@||appleid.apple.com^
 @@||appleid.apple.com.akadns.net^
 @@||apprep.smartscreen.microsoft.com^
+@@||apps-content.splunk.com^
 @@||apps.facebook.com^
+@@||apps.splunk.com^
 @@||appsbackup-pa.clients6.google.com^
 @@||appsbackup-pa.googleapis.com^
 @@||appspot-preview.l.google.com^
 @@||appspot.com^
 @@||apptimize.com^
+@@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi-intppe.dps.mp.microsoft.com^
 @@||apresolve.spotify.com^
 @@||apt.adafruit.com^
@@ -862,6 +864,9 @@
 @@||cdn-tb2.adform.net^
 @@||cdn-us-ec.yottaa.net^
 @@||cdn.ampproject.org^
+@@||cdn.apps-content.splunk.com^
+@@||cdn.apps-staging.splunk.com^
+@@||cdn.apps.splunk.com^
 @@||cdn.arstechnica.net^
 @@||cdn.auth0.com^
 @@||cdn.cnetcontent.com^
@@ -1098,6 +1103,7 @@
 @@||cookielawinfo.com^
 @@||coordinator-dcatbackend-int.mp.microsoft.com^
 @@||coordinator-dcatbackend.mp.microsoft.com^
+@@||core-ae.playground.scp.splunk.com^
 @@||corona.docs.vk.com^
 @@||coronagolf.vk.com^
 @@||corp-ldap.openx.com^
@@ -1421,6 +1427,7 @@
 @@||dev.tradedoubler.com^
 @@||dev.twitter.com^
 @@||dev.virtualearth.net^
+@@||devcenterapi.dce.mp.microsoft.com^
 @@||developer.twitter.com^
 @@||developers.facebook.com^
 @@||developers.google.com^
@@ -1532,6 +1539,7 @@
 @@||dropbox.com^
 @@||drudgereport.com^
 @@||dsp.brand.sogou.com^
+@@||dsp.playground.scp.splunk.com^
 @@||dsp.staging.scs.splunk.com^
 @@||dsw.tt.omtrdc.net^
 @@||duckdns.org^
@@ -1745,6 +1753,7 @@
 @@||files.graphiq.com^
 @@||files2.freedownloadmanager.org^
 @@||files5.adform.net^
+@@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
 @@||filesmonster.com^
 @@||fili.cc^
@@ -2437,7 +2446,6 @@
 @@||joewein.net^
 @@||johndeere.ugc.bazaarvoice.com^
 @@||johnfrieda.ugc.bazaarvoice.com^
-@@||join.skype.com^
 @@||jp.2.cqcounter.com^
 @@||jp06.zopim.com^
 @@||jpost.com^
@@ -2581,7 +2589,9 @@
 @@||linktr.ee^
 @@||linkwithin.com^
 @@||list-manage.com^
+@@||listings.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
+@@||listingsweb.dps.mp.microsoft.com^
 @@||lithium.facebook.com^
 @@||live.com^
 @@||livechatinc.com^
@@ -3050,6 +3060,7 @@
 @@||ocsp.verisign.com^
 @@||ocsp.verisign.net^
 @@||od.lk^
+@@||odoh.cloudflare-dns.com^
 @@||odysseygolf.ugc.bazaarvoice.com^
 @@||oem.twimg.com^
 @@||office.com^
@@ -3158,6 +3169,7 @@
 @@||p.ebaystatic.com^
 @@||p.imgur.com^
 @@||p.jwpcdn.com^
+@@||pac-int.dse.mp.microsoft.com^
 @@||pacificcoast.ugc.bazaarvoice.com^
 @@||packages-int.dps.mp.microsoft.com^
 @@||packages.chocolatey.org^
@@ -3315,6 +3327,7 @@
 @@||ppc.tradedoubler.com^
 @@||ppt.cc^
 @@||ppurifier.game.xiaomi.com^
+@@||pre-release.qa.splunk.com^
 @@||prerollads.nl^
 @@||pricegrabber.com^
 @@||printfriendly.com^
@@ -4404,6 +4417,8 @@
 @@||washington.cbslocal.com^
 @@||washingtonpost.com^
 @@||watchdog.burst-alliance.org^
+@@||watchdogs-int.dps.mp.microsoft.com^
+@@||watchdogs.dps.mp.microsoft.com^
 @@||watson.telemetry.microsoft.com^
 @@||way.vk.com^
 @@||wbd.ms^
@@ -4645,11 +4660,13 @@
 @@||www.emjcd.com^
 @@||www.engadget.com^
 @@||www.ethn.io^
+@@||www.eventbrite.com^
 @@||www.expressen.se^
 @@||www.facebook.com^
 @@||www.fbcdn.net^
 @@||www.fili.cc^
 @@||www.filmyhd.net^
+@@||www.flattr.com^
 @@||www.flickr.com^
 @@||www.fling.com^
 @@||www.flipboard.com^
@@ -4754,7 +4771,6 @@
 @@||www.lowes.com^
 @@||www.luckyorange.com^
 @@||www.m.vk.com^
-@@||www.mail.ru^
 @@||www.mailchimp.com^
 @@||www.majorgeeks.com^
 @@||www.malwaredomainlist.com^
@@ -4821,12 +4837,10 @@
 @@||www.polldaddy.com^
 @@||www.pool.ntp.org^
 @@||www.pornhub.com^
-@@||www.powerreviews.com^
 @@||www.ppc.tradedoubler.com^
 @@||www.privateinternetaccess.com^
 @@||www.proofpoint.com^
 @@||www.providesupport.com^
-@@||www.publicsuffix.org^
 @@||www.push.vk.com^
 @@||www.pushwoosh.com^
 @@||www.qq.com^

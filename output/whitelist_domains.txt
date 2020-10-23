@@ -414,7 +414,6 @@ api.hubspot.com
 api.intsig.net
 api.io.mi.com
 api.ipify.org
-api.join.skype.com
 api.jr.mi.com
 api.map.baidu.com
 api.mapbox.com
@@ -477,12 +476,15 @@ apple.com
 appleid.apple.com
 appleid.apple.com.akadns.net
 apprep.smartscreen.microsoft.com
+apps-content.splunk.com
 apps.facebook.com
+apps.splunk.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com
 apptimize.com
+appxapi-int.dps.mp.microsoft.com
 appxapi-intppe.dps.mp.microsoft.com
 apresolve.spotify.com
 apt.adafruit.com
@@ -853,6 +855,9 @@ cdn-tb1.adform.net
 cdn-tb2.adform.net
 cdn-us-ec.yottaa.net
 cdn.ampproject.org
+cdn.apps-content.splunk.com
+cdn.apps-staging.splunk.com
+cdn.apps.splunk.com
 cdn.arstechnica.net
 cdn.auth0.com
 cdn.cnetcontent.com
@@ -1089,6 +1094,7 @@ cookieblock.trackersimulate.org
 cookielawinfo.com
 coordinator-dcatbackend-int.mp.microsoft.com
 coordinator-dcatbackend.mp.microsoft.com
+core-ae.playground.scp.splunk.com
 corona.docs.vk.com
 coronagolf.vk.com
 corp-ldap.openx.com
@@ -1412,6 +1418,7 @@ dev.tau.vk.com
 dev.tradedoubler.com
 dev.twitter.com
 dev.virtualearth.net
+devcenterapi.dce.mp.microsoft.com
 developer.twitter.com
 developers.facebook.com
 developers.google.com
@@ -1523,6 +1530,7 @@ drive.google.com
 dropbox.com
 drudgereport.com
 dsp.brand.sogou.com
+dsp.playground.scp.splunk.com
 dsp.staging.scs.splunk.com
 dsw.tt.omtrdc.net
 duckdns.org
@@ -1736,6 +1744,7 @@ files.freedownloadmanager.org
 files.graphiq.com
 files2.freedownloadmanager.org
 files5.adform.net
+filesapi-int.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
 filesmonster.com
 fili.cc
@@ -2428,7 +2437,6 @@ joemonster.org
 joewein.net
 johndeere.ugc.bazaarvoice.com
 johnfrieda.ugc.bazaarvoice.com
-join.skype.com
 jp.2.cqcounter.com
 jp06.zopim.com
 jpost.com
@@ -2572,7 +2580,9 @@ links.mint.com
 linktr.ee
 linkwithin.com
 list-manage.com
+listings.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
+listingsweb.dps.mp.microsoft.com
 lithium.facebook.com
 live.com
 livechatinc.com
@@ -3041,6 +3051,7 @@ ocsp.usertrust.com
 ocsp.verisign.com
 ocsp.verisign.net
 od.lk
+odoh.cloudflare-dns.com
 odysseygolf.ugc.bazaarvoice.com
 oem.twimg.com
 office.com
@@ -3149,6 +3160,7 @@ ozilla.cloudflare-dns.com
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
+pac-int.dse.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
 packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
@@ -3306,6 +3318,7 @@ pp.userapi.com
 ppc.tradedoubler.com
 ppt.cc
 ppurifier.game.xiaomi.com
+pre-release.qa.splunk.com
 prerollads.nl
 pricegrabber.com
 printfriendly.com
@@ -4395,6 +4408,8 @@ warp.cloudflare-dns.com
 washington.cbslocal.com
 washingtonpost.com
 watchdog.burst-alliance.org
+watchdogs-int.dps.mp.microsoft.com
+watchdogs.dps.mp.microsoft.com
 watson.telemetry.microsoft.com
 way.vk.com
 wbd.ms
@@ -4636,11 +4651,13 @@ www.eltrafiko.com
 www.emjcd.com
 www.engadget.com
 www.ethn.io
+www.eventbrite.com
 www.expressen.se
 www.facebook.com
 www.fbcdn.net
 www.fili.cc
 www.filmyhd.net
+www.flattr.com
 www.flickr.com
 www.fling.com
 www.flipboard.com
@@ -4745,7 +4762,6 @@ www.logrocket.com
 www.lowes.com
 www.luckyorange.com
 www.m.vk.com
-www.mail.ru
 www.mailchimp.com
 www.majorgeeks.com
 www.malwaredomainlist.com
@@ -4812,12 +4828,10 @@ www.pocketnow.com
 www.polldaddy.com
 www.pool.ntp.org
 www.pornhub.com
-www.powerreviews.com
 www.ppc.tradedoubler.com
 www.privateinternetaccess.com
 www.proofpoint.com
 www.providesupport.com
-www.publicsuffix.org
 www.push.vk.com
 www.pushwoosh.com
 www.qq.com
