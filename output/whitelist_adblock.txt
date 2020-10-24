@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-23Z
+! Version: 2020-10-24Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-23Z
+! Last modified: 2020-10-24Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -245,7 +245,6 @@
 @@||adidas.ugc.bazaarvoice.com^
 @@||adidasjp.ugc.bazaarvoice.com^
 @@||adiu.amap.com^
-@@||adm.fwmrm.net^
 @@||adm.vk.com^
 @@||admedia.adgemini.de^
 @@||admin.brightcove.com^
@@ -428,6 +427,7 @@
 @@||api.map.baidu.com^
 @@||api.mapbox.com^
 @@||api.micloud.xiaomi.net^
+@@||api.mobile.immobilienscout24.de^
 @@||api.mymonero.com^
 @@||api.onedrive.com^
 @@||api.ooyala.com^
@@ -1874,6 +1874,7 @@
 @@||furniturerow.ugc.bazaarvoice.com^
 @@||fuseservice.com^
 @@||fusiontables.google.com^
+@@||fwmrm.net^
 @@||fyre.co^
 @@||g.alicdn.com.danuoyi.alicdn.com^
 @@||g.co^
@@ -3232,6 +3233,7 @@
 @@||phishtank.com^
 @@||phncdn.com^
 @@||phobos.apple.com^
+@@||phobot-live.skype.com^
 @@||phoenix.burst-alliance.org^
 @@||phonecallapi.micloud.xiaomi.net^
 @@||photobucket.com^
@@ -3603,6 +3605,7 @@
 @@||schd.ws^
 @@||sched.org^
 @@||schemaapi-int.dps.mp.microsoft.com^
+@@||schemaapi.dps.mp.microsoft.com^
 @@||schibsted.com^
 @@||schibsted.no^
 @@||scholastic.ugc.bazaarvoice.com^
@@ -3623,6 +3626,7 @@
 @@||scribd.com^
 @@||script.google.com^
 @@||script.ioam.de^
+@@||scs002-iad10.admin.scs.splunk.com^
 @@||sd-29059.alpha.dashboard.mgid.com^
 @@||sd-29849.alpha.dashboard.mgid.com^
 @@||sdad.guru^
@@ -3735,6 +3739,7 @@
 @@||smartscreen-sn3p.smartscreen.microsoft.com^
 @@||smartscreen.microsoft.com^
 @@||smokingmask.vk.com^
+@@||smssfe.skype.com^
 @@||smtp.mail.yahoo.com^
 @@||smtp.srv67-190-240-87.vk.com^
 @@||smtp.srv71-129-240-87.vk.com^
@@ -4618,6 +4623,7 @@
 @@||www.charter.com^
 @@||www.chomikuj.pl^
 @@||www.civicscience.com^
+@@||www.cleveland.com^
 @@||www.clicktale.net^
 @@||www.clkap.tradedoubler.com^
 @@||www.clkgb.tradedoubler.com^
@@ -4685,6 +4691,7 @@
 @@||www.freedownloadmanager.org^
 @@||www.fullstory.com^
 @@||www.funk.eu^
+@@||www.fwmrm.net^
 @@||www.g.ezoic.net^
 @@||www.geoplugin.net^
 @@||www.georiot.com^
@@ -4780,6 +4787,7 @@
 @@||www.marketo.com^
 @@||www.marketwatch.com^
 @@||www.mask13.vk.com^
+@@||www.masslive.com^
 @@||www.master.burst-alliance.org^
 @@||www.maxmind.com^
 @@||www.mbl.is^
@@ -4790,6 +4798,7 @@
 @@||www.mesh.com^
 @@||www.miaminewtimes.com^
 @@||www.microsoft.com^
+@@||www.mlive.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
 @@||www.mouseflow.com^
@@ -4802,11 +4811,13 @@
 @@||www.msn.com^
 @@||www.mywot.com^
 @@||www.namecheap.com^
+@@||www.naver.com^
 @@||www.nbcnews.com^
 @@||www.nbcnewyork.com^
 @@||www.new.tradedoubler.com^
 @@||www.newrelic.com^
 @@||www.newyorker.com^
+@@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
 @@||www.nordichardware.se^
@@ -4823,6 +4834,7 @@
 @@||www.openx.com^
 @@||www.optimizely.com^
 @@||www.oracle.com^
+@@||www.oregonlive.com^
 @@||www.pastebin.com^
 @@||www.pasteboard.co^
 @@||www.paypal.com^
@@ -4831,6 +4843,7 @@
 @@||www.pcbeta.com^
 @@||www.pcmag.com^
 @@||www.pcmatic.com^
+@@||www.pennlive.com^
 @@||www.pinterest.com^
 @@||www.piratebay.org^
 @@||www.placehold.it^
@@ -4949,6 +4962,7 @@
 @@||www.windy.com^
 @@||www.winhelp2002.mvps.org^
 @@||www.wired.com^
+@@||www.worldnow.com^
 @@||www.wshifen.com^
 @@||www.wupload.com^
 @@||www.ww.vk.com^
