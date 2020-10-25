@@ -3336,6 +3336,7 @@ prod.disqus.map.fastlylb.net
 prod.registrar.skype.com
 prod.telemetry.ros.rockstargames.com
 prod.tradedoubler.com
+product-int.dps.mp.microsoft.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 products.office.com
@@ -3380,6 +3381,7 @@ publix.com
 pubsub.plex.bz
 pubsub.plex.tv
 pull.ticktick.com
+pulsar-app-play1.playground.scp.splunk.com
 puma.ugc.bazaarvoice.com
 pumajapan.ugc.bazaarvoice.com
 purchase-int.mp.microsoft.com
@@ -4579,6 +4581,7 @@ www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.analytics.tradedoubler.com
 www.androidauthority.com
+www.androidforums.com
 www.anrdoezrs.net
 www.answers.com
 www.aol.com
