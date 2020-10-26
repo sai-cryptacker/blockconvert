@@ -4665,6 +4665,7 @@ www.ethn.io
 www.eventbrite.com
 www.expressen.se
 www.facebook.com
+www.fastly.net
 www.fbcdn.net
 www.fili.cc
 www.filmyhd.net
