@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-26Z
+! Version: 2020-10-27Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-26Z
+! Last modified: 2020-10-27Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -222,7 +222,6 @@
 @@||ad.2.cqcounter.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
-@@||ad.ourgame.com^
 @@||ad2.uoocuniversity.com^
 @@||adapt.tradedoubler.com^
 @@||adash.man.aliyuncs.com^
@@ -572,6 +571,7 @@
 @@||autodiscover.team.vk.com^
 @@||autodiscover.tradedoubler.com^
 @@||av.tradedoubler.com^
+@@||availability.dps.mp.microsoft.com^
 @@||aviva.ugc.bazaarvoice.com^
 @@||avon-ru.ugc.bazaarvoice.com^
 @@||avon-uk.ugc.bazaarvoice.com^
@@ -701,8 +701,6 @@
 @@||blogspot.l.googleusercontent.com^
 @@||bloomberg.com^
 @@||bloxcms.com^
-@@||bn2-extorigin.delivery.mp.microsoft.com^
-@@||bn2-prod.delivery.mp.microsoft.com^
 @@||bn2.pending.sls.update.microsoft.com^
 @@||bn2wns1.wns.windows.com^
 @@||bn3sch020010558.wns.windows.com^
@@ -1068,6 +1066,7 @@
 @@||commozilla.cloudflare-dns.com^
 @@||community.spiceworks.com^
 @@||completion.amazon.com^
+@@||composerweb.dps.mp.microsoft.com^
 @@||comtar.tradedoubler.com^
 @@||comwww.vk.com^
 @@||conf.splunk.com^
@@ -1343,7 +1342,6 @@
 @@||cws.conviva.com^
 @@||cxt.tradedoubler.com^
 @@||cy2-extorigin.delivery.mp.microsoft.com^
-@@||cy2-prod.delivery.mp.microsoft.com^
 @@||cy2.displaycatalog.md.mp.microsoft.com.akadns.net^
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^
 @@||cybercrime-tracker.net^
@@ -1382,7 +1380,6 @@
 @@||davidsbridal.ugc.bazaarvoice.com^
 @@||db.burst-alliance.org^
 @@||db.local.clamav.net^
-@@||db5-extorigin.delivery.mp.microsoft.com^
 @@||db5.pending.sls.update.microsoft.com^
 @@||dcape-na.amazon.com^
 @@||dddd.vk.com^
@@ -1618,7 +1615,6 @@
 @@||embed.flowplayer.org^
 @@||embed.spotify.com^
 @@||emdl.ws.microsoft.com^
-@@||emea01.safelinks.protection.outlook.com^
 @@||emeaquarantine.vk.com^
 @@||en.bab.la^
 @@||encrypted-tbn0.gstatic.com^
@@ -1699,7 +1695,6 @@
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external-lhr9-1.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
-@@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||exxonmobil.ugc.bazaarvoice.com^
 @@||f.chtah.com^
 @@||f1.g.mi.com^
@@ -1776,6 +1771,7 @@
 @@||fiverr.com^
 @@||flattr.com^
 @@||flickr.com^
+@@||flighting-int.dps.mp.microsoft.com^
 @@||flighting.dps.mp.microsoft.com^
 @@||fling.com^
 @@||flipboard.com^
@@ -1876,6 +1872,7 @@
 @@||fusiontables.google.com^
 @@||fwmrm.net^
 @@||fyre.co^
+@@||g.alicdn.com^
 @@||g.alicdn.com.danuoyi.alicdn.com^
 @@||g.co^
 @@||g.ezoic.net^
@@ -2013,6 +2010,7 @@
 @@||gtms01.alicdn.com^
 @@||gtms02.alicdn.com^
 @@||gtms03.alicdn.com^
+@@||gtms04.alicdn.com^
 @@||guardian.co.uk^
 @@||guce.advertising.com^
 @@||guce.huffpost.com^
@@ -2064,8 +2062,6 @@
 @@||history.com^
 @@||hitfile.net^
 @@||hk.2.cqcounter.com^
-@@||hk2-extorigin.delivery.mp.microsoft.com^
-@@||hk2-prod.delivery.mp.microsoft.com^
 @@||hk2.wns.windows.com^
 @@||hk2sch130020721.wns.windows.com^
 @@||hk2sch130020723.wns.windows.com^
@@ -2258,7 +2254,6 @@
 @@||image.prntscr.com^
 @@||imagebam.com^
 @@||imagecorn.com^
-@@||imagepublishingservice-dev.dps.mp.microsoft.com^
 @@||images-cn.ssl-images-amazon.com^
 @@||images-eu.ssl-images-amazon.com^
 @@||images-fe.ssl-images-amazon.com^
@@ -2932,7 +2927,6 @@
 @@||newjobs.com^
 @@||newrelic.com^
 @@||news.bitcoin.com^
-@@||news.ebc.net.tw^
 @@||news.google.com^
 @@||news.ycombinator.com^
 @@||newsday.com^
@@ -2966,7 +2960,6 @@
 @@||nk.pl^
 @@||nl.2.cqcounter.com^
 @@||nl.cqcounter.com^
-@@||nl.notebooksbilliger.de^
 @@||nm.vk.com^
 @@||nmcdn.us^
 @@||nmcheck.gnome.org^
@@ -3082,7 +3075,6 @@
 @@||okta.com^
 @@||oladblock.me^
 @@||oladblock.services^
-@@||oladblock.xyz^
 @@||olark.com^
 @@||oload.cc^
 @@||oload.cloud^
@@ -3141,7 +3133,6 @@
 @@||opf.ooyala.com^
 @@||opinion.latimes.com^
 @@||optimizely.com^
-@@||or.delivery.mp.microsoft.com^
 @@||oracle.com^
 @@||orange.fr^
 @@||orange.ugc.bazaarvoice.com^
@@ -3153,7 +3144,6 @@
 @@||oriflame.ugc.bazaarvoice.com^
 @@||origin-cdn.openx.com^
 @@||origin-www.openx.com^
-@@||origin.delivery.mp.microsoft.com^
 @@||origin.platform.dev.openx.com^
 @@||origincache-atn.fbcdn.net^
 @@||orion.ugc.bazaarvoice.com^
@@ -3236,11 +3226,11 @@
 @@||phobot-live.skype.com^
 @@||phoenix.burst-alliance.org^
 @@||phonecallapi.micloud.xiaomi.net^
+@@||photo.store.qq.com^
 @@||photobucket.com^
 @@||photos-ugc.l.googleusercontent.com^
 @@||phplist.com^
 @@||phs.tanx.com^
-@@||phx.origin.delivery.mp.microsoft.com^
 @@||pi-dns.com^
 @@||pi-hole.net^
 @@||pi.tradedoubler.com^
@@ -3327,7 +3317,6 @@
 @@||powr.io^
 @@||pp.ephapay.net^
 @@||pp.userapi.com^
-@@||ppc.tradedoubler.com^
 @@||ppt.cc^
 @@||ppurifier.game.xiaomi.com^
 @@||pre-release.qa.splunk.com^
@@ -3346,8 +3335,6 @@
 @@||prod.telemetry.ros.rockstargames.com^
 @@||prod.tradedoubler.com^
 @@||product-int.dps.mp.microsoft.com^
-@@||productcatalogservice-df.dce.mp.microsoft.com^
-@@||productcatalogservice.dce.mp.microsoft.com^
 @@||products.office.com^
 @@||productweb-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
@@ -3937,6 +3924,7 @@
 @@||status.coinbase.com^
 @@||status.newrelic.com^
 @@||status.plex.tv^
+@@||status.scp.splunk.com^
 @@||statusapi.micloud.xiaomi.net^
 @@||statuscake-email.com^
 @@||statuscake.com^
@@ -3979,7 +3967,6 @@
 @@||sup.adfox.ru^
 @@||support.coinbase.com^
 @@||support.microsoft.com^
-@@||support.skype.com^
 @@||survey.euro.confirmit.com^
 @@||survey.forseeresults.com^
 @@||survey.pearsoncmg.com^
@@ -4104,7 +4091,6 @@
 @@||tinypass.com^
 @@||tinypic.com^
 @@||tinyurl.com^
-@@||tip.or.delivery.mp.microsoft.com^
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||tkx-acc.apis.anvato.net^
@@ -4322,6 +4308,7 @@
 @@||ustrl-int.mp.microsoft.com^
 @@||ustrl.mp.microsoft.com^
 @@||uth.vk.com^
+@@||uwpproc.mix.mp.microsoft.com^
 @@||v.adfox.ru^
 @@||v.firebog.net^
 @@||v.pinimg.com^
@@ -4521,6 +4508,7 @@
 @@||woodpecker.uc.cn^
 @@||woosmap.com^
 @@||wordpress.com^
+@@||workflowservice-dev.dps.mp.microsoft.com^
 @@||workflowservice.dps.mp.microsoft.com^
 @@||world-gen.g.aaplimg.com^
 @@||worldnow.com^
@@ -4581,7 +4569,6 @@
 @@||www.agency.help.adfox.ru^
 @@||www.alexa.com^
 @@||www.algolia.com^
-@@||www.allure.com^
 @@||www.amazon.co.uk^
 @@||www.amazon.com^
 @@||www.amazon.de^
@@ -4604,9 +4591,26 @@
 @@||www.bbc.com^
 @@||www.bcorg.web.burst-alliance.org^
 @@||www.berush.com^
+@@||www.better.fyi^
 @@||www.beyondmenu.com^
 @@||www.binarydefense.com^
+@@||www.bing.at^
+@@||www.bing.ch^
+@@||www.bing.co.uk^
 @@||www.bing.com^
+@@||www.bing.com.br^
+@@||www.bing.cz^
+@@||www.bing.es^
+@@||www.bing.fi^
+@@||www.bing.fr^
+@@||www.bing.gr^
+@@||www.bing.hu^
+@@||www.bing.ie^
+@@||www.bing.it^
+@@||www.bing.no^
+@@||www.bing.pl^
+@@||www.bing.ru^
+@@||www.bing.se^
 @@||www.bit.ly^
 @@||www.blog.xuite.net^
 @@||www.blogger.com^
@@ -4648,7 +4652,6 @@
 @@||www.cs001.vk.com^
 @@||www.cs292596712.vk.com^
 @@||www.cws.conviva.com^
-@@||www.dailymotion.com^
 @@||www.datadoghq-browser-agent.com^
 @@||www.dataplicity.com^
 @@||www.db.burst-alliance.org^
@@ -4699,7 +4702,6 @@
 @@||www.g.ezoic.net^
 @@||www.geoplugin.net^
 @@||www.georiot.com^
-@@||www.geotrust.com^
 @@||www.gfycat.com^
 @@||www.gigya.com^
 @@||www.github.com^
@@ -4781,12 +4783,12 @@
 @@||www.localbitcoins.com^
 @@||www.loggly.com^
 @@||www.logrocket.com^
-@@||www.lowes.com^
 @@||www.luckyorange.com^
 @@||www.m.vk.com^
 @@||www.mailchimp.com^
 @@||www.majorgeeks.com^
 @@||www.malwaredomainlist.com^
+@@||www.mapbox.com^
 @@||www.mapquestapi.com^
 @@||www.marketo.com^
 @@||www.marketwatch.com^
@@ -4801,7 +4803,6 @@
 @@||www.megaphone.fm^
 @@||www.mesh.com^
 @@||www.miaminewtimes.com^
-@@||www.microsoft.com^
 @@||www.mlive.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
@@ -4820,15 +4821,14 @@
 @@||www.nbcnewyork.com^
 @@||www.new.tradedoubler.com^
 @@||www.newrelic.com^
-@@||www.newyorker.com^
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
 @@||www.nordichardware.se^
-@@||www.npr.org^
 @@||www.nytimes.com^
 @@||www.oboom.com^
 @@||www.observability.splunk.com^
+@@||www.office.com^
 @@||www.ojrq.net^
 @@||www.olark.com^
 @@||www.onesignal.com^
@@ -4886,11 +4886,11 @@
 @@||www.semrush.com^
 @@||www.sgizmo.com^
 @@||www.share-online.biz^
+@@||www.shopping.com^
 @@||www.shst.tradedoubler.com^
 @@||www.sina.com.cn^
 @@||www.skimresources.com^
 @@||www.slate.com^
-@@||www.sls.update.microsoft.com.akadns.net^
 @@||www.smartlook.com^
 @@||www.snapengage.com^
 @@||www.snipcart.com^
@@ -4908,12 +4908,10 @@
 @@||www.srv71-129-240-87.vk.com^
 @@||www.srv72-190-240-87.vk.com^
 @@||www.srv78-190-240-87.vk.com^
-@@||www.starbucks.com^
 @@||www.startpage.com^
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
 @@||www.strefa.fm^
-@@||www.stripe.com^
 @@||www.surveygizmo.com^
 @@||www.t-online.de^
 @@||www.tags.crwdcntrl.net^
@@ -4938,7 +4936,6 @@
 @@||www.tools.tradedoubler.com^
 @@||www.tradedoubler.com^
 @@||www.transfer.sh^
-@@||www.trumba.com^
 @@||www.trustkeeper.net^
 @@||www.tumblr.com^
 @@||www.turnto.com^
@@ -4948,7 +4945,6 @@
 @@||www.ultimedia.com^
 @@||www.unibytes.com^
 @@||www.userreplay.net^
-@@||www.vanityfair.com^
 @@||www.variety.com^
 @@||www.vgwort.de^
 @@||www.videopress.com^
@@ -4963,7 +4959,6 @@
 @@||www.watchdog.burst-alliance.org^
 @@||www.web.burst-alliance.org^
 @@||www.wikipedia.org^
-@@||www.windy.com^
 @@||www.winhelp2002.mvps.org^
 @@||www.wired.com^
 @@||www.worldnow.com^
