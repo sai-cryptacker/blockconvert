@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-29Z
+! Version: 2020-10-30Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-29Z
+! Last modified: 2020-10-30Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -474,7 +474,6 @@
 @@||app.playground.scp.splunk.com^
 @@||app.plex.tv^
 @@||app.qq.com^
-@@||app.staging.scp.splunk.com^
 @@||app.vk.com^
 @@||appboot.netflix.com^
 @@||appcloud.ironbeast.io^
@@ -650,7 +649,6 @@
 @@||bhldn.ugc.bazaarvoice.com^
 @@||bialystok.tvp.pl^
 @@||bias-int.dps.mp.microsoft.com^
-@@||bias.dps.mp.microsoft.com^
 @@||biblio.vk.com^
 @@||big-files.adform.net^
 @@||bigcommerce.com^
@@ -1342,7 +1340,6 @@
 @@||cwa.tradedoubler.com^
 @@||cws.conviva.com^
 @@||cxt.tradedoubler.com^
-@@||cy2-extorigin.delivery.mp.microsoft.com^
 @@||cy2.displaycatalog.md.mp.microsoft.com.akadns.net^
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^
 @@||cybercrime-tracker.net^
@@ -1677,7 +1674,6 @@
 @@||ew.vk.com^
 @@||example.com^
 @@||example.org^
-@@||exchange.help.adfox.ru^
 @@||expedia.ugc.bazaarvoice.com^
 @@||explorer.burst-alliance.org^
 @@||expovaccins.vk.com^
@@ -2399,7 +2395,6 @@
 @@||invreservations-int.mp.microsoft.com^
 @@||invreservations.mp.microsoft.com^
 @@||io9.com^
-@@||iodapi.class.splunk.com^
 @@||ip-adress.com^
 @@||ip-tracker.org^
 @@||ipapi.co^
@@ -2707,7 +2702,6 @@
 @@||margevicius.lt^
 @@||market.xiaomi.com^
 @@||marketo.com^
-@@||marketplace-x360-ppe.mp.microsoft.com^
 @@||marketplace-x360.mp.microsoft.com^
 @@||marketwatch.com^
 @@||marksandspencer.ugc.bazaarvoice.com^
@@ -3193,6 +3187,7 @@
 @@||pasteboard.co^
 @@||pathe.emsecure.net^
 @@||pay.google.com^
+@@||pay.skype.com^
 @@||paymentinstruments-int.mp.microsoft.com^
 @@||paymentinstruments.md.mp.microsoft.com^
 @@||paymentinstruments.mp.microsoft.com^
@@ -3441,7 +3436,6 @@
 @@||razorpay.com^
 @@||rcom-eu.dynamicyield.com^
 @@||rcom.dynamicyield.com^
-@@||re.2.cqcounter.com^
 @@||readcomiconline.to^
 @@||readthedocs.org^
 @@||real-debrid.com^
@@ -3710,7 +3704,6 @@
 @@||sk.2.cqcounter.com^
 @@||sketchfab.com^
 @@||skimresources.com^
-@@||skinny-demo.staging.scs.splunk.com^
 @@||sklep.vk.com^
 @@||skyhook.sonarr.tv^
 @@||skyline.vk.com^
@@ -3876,6 +3869,7 @@
 @@||staging.dev.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
+@@||staging.splunk.com^
 @@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||stanev.org^
 @@||star-mini.c10r.facebook.com^
@@ -4564,8 +4558,8 @@
 @@||www.a-0009.a-msedge.net^
 @@||www.a.shifen.com^
 @@||www.accuweather.com^
-@@||www.adblock.ee^
 @@||www.adfox.ru^
+@@||www.adpartner.de^
 @@||www.adwords.google.com^
 @@||www.aetna.com^
 @@||www.affirm.com^
@@ -4665,7 +4659,6 @@
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
-@@||www.dn.se^
 @@||www.drift.com^
 @@||www.driftt.com^
 @@||www.drive.google.com^
@@ -4740,7 +4733,6 @@
 @@||www.hstse.tradedoubler.com^
 @@||www.hstus.tradedoubler.com^
 @@||www.hulu.com^
-@@||www.i.cmpnet.com^
 @@||www.ibm.com^
 @@||www.ibsys.com^
 @@||www.icanhazip.com^
@@ -4749,7 +4741,6 @@
 @@||www.ignorelist.com^
 @@||www.ikea.com^
 @@||www.img-bahn.de^
-@@||www.imgspice.com^
 @@||www.impde.tradedoubler.com^
 @@||www.inc.com^
 @@||www.inputdirector.com^
@@ -4763,7 +4754,6 @@
 @@||www.iubenda.com^
 @@||www.jaleco.com^
 @@||www.janrain.com^
-@@||www.jarv.is^
 @@||www.jdoqocy.com^
 @@||www.joblo.com^
 @@||www.joemonster.org^
@@ -4782,7 +4772,6 @@
 @@||www.leanplum.com^
 @@||www.liftoff.io^
 @@||www.linkedin.com^
-@@||www.linktr.ee^
 @@||www.linkwithin.com^
 @@||www.livechatinc.com^
 @@||www.livefyre.com^
@@ -4811,6 +4800,7 @@
 @@||www.megaphone.fm^
 @@||www.mesh.com^
 @@||www.miaminewtimes.com^
+@@||www.mistrzowie.org^
 @@||www.mlive.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
@@ -4840,6 +4830,7 @@
 @@||www.ojrq.net^
 @@||www.olark.com^
 @@||www.onesignal.com^
+@@||www.onion.to^
 @@||www.opensubtitles.org^
 @@||www.openvpn.tradedoubler.com^
 @@||www.openwall.com^
@@ -4857,6 +4848,7 @@
 @@||www.pcmag.com^
 @@||www.pcmatic.com^
 @@||www.pennlive.com^
+@@||www.people.com^
 @@||www.pi-hole.net^
 @@||www.pinterest.com^
 @@||www.piratebay.org^
@@ -4910,6 +4902,7 @@
 @@||www.sohu.com^
 @@||www.spaceport.tradedoubler.com^
 @@||www.speedcurve.com^
+@@||www.spiceworks.com^
 @@||www.sportsillustrated.tags.crwdcntrl.net^
 @@||www.spot.im^
 @@||www.spotify.com^
@@ -4921,6 +4914,7 @@
 @@||www.srv71-129-240-87.vk.com^
 @@||www.srv72-190-240-87.vk.com^
 @@||www.srv78-190-240-87.vk.com^
+@@||www.staging.splunk.com^
 @@||www.startpage.com^
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
@@ -4944,7 +4938,6 @@
 @@||www.tiktok.com^
 @@||www.tinypass.com^
 @@||www.tinyurl.com^
-@@||www.tlc.com^
 @@||www.tmz.com^
 @@||www.tools.tradedoubler.com^
 @@||www.tradedoubler.com^
@@ -4975,7 +4968,6 @@
 @@||www.web.burst-alliance.org^
 @@||www.weebly.com^
 @@||www.wikipedia.org^
-@@||www.winhelp2002.mvps.org^
 @@||www.wired.com^
 @@||www.worldnow.com^
 @@||www.wshifen.com^
