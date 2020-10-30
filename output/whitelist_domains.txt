@@ -465,6 +465,7 @@ app.migc.xiaomi.com
 app.playground.scp.splunk.com
 app.plex.tv
 app.qq.com
+app.staging.scp.splunk.com
 app.vk.com
 appboot.netflix.com
 appcloud.ironbeast.io
@@ -2693,6 +2694,7 @@ mapsengine.google.com
 margevicius.lt
 market.xiaomi.com
 marketo.com
+marketplace-x360-ppe.mp.microsoft.com
 marketplace-x360.mp.microsoft.com
 marketwatch.com
 marksandspencer.ugc.bazaarvoice.com
@@ -3427,6 +3429,7 @@ rawhttp.cloudflareworkers.com
 razorpay.com
 rcom-eu.dynamicyield.com
 rcom.dynamicyield.com
+re.2.cqcounter.com
 readcomiconline.to
 readthedocs.org
 real-debrid.com
@@ -4650,6 +4653,7 @@ www.dictionary.cambridge.org
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
+www.dn.se
 www.drift.com
 www.driftt.com
 www.drive.google.com
@@ -4724,6 +4728,7 @@ www.hstno.tradedoubler.com
 www.hstse.tradedoubler.com
 www.hstus.tradedoubler.com
 www.hulu.com
+www.i.cmpnet.com
 www.ibm.com
 www.ibsys.com
 www.icanhazip.com
