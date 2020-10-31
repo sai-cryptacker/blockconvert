@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-10-30Z
+! Version: 2020-10-31Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-10-30Z
+! Last modified: 2020-10-31Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -4657,6 +4657,7 @@
 @@||www.datadoghq-browser-agent.com^
 @@||www.dataplicity.com^
 @@||www.db.burst-alliance.org^
+@@||www.debian.org^
 @@||www.deviantart.com^
 @@||www.dictionary.cambridge.org^
 @@||www.digg.com^
