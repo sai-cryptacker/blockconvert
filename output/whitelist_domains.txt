@@ -2423,6 +2423,7 @@ jcrew.ugc.bazaarvoice.com
 jcrewfactory.ugc.bazaarvoice.com
 jdownloader.org
 jenkins2.devapp.tradedoubler.com
+jm0199515.splunk.com
 jmbruneau.ugc.bazaarvoice.com
 jo.cqcounter.com
 joblo.com
@@ -3157,6 +3158,7 @@ packages.dps.mp.microsoft.com
 packages.linuxmint.com
 packagesapi-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
+packagesapi.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
@@ -4500,6 +4502,7 @@ woodpecker.uc.cn
 woosmap.com
 wordpress.com
 workflowservice-dev.dps.mp.microsoft.com
+workflowservice-int.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
 world-gen.g.aaplimg.com
 worldnow.com
@@ -4516,6 +4519,7 @@ ws.cnetcontent.com
 ws.coinbase.com
 ws.mmstat.com
 ws.pusherapp.com
+wsapi.skype.com
 wscont.apps.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
@@ -4884,6 +4888,7 @@ www.securemecca.com
 www.securitymetrics.com
 www.segment.com
 www.semrush.com
+www.sessioncam.com
 www.sgizmo.com
 www.share-online.biz
 www.shopping.com
