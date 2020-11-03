@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-02Z
+! Version: 2020-11-03Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-02Z
+! Last modified: 2020-11-03Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1693,6 +1693,9 @@
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external-lhr9-1.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
+@@||extorigin-dev.dcat.dsp.mp.microsoft.com^
+@@||extorigin-int.dcat.dsp.mp.microsoft.com^
+@@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||exxonmobil.ugc.bazaarvoice.com^
 @@||f.chtah.com^
 @@||f1.g.mi.com^
@@ -3131,6 +3134,7 @@
 @@||opf.ooyala.com^
 @@||opinion.latimes.com^
 @@||optimizely.com^
+@@||or.delivery.mp.microsoft.com^
 @@||oracle.com^
 @@||orange.fr^
 @@||orange.ugc.bazaarvoice.com^
@@ -3142,6 +3146,7 @@
 @@||oriflame.ugc.bazaarvoice.com^
 @@||origin-cdn.openx.com^
 @@||origin-www.openx.com^
+@@||origin.delivery.mp.microsoft.com^
 @@||origin.platform.dev.openx.com^
 @@||origincache-atn.fbcdn.net^
 @@||orion.ugc.bazaarvoice.com^
@@ -3231,6 +3236,7 @@
 @@||photos-ugc.l.googleusercontent.com^
 @@||phplist.com^
 @@||phs.tanx.com^
+@@||phx.origin.delivery.mp.microsoft.com^
 @@||pi-dns.com^
 @@||pi-hole.net^
 @@||pi.tradedoubler.com^
@@ -3337,6 +3343,7 @@
 @@||prod.telemetry.ros.rockstargames.com^
 @@||prod.tradedoubler.com^
 @@||product-int.dps.mp.microsoft.com^
+@@||product.dps.mp.microsoft.com^
 @@||products.office.com^
 @@||productweb-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
@@ -3969,6 +3976,7 @@
 @@||sup.adfox.ru^
 @@||support.coinbase.com^
 @@||support.microsoft.com^
+@@||support.notebooksbilliger.de^
 @@||survey.euro.confirmit.com^
 @@||survey.forseeresults.com^
 @@||survey.pearsoncmg.com^
@@ -4093,6 +4101,7 @@
 @@||tinypass.com^
 @@||tinypic.com^
 @@||tinyurl.com^
+@@||tip.or.delivery.mp.microsoft.com^
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||tkx-acc.apis.anvato.net^
@@ -4326,6 +4335,7 @@
 @@||vandenborre.ugc.bazaarvoice.com^
 @@||vanilla.futurecdn.net^
 @@||vanityfair.com^
+@@||variant-int.dps.mp.microsoft.com^
 @@||variety.com^
 @@||vb64z9th8faec4b0.vk.com^
 @@||vegascom.ugc.bazaarvoice.com^
@@ -4540,6 +4550,8 @@
 @@||wus2.az.tops.purchase-int.mp.microsoft.com^
 @@||wus2.az.tops.purchase.mp.microsoft.com^
 @@||wus2.displaycatalog-int.mp.microsoft.com^
+@@||wus2.staging-dcatbackend-int.mp.microsoft.com^
+@@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||wusthof.ugc.bazaarvoice.com^
 @@||wut.smartscreen.microsoft.com^
 @@||ww.vk.com^
@@ -4833,6 +4845,8 @@
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
 @@||www.nordichardware.se^
+@@||www.nydailynews.com^
+@@||www.nypost.com^
 @@||www.nytimes.com^
 @@||www.oboom.com^
 @@||www.observability.splunk.com^
@@ -4933,6 +4947,7 @@
 @@||www.surveygizmo.com^
 @@||www.t-online.de^
 @@||www.tags.crwdcntrl.net^
+@@||www.target.com^
 @@||www.tawk.to^
 @@||www.tbl.tradedoubler.com^
 @@||www.tbs.tradedoubler.com^
@@ -4956,6 +4971,7 @@
 @@||www.trumba.com^
 @@||www.trustkeeper.net^
 @@||www.tumblr.com^
+@@||www.turner.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^
 @@||www.tvnstyle.pl^
@@ -4980,6 +4996,7 @@
 @@||www.weebly.com^
 @@||www.wikipedia.org^
 @@||www.wired.com^
+@@||www.wistia.com^
 @@||www.worldnow.com^
 @@||www.wshifen.com^
 @@||www.wupload.com^
