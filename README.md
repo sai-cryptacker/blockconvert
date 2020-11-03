@@ -26,9 +26,9 @@ Malware, advert and tracking blocklist which consolidates and improves upon many
 ## How to use:
 - Pi-hole: Go to the web interface. Log in. Settings -> Blocklists. Copy domain list URL(Pi-hole currently only supports domain lists) from below in the links section, and paste it in the textbox. Click Save.
 
-- Blokada: Open Blokada. Click shield with black middle which says "{number} in blacklist". Click the plus in the circle at the bottom of the screen. Copy and paste hosts file from link sections. Click save
+- Blokada: Open Blokada. Click shield with black middle which says "{number} in blacklist". Click the plus in the circle at the bottom of the screen. Copy and paste hosts file from link sections. Click save. WARNING: This list is large and might slow down your phone
 
-- uBlock Origin: Click the uBlock Origin logo/uBlock Origin extension. Click open dashboard(3 horizontal lines under the disable uBlock Origin button, on the right). Click Filter lists. Scroll to the bottom, and click Import(in custom section). Copy and paste either Adblock style blocklist or domain blocklist from the link section below.
+- uBlock Origin: Click the uBlock Origin logo/uBlock Origin extension. Click open dashboard(3 horizontal lines under the disable uBlock Origin button, on the right). Click Filter lists. Scroll to the bottom, and click Import(in custom section). Copy and paste the Adblock style blocklist from the link section below.
 
 ## Links
 
