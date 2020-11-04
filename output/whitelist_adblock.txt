@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-03Z
+! Version: 2020-11-04Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-03Z
+! Last modified: 2020-11-04Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -222,6 +222,7 @@
 @@||ad.2.cqcounter.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
+@@||ad.ourgame.com^
 @@||ad2.uoocuniversity.com^
 @@||adapt.tradedoubler.com^
 @@||adash.man.aliyuncs.com^
@@ -460,7 +461,6 @@
 @@||apnewsregistry.com^
 @@||apollo.m.tau.vk.com^
 @@||apollo.tau.vk.com^
-@@||app-admin.staging.scp.splunk.com^
 @@||app-advertise.zhihuishu.com^
 @@||app-api.ted.com^
 @@||app-measurement.com^
@@ -1537,7 +1537,6 @@
 @@||drudgereport.com^
 @@||dsp.brand.sogou.com^
 @@||dsp.playground.scp.splunk.com^
-@@||dsp.staging.scs.splunk.com^
 @@||dsw.tt.omtrdc.net^
 @@||duckdns.org^
 @@||duckduckgo.com^
@@ -2028,7 +2027,6 @@
 @@||h5.dingtalk.com^
 @@||ha3virus.vk.com^
 @@||hackerone-user-content.com^
-@@||halifax.staging.appinspect.splunk.com^
 @@||halkalit31maskot41.vk.com^
 @@||happyangler.ugc.bazaarvoice.com^
 @@||happymasksalesman.vk.com^
@@ -2048,7 +2046,6 @@
 @@||heine.ugc.bazaarvoice.com^
 @@||heise.de^
 @@||helium.com^
-@@||hello.firefox.com^
 @@||help-test.openx.com^
 @@||help.adfox.ru^
 @@||help.apple.com.edgekey.net^
@@ -2928,6 +2925,7 @@
 @@||newjobs.com^
 @@||newrelic.com^
 @@||news.bitcoin.com^
+@@||news.ebc.net.tw^
 @@||news.google.com^
 @@||news.ycombinator.com^
 @@||newsday.com^
@@ -2946,7 +2944,6 @@
 @@||nfl.com^
 @@||nflxext.com^
 @@||nflximg.com^
-@@||ngfiles.com^
 @@||ngpvan.com^
 @@||nhl.com^
 @@||nike.com^
@@ -3076,6 +3073,7 @@
 @@||okta.com^
 @@||oladblock.me^
 @@||oladblock.services^
+@@||oladblock.xyz^
 @@||olark.com^
 @@||oload.cc^
 @@||oload.cloud^
@@ -3223,6 +3221,7 @@
 @@||personalweb.alipay.com^
 @@||pf.tradedoubler.com^
 @@||pfsense.org^
+@@||pgcdn.com^
 @@||pgl.yoyo.org^
 @@||philadelphia.cbslocal.com^
 @@||phishtank.com^
@@ -3877,7 +3876,6 @@
 @@||staging-dcatbackend-int.mp.microsoft.com^
 @@||staging-dcatbackend.mp.microsoft.com^
 @@||staging-discuss.newrelic.com^
-@@||staging.appinspect.splunk.com^
 @@||staging.dev.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
@@ -4406,7 +4404,6 @@
 @@||vu.vk.com^
 @@||vupload2.facebook.com^
 @@||vww.vk.com^
-@@||vxvault.net^
 @@||w.apprep.smartscreen.microsoft.com^
 @@||w.graphiq.com^
 @@||w.soundcloud.com^
@@ -4658,7 +4655,6 @@
 @@||www.cnnmoney.tags.crwdcntrl.net^
 @@||www.code.createjs.com^
 @@||www.codeberg.org^
-@@||www.codeload.github.com^
 @@||www.coinbase.com^
 @@||www.coinpot.co^
 @@||www.cointraffic.io^
@@ -4714,7 +4710,6 @@
 @@||www.forms.gle^
 @@||www.forum.vk.com^
 @@||www.fr.2.cqcounter.com^
-@@||www.framasoft.org^
 @@||www.freedownloadmanager.org^
 @@||www.fullstory.com^
 @@||www.funk.eu^
@@ -4810,7 +4805,6 @@
 @@||www.mapbox.com^
 @@||www.mapquestapi.com^
 @@||www.marketo.com^
-@@||www.marketwatch.com^
 @@||www.mask13.vk.com^
 @@||www.masslive.com^
 @@||www.master.burst-alliance.org^
@@ -4827,7 +4821,6 @@
 @@||www.monero.org^
 @@||www.moonbit.co.in^
 @@||www.mouseflow.com^
-@@||www.mozilla.net^
 @@||www.mozilla.org^
 @@||www.mparticle.com^
 @@||www.msedge.net^
@@ -4974,7 +4967,6 @@
 @@||www.turner.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^
-@@||www.tvnstyle.pl^
 @@||www.twitter.com^
 @@||www.ultimedia.com^
 @@||www.unibytes.com^
