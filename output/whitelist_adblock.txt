@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-04Z
+! Version: 2020-11-05Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-04Z
+! Last modified: 2020-11-05Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -46,6 +46,7 @@
 @@||12.vk.com^
 @@||122.2o7.net^
 @@||140cc.v.fwmrm.net^
+@@||1637156167.vk.com^
 @@||167274089.vk.com^
 @@||18.afs.googleadservices.com^
 @@||19534.redirect.appmetrica.yandex.com^
@@ -171,6 +172,7 @@
 @@||a-0012.a-msedge.net^
 @@||a-uswe-01.mps.skype.com^
 @@||a.adwolf.ru^
+@@||a.config.skype.com^
 @@||a.espncdn.com^
 @@||a.fsdn.com^
 @@||a.ooyala.com^
@@ -330,6 +332,7 @@
 @@||ally.com^
 @@||allybank.ugc.bazaarvoice.com^
 @@||alternativeto.net^
+@@||alugoh.vk.com^
 @@||am3pap002.storage.live.com^
 @@||am3pap004.storage.live.com^
 @@||amazon.at^
@@ -388,6 +391,7 @@
 @@||answers.com^
 @@||answers.microsoft.com^
 @@||answers.yahoo.com^
+@@||anukef.vk.com^
 @@||aol.com^
 @@||aonhewitt.ugc.bazaarvoice.com^
 @@||ap.org^
@@ -595,6 +599,7 @@
 @@||b-api.facebook.com^
 @@||b-graph.facebook.com^
 @@||b-www.facebook.com^
+@@||b.config.skype.com^
 @@||b.hatena.ne.jp^
 @@||b.tradedoubler.com^
 @@||b1.awin1.com^
@@ -618,6 +623,7 @@
 @@||bbc.co.uk^
 @@||bbc.com^
 @@||bbci.co.uk^
+@@||bbrnyc.vk.com^
 @@||bbs.archlinux.org^
 @@||bbs.pcbeta.com^
 @@||bc81c677f335277f324c3ce13a.cloudflare-dns.com^
@@ -1090,6 +1096,7 @@
 @@||consent.google.com^
 @@||console-adnxs.tradedoubler.com^
 @@||console.cloud.google.com^
+@@||console.staging.scs.splunk.com^
 @@||consumer.entitlement.skype.com^
 @@||contactapi.micloud.xiaomi.net^
 @@||containerstore.ugc.bazaarvoice.com^
@@ -1154,6 +1161,7 @@
 @@||cs11073.vk.com^
 @@||cs11362.vk.com^
 @@||cs11429.vk.com^
+@@||cs12.vk.com^
 @@||cs123.vk.com^
 @@||cs126.vk.com^
 @@||cs135.vk.com^
@@ -1619,6 +1627,7 @@
 @@||encrypted-tbn1.gstatic.com^
 @@||encrypted-tbn2.gstatic.com^
 @@||encrypted-tbn3.gstatic.com^
+@@||eneplg.vk.com^
 @@||engadget.com^
 @@||ensure.ugc.bazaarvoice.com^
 @@||entireweb.com^
@@ -1718,6 +1727,8 @@
 @@||fb.me^
 @@||fbcdn-profile-a.akamaihd.net^
 @@||fbcdn.net^
+@@||fcbqwq.vk.com^
+@@||fcqnru.vk.com^
 @@||fe2.update.microsoft.com^
 @@||fe2.update.microsoft.com.akadns.net^
 @@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
@@ -1834,6 +1845,7 @@
 @@||foxsports.com.au^
 @@||fpdownload.adobe.com^
 @@||fptest.tradedoubler.com^
+@@||fqmkfa.vk.com^
 @@||fr.2.cqcounter.com^
 @@||fr.aliexpress.com^
 @@||fr.app.chat.global.xiaomi.net^
@@ -2361,6 +2373,8 @@
 @@||infowars.com^
 @@||infowarsstore.com^
 @@||ing.sakeena.cs304111.vk.com^
+@@||ingestionapi.dps.mp.microsoft.com^
+@@||ingestiondeveloperapi.dse.mp.microsoft.com^
 @@||ingestionuxservice-int.dps.mp.microsoft.com^
 @@||inputdirector.com^
 @@||inq.com^
@@ -2426,6 +2440,7 @@
 @@||jamf-connector.openx.com^
 @@||japi.adfox.ru^
 @@||jarv.is^
+@@||jbnank.vk.com^
 @@||jcpenney.com^
 @@||jcpenney.ugc.bazaarvoice.com^
 @@||jcrew.ugc.bazaarvoice.com^
@@ -2606,6 +2621,7 @@
 @@||lm.licenses.adobe.com^
 @@||lmd.ris-lx09.roslin.www.cs001.vk.com^
 @@||lmlicenses.wip4.adobe.com^
+@@||lnsyyc.vk.com^
 @@||load.to^
 @@||localbitcoins.com^
 @@||localhost.vk.com^
@@ -2647,6 +2663,7 @@
 @@||luckyorange.com^
 @@||lv.2.cqcounter.com^
 @@||lwn.net^
+@@||lxfbbo.vk.com^
 @@||lyncdiscover.coingeek.com^
 @@||m-sso.openx.com^
 @@||m.akolnogorov.cs7777.vk.com^
@@ -2777,6 +2794,7 @@
 @@||metrics.notebooksbilliger.de^
 @@||metrics.torproject.org^
 @@||metrocashcarry.ugc.bazaarvoice.com^
+@@||mfhziu.vk.com^
 @@||mfstatic.cz^
 @@||miami.cbslocal.com^
 @@||miaminewtimes.com^
@@ -2840,6 +2858,7 @@
 @@||mqtt-mini.facebook.com^
 @@||mqtt.c10r.facebook.com^
 @@||mqtt.pushy.me^
+@@||mqufrp.vk.com^
 @@||mscrl.microsoft.com^
 @@||msedge.net^
 @@||msftconnecttest.com^
@@ -3001,6 +3020,7 @@
 @@||nsatc.net^
 @@||nt3.ggpht.com^
 @@||ntoss.vk.com^
+@@||nuegfb.vk.com^
 @@||nwww.vk.com^
 @@||ny.com^
 @@||ny1.com^
@@ -3052,6 +3072,7 @@
 @@||ocsp.usertrust.com^
 @@||ocsp.verisign.com^
 @@||ocsp.verisign.net^
+@@||ocygds.vk.com^
 @@||od.lk^
 @@||odoh.cloudflare-dns.com^
 @@||odysseygolf.ugc.bazaarvoice.com^
@@ -3064,6 +3085,7 @@
 @@||officedesigns.ugc.bazaarvoice.com^
 @@||officeworks.ugc.bazaarvoice.com^
 @@||official.paymaya.com^
+@@||ofhvyn.vk.com^
 @@||ogin.vk.com^
 @@||ogio.ugc.bazaarvoice.com^
 @@||ogs.google.com^
@@ -3158,11 +3180,13 @@
 @@||outlook.live.com^
 @@||outlook.office365.com^
 @@||ow.ly^
+@@||oyecwj.vk.com^
 @@||ozilla.cloudflare-dns.com^
 @@||p.ebaystatic.com^
 @@||p.imgur.com^
 @@||p.jwpcdn.com^
 @@||pac-int.dse.mp.microsoft.com^
+@@||pac.dce.mp.microsoft.com^
 @@||pacificcoast.ugc.bazaarvoice.com^
 @@||packages-int.dps.mp.microsoft.com^
 @@||packages.chocolatey.org^
@@ -3254,6 +3278,7 @@
 @@||pinimg.com^
 @@||pinterest.com^
 @@||pipe.adform.net^
+@@||pipe.skype.com^
 @@||pirate.vk.com^
 @@||piratebay.org^
 @@||pistachio-cdn.graze.com^
@@ -3284,6 +3309,7 @@
 @@||playground.dev.splunk.com^
 @@||playground.scp.splunk.com^
 @@||playstation.com^
+@@||pldkcb.vk.com^
 @@||plex.tv^
 @@||pling.com^
 @@||plot.ly^
@@ -3410,6 +3436,7 @@
 @@||qa.openx.com^
 @@||qapi.vk.com^
 @@||qq.com^
+@@||qrvsas.vk.com^
 @@||qualtrics.com^
 @@||quantummetric.com^
 @@||quarantine-poc.vk.com^
@@ -3423,6 +3450,7 @@
 @@||quora.com^
 @@||quotemedia.com^
 @@||qvc.ugc.bazaarvoice.com^
+@@||qyuooh.vk.com^
 @@||r-redesign.cs7777.vk.com^
 @@||r.sg.sec.miui.com^
 @@||r.us-east-1.awstrack.me^
@@ -3533,6 +3561,7 @@
 @@||ru.2.cqcounter.com^
 @@||rupload.facebook.com^
 @@||rutube.ru^
+@@||rwprdu.vk.com^
 @@||rybalkina.vk.com^
 @@||rzeszow.tvp.pl^
 @@||s-media-cache-ak0.pinimg.com^
@@ -3997,6 +4026,7 @@
 @@||syndication.twitter.com^
 @@||sysctl.org^
 @@||szczecin.tvp.pl^
+@@||szovaw.vk.com^
 @@||szsrcmask.vk.com^
 @@||t-mobile.ugc.bazaarvoice.com^
 @@||t-online.at^
@@ -4112,6 +4142,7 @@
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||tmblr.co^
 @@||tmz.com^
+@@||tmzwgc.vk.com^
 @@||to-do.microsoft.com^
 @@||tofukko.r.ribbon.to^
 @@||token.services.mozilla.com^
@@ -4216,6 +4247,7 @@
 @@||uat.tradedoubler.com^
 @@||ubuntuforums.org^
 @@||uc.pcbeta.com^
+@@||ucgzcy.vk.com^
 @@||ueuev4.vk.com^
 @@||ui-portal.de^
 @@||ui.cs7777.vk.com^
@@ -4317,6 +4349,7 @@
 @@||ustrl-int.mp.microsoft.com^
 @@||ustrl.mp.microsoft.com^
 @@||uth.vk.com^
+@@||uuvkmm.vk.com^
 @@||uwpproc.mix.mp.microsoft.com^
 @@||v.adfox.ru^
 @@||v.firebog.net^
@@ -4501,6 +4534,7 @@
 @@||windy.com^
 @@||winfuture.de^
 @@||winhelp2002.mvps.org^
+@@||winvgr.vk.com^
 @@||wip3.vk.com^
 @@||wired.com^
 @@||wirtualnemedia.pl^
@@ -4551,6 +4585,7 @@
 @@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||wusthof.ugc.bazaarvoice.com^
 @@||wut.smartscreen.microsoft.com^
+@@||wvhtzh.vk.com^
 @@||ww.vk.com^
 @@||ww.youporn.com^
 @@||wwtdd.tags.crwdcntrl.net^
@@ -4664,6 +4699,7 @@
 @@||www.cs00000000000000000000000000000000.vk.com^
 @@||www.cs001.vk.com^
 @@||www.cs292596712.vk.com^
+@@||www.curvesncombatboots.com^
 @@||www.cws.conviva.com^
 @@||www.dailymotion.com^
 @@||www.datadoghq-browser-agent.com^
@@ -4786,6 +4822,7 @@
 @@||www.kopimi.com^
 @@||www.ladyfootlocker.com^
 @@||www.latimes.com^
+@@||www.leagueoflegends.com^
 @@||www.leanplum.com^
 @@||www.liftoff.io^
 @@||www.linkedin.com^
@@ -4848,6 +4885,7 @@
 @@||www.olark.com^
 @@||www.onesignal.com^
 @@||www.onion.to^
+@@||www.onswipe.com^
 @@||www.opensubtitles.org^
 @@||www.openvpn.tradedoubler.com^
 @@||www.openwall.com^
@@ -4933,6 +4971,7 @@
 @@||www.srv72-190-240-87.vk.com^
 @@||www.srv78-190-240-87.vk.com^
 @@||www.staging.splunk.com^
+@@||www.starbucks.com^
 @@||www.startpage.com^
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
@@ -5044,9 +5083,13 @@
 @@||xovide.vk.com^
 @@||xsdownload.adobe.com^
 @@||xsts.auth.xboxlive.com^
+@@||xtatgz.vk.com^
 @@||xueshu.baidu.com^
+@@||xwizft.vk.com^
 @@||xxx.cqcounter.com^
 @@||xxxxxxxxxxm.vk.com^
+@@||xygvkb.vk.com^
+@@||xznvtz.vk.com^
 @@||yahoo.co.jp^
 @@||yahoo.com^
 @@||yahoo.comwww.vk.com^
@@ -5062,6 +5105,7 @@
 @@||yeastinfectioncurehq.dev.tau.vk.com^
 @@||yellowpages.com^
 @@||yerl.org^
+@@||yfncqe.vk.com^
 @@||yimg.com^
 @@||ynuf.aliapp.org^
 @@||yoast.com^
@@ -5083,6 +5127,8 @@
 @@||yunfile.com^
 @@||yvesrocher.ugc.bazaarvoice.com^
 @@||yvjnex.vk.com^
+@@||yvoqgv.vk.com^
+@@||yzzusk.vk.com^
 @@||z-ecx.images-amazon.com^
 @@||z-m.c10r.facebook.com^
 @@||z-m.facebook.com^
