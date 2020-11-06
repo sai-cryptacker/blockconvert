@@ -674,6 +674,7 @@ bing.se
 bit.ly
 bitbucket.org
 bitcoin.com
+bitcoin.it
 bitlord.com
 bitly.com
 bitpay.com
@@ -1383,6 +1384,7 @@ dcape-na.amazon.com
 dddd.vk.com
 ddragon.leagueoflegends.com
 de.2.cqcounter.com
+de.bitcoin.it
 de.ioam.de
 de.openx.com
 dealer.com
@@ -1541,6 +1543,7 @@ duckdns.org
 duckduckgo.com
 duellinksmeta.com
 dulunpandemijue.vk.com
+dump.bitcoin.it
 dumpert.nl
 duosecurity.com
 dutchboy.ugc.bazaarvoice.com
@@ -1614,6 +1617,7 @@ embed.spotify.com
 emdl.ws.microsoft.com
 emeaquarantine.vk.com
 en.bab.la
+en.bitcoin.it
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
@@ -1641,6 +1645,7 @@ ereg.adobe.com
 ernestjones.ugc.bazaarvoice.com
 error.facebook.com
 es.2.cqcounter.com
+es.bitcoin.it
 escentual.ugc.bazaarvoice.com
 esina.vk.com
 espn.com
@@ -1840,6 +1845,7 @@ fqmkfa.vk.com
 fr.2.cqcounter.com
 fr.aliexpress.com
 fr.app.chat.global.xiaomi.net
+fr.bitcoin.it
 fr.osdn.net
 framasoft.org
 frankerfacez.com
@@ -2041,6 +2047,7 @@ hblock.molinero.dev
 hbogo.com
 hbogo.pl
 hcaptcha.com
+he.bitcoin.it
 he.net
 healthyadvertising.es
 heapanalytics.com
@@ -2419,6 +2426,7 @@ istio-play1-auth.playground.scp.splunk.com
 istio-play1-gw.playground.scp.splunk.com
 istockphoto.com
 it.2.cqcounter.com
+it.bitcoin.it
 it.cqcounter.com
 it.toolbox.com
 itch.io
@@ -3280,6 +3288,7 @@ pj-masks.vk.com
 pjst.vk.com
 pkobp.pl
 pl-pl.facebook.com
+pl.bitcoin.it
 pl.tradedoubler.com
 placehold.it
 planet.vk.com
@@ -3312,6 +3321,7 @@ pocketnow.com
 podarki.vk.com
 poetryfashion.ugc.bazaarvoice.com
 policy.query.cs316931.vk.com
+policyprocessor.teams.skype.com
 polis.vb64z9th8faec4b0.vk.com
 polishlove1.zappa-st.www.cs00000000000000000000000000000000.vk.com
 poll.fm
@@ -3384,6 +3394,7 @@ psa-i.openx.com
 psswrdbx.com
 pt.2.cqcounter.com
 pt.afl.rakuten.co.jp
+pt.bitcoin.it
 pt.vk.com
 pti.store.microsoft.com
 pu.vk.com
@@ -3527,6 +3538,7 @@ ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
 rk-master.admin.cs7777.vk.com
+ro.bitcoin.it
 road.adblock.ro
 roadandtrack.com
 roku.com
@@ -3550,6 +3562,7 @@ rt.imgur.com
 rt.vk.com
 rtb.adform.net
 ru.2.cqcounter.com
+ru.bitcoin.it
 rupload.facebook.com
 rutube.ru
 rwprdu.vk.com
@@ -3945,6 +3958,7 @@ static.zdassets.com
 staticamzn.com
 statics.streamable.com
 staticxx.facebook.com
+stats.bitcoin.it
 stats.cqcounter.com
 stats.pusher.com
 stats.stackexchange.com
@@ -4062,6 +4076,7 @@ tdprodmail03.tradedoubler.com
 tdtickets.tradedoubler.com
 team.vk.com
 teamask.vk.com
+teams.skype.com
 teamviewer.com
 techguy.org
 technorati.com
@@ -4076,6 +4091,7 @@ test.coingeek.com
 test1.adfox.ru
 test1.help.adfox.ru
 testnet-2.burst-alliance.org
+tests.bitcoin.it
 texashomebase.com
 textalk.se
 tg1.premium.db4.wix.com
@@ -4608,7 +4624,6 @@ www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
-www.allure.com
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -4652,6 +4667,7 @@ www.bing.pl
 www.bing.ru
 www.bing.se
 www.bit.ly
+www.bitcoin.it
 www.blog.xuite.net
 www.blogger.com
 www.bloomberg.com
@@ -4883,7 +4899,6 @@ www.openwall.com
 www.openx.com
 www.optimizely.com
 www.oracle.com
-www.orbitz.com
 www.oregonlive.com
 www.pastebin.com
 www.pasteboard.co
@@ -4954,7 +4969,6 @@ www.sportsillustrated.tags.crwdcntrl.net
 www.spot.im
 www.spotify.com
 www.springboardplatform.com
-www.squarespace.com
 www.squaretrade.com
 www.srv194-139-240-87.vk.com
 www.srv67-190-240-87.vk.com
@@ -5138,6 +5152,7 @@ zero.facebook.com
 zerodot1.gitlab.io
 zerohedge.com
 zeustracker.abuse.ch
+zh-cn.bitcoin.it
 zht.alipay.com
 ziplist.com
 zippyshare.com

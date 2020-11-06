@@ -1,5 +1,7 @@
 1drv.ms
 1.www.s81c.com
+bitcoin.it
+*.bitcoin.it
 24timezones.com
 3p.ampproject.net
 79423.analytics.edgekey.net
