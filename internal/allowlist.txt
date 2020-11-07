@@ -1,7 +1,5 @@
 1drv.ms
 1.www.s81c.com
-bitcoin.it
-*.bitcoin.it
 24timezones.com
 3p.ampproject.net
 79423.analytics.edgekey.net
@@ -76,6 +74,8 @@ binarydefense.com
 bing.com
 bitbucket.org
 bitcoin.com
+*.bitcoin.it
+bitcoin.it
 bitlord.com
 bitly.com
 blob.weather.microsoft.com
