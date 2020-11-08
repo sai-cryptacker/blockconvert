@@ -2417,6 +2417,7 @@ ipinfo.io
 ipla.tv
 ipredator.se
 ipv4.login.msa.akadns6.net
+ipv4only.arpa
 ipv6.he.net
 ir.ebaystatic.com
 is.gd
@@ -5023,6 +5024,7 @@ www.tinypass.com
 www.tinyurl.com
 www.tmz.com
 www.tools.tradedoubler.com
+www.townnews.com
 www.tradedoubler.com
 www.transfer.sh
 www.trumba.com

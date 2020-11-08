@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-07Z
+! Version: 2020-11-08Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-07Z
+! Last modified: 2020-11-08Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2426,6 +2426,7 @@
 @@||ipla.tv^
 @@||ipredator.se^
 @@||ipv4.login.msa.akadns6.net^
+@@||ipv4only.arpa^
 @@||ipv6.he.net^
 @@||ir.ebaystatic.com^
 @@||is.gd^
@@ -5032,6 +5033,7 @@
 @@||www.tinyurl.com^
 @@||www.tmz.com^
 @@||www.tools.tradedoubler.com^
+@@||www.townnews.com^
 @@||www.tradedoubler.com^
 @@||www.transfer.sh^
 @@||www.trumba.com^
