@@ -9,7 +9,9 @@
 0-edge-chat.facebook.com
 0-stnweb.cas.org.skyline.vk.com
 0.0.1.cloudflare-dns.com
+0.0.1impch.tradedoubler.com
 0.1.cloudflare-dns.com
+0.1impch.tradedoubler.com
 0.afs.googleadservices.com
 0.client-channel.google.com
 0.tradedoubler.com
@@ -36,6 +38,7 @@
 11mail.tradedoubler.com
 12.vk.com
 122.2o7.net
+127.0.0.1impch.tradedoubler.com
 140cc.v.fwmrm.net
 1637156167.vk.com
 167274089.vk.com
@@ -70,6 +73,7 @@
 1hk.cqcounter.com
 1hu.cqcounter.com
 1il.cqcounter.com
+1impch.tradedoubler.com
 1in.cqcounter.com
 1it.cqcounter.com
 1jo.cqcounter.com
@@ -1151,6 +1155,7 @@ cs10831.vk.com
 cs10833.vk.com
 cs10867.vk.com
 cs10969.vk.com
+cs11039.vk.com
 cs11073.vk.com
 cs11362.vk.com
 cs11429.vk.com
@@ -2006,6 +2011,7 @@ group.pcbeta.com
 groupon.com
 groups.google.com
 groups.openx.com
+grow-platform.tradedoubler.com
 grow.tradedoubler.com
 grp07.ias.rakuten.co.jp
 gs-loc.apple.com
@@ -2781,7 +2787,6 @@ members.internetdefenseleague.org
 menshealth.com
 meqzhx.vk.com
 merchantapi.coingeek.com
-merkur-werbebanner.de
 merriam-webster.com
 mesh.com
 messaging.internetofthings.ibmcloud.com
@@ -3935,6 +3940,7 @@ star.tradedoubler.com
 starbucks.com
 stardk.tradedoubler.com
 starpl.tradedoubler.com
+starse.tradedoubler.com
 startpage.com
 starwood.ugc.bazaarvoice.com
 stat.download.xunlei.com
