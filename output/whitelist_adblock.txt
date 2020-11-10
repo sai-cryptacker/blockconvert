@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-09Z
+! Version: 2020-11-10Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-09Z
+! Last modified: 2020-11-10Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -765,6 +765,7 @@
 @@||boscovs.ugc.bazaarvoice.com^
 @@||bost.vk.com^
 @@||boston.cbslocal.com^
+@@||bots.ppespaces.skype.com^
 @@||boulanger.ugc.bazaarvoice.com^
 @@||bountysource.com^
 @@||bowercdn.net^
@@ -1473,6 +1474,7 @@
 @@||discord.gg^
 @@||discovermagazine.com^
 @@||discovery.com^
+@@||discrequest.dps.mp.microsoft.com^
 @@||discuss.newrelic.com^
 @@||discussions.apple.com^
 @@||disneystore.ugc.bazaarvoice.com^
@@ -1615,6 +1617,7 @@
 @@||edgetipscdn.microsoft.com^
 @@||editmysite.com^
 @@||eds.xboxlive.com^
+@@||education.splunk.com^
 @@||eec.crunchyroll.com^
 @@||eg.2.cqcounter.com^
 @@||ehc.com^
@@ -1630,6 +1633,7 @@
 @@||embed.flowplayer.org^
 @@||embed.spotify.com^
 @@||emdl.ws.microsoft.com^
+@@||emea01.safelinks.protection.outlook.com^
 @@||emeaquarantine.vk.com^
 @@||en.bab.la^
 @@||en.bitcoin.it^
@@ -2439,6 +2443,7 @@
 @@||isobar.adform.net^
 @@||issuu.com^
 @@||isterekhov.cs7777.vk.com^
+@@||istio-play1-admin.playground.scp.splunk.com^
 @@||istio-play1-auth.playground.scp.splunk.com^
 @@||istio-play1-gw.playground.scp.splunk.com^
 @@||istockphoto.com^
@@ -2920,6 +2925,7 @@
 @@||mymonero.com^
 @@||myportfolio.com^
 @@||myshopify.com^
+@@||mytelstra.onelink.me^
 @@||mywot.com^
 @@||mzstatic.com^
 @@||na1r.services.adobe.com^
@@ -4661,7 +4667,10 @@
 @@||www.amazon.co.uk^
 @@||www.amazon.com^
 @@||www.amazon.de^
+@@||www.amazon.es^
+@@||www.amazon.fr^
 @@||www.amazon.in^
+@@||www.amazon.it^
 @@||www.amazoncustomerservice.d2.sc.omtrdc.net^
 @@||www.amzn.to^
 @@||www.analytics.tradedoubler.com^
@@ -4817,6 +4826,7 @@
 @@||www.heapanalytics.com^
 @@||www.heatmap.it^
 @@||www.heise.de^
+@@||www.hoopshype.com^
 @@||www.hotjar.com^
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
@@ -5044,11 +5054,13 @@
 @@||www.transfer.sh^
 @@||www.trumba.com^
 @@||www.trustkeeper.net^
+@@||www.trustwave.com^
 @@||www.tumblr.com^
 @@||www.turner.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^
 @@||www.twitter.com^
+@@||www.uk.com^
 @@||www.ultimedia.com^
 @@||www.unibytes.com^
 @@||www.userreplay.net^
