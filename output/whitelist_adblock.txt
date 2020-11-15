@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-14Z
+! Version: 2020-11-15Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-14Z
+! Last modified: 2020-11-15Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -257,6 +257,7 @@
 @@||admin.cs7777.vk.com^
 @@||admin.dable.io^
 @@||admin.scs.splunk.com^
+@@||admin.splunk.com^
 @@||admin.staging.scs.splunk.com^
 @@||admin.tau.vk.com^
 @@||admin.vk.com^
@@ -311,7 +312,6 @@
 @@||agrippa-eu.ugc.bazaarvoice.com^
 @@||ahm.vk.com^
 @@||aicpa.ugc.bazaarvoice.com^
-@@||aircapi.displaycatalog.mp.microsoft.com^
 @@||ajax.aspnetcdn.com^
 @@||ajax.cloudflare.com^
 @@||ajax.googleapis.com^
@@ -443,7 +443,6 @@
 @@||api.onedrive.com^
 @@||api.ooyala.com^
 @@||api.particle.io^
-@@||api.playground.scp.splunk.com^
 @@||api.promotions.skype.com^
 @@||api.pushbullet.com^
 @@||api.razorpay.com^
@@ -451,7 +450,6 @@
 @@||api.sec.miui.com^
 @@||api.soundcloud.com^
 @@||api.splunk.com^
-@@||api.staging.scp.splunk.com^
 @@||api.target.com^
 @@||api.tau.vk.com^
 @@||api.tradedoubler.com^
@@ -480,10 +478,8 @@
 @@||app.hubspot.com^
 @@||app.launchdarkly.com^
 @@||app.migc.xiaomi.com^
-@@||app.playground.scp.splunk.com^
 @@||app.plex.tv^
 @@||app.qq.com^
-@@||app.staging.scp.splunk.com^
 @@||app.vk.com^
 @@||appboot.netflix.com^
 @@||appcloud.ironbeast.io^
@@ -563,9 +559,7 @@
 @@||auth.adfox.ru^
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||auth.gfx.ms^
-@@||auth.playground.scp.splunk.com^
 @@||auth.scs.splunk.com^
-@@||auth.staging.scp.splunk.com^
 @@||auth.staging.scs.splunk.com^
 @@||auth.vk.com^
 @@||auth0.com^
@@ -607,7 +601,6 @@
 @@||b.hatena.ne.jp^
 @@||b.tradedoubler.com^
 @@||b1.awin1.com^
-@@||backend.skype.com^
 @@||backend.vk.com^
 @@||baidu.com^
 @@||balancer.wixdns.net^
@@ -761,6 +754,7 @@
 @@||boscovs.ugc.bazaarvoice.com^
 @@||bost.vk.com^
 @@||boston.cbslocal.com^
+@@||botn.splunk.com^
 @@||bots.ppespaces.skype.com^
 @@||boulanger.ugc.bazaarvoice.com^
 @@||bountysource.com^
@@ -777,7 +771,6 @@
 @@||brother-emea.ugc.bazaarvoice.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||browser.vk.com^
-@@||bspmgmtsvc.mp.microsoft.com^
 @@||bt-1262.beta.dashboard.mgid.com^
 @@||bt-1279.beta.dashboard.mgid.com^
 @@||bt-1290.beta.dashboard.mgid.com^
@@ -850,6 +843,7 @@
 @@||carsondellosa.ugc.bazaarvoice.com^
 @@||cartersoshkoshca.ugc.bazaarvoice.com^
 @@||cas.org.skyline.vk.com^
+@@||catalog.update.microsoft.com^
 @@||cbsi.com^
 @@||cc.cnetcontent.com^
 @@||cc.vk.com^
@@ -867,6 +861,7 @@
 @@||cdn-us-ec.yottaa.net^
 @@||cdn.ampproject.org^
 @@||cdn.apps-content.splunk.com^
+@@||cdn.apps-staging.splunk.com^
 @@||cdn.apps.splunk.com^
 @@||cdn.arstechnica.net^
 @@||cdn.auth0.com^
@@ -1030,6 +1025,7 @@
 @@||cmail19.com^
 @@||cmail20.com^
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
+@@||cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||cn-geo1.uber.com^
 @@||cn.bing.com^
 @@||cnbc.com^
@@ -1418,7 +1414,6 @@
 @@||dev-21461.beta.dashboard.mgid.com^
 @@||dev-21468.beta.dashboard.mgid.com^
 @@||dev-distance.vk.com^
-@@||dev.splunk.com^
 @@||dev.tau.vk.com^
 @@||dev.tradedoubler.com^
 @@||dev.twitter.com^
@@ -1433,7 +1428,6 @@
 @@||device-metrics-us.amazon.com^
 @@||device.auth.xboxlive.com^
 @@||deviceportal.nettvservices.com^
-@@||devicequalificationservice.mp.microsoft.com^
 @@||devint-cdn.openx.com^
 @@||devint-docs.data-service-api.openx.com^
 @@||devint-docs.openaudience.openx.com^
@@ -1563,6 +1557,7 @@
 @@||e5413.g.akamaiedge.net^
 @@||e5460.g.akamaiedge.net^
 @@||e6603.g.akamaiedge.net^
+@@||e688.g.akamaiedge.net^
 @@||e7081.g.akamaiedge.net^
 @@||e785s8hz.micpn.com^
 @@||e8999.b.akamaiedge.net^
@@ -1582,7 +1577,6 @@
 @@||echo.edge.messenger.live.com^
 @@||ecn.dev.virtualearth.net^
 @@||ecovidrio.vk.com^
-@@||ecs.skype.com^
 @@||ecwid.com^
 @@||ecx.images-amazon.com^
 @@||edana.vk.com^
@@ -2411,7 +2405,6 @@
 @@||isterekhov.cs7777.vk.com^
 @@||istio-play1-admin.playground.scp.splunk.com^
 @@||istio-play1-auth.playground.scp.splunk.com^
-@@||istio-play1-gw.playground.scp.splunk.com^
 @@||istockphoto.com^
 @@||it.2.cqcounter.com^
 @@||it.bitcoin.it^
@@ -2709,7 +2702,6 @@
 @@||margevicius.lt^
 @@||market.xiaomi.com^
 @@||marketo.com^
-@@||marketplace-x360-ppe.mp.microsoft.com^
 @@||marketplace-x360.mp.microsoft.com^
 @@||marketwatch.com^
 @@||marksandspencer.ugc.bazaarvoice.com^
@@ -3215,6 +3207,7 @@
 @@||pe.2.cqcounter.com^
 @@||pediasure.ugc.bazaarvoice.com^
 @@||peeps.openx.com^
+@@||pending.sls.update.microsoft.com^
 @@||pennlive.com^
 @@||people.com^
 @@||peoplerecommendations.skype.com^
@@ -3237,6 +3230,7 @@
 @@||phplist.com^
 @@||phs.tanx.com^
 @@||phx.origin.delivery.mp.microsoft.com^
+@@||phx.sfs-prod.dcat.dsp.mp.microsoft.com^
 @@||pi-dns.com^
 @@||pi-hole.net^
 @@||pi.tradedoubler.com^
@@ -3285,7 +3279,6 @@
 @@||player.vimeo.com^
 @@||players.brightcove.net^
 @@||playerstatic.entropymedia.com^
-@@||playground.dev.splunk.com^
 @@||playground.scp.splunk.com^
 @@||playstation.com^
 @@||pldkcb.vk.com^
@@ -3362,7 +3355,6 @@
 @@||provacinema.vk.com^
 @@||providesupport.com^
 @@||proxy.novafusion.ea.com^
-@@||proxy.playground.dev.splunk.com^
 @@||proxy.plex.bz^
 @@||ps.vk.com^
 @@||ps.w.org^
@@ -3523,7 +3515,6 @@
 @@||router.utorrent.com^
 @@||rover.ebay.com^
 @@||rpc.adfox.ru^
-@@||rpmh.skype.com^
 @@||rps-asea.skypetoken.skype.com^
 @@||rps-euno.skypetoken.skype.com^
 @@||rps-euwe.skypetoken.skype.com^
@@ -3773,7 +3764,6 @@
 @@||someonewhocares.org^
 @@||son-video.ugc.bazaarvoice.com^
 @@||sonar-int.px.mp.microsoft.com^
-@@||sonar.px.mp.microsoft.com^
 @@||sorelintl.ugc.bazaarvoice.com^
 @@||soundcloud.com^
 @@||sourceforge.net^
@@ -3886,6 +3876,7 @@
 @@||staging-dcatbackend-int.mp.microsoft.com^
 @@||staging-dcatbackend.mp.microsoft.com^
 @@||staging-discuss.newrelic.com^
+@@||staging.admin.splunk.com^
 @@||staging.dev.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
@@ -4486,7 +4477,6 @@
 @@||werbung.karstadt.de^
 @@||werbung.oebb.at^
 @@||werbung.pinkstinks.de^
-@@||west-gw3.splunk.com^
 @@||westus.pi-dns.com^
 @@||wetransfer.com^
 @@||wetter.de^
@@ -4653,6 +4643,7 @@
 @@||www.blogger.com^
 @@||www.bloomberg.com^
 @@||www.boldchat.com^
+@@||www.bountysource.com^
 @@||www.brightcove.com^
 @@||www.bugsnag.com^
 @@||www.burst-alliance.org^
@@ -4723,9 +4714,7 @@
 @@||www.flipboard.com^
 @@||www.fonts.com^
 @@||www.fonts.tradedoubler.com^
-@@||www.footlocker-inc.com^
 @@||www.footlocker.com^
-@@||www.forbes.com^
 @@||www.forms.gle^
 @@||www.forum.vk.com^
 @@||www.fr.2.cqcounter.com^
@@ -4739,7 +4728,6 @@
 @@||www.georiot.com^
 @@||www.geotrust.com^
 @@||www.gigya.com^
-@@||www.github.com^
 @@||www.github.developerdan.com^
 @@||www.github.io^
 @@||www.glb.paypal.com^
@@ -4759,11 +4747,11 @@
 @@||www.hoopshype.com^
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
+@@||www.hstde.tradedoubler.com^
 @@||www.hstno.tradedoubler.com^
 @@||www.hstse.tradedoubler.com^
 @@||www.hstus.tradedoubler.com^
 @@||www.hulu.com^
-@@||www.i.cmpnet.com^
 @@||www.ibm.com^
 @@||www.ibsys.com^
 @@||www.icanhazip.com^
@@ -4784,10 +4772,8 @@
 @@||www.iubenda.com^
 @@||www.jaleco.com^
 @@||www.janrain.com^
-@@||www.jcpenney.com^
 @@||www.jdoqocy.com^
 @@||www.joblo.com^
-@@||www.jquery.com^
 @@||www.jsonip.com^
 @@||www.kaltura.com^
 @@||www.kampyle.com^
@@ -4865,7 +4851,6 @@
 @@||www.openx.com^
 @@||www.optimizely.com^
 @@||www.oracle.com^
-@@||www.orbitz.com^
 @@||www.oregonlive.com^
 @@||www.pasteboard.co^
 @@||www.paypal.com^
@@ -4885,6 +4870,7 @@
 @@||www.polldaddy.com^
 @@||www.pool.ntp.org^
 @@||www.pornhub.com^
+@@||www.powr.io^
 @@||www.ppc.tradedoubler.com^
 @@||www.ppt.cc^
 @@||www.privateinternetaccess.com^
@@ -4944,7 +4930,6 @@
 @@||www.startpage.com^
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
-@@||www.strefa.fm^
 @@||www.surveygizmo.com^
 @@||www.t-online.de^
 @@||www.tags.crwdcntrl.net^
