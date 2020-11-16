@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-15Z
+! Version: 2020-11-16Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-15Z
+! Last modified: 2020-11-16Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -404,7 +404,6 @@
 @@||ap.spotify.com^
 @@||ap108.cs304112.vk.com^
 @@||api-cdn.embed.ly^
-@@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||api-glb.smoot.apple.com^
 @@||api-global.netflix.com^
 @@||api-maps.yandex.ru^
@@ -498,7 +497,6 @@
 @@||appspot-preview.l.google.com^
 @@||appspot.com^
 @@||appxapi-int.dps.mp.microsoft.com^
-@@||appxapi-intppe.dps.mp.microsoft.com^
 @@||apresolve.spotify.com^
 @@||apt.newrelic.com^
 @@||apt.sonarr.tv^
@@ -1054,7 +1052,6 @@
 @@||coinpot.co^
 @@||cointraffic.io^
 @@||collamask.vk.com^
-@@||collections-int.mp.microsoft.com^
 @@||collegehumor.com^
 @@||columbiasportswear.ugc.bazaarvoice.com^
 @@||com.biblio.vk.com^
@@ -1616,17 +1613,11 @@
 @@||encrypted-tbn3.gstatic.com^
 @@||eneplg.vk.com^
 @@||engadget.com^
+@@||engagement-int.dce.mp.microsoft.com^
 @@||ensure.ugc.bazaarvoice.com^
 @@||entireweb.com^
 @@||entitlement.auth.adobe.com^
-@@||entitlements-int.mp.microsoft.com^
 @@||entitlements.jwplayer.com^
-@@||entitlementsfederation-int.mp.microsoft.com^
-@@||entitlementsfederation.mp.microsoft.com^
-@@||entitlementsfederationinternal-int.mp.microsoft.com^
-@@||entitlementsfederationinternal.mp.microsoft.com^
-@@||entitlementssubscriptionnotifications-int.mp.microsoft.com^
-@@||entitlementssubscriptionnotifications.mp.microsoft.com^
 @@||entpsz.alipay.com^
 @@||eonline.com^
 @@||epoch.com^
@@ -1763,8 +1754,6 @@
 @@||firebaseinstallations.googleapis.com^
 @@||firebaseremoteconfig.googleapis.com^
 @@||firstlook.org^
-@@||firstparty-entitlements-int.mp.microsoft.com^
-@@||firstparty-entitlements.mp.microsoft.com^
 @@||fiverr.com^
 @@||flattr.com^
 @@||flickr.com^
@@ -1856,12 +1845,7 @@
 @@||ftp.srv78-190-240-87.vk.com^
 @@||ftp.tsukuba.wide.ad.jp^
 @@||ftpcontent.worldnow.com^
-@@||fulfillment-int.mp.microsoft.com^
-@@||fulfillment.mp.microsoft.com^
-@@||fulfillmentchangeportal-int.mp.microsoft.com^
 @@||fulfillmentchangeportal.mp.microsoft.com^
-@@||fulfillmentlscreceiver-int.mp.microsoft.com^
-@@||fulfillmentlscreceiver.mp.microsoft.com^
 @@||full.pr0gramm.com^
 @@||funk.eu^
 @@||funnyordie.com^
@@ -2379,7 +2363,6 @@
 @@||intercontinental.ugc.bazaarvoice.com^
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
-@@||inv-int.mp.microsoft.com^
 @@||inv.mp.microsoft.com^
 @@||investingchannel.com^
 @@||investorplace.com^
@@ -2559,10 +2542,6 @@
 @@||li.vk.com^
 @@||libsyn.com^
 @@||licensebuttons.net^
-@@||licensing-entitlements-int.md.mp.microsoft.com^
-@@||licensing-entitlements-int.mp.microsoft.com^
-@@||licensing-entitlements.md.mp.microsoft.com^
-@@||licensing-entitlements.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
 @@||licensing.xboxlive.com^
 @@||lifehacker.com^
@@ -3623,7 +3602,6 @@
 @@||scribd.com^
 @@||script.google.com^
 @@||script.ioam.de^
-@@||scs002-iad10.admin.scs.splunk.com^
 @@||sd-29059.alpha.dashboard.mgid.com^
 @@||sd-29849.alpha.dashboard.mgid.com^
 @@||sdad.guru^
@@ -3877,7 +3855,6 @@
 @@||staging-dcatbackend.mp.microsoft.com^
 @@||staging-discuss.newrelic.com^
 @@||staging.admin.splunk.com^
-@@||staging.dev.splunk.com^
 @@||staging.plex.tv^
 @@||staging.scp.splunk.com^
 @@||staging.splunk.com^
@@ -4584,6 +4561,7 @@
 @@||www.a-0008.a-msedge.net^
 @@||www.a-0009.a-msedge.net^
 @@||www.a.shifen.com^
+@@||www.aaa.com^
 @@||www.accuweather.com^
 @@||www.acehardware.com^
 @@||www.adfox.ru^
@@ -4594,6 +4572,7 @@
 @@||www.agency.help.adfox.ru^
 @@||www.alexa.com^
 @@||www.algolia.com^
+@@||www.allure.com^
 @@||www.amazon.ca^
 @@||www.amazon.co.uk^
 @@||www.amazon.com^
@@ -4714,7 +4693,6 @@
 @@||www.flipboard.com^
 @@||www.fonts.com^
 @@||www.fonts.tradedoubler.com^
-@@||www.footlocker.com^
 @@||www.forms.gle^
 @@||www.forum.vk.com^
 @@||www.fr.2.cqcounter.com^
@@ -4778,11 +4756,9 @@
 @@||www.kaltura.com^
 @@||www.kampyle.com^
 @@||www.kcsoftwares.com^
-@@||www.kidsfootlocker.com^
 @@||www.kohls.com^
 @@||www.komputerswiat.pl^
 @@||www.kopimi.com^
-@@||www.ladyfootlocker.com^
 @@||www.latimes.com^
 @@||www.leagueoflegends.com^
 @@||www.leanplum.com^
@@ -4830,6 +4806,7 @@
 @@||www.nbcnewyork.com^
 @@||www.new.tradedoubler.com^
 @@||www.newrelic.com^
+@@||www.newyorker.com^
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
@@ -4967,6 +4944,7 @@
 @@||www.uk.com^
 @@||www.ultimedia.com^
 @@||www.unibytes.com^
+@@||www.vanityfair.com^
 @@||www.variety.com^
 @@||www.vgwort.de^
 @@||www.vidible.tv^
