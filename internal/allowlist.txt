@@ -333,6 +333,7 @@ movable-ink-397.com
 *.mp.microsoft.com
 mp.microsoft.com
 mscrl.microsoft.com
+msedge.api.cdp.microsoft.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-729147310 Needed for Microsoft Edge to check for updates
 msedge.net
 msftconnecttest.com
 m.stripe.network

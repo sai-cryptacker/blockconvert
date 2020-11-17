@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-16Z
+! Version: 2020-11-17Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-16Z
+! Last modified: 2020-11-17Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -197,7 +197,6 @@
 @@||a2.adform.net^
 @@||a248.e.akamai.net^
 @@||a5a6380f-dnsotls-ds.metric.gstatic.com^
-@@||a652.dscb.akamai.net^
 @@||a90.g.akamai.net^
 @@||aaa.com^
 @@||aaculovich.admin.cs7777.vk.com^
@@ -256,6 +255,7 @@
 @@||admin.brightcove.com^
 @@||admin.cs7777.vk.com^
 @@||admin.dable.io^
+@@||admin.playground.scp.splunk.com^
 @@||admin.scs.splunk.com^
 @@||admin.splunk.com^
 @@||admin.staging.scs.splunk.com^
@@ -407,8 +407,6 @@
 @@||api-glb.smoot.apple.com^
 @@||api-global.netflix.com^
 @@||api-maps.yandex.ru^
-@@||api-partner.spotify.com^
-@@||api-tv.spotify.com^
 @@||api.account.xiaomi.com^
 @@||api.ad.xiaomi.com^
 @@||api.adfox.ru^
@@ -475,7 +473,6 @@
 @@||app.chat.global.xiaomi.net^
 @@||app.chat.xiaomi.net^
 @@||app.hubspot.com^
-@@||app.launchdarkly.com^
 @@||app.migc.xiaomi.com^
 @@||app.plex.tv^
 @@||app.qq.com^
@@ -553,7 +550,6 @@
 @@||au.v4.download.windowsupdate.com^
 @@||audible.com^
 @@||audid-api.taobao.com^
-@@||audio-fa.scdn.co^
 @@||auth.adfox.ru^
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||auth.gfx.ms^
@@ -764,7 +760,6 @@
 @@||brakrock.be^
 @@||breakingburner.com^
 @@||brightcove.com^
-@@||brightcove.map.fastly.net^
 @@||brightcove.net^
 @@||brother-emea.ugc.bazaarvoice.com^
 @@||browser.pipe.aria.microsoft.com^
@@ -905,6 +900,7 @@
 @@||cdn.stream.schibsted.media^
 @@||cdn.syndication.twimg.com^
 @@||cdn.syndication.twitter.com^
+@@||cdn.unpkg.com^
 @@||cdn.viblast.com^
 @@||cdn.vidible.tv^
 @@||cdn2.editmysite.com^
@@ -1087,6 +1083,7 @@
 @@||console.staging.scs.splunk.com^
 @@||consumer.entitlement.skype.com^
 @@||contactapi.micloud.xiaomi.net^
+@@||contacts.skype.com^
 @@||containerstore.ugc.bazaarvoice.com^
 @@||content.adfox.ru^
 @@||content.invisioncic.com^
@@ -1349,6 +1346,7 @@
 @@||d3js.org^
 @@||d3orhvfyxudxxq.cloudfront.net^
 @@||d9hhrg4mnvzow.cloudfront.net^
+@@||dabao.ugc.bazaarvoice.com^
 @@||dailymail.co.uk^
 @@||dailymotion.com^
 @@||damaskus.vk.com^
@@ -1380,7 +1378,6 @@
 @@||de.ioam.de^
 @@||de.openx.com^
 @@||dealer.com^
-@@||dealer.spotify.com^
 @@||dealerinspire.com^
 @@||debian.org^
 @@||deletev9redirectvirus.vk.com^
@@ -1421,8 +1418,6 @@
 @@||developers.google.com^
 @@||deviantart.com^
 @@||deviantart.net^
-@@||device-metrics-us-2.amazon.com^
-@@||device-metrics-us.amazon.com^
 @@||device.auth.xboxlive.com^
 @@||deviceportal.nettvservices.com^
 @@||devint-cdn.openx.com^
@@ -1485,6 +1480,7 @@
 @@||dns.msftncsi.com^
 @@||dnsotls-ds.metric.gstatic.com^
 @@||do.co^
+@@||do.skype.com^
 @@||doc.vk.com^
 @@||docs.bugsnag.com^
 @@||docs.google.com^
@@ -1616,7 +1612,6 @@
 @@||engagement-int.dce.mp.microsoft.com^
 @@||ensure.ugc.bazaarvoice.com^
 @@||entireweb.com^
-@@||entitlement.auth.adobe.com^
 @@||entitlements.jwplayer.com^
 @@||entpsz.alipay.com^
 @@||eonline.com^
@@ -1650,7 +1645,6 @@
 @@||evans.ugc.bazaarvoice.com^
 @@||evanscycles-uk.ugc.bazaarvoice.com^
 @@||eventbrite.com^
-@@||events.launchdarkly.com^
 @@||events.mapbox.com^
 @@||eventus-design.com^
 @@||everest.castbox.fm^
@@ -1684,7 +1678,6 @@
 @@||exxonmobil.ugc.bazaarvoice.com^
 @@||f.chtah.com^
 @@||f1.g.mi.com^
-@@||f1.media.brightcove.com^
 @@||faast.schibsted.io^
 @@||facebook.com^
 @@||family.cloudflare-dns.com^
@@ -1804,6 +1797,7 @@
 @@||forums.sonarr.tv^
 @@||forums.techguy.org^
 @@||forums.whirlpool.net.au^
+@@||forwarders.playground.scp.splunk.com^
 @@||forwarders.staging.scs.splunk.com^
 @@||fossbytes.com^
 @@||fourier.taobao.com^
@@ -1818,7 +1812,6 @@
 @@||fox6now.com^
 @@||fox8.com^
 @@||foxsports.com.au^
-@@||fpdownload.adobe.com^
 @@||fptest.tradedoubler.com^
 @@||fqmkfa.vk.com^
 @@||fr.2.cqcounter.com^
@@ -2816,6 +2809,7 @@
 @@||mqtt.pushy.me^
 @@||mqufrp.vk.com^
 @@||mscrl.microsoft.com^
+@@||msedge.api.cdp.microsoft.com^
 @@||msedge.net^
 @@||msftconnecttest.com^
 @@||msg.edit.yahoo.com^
@@ -3011,7 +3005,6 @@
 @@||ocsp.digicert.com^
 @@||ocsp.globalsign.com^
 @@||ocsp.godaddy.com^
-@@||ocsp.godaddy.com.akadns.net^
 @@||ocsp.int-x1.letsencrypt.org^
 @@||ocsp.int-x2.letsencrypt.org^
 @@||ocsp.int-x3.letsencrypt.org^
@@ -3084,8 +3077,6 @@
 @@||onswipe.com^
 @@||op-cdn.net^
 @@||open.fm^
-@@||open.scdn.co^
-@@||open.spotify.com^
 @@||openbsd.org^
 @@||opendesktop.org^
 @@||openlayers.org^
@@ -3189,6 +3180,7 @@
 @@||pending.sls.update.microsoft.com^
 @@||pennlive.com^
 @@||people.com^
+@@||people.skype.com^
 @@||peoplerecommendations.skype.com^
 @@||performgroup.com^
 @@||personalweb.alipay.com^
@@ -3266,6 +3258,7 @@
 @@||plot.ly^
 @@||plus.google.com^
 @@||plus.l.google.com^
+@@||pnv.skype.com^
 @@||pochta.ru^
 @@||pocketnow.com^
 @@||podarki.vk.com^
@@ -3291,7 +3284,6 @@
 @@||pop3.srv72-190-240-87.vk.com^
 @@||pop3.www.m.vk.com^
 @@||pornhub.com^
-@@||pornhubpremium.com^
 @@||porno.vk.com^
 @@||post.update.openx.com^
 @@||post.vk.com^
@@ -3313,7 +3305,6 @@
 @@||privateinternetaccess.com^
 @@||prnt.sc^
 @@||prod-docs.openx.com^
-@@||prod.appnexus.map.fastly.net^
 @@||prod.disqus.map.fastlylb.net^
 @@||prod.telemetry.ros.rockstargames.com^
 @@||prod.tradedoubler.com^
@@ -3322,6 +3313,7 @@
 @@||products.office.com^
 @@||productsummary.dps.mp.microsoft.com^
 @@||productweb-int.dps.mp.microsoft.com^
+@@||profile.skype.com^
 @@||profile.target.com^
 @@||profimasking.dev.tau.vk.com^
 @@||prometheus.ops.tradedoubler.com^
@@ -3446,7 +3438,6 @@
 @@||redirect.viglink.com^
 @@||redirectingat.com^
 @@||redirector.googlevideo.com^
-@@||redirector.gvt1.com^
 @@||redirects.tradedoubler.com^
 @@||redsky.target.com^
 @@||redtube.com^
@@ -3467,7 +3458,6 @@
 @@||report-uri.com^
 @@||reports.tradedoubler.com^
 @@||res.cloudinary.com^
-@@||researchgate.net^
 @@||resolver.gslb.mi-idc.com^
 @@||resolver.msg.global.xiaomi.net^
 @@||resolver.msg.xiaomi.net^
@@ -3577,6 +3567,7 @@
 @@||sberbank.cs9621.vk.com^
 @@||sbnation.com^
 @@||scan.ugc.bazaarvoice.com^
+@@||scd.skype.com^
 @@||scene7.com^
 @@||schd.ws^
 @@||sched.org^
@@ -4131,7 +4122,6 @@
 @@||track.adform.net^
 @@||track.customer.io^
 @@||track.rutarget.ru^
-@@||track.ucas.com^
 @@||tracker.tradedoubler.com^
 @@||tracker.tvnihon.com^
 @@||tracking.epicgames.com^
@@ -4438,7 +4428,6 @@
 @@||webcomp.tradedoubler.com^
 @@||webconf.tradedoubler.com^
 @@||webflow.com^
-@@||weblb-wg.dual-gslb.spotify.com^
 @@||webmail.laposte.net^
 @@||webmail.orange.fr^
 @@||webmasters.stackexchange.com^
@@ -4458,7 +4447,6 @@
 @@||wetransfer.com^
 @@||wetter.de^
 @@||wftpv.vk.com^
-@@||wg.spotify.com^
 @@||whatismyipaddress.com^
 @@||whirlpool.net.au^
 @@||whiteboard.microsoft.com^
@@ -4468,7 +4456,6 @@
 @@||widget-cdn.rpxnow.com^
 @@||widget-mediator.zopim.com^
 @@||widget.pushbullet.com^
-@@||widget.uservoice.com^
 @@||widgetdata.tradingview.com^
 @@||widgetserver.com^
 @@||wifiapi.micloud.xiaomi.net^
@@ -4801,6 +4788,7 @@
 @@||www.mywot.com^
 @@||www.namecheap.com^
 @@||www.narkive.com^
+@@||www.nationalgeographic.com^
 @@||www.naver.com^
 @@||www.nbcnews.com^
 @@||www.nbcnewyork.com^
@@ -4810,6 +4798,7 @@
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
+@@||www.nola.com^
 @@||www.nordichardware.se^
 @@||www.nydailynews.com^
 @@||www.nypost.com^
@@ -4829,6 +4818,7 @@
 @@||www.optimizely.com^
 @@||www.oracle.com^
 @@||www.oregonlive.com^
+@@||www.pastebin.com^
 @@||www.pasteboard.co^
 @@||www.paypal.com^
 @@||www.paypal.com.edgekey.net^
@@ -4863,7 +4853,6 @@
 @@||www.redirects.tradedoubler.com^
 @@||www.reebok.com^
 @@||www.refinery29.com^
-@@||www.researchgate.net^
 @@||www.returnpath.com^
 @@||www.roadandtrack.com^
 @@||www.rpxnow.com^
@@ -4959,6 +4948,7 @@
 @@||www.watchdog.burst-alliance.org^
 @@||www.web.burst-alliance.org^
 @@||www.weebly.com^
+@@||www.westus.pi-dns.com^
 @@||www.wikipedia.org^
 @@||www.wired.com^
 @@||www.wistia.com^
@@ -4998,7 +4988,6 @@
 @@||xbox.ipv6.microsoft.com^
 @@||xboxlive.com^
 @@||xd.adform.net^
-@@||xd.adobelanding.com^
 @@||xda-developers.com^
 @@||xerox.ugc.bazaarvoice.com^
 @@||xfer.openx.com^
