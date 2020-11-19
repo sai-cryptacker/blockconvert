@@ -1590,7 +1590,6 @@ embed.blog.logrocket.com
 embed.flowplayer.org
 embed.spotify.com
 emdl.ws.microsoft.com
-emea01.safelinks.protection.outlook.com
 emeaquarantine.vk.com
 en.bab.la
 en.bitcoin.it
