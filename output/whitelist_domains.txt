@@ -469,6 +469,7 @@ app.hubspot.com
 app.migc.xiaomi.com
 app.plex.tv
 app.qq.com
+app.staging.scs.splunk.com
 app.vk.com
 appboot.netflix.com
 appcloud.ironbeast.io
@@ -812,6 +813,7 @@ c64.assets-yammer.com
 ca.2.cqcounter.com
 ca.cqcounter.com
 cabelas.ugc.bazaarvoice.com
+cae.scp.splunk.com
 calderaspas.ugc.bazaarvoice.com
 calendar.google.com
 calendly.com
@@ -1589,6 +1591,7 @@ elinkeu.clickdimensions.com
 eloqua.com
 eltrafiko.com
 email.netlify.com
+email.skype.com
 embed.blog.logrocket.com
 embed.flowplayer.org
 embed.spotify.com
@@ -2232,6 +2235,7 @@ il.2.cqcounter.com
 im.vk.com
 im81.vk.com
 im89v4.vk.com
+image.email.skype.com
 image.ibb.co
 image.prntscr.com
 imagebam.com
@@ -3959,6 +3963,7 @@ sweclockers.com
 sweetbaysupermarket.ugc.bazaarvoice.com
 swiftype.com
 swrap.tradedoubler.com
+syd-gw1.splunk.com
 sync.tradedoubler.com
 syndication.twimg.com
 syndication.twitter.com
@@ -4714,6 +4719,7 @@ www.gstatic.com
 www.heatmap.it
 www.heise.de
 www.hoopshype.com
+www.horseanswerstoday.com
 www.howtogeek.com
 www.hrblock.com
 www.hstde.tradedoubler.com

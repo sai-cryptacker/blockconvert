@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-20Z
+! Version: 2020-11-21Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-20Z
+! Last modified: 2020-11-21Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -478,6 +478,7 @@
 @@||app.migc.xiaomi.com^
 @@||app.plex.tv^
 @@||app.qq.com^
+@@||app.staging.scs.splunk.com^
 @@||app.vk.com^
 @@||appboot.netflix.com^
 @@||appcloud.ironbeast.io^
@@ -821,6 +822,7 @@
 @@||ca.2.cqcounter.com^
 @@||ca.cqcounter.com^
 @@||cabelas.ugc.bazaarvoice.com^
+@@||cae.scp.splunk.com^
 @@||calderaspas.ugc.bazaarvoice.com^
 @@||calendar.google.com^
 @@||calendly.com^
@@ -1598,6 +1600,7 @@
 @@||eloqua.com^
 @@||eltrafiko.com^
 @@||email.netlify.com^
+@@||email.skype.com^
 @@||embed.blog.logrocket.com^
 @@||embed.flowplayer.org^
 @@||embed.spotify.com^
@@ -2241,6 +2244,7 @@
 @@||im.vk.com^
 @@||im81.vk.com^
 @@||im89v4.vk.com^
+@@||image.email.skype.com^
 @@||image.ibb.co^
 @@||image.prntscr.com^
 @@||imagebam.com^
@@ -3968,6 +3972,7 @@
 @@||sweetbaysupermarket.ugc.bazaarvoice.com^
 @@||swiftype.com^
 @@||swrap.tradedoubler.com^
+@@||syd-gw1.splunk.com^
 @@||sync.tradedoubler.com^
 @@||syndication.twimg.com^
 @@||syndication.twitter.com^
@@ -4723,6 +4728,7 @@
 @@||www.heatmap.it^
 @@||www.heise.de^
 @@||www.hoopshype.com^
+@@||www.horseanswerstoday.com^
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
 @@||www.hstde.tradedoubler.com^
