@@ -73,7 +73,6 @@ BarbBlock,https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt,,MIT,8640
 BAR-list,https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list,,GPL-3.0,864000,DomainBlocklist
 Anudeep's Blacklist,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,Anudeep <anudeep@protonmail.com>,MIT,86400,Hostfile
 Anti-WebMiner,https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/blacklist.txt,,Apache2,86400,DomainBlocklist
-Adware filters,https://easylist-downloads.adblockplus.org/adwarefilters.txt,,GPLv3,86400,Adblock
 Ads and Trackers,https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt,infinitytec,MIT,864000,Hostfile
 AdguardMobileAds,https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt,,GPLv3,86400,Hostfile
 AdguardDNS,https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt,,GPLv3,86400,Hostfile
