@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-24Z
+! Version: 2020-11-25Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-24Z
+! Last modified: 2020-11-25Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -759,6 +759,7 @@
 @@||br.2.cqcounter.com^
 @@||braintreegateway.com^
 @@||brakrock.be^
+@@||brbv2.skype.com^
 @@||breakingburner.com^
 @@||brightcove.com^
 @@||brightcove.net^
@@ -851,6 +852,7 @@
 @@||cdn-autonation.adform.net^
 @@||cdn-content.ampproject.org^
 @@||cdn-eu.dynamicyield.com^
+@@||cdn-grm1.adform.net^
 @@||cdn-origin.tradedoubler.com^
 @@||cdn-tb1.adform.net^
 @@||cdn-tb2.adform.net^
@@ -1566,6 +1568,7 @@
 @@||echo.edge.messenger.live.com^
 @@||ecn.dev.virtualearth.net^
 @@||ecovidrio.vk.com^
+@@||ecs.skype.com^
 @@||ecwid.com^
 @@||ecx.images-amazon.com^
 @@||edana.vk.com^
@@ -1660,6 +1663,7 @@
 @@||evans.ugc.bazaarvoice.com^
 @@||evanscycles-uk.ugc.bazaarvoice.com^
 @@||eventbrite.com^
+@@||events.adform.net^
 @@||events.mapbox.com^
 @@||eventus-design.com^
 @@||everest.castbox.fm^
@@ -2573,6 +2577,7 @@
 @@||linktr.ee^
 @@||linkwithin.com^
 @@||list-manage.com^
+@@||listingsapi-int.dps.mp.microsoft.com^
 @@||lithium.facebook.com^
 @@||live.com^
 @@||livechatinc.com^
@@ -4022,6 +4027,7 @@
 @@||techrepublic.com^
 @@||tecmint.com^
 @@||teespring.com^
+@@||temp.adform.net^
 @@||tena.ugc.bazaarvoice.com^
 @@||test-docs.openx.com^
 @@||test.coingeek.com^
@@ -4569,6 +4575,7 @@
 @@||www.algolia.com^
 @@||www.allure.com^
 @@||www.amazon.ca^
+@@||www.amazon.co.jp^
 @@||www.amazon.co.uk^
 @@||www.amazon.com^
 @@||www.amazon.de^
@@ -4676,6 +4683,8 @@
 @@||www.emjcd.com^
 @@||www.engadget.com^
 @@||www.ethn.io^
+@@||www.example.com^
+@@||www.example.org^
 @@||www.expressen.se^
 @@||www.facebook.com^
 @@||www.fastly.net^
@@ -4926,6 +4935,7 @@
 @@||www.turner.com^
 @@||www.turnto.com^
 @@||www.tusfiles.net^
+@@||www.twitch.tv^
 @@||www.twitter.com^
 @@||www.uk.com^
 @@||www.ultimedia.com^
@@ -4948,6 +4958,7 @@
 @@||www.weebly.com^
 @@||www.westus.pi-dns.com^
 @@||www.wikipedia.org^
+@@||www.winhelp2002.mvps.org^
 @@||www.wired.com^
 @@||www.wistia.com^
 @@||www.worldnow.com^

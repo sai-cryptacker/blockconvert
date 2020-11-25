@@ -750,6 +750,7 @@ bpc.vk.com
 br.2.cqcounter.com
 braintreegateway.com
 brakrock.be
+brbv2.skype.com
 breakingburner.com
 brightcove.com
 brightcove.net
@@ -842,6 +843,7 @@ cdn-ads.vk.com
 cdn-autonation.adform.net
 cdn-content.ampproject.org
 cdn-eu.dynamicyield.com
+cdn-grm1.adform.net
 cdn-origin.tradedoubler.com
 cdn-tb1.adform.net
 cdn-tb2.adform.net
@@ -1557,6 +1559,7 @@ ec-ns.sascdn.com
 echo.edge.messenger.live.com
 ecn.dev.virtualearth.net
 ecovidrio.vk.com
+ecs.skype.com
 ecwid.com
 ecx.images-amazon.com
 edana.vk.com
@@ -1651,6 +1654,7 @@ ev.rdtcdn.com
 evans.ugc.bazaarvoice.com
 evanscycles-uk.ugc.bazaarvoice.com
 eventbrite.com
+events.adform.net
 events.mapbox.com
 eventus-design.com
 everest.castbox.fm
@@ -2564,6 +2568,7 @@ links.mint.com
 linktr.ee
 linkwithin.com
 list-manage.com
+listingsapi-int.dps.mp.microsoft.com
 lithium.facebook.com
 live.com
 livechatinc.com
@@ -4013,6 +4018,7 @@ techradar.com
 techrepublic.com
 tecmint.com
 teespring.com
+temp.adform.net
 tena.ugc.bazaarvoice.com
 test-docs.openx.com
 test.coingeek.com
@@ -4560,6 +4566,7 @@ www.alexa.com
 www.algolia.com
 www.allure.com
 www.amazon.ca
+www.amazon.co.jp
 www.amazon.co.uk
 www.amazon.com
 www.amazon.de
@@ -4667,6 +4674,8 @@ www.eltrafiko.com
 www.emjcd.com
 www.engadget.com
 www.ethn.io
+www.example.com
+www.example.org
 www.expressen.se
 www.facebook.com
 www.fastly.net
@@ -4917,6 +4926,7 @@ www.tumblr.com
 www.turner.com
 www.turnto.com
 www.tusfiles.net
+www.twitch.tv
 www.twitter.com
 www.uk.com
 www.ultimedia.com
@@ -4939,6 +4949,7 @@ www.web.burst-alliance.org
 www.weebly.com
 www.westus.pi-dns.com
 www.wikipedia.org
+www.winhelp2002.mvps.org
 www.wired.com
 www.wistia.com
 www.worldnow.com
