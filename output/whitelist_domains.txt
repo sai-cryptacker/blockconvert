@@ -754,9 +754,11 @@ brbv2.skype.com
 breakingburner.com
 brightcove.com
 brightcove.net
+broadcast.skype.com
 brother-emea.ugc.bazaarvoice.com
 browser.pipe.aria.microsoft.com
 browser.vk.com
+bsxcommerce-int.mp.microsoft.com
 bt-1262.beta.dashboard.mgid.com
 bt-1279.beta.dashboard.mgid.com
 bt-1290.beta.dashboard.mgid.com
@@ -1050,6 +1052,7 @@ commozilla.cloudflare-dns.com
 community.skype.com
 community.spiceworks.com
 completion.amazon.com
+composerapi-int.dps.mp.microsoft.com
 composerweb.dps.mp.microsoft.com
 comtar.tradedoubler.com
 comwww.vk.com
@@ -1083,6 +1086,7 @@ content.adfox.ru
 content.invisioncic.com
 content.jwplatform.com
 content.logmein.com
+contentapi.skype.com
 continuum.dds.microsoft.com
 contracts.openx.com
 cookieblock.trackersimulate.org
@@ -1435,6 +1439,7 @@ discord.com
 discord.gg
 discovermagazine.com
 discovery.com
+discrequest-int.dps.mp.microsoft.com
 discrequest.dps.mp.microsoft.com
 discuss.newrelic.com
 discussions.apple.com
@@ -1546,6 +1551,7 @@ e7081.g.akamaiedge.net
 e785s8hz.micpn.com
 e8999.b.akamaiedge.net
 ea.com
+eastus.availabilitymgmt-int.dps.mp.microsoft.com
 eastus.pi-dns.com
 easybytez.com
 easylist-downloads.adblockplus.org
@@ -2732,8 +2738,10 @@ mediamarkt.nl
 mediamarkt.pl
 mediaworks.co.nz
 medium.com
+meet.skype.com
 meet.tradedoubler.com
 meetings.hubspot.com
+meetings.skype.com
 mega.co.nz
 mega.nz
 mega.vk.com
@@ -3693,6 +3701,7 @@ skyhook.sonarr.tv
 skyline.vk.com
 skype.com
 skypeecs-prod-usw-0-b.cloudapp.net
+skypegraph.skype.com
 skypetoken.skype.com
 slack-redir.net
 slashdot.org
@@ -4555,6 +4564,7 @@ www.a.shifen.com
 www.aaa.com
 www.accuweather.com
 www.acehardware.com
+www.add0n.com
 www.adfox.ru
 www.adidas.com
 www.adpartner.de
@@ -4657,6 +4667,7 @@ www.dataplicity.com
 www.db.burst-alliance.org
 www.debian.org
 www.deviantart.com
+www.dict.leo.org
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
@@ -4688,6 +4699,7 @@ www.fonts.com
 www.fonts.tradedoubler.com
 www.forms.gle
 www.forum.vk.com
+www.fox43.com
 www.fr.2.cqcounter.com
 www.frankerfacez.com
 www.freedownloadmanager.org
@@ -4810,6 +4822,7 @@ www.oboom.com
 www.office.com
 www.ojrq.net
 www.olark.com
+www.omny.fm
 www.onesignal.com
 www.onion.to
 www.onswipe.com
@@ -4968,6 +4981,7 @@ www.youtube-nocookie.com
 www.youtube.com
 www.zdnet.com
 www.zee.cws.conviva.com
+www.zendesk.com
 www1.awin1.com
 www17.wixdns.net
 www2.cqcounter.com
