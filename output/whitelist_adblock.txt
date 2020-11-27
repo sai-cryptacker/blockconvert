@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-26Z
+! Version: 2020-11-27Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-26Z
+! Last modified: 2020-11-27Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1022,6 +1022,7 @@
 @@||cm3.adform.net^
 @@||cmail19.com^
 @@||cmail20.com^
+@@||cmd-int.dcat.dsp.mp.microsoft.com^
 @@||cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||cn-geo1.uber.com^
 @@||cn.bing.com^
@@ -2054,6 +2055,7 @@
 @@||help.apple.com.edgekey.net^
 @@||help.pornhub.com^
 @@||help.ui.xboxlive.com^
+@@||helperapi.skype.com^
 @@||hema.ugc.bazaarvoice.com^
 @@||herokuapp.com^
 @@||heureka.cz^
@@ -2386,6 +2388,7 @@
 @@||investingchannel.com^
 @@||investorplace.com^
 @@||io9.com^
+@@||iodapi.class.splunk.com^
 @@||ip-adress.com^
 @@||ip-tracker.org^
 @@||ipapi.co^
@@ -3205,6 +3208,7 @@
 @@||pe.2.cqcounter.com^
 @@||pediasure.ugc.bazaarvoice.com^
 @@||peeps.openx.com^
+@@||pending.sls-int.update.microsoft.com^
 @@||pending.sls.update.microsoft.com^
 @@||pennlive.com^
 @@||people.com^
@@ -3725,6 +3729,7 @@
 @@||smartscreen-sn3p.smartscreen.microsoft.com^
 @@||smartscreen.microsoft.com^
 @@||smokingmask.vk.com^
+@@||smssfe.skype.com^
 @@||smtp.mail.yahoo.com^
 @@||smtp.srv67-190-240-87.vk.com^
 @@||smtp.srv71-129-240-87.vk.com^
@@ -4132,6 +4137,7 @@
 @@||toysrus.com^
 @@||tr.2.cqcounter.com^
 @@||tr.cqcounter.com^
+@@||tr.skype.com^
 @@||tr.vk.com^
 @@||track-eu.adform.net^
 @@||track-tc.adform.net^
@@ -4154,6 +4160,7 @@
 @@||translate.google.com^
 @@||translate.googleapis.com^
 @@||translatorv2.skype.com^
+@@||trap.skype.com^
 @@||travel.latimes.com^
 @@||travelocity.com^
 @@||travis-ci-org.global.ssl.fastly.net^
@@ -4608,6 +4615,7 @@
 @@||www.bbc.com^
 @@||www.bcorg.web.burst-alliance.org^
 @@||www.berush.com^
+@@||www.betanews.com^
 @@||www.better.fyi^
 @@||www.beyondmenu.com^
 @@||www.binarydefense.com^
@@ -4680,6 +4688,7 @@
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
+@@||www.donorbox.org^
 @@||www.drift.com^
 @@||www.driftt.com^
 @@||www.drive.google.com^
@@ -4704,6 +4713,7 @@
 @@||www.flickr.com^
 @@||www.fling.com^
 @@||www.flipboard.com^
+@@||www.flyertown.ca^
 @@||www.fonts.com^
 @@||www.fonts.tradedoubler.com^
 @@||www.forms.gle^
@@ -4859,6 +4869,7 @@
 @@||www.polldaddy.com^
 @@||www.pool.ntp.org^
 @@||www.pornhub.com^
+@@||www.powerreviews.com^
 @@||www.powr.io^
 @@||www.ppc.tradedoubler.com^
 @@||www.ppt.cc^
@@ -4918,6 +4929,7 @@
 @@||www.surveygizmo.com^
 @@||www.t-online.de^
 @@||www.tags.crwdcntrl.net^
+@@||www.talkbusiness.net^
 @@||www.target.com^
 @@||www.tawk.to^
 @@||www.tbl.tradedoubler.com^
