@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-11-29Z
+! Version: 2020-11-30Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-11-29Z
+! Last modified: 2020-11-30Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -3174,6 +3174,7 @@
 @@||pac-int.dse.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
 @@||pacificcoast.ugc.bazaarvoice.com^
+@@||packages-intppe.dps.mp.microsoft.com^
 @@||packages.chocolatey.org^
 @@||packages.linuxmint.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
@@ -4593,6 +4594,7 @@
 @@||www.aaa.com^
 @@||www.accuweather.com^
 @@||www.acehardware.com^
+@@||www.adblock.ee^
 @@||www.add0n.com^
 @@||www.adfox.ru^
 @@||www.adidas.com^
@@ -4622,6 +4624,7 @@
 @@||www.aol.com^
 @@||www.apple.com^
 @@||www.ar.2.cqcounter.com^
+@@||www.arizona.edu^
 @@||www.attservicesinc.tt.omtrdc.net^
 @@||www.awin1.com^
 @@||www.baidu.com^
@@ -4858,6 +4861,7 @@
 @@||www.people.com^
 @@||www.pi-hole.net^
 @@||www.pinterest.com^
+@@||www.piratebay.org^
 @@||www.placehold.it^
 @@||www.playstation.com^
 @@||www.pocketnow.com^
@@ -4997,6 +5001,7 @@
 @@||www.zdnet.com^
 @@||www.zee.cws.conviva.com^
 @@||www.zendesk.com^
+@@||www.zerohedge.com^
 @@||www1.awin1.com^
 @@||www17.wixdns.net^
 @@||www2.cqcounter.com^
