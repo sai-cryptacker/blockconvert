@@ -970,6 +970,7 @@ cleanandclear.ugc.bazaarvoice.com
 cleanclearca.ugc.bazaarvoice.com
 cleanprint.net
 cleveland.com
+click.pstmrk.it
 click.simba.taobao.com
 click.trafficguard.ai
 click.virt.exacttarget.com
@@ -1602,6 +1603,7 @@ embed.blog.logrocket.com
 embed.flowplayer.org
 embed.spotify.com
 emdl.ws.microsoft.com
+emea01.safelinks.protection.outlook.com
 emeaquarantine.vk.com
 en.bab.la
 en.bitcoin.it
@@ -1728,6 +1730,7 @@ fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 feed.adrelayer.com
 feedback.aliexpress.com
+feedback.skype.com
 feedburner.com
 feedburner.google.com
 feedly.com
@@ -3193,7 +3196,6 @@ pastebin.org
 pasteboard.co
 pathe.emsecure.net
 pay.google.com
-pay.skype.com
 paypal.com
 paypalobjects.com
 pbs.twimg.com
@@ -3231,6 +3233,7 @@ photo.store.qq.com
 photobucket.com
 photos-ugc.l.googleusercontent.com
 phplist.com
+phrock08.class.splunk.com
 phs.tanx.com
 phx.origin.delivery.mp.microsoft.com
 phx.sfs-int.dcat.dsp.mp.microsoft.com
@@ -3244,8 +3247,6 @@ picard.ugc.bazaarvoice.com
 picasaweb.google.com
 piclens.com
 pilkanozna.pl
-pilot1.notifications.skype.com
-pilot2.notifications.skype.com
 ping.taplytics.com
 pingjs.qq.com
 pingone-login.openx.com
@@ -3344,7 +3345,6 @@ prod-docs.openx.com
 prod.disqus.map.fastlylb.net
 prod.telemetry.ros.rockstargames.com
 prod.tradedoubler.com
-product-int.dps.mp.microsoft.com
 product.dps.mp.microsoft.com
 products.office.com
 productsummary.dps.mp.microsoft.com
@@ -3389,7 +3389,6 @@ publix.com
 pubsub.plex.bz
 pubsub.plex.tv
 pull.ticktick.com
-pulsar-app-play1.playground.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
 puma.ugc.bazaarvoice.com
 pumajapan.ugc.bazaarvoice.com
@@ -3714,7 +3713,6 @@ sj14.mktossl.com
 sk.2.cqcounter.com
 sketchfab.com
 skimresources.com
-skinny-demo.staging.scs.splunk.com
 sklep.vk.com
 skyhook.sonarr.tv
 skyline.vk.com
@@ -3878,7 +3876,6 @@ staging-discuss.newrelic.com
 staging.admin.splunk.com
 staging.plex.tv
 staging.scp.splunk.com
-staging.splunk.com
 stagingretrieval-dcatbackend-int.mp.microsoft.com
 stanev.org
 star-mini.c10r.facebook.com
@@ -3932,6 +3929,7 @@ stats.stackexchange.com
 status.coinbase.com
 status.newrelic.com
 status.plex.tv
+status.scp.splunk.com
 statusapi.micloud.xiaomi.net
 statuscake-email.com
 statuscake.com
@@ -4330,6 +4328,7 @@ uswe-c.translatorv2.skype.com
 uswe.translatorv2.skype.com
 uth.vk.com
 uuvkmm.vk.com
+uwpproc-int.mix.mp.microsoft.com
 uwpproc.mix.mp.microsoft.com
 v.adfox.ru
 v.firebog.net
@@ -4589,13 +4588,13 @@ www.adblock.ee
 www.add0n.com
 www.adfox.ru
 www.adidas.com
-www.adpartner.de
 www.adwords.google.com
 www.aetna.com
 www.affirm.com
 www.agency.help.adfox.ru
 www.alexa.com
 www.algolia.com
+www.aliexpress.com
 www.allure.com
 www.amazon.ca
 www.amazon.co.jp
@@ -4609,7 +4608,6 @@ www.amazon.it
 www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.analytics.tradedoubler.com
-www.androidforums.com
 www.anrdoezrs.net
 www.answers.com
 www.aol.com
@@ -4672,7 +4670,6 @@ www.dailymotion.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
 www.db.burst-alliance.org
-www.debian.org
 www.dict.leo.org
 www.digg.com
 www.digicert.com
@@ -4707,19 +4704,21 @@ www.flyertown.ca
 www.fonts.com
 www.fonts.tradedoubler.com
 www.forms.gle
+www.fortune.com
 www.forum.vk.com
 www.fox43.com
 www.fr.2.cqcounter.com
+www.framasoft.org
 www.frankerfacez.com
 www.freedownloadmanager.org
 www.fwmrm.net
 www.g.ezoic.net
-www.gardenstatehelicopters.com
 www.geoplugin.net
 www.georiot.com
 www.geotrust.com
 www.getpocket.com
 www.gigya.com
+www.github.com
 www.github.developerdan.com
 www.github.io
 www.glb.paypal.com
@@ -4801,7 +4800,6 @@ www.mbl.is
 www.mediafire.com
 www.mesh.com
 www.miaminewtimes.com
-www.mistrzowie.org
 www.monero.org
 www.moonbit.co.in
 www.mozilla.net
@@ -4832,7 +4830,6 @@ www.ojrq.net
 www.olark.com
 www.omny.fm
 www.onesignal.com
-www.onion.to
 www.onswipe.com
 www.opensubtitles.org
 www.openvpn.tradedoubler.com
@@ -4849,8 +4846,6 @@ www.paypalobjects.com
 www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
-www.people.com
-www.pi-hole.net
 www.pinterest.com
 www.piratebay.org
 www.placehold.it
@@ -4892,14 +4887,12 @@ www.shst.tradedoubler.com
 www.sina.com.cn
 www.skimresources.com
 www.slate.com
-www.slickdeals.net
 www.snapengage.com
 www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
 www.spaceport.tradedoubler.com
 www.speedcurve.com
-www.spiceworks.com
 www.sportsillustrated.tags.crwdcntrl.net
 www.spot.im
 www.spotify.com
@@ -4912,7 +4905,6 @@ www.srv67-190-240-87.vk.com
 www.srv71-129-240-87.vk.com
 www.srv72-190-240-87.vk.com
 www.srv78-190-240-87.vk.com
-www.staging.splunk.com
 www.starbucks.com
 www.startpage.com
 www.statcounter.com
@@ -4959,7 +4951,6 @@ www.vanityfair.com
 www.vgwort.de
 www.vidible.tv
 www.viglink.com
-www.virtualearth.net
 www.vk.com
 www.vk.vk.com
 www.vmn.net
