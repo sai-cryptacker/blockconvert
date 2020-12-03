@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-12-02Z
+! Version: 2020-12-03Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-12-02Z
+! Last modified: 2020-12-03Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -448,10 +448,12 @@
 @@||api.razorpay.com^
 @@||api.rlje.net^
 @@||api.sec.miui.com^
+@@||api.skype.com^
 @@||api.soundcloud.com^
 @@||api.splunk.com^
 @@||api.target.com^
 @@||api.tau.vk.com^
+@@||api.teams.skype.com^
 @@||api.tradedoubler.com^
 @@||api.tw06.xlmc.sandai.net^
 @@||api.twisto.cz^
@@ -1103,6 +1105,7 @@
 @@||content.jwplatform.com^
 @@||content.logmein.com^
 @@||contentapi.skype.com^
+@@||contentservice.dce.mp.microsoft.com^
 @@||continuum.dds.microsoft.com^
 @@||contracts.openx.com^
 @@||cookieblock.trackersimulate.org^
@@ -1437,6 +1440,7 @@
 @@||devint-docs.data-service-api.openx.com^
 @@||devint-docs.openaudience.openx.com^
 @@||devint-docs.openx.com^
+@@||devspaces.skype.com^
 @@||di.com.pl^
 @@||di.vk.com^
 @@||diagvirus.vk.com^
@@ -1448,6 +1452,7 @@
 @@||digitalassetlinks.googleapis.com^
 @@||digitalattach-int.mp.microsoft.com^
 @@||digitalattach.mp.microsoft.com^
+@@||digitalattachclaims-int.purchase.mp.microsoft.com^
 @@||digitalattachclaims.purchase.mp.microsoft.com^
 @@||digitalriver.com^
 @@||digitaltrends.com^
@@ -1921,6 +1926,7 @@
 @@||georiot.com^
 @@||geotrust.com^
 @@||get.adobe.com^
+@@||get.skype.com^
 @@||getmonero.org^
 @@||getpocket.com^
 @@||gfwsl.geforce.com^
@@ -1970,6 +1976,7 @@
 @@||go.redirectingat.com^
 @@||go.ro^
 @@||go.scorptec.com.au^
+@@||go.skype.com^
 @@||go.trafficrouter.io^
 @@||go.trouter.io^
 @@||go2cloud.org^
@@ -2305,6 +2312,7 @@
 @@||img.cqcounter.com^
 @@||img.purch.com^
 @@||img.shouji.sogou.com^
+@@||img.teams.skype.com^
 @@||img.tradedoubler.com^
 @@||img.vidible.tv^
 @@||img1.blogblog.com^
@@ -3401,6 +3409,7 @@
 @@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||puma.ugc.bazaarvoice.com^
 @@||pumajapan.ugc.bazaarvoice.com^
+@@||purchase-int.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
 @@||purdy.ugc.bazaarvoice.com^
 @@||push.services.mozilla.com^
@@ -3930,6 +3939,7 @@
 @@||static.zdassets.com^
 @@||staticamzn.com^
 @@||statics.streamable.com^
+@@||statics.teams.skype.com^
 @@||staticxx.facebook.com^
 @@||stats.bitcoin.it^
 @@||stats.cqcounter.com^
@@ -3979,6 +3989,7 @@
 @@||support.coinbase.com^
 @@||support.microsoft.com^
 @@||support.notebooksbilliger.de^
+@@||support.skype.com^
 @@||survey.euro.confirmit.com^
 @@||survey.forseeresults.com^
 @@||survey.pearsoncmg.com^
@@ -4474,6 +4485,7 @@
 @@||webcomp.tradedoubler.com^
 @@||webconf.tradedoubler.com^
 @@||webflow.com^
+@@||webhook.teams.skype.com^
 @@||webmail.laposte.net^
 @@||webmail.orange.fr^
 @@||webmasters.stackexchange.com^
@@ -4824,6 +4836,7 @@
 @@||www.naver.com^
 @@||www.nbcnews.com^
 @@||www.nbcnewyork.com^
+@@||www.nesn.com^
 @@||www.new.tradedoubler.com^
 @@||www.newrelic.com^
 @@||www.newyorker.com^
@@ -4955,6 +4968,7 @@
 @@||www.twitter.com^
 @@||www.uk.com^
 @@||www.ultimedia.com^
+@@||www.ultraimg.com^
 @@||www.unibytes.com^
 @@||www.vanityfair.com^
 @@||www.vgwort.de^
