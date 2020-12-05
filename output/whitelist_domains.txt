@@ -434,10 +434,12 @@ api.mymonero.com
 api.onedrive.com
 api.ooyala.com
 api.particle.io
+api.playground.dev.splunk.com
 api.promotions.skype.com
 api.pushbullet.com
 api.razorpay.com
 api.rlje.net
+api.scp.splunk.com
 api.sec.miui.com
 api.skype.com
 api.soundcloud.com
@@ -456,6 +458,7 @@ api.videos.oovvuu.com
 api.vip.miui.com
 api.vk.com
 api.zaloapp.com
+api2.playground.dev.splunk.com
 api3.siftscience.com
 apis.google.com
 apis.vk.com
@@ -474,6 +477,7 @@ app.hubspot.com
 app.migc.xiaomi.com
 app.plex.tv
 app.qq.com
+app.scs.splunk.com
 app.staging.scs.splunk.com
 app.vk.com
 appboot.netflix.com
@@ -932,6 +936,7 @@ centraleu.pi-dns.com
 cern.ch
 ceros.com
 cert.mgt.xboxlive.com
+certweb-int.dps.mp.microsoft.com
 cevoi.vk.com
 cf-cdn.adform.net
 cf.hamreus.com
@@ -1467,6 +1472,7 @@ disq.us
 disqus.com
 distancecalculator.vk.com
 distilnetworks.com
+djvbdz1obemzo.cloudfront.net
 dl-web.dropbox.com
 dl.delivery.mp.microsoft.com
 dl.dropbox.com
@@ -1702,9 +1708,6 @@ external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
-extorigin-dev.dcat.dsp.mp.microsoft.com
-extorigin-int.dcat.dsp.mp.microsoft.com
-extorigin-tip.dcat.dsp.mp.microsoft.com
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
 f1.g.mi.com
@@ -2439,7 +2442,6 @@ jcrewfactory.ugc.bazaarvoice.com
 jdownloader.org
 jenkins2.devapp.tradedoubler.com
 jhyzck.vk.com
-jm0199515.splunk.com
 jmbruneau.ugc.bazaarvoice.com
 jo.cqcounter.com
 joblo.com
@@ -2552,6 +2554,7 @@ lcdn-locator-usnkq.apple.com.akadns.net
 lcdn-locator.apple.com.akadns.net
 leagueoflegends.com
 leanplum.com
+learning.splunk.com
 legacy.admin.playground.scp.splunk.com
 legacy.istio-play1-admin.playground.scp.splunk.com
 legacy.tradedoubler.com
@@ -2860,6 +2863,7 @@ msedge.net
 msftconnecttest.com
 msg.edit.yahoo.com
 msg2.client.xunlei.com
+msgapi.skype.com
 msh.amazon.com
 msn.com
 mt-1321.alpha.dashboard.mgid.com
@@ -2991,6 +2995,7 @@ northeu.pi-dns.com
 nos.netease.com
 notabug.org
 notebooksbilliger.de
+notification-hub.skype.com
 notifications.google.com
 notifications.skype.com
 notificationservice.dse.mp.microsoft.com
@@ -3143,7 +3148,6 @@ opf.ooyala.com
 opinion.latimes.com
 optimizely.com
 options.skype.com
-or.delivery.mp.microsoft.com
 oracle.com
 orange.fr
 orange.ugc.bazaarvoice.com
@@ -3154,7 +3158,6 @@ org.skyline.vk.com
 oriflame.ugc.bazaarvoice.com
 origin-cdn.openx.com
 origin-www.openx.com
-origin.delivery.mp.microsoft.com
 origin.platform.dev.openx.com
 origincache-atn.fbcdn.net
 orion.ugc.bazaarvoice.com
@@ -3181,7 +3184,6 @@ packages.chocolatey.org
 packages.linuxmint.com
 packagesapi-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
-packagesapi.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
@@ -3243,7 +3245,6 @@ photos-ugc.l.googleusercontent.com
 phplist.com
 phrock08.class.splunk.com
 phs.tanx.com
-phx.origin.delivery.mp.microsoft.com
 phx.sfs-int.dcat.dsp.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
 pi-dns.com
@@ -3357,6 +3358,7 @@ product.dps.mp.microsoft.com
 products.office.com
 productsummary.dps.mp.microsoft.com
 productweb-int.dps.mp.microsoft.com
+productweb.dps.mp.microsoft.com
 profile.skype.com
 profile.target.com
 profimasking.dev.tau.vk.com
@@ -3436,6 +3438,7 @@ qyuooh.vk.com
 r-redesign.cs7777.vk.com
 r.sg.sec.miui.com
 r.us-east-1.awstrack.me
+ra-int.dce.mp.microsoft.com
 rackspacecloud.com
 radikal.ru
 radiofrance.fr
@@ -3507,10 +3510,12 @@ rest.growinginteractive.com
 restapi.amap.com
 restaurant.ugc.bazaarvoice.com
 restore.vk.com
+restriction-int.dps.mp.microsoft.com
 resultspage.com
 returnpath.com
 rewardstyle.com
 richmedia.coolespiele.com
+riker-int.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
@@ -3979,7 +3984,6 @@ sunglasshut.ugc.bazaarvoice.com
 sup.adfox.ru
 support.coinbase.com
 support.microsoft.com
-support.notebooksbilliger.de
 support.skype.com
 survey.euro.confirmit.com
 survey.forseeresults.com
@@ -4009,6 +4013,7 @@ t-mobile.ugc.bazaarvoice.com
 t-online.at
 t-online.de
 t.co
+t.dripemail2.com
 t.paypal.com
 t.umblr.com
 t.vk.com
@@ -4108,7 +4113,6 @@ timeinc.net
 tinypass.com
 tinypic.com
 tinyurl.com
-tip.or.delivery.mp.microsoft.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tk-aloha.api.cs7777.vk.com
@@ -4356,7 +4360,6 @@ vampirefreaks.tags.crwdcntrl.net
 vandenborre.ugc.bazaarvoice.com
 vanilla.futurecdn.net
 vanityfair.com
-variant-int.dps.mp.microsoft.com
 variant.dps.mp.microsoft.com
 variety.com
 vb64z9th8faec4b0.vk.com
@@ -4538,7 +4541,6 @@ wonderbox.ugc.bazaarvoice.com
 woodpecker.uc.cn
 woosmap.com
 wordpress.com
-workflowservice-int.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
 world-gen.g.aaplimg.com
 worldnow.com
@@ -4555,7 +4557,6 @@ ws.cnetcontent.com
 ws.coinbase.com
 ws.mmstat.com
 ws.pusherapp.com
-wsapi.skype.com
 wscont.apps.microsoft.com
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
@@ -4655,6 +4656,7 @@ www.cbsi.com
 www.ccleaner.com
 www.cda.pl
 www.cdn.optimizely.com
+www.centraleu.pi-dns.com
 www.cern.ch
 www.chomikuj.pl
 www.civicscience.com
@@ -4736,6 +4738,7 @@ www.github.io
 www.glb.paypal.com
 www.gmail.com
 www.gmodules.com
+www.godaddy.com
 www.gogousenet.com
 www.goo.gl
 www.google.com
@@ -4804,6 +4807,7 @@ www.macys.com
 www.mailchimp.com
 www.majorgeeks.com
 www.malwaredomainlist.com
+www.mapbox.com
 www.marketo.com
 www.mask13.vk.com
 www.master.burst-alliance.org
@@ -4835,15 +4839,15 @@ www.no-ip.com
 www.no.2.cqcounter.com
 www.nola.com
 www.nordichardware.se
-www.nydailynews.com
-www.nypost.com
 www.nytimes.com
 www.oboom.com
+www.office.com
 www.ojrq.net
 www.olark.com
 www.omny.fm
 www.onesignal.com
 www.onswipe.com
+www.opendesktop.org
 www.opensubtitles.org
 www.openvpn.tradedoubler.com
 www.openwall.com
@@ -4863,10 +4867,12 @@ www.pinterest.com
 www.piratebay.org
 www.placehold.it
 www.playstation.com
+www.pling.com
 www.pocketnow.com
 www.polldaddy.com
 www.pool.ntp.org
 www.pornhub.com
+www.postimage.org
 www.powerreviews.com
 www.powr.io
 www.ppc.tradedoubler.com
@@ -4923,6 +4929,7 @@ www.startpage.com
 www.statcounter.com
 www.storage.googleapis.com
 www.surveygizmo.com
+www.surveymonkey.com
 www.t-online.de
 www.tags.crwdcntrl.net
 www.talkbusiness.net
@@ -4952,7 +4959,6 @@ www.transfer.sh
 www.trumba.com
 www.trustwave.com
 www.tumblr.com
-www.turner.com
 www.turnto.com
 www.tusfiles.net
 www.twitch.tv

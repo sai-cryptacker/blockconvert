@@ -146,6 +146,7 @@ discuss.newrelic.com
 displaycatalog.mp.microsoft.com
 disq.us
 distilnetworks.com
+djvbdz1obemzo.cloudfront.net
 *.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 dlsrc.getmonero.org
