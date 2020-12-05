@@ -3948,6 +3948,7 @@
 @@||staticxx.facebook.com^
 @@||stats.bitcoin.it^
 @@||stats.cqcounter.com^
+@@||stats.foldingathome.org^
 @@||stats.pusher.com^
 @@||stats.stackexchange.com^
 @@||status.coinbase.com^
@@ -4643,6 +4644,8 @@
 @@||www.bbc.com^
 @@||www.bcorg.web.burst-alliance.org^
 @@||www.berush.com^
+@@||www.bestbuy.ca^
+@@||www.bestbuy.com^
 @@||www.betanews.com^
 @@||www.beyondmenu.com^
 @@||www.binarydefense.com^
@@ -4682,6 +4685,7 @@
 @@||www.cointraffic.io^
 @@||www.collamask.vk.com^
 @@||www.cookielawinfo.com^
+@@||www.costco.com^
 @@||www.countryflags.io^
 @@||www.cqcounter.com^
 @@||www.cs00000000000000000000000000000000.vk.com^
@@ -4817,6 +4821,7 @@
 @@||www.majorgeeks.com^
 @@||www.malwaredomainlist.com^
 @@||www.mapbox.com^
+@@||www.mapquestapi.com^
 @@||www.marketo.com^
 @@||www.mask13.vk.com^
 @@||www.master.burst-alliance.org^
@@ -4915,6 +4920,7 @@
 @@||www.sina.com.cn^
 @@||www.skimresources.com^
 @@||www.slate.com^
+@@||www.snapchat.com^
 @@||www.snapengage.com^
 @@||www.snipcart.com^
 @@||www.sociallitelife.tags.crwdcntrl.net^

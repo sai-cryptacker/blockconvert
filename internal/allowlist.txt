@@ -477,6 +477,7 @@ static.tacdn.com # https://github.com/mkb2091/blockconvert/issues/52
 static.tidiochat.com
 static.zdassets.com
 statsfe2.update.microsoft.com.akadns.net
+stats.foldingathome.org # https://github.com/mkb2091/blockconvert/issues/74 Regex False Positive
 stats.stackexchange.com
 statuscake.com
 statuscake-email.com
