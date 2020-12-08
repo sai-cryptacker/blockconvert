@@ -409,6 +409,7 @@ api.ads.tvb.com
 api.amazonalexa.com
 api.b.hatena.ne.jp
 api.bing.com
+api.cdp.microsoft.com
 api.chat.xiaomi.net
 api.cloudflare-dns.com
 api.cloudflareapps.com
@@ -1456,6 +1457,7 @@ dev-21461.alpha.dashboard.mgid.com
 dev-21461.beta.dashboard.mgid.com
 dev-21468.beta.dashboard.mgid.com
 dev-distance.vk.com
+dev.skype.com
 dev.splunk.com
 dev.tau.vk.com
 dev.tradedoubler.com

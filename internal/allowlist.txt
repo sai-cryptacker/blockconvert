@@ -36,6 +36,7 @@ androidauthority.com
 answers.com
 answers.microsoft.com
 api.bing.com
+api.cdp.microsoft.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-739536391 Required for Microsoft Edge Updates
 api.facebook.com
 api.mobile.immobilienscout24.de # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-715523256 Breaks the immoscout24 app
 api.mymonero.com
