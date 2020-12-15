@@ -58,6 +58,7 @@ au.download.windowsupdate.com
 auth.gfx.ms
 awin1.com
 ay.gy
+az416426.vo.msecnd.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-744499191 Breaks Airplus Mastercard software
 azorult-tracker.net
 baidu.com
 *.b.akamaiedge.net
@@ -279,6 +280,7 @@ insights.eu.newrelic.com
 instagram.com
 int.whiteboard.microsoft.com
 io9.com
+ip107307705.ahcdn.com # https://github.com/mkb2091/blockconvert/issues/75 Breaks videos on streaming XXX site
 ip-adress.com
 ip-tracker.org
 ipv4.login.msa.akadns6.net
@@ -476,6 +478,7 @@ static.matterport.com # https://github.com/mkb2091/blockconvert/issues/72 Breaks
 statics.streamable.com
 static.tacdn.com # https://github.com/mkb2091/blockconvert/issues/52
 static.tidiochat.com
+static.wikia.nocookie.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-744090132 Breaks images on fandom.com wikis
 static.zdassets.com
 statsfe2.update.microsoft.com.akadns.net
 stats.foldingathome.org # https://github.com/mkb2091/blockconvert/issues/74 Regex False Positive
@@ -553,6 +556,16 @@ vortex.accuweather.com
 vxvault.net
 wac.phicdn.net
 wallet.microsoft.com
+watchdog-basic.energized.pro # Used to check if user is using Energized Protection
+watchdog-blu.energized.pro # Used to check if user is using Energized Protection
+watchdog-blugo.energized.pro # Used to check if user is using Energized Protection
+watchdog-dns.energized.pro # Used to check if user is using Energized Protection
+watchdog.energized.pro # Used to check if user is using Energized Protection
+watchdog-ext.energized.pro # Used to check if user is using Energized Protection
+watchdog-porn.energized.pro # Used to check if user is using Energized Protection
+watchdog-spark.energized.pro # Used to check if user is using Energized Protection
+watchdog-ultimate.energized.pro # Used to check if user is using Energized Protection
+watchdog-unified.energized.pro # Used to check if user is using Energized Protection
 watson.telemetry.microsoft.com
 wbd.ms
 wdcp.microsoft.*
