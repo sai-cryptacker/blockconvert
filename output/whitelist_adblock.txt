@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-12-15Z
+! Version: 2020-12-16Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-12-15Z
+! Last modified: 2020-12-16Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -3272,6 +3272,7 @@
 @@||onedrive.live.com^
 @@||onesignal.com^
 @@||onet.pl^
+@@||onetrust.com^
 @@||onion.to^
 @@||online.jimmyjohns.com^
 @@||onswipe.com^
@@ -3507,6 +3508,7 @@
 @@||prisjakt.nu^
 @@||prismic.io^
 @@||privacy-policy.truste.com^
+@@||privacymanager.io^
 @@||private1.playground.dev.splunk.com^
 @@||privateinternetaccess.com^
 @@||prnt.sc^
@@ -3711,6 +3713,7 @@
 @@||rtb.adform.net^
 @@||ru.2.cqcounter.com^
 @@||ru.bitcoin.it^
+@@||rumble.com^
 @@||rupload.facebook.com^
 @@||rutube.ru^
 @@||rwprdu.vk.com^
@@ -5104,6 +5107,7 @@
 @@||www.olark.com^
 @@||www.omny.fm^
 @@||www.onesignal.com^
+@@||www.onetrust.com^
 @@||www.onion.to^
 @@||www.opendesktop.org^
 @@||www.opensubtitles.org^

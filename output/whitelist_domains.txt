@@ -3263,6 +3263,7 @@ oneclient.sfx.ms
 onedrive.live.com
 onesignal.com
 onet.pl
+onetrust.com
 onion.to
 online.jimmyjohns.com
 onswipe.com
@@ -3498,6 +3499,7 @@ printfriendly.com
 prisjakt.nu
 prismic.io
 privacy-policy.truste.com
+privacymanager.io
 private1.playground.dev.splunk.com
 privateinternetaccess.com
 prnt.sc
@@ -3702,6 +3704,7 @@ rt.vk.com
 rtb.adform.net
 ru.2.cqcounter.com
 ru.bitcoin.it
+rumble.com
 rupload.facebook.com
 rutube.ru
 rwprdu.vk.com
@@ -5095,6 +5098,7 @@ www.ojrq.net
 www.olark.com
 www.omny.fm
 www.onesignal.com
+www.onetrust.com
 www.onion.to
 www.opendesktop.org
 www.opensubtitles.org
