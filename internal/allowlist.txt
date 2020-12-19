@@ -84,6 +84,7 @@ blob.weather.microsoft.com
 blog.hubspot.com
 blog.tube8.com
 bountysource.com
+brightcove.map.fastly.net # https://github.com/mkb2091/blockconvert/issues/78 Breaks Brightcove video
 browser.pipe.aria.microsoft.com
 *.burst-alliance.org
 candycrushsoda.king.com
@@ -190,6 +191,7 @@ entireweb.com
 everest.castbox.fm
 evoke-windowsservices-tas.msedge.net
 ev.rdtcdn.com
+f1.media.brightcove.com # https://github.com/mkb2091/blockconvert/issues/78 Breaks Brightcove video
 faast.schibsted.io
 facebook.com
 fandom.wikia.com
@@ -281,6 +283,7 @@ instagram.com
 int.whiteboard.microsoft.com
 io9.com
 ip107307705.ahcdn.com # https://github.com/mkb2091/blockconvert/issues/75 Breaks videos on streaming XXX site
+ip107316446.ahcdn.com # https://github.com/mkb2091/blockconvert/issues/75 Breaks videos on streaming XXX site
 ip-adress.com
 ip-tracker.org
 ipv4.login.msa.akadns6.net
@@ -326,6 +329,7 @@ mediafire.com
 media.pearsoncmg.com
 mediaredirect.microsoft.com
 mine.nu
+miro.medium.com # https://github.com/mkb2091/blockconvert/issues/77 and https://github.com/mkb2091/blockconvert/issues/3#issuecomment-748449378, Breaks images on medium.com
 m.me
 mobile.tube8.com
 mobile.twitter.com
