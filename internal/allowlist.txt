@@ -142,6 +142,7 @@ datadoghq-browser-agent.com
 *.delivery.mp.microsoft.com
 delivery.mp.microsoft.com
 desktop.google.com
+dev.maxmind.com # Used for MaxMind developer guide
 digicert.com
 digitalriver.com
 discord.com
@@ -161,6 +162,7 @@ dns.google.com
 do.co
 donate.getmonero.org
 download.electrum.org
+download.maxmind.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-749884660 Used to download MaxMind GeoIP files
 download.newrelic.com
 downloads.getmonero.org
 download.windowsupdate.com
