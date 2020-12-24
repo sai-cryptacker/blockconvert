@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020-12-23Z
+! Version: 2020-12-24Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2020-12-23Z
+! Last modified: 2020-12-24Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -219,6 +219,7 @@
 @@||accounts.eu1.gigya.com^
 @@||accounts.google.com^
 @@||accounts.us1.gigya.com^
+@@||accountuserservice.dce.mp.microsoft.com^
 @@||accuweather.com^
 @@||acehardware.com^
 @@||acs.m.taobao.com^
@@ -573,6 +574,7 @@
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||auth.gfx.ms^
 @@||auth.playground.scp.splunk.com^
+@@||auth.scp.splunk.com^
 @@||auth.staging.scp.splunk.com^
 @@||auth.staging.scs.splunk.com^
 @@||auth.vk.com^
@@ -593,9 +595,6 @@
 @@||avon-ru.ugc.bazaarvoice.com^
 @@||avon-uk.ugc.bazaarvoice.com^
 @@||avsforum.com^
-@@||avto1254.vk.com^
-@@||avto3490.vk.com^
-@@||avto9206.vk.com^
 @@||away.cs7777.vk.com^
 @@||away.tau.vk.com^
 @@||away.vk.com^
@@ -627,7 +626,6 @@
 @@||bandaid.ugc.bazaarvoice.com^
 @@||bandaidca.ugc.bazaarvoice.com^
 @@||bandcamp.com^
-@@||bangkoknanpa.vk.com^
 @@||bankid.no^
 @@||bankrate.com^
 @@||banner.splunk.com^
@@ -648,11 +646,9 @@
 @@||be.2.cqcounter.com^
 @@||be.cqcounter.com^
 @@||bebe.ugc.bazaarvoice.com^
-@@||bebebrillits4cc.vk.com^
 @@||bedbathandbeyond.com^
 @@||behance.net^
 @@||bell.ugc.bazaarvoice.com^
-@@||belmiroaraujo.vk.com^
 @@||benadryl.ugc.bazaarvoice.com^
 @@||benadrylca.ugc.bazaarvoice.com^
 @@||bengay.ugc.bazaarvoice.com^
@@ -697,7 +693,6 @@
 @@||bing.pl^
 @@||bing.ru^
 @@||bing.se^
-@@||biomerge.vk.com^
 @@||bit.ly^
 @@||bitbucket.org^
 @@||bitcoin.com^
@@ -991,7 +986,6 @@
 @@||chewy.ugc.bazaarvoice.com^
 @@||chicago.cbslocal.com^
 @@||chicos.ugc.bazaarvoice.com^
-@@||chinook-persistence.vk.com^
 @@||chng.it^
 @@||choice-au.ugc.bazaarvoice.com^
 @@||choice.ugc.bazaarvoice.com^
@@ -1003,6 +997,7 @@
 @@||ci4.googleusercontent.com^
 @@||ci5.googleusercontent.com^
 @@||cindyholbrook.lpages.co^
+@@||ciso-int.dps.mp.microsoft.com^
 @@||citrix.tradedoubler.com^
 @@||civicscience.com^
 @@||cj.dotomi.com^
@@ -1023,7 +1018,6 @@
 @@||click.virt.s50.exacttarget.com^
 @@||click.virt.s6.exacttarget.com^
 @@||click.virt.s7.exacttarget.com^
-@@||click.vk.com^
 @@||clicks.vk.com^
 @@||client-office365-tas.msedge.net^
 @@||client-s.gateway.messenger.live.com^
@@ -1056,7 +1050,6 @@
 @@||cloudflare.cloudflare-dns.com^
 @@||cloudflare.com^
 @@||cloudflareworkers.com^
-@@||cloudformation-example-1.vk.com^
 @@||cloudinary.com^
 @@||cloudplatform.coveo.com^
 @@||cloudresourcemanager.googleapis.com^
@@ -1154,7 +1147,6 @@
 @@||contentservice.dce.mp.microsoft.com^
 @@||continuum.dds.microsoft.com^
 @@||contracts.openx.com^
-@@||coo-m-mark.vk.com^
 @@||cookieblock.trackersimulate.org^
 @@||cookielawinfo.com^
 @@||corona.docs.vk.com^
@@ -1195,7 +1187,6 @@
 @@||cs10376.vk.com^
 @@||cs10421.vk.com^
 @@||cs10478.vk.com^
-@@||cs10501.vk.com^
 @@||cs10599.vk.com^
 @@||cs10692.vk.com^
 @@||cs10694.vk.com^
@@ -1244,13 +1235,11 @@
 @@||cs4441.vk.com^
 @@||cs4473.vk.com^
 @@||cs4479.vk.com^
-@@||cs4557.vk.com^
 @@||cs4700.vk.com^
 @@||cs508407.vk.com^
 @@||cs509605.vk.com^
 @@||cs5172.vk.com^
 @@||cs5179.vk.com^
-@@||cs5223.vk.com^
 @@||cs5302.vk.com^
 @@||cs5363.vk.com^
 @@||cs53835.vk.com^
@@ -1264,10 +1253,7 @@
 @@||cs5472.vk.com^
 @@||cs5475.vk.com^
 @@||cs5533.vk.com^
-@@||cs5697.vk.com^
-@@||cs573.vk.com^
 @@||cs5744.vk.com^
-@@||cs5767.vk.com^
 @@||cs5797.vk.com^
 @@||cs5840.vk.com^
 @@||cs5903.vk.com^
@@ -1307,7 +1293,6 @@
 @@||cs606820.vk.com^
 @@||cs606830.vk.com^
 @@||cs606920.vk.com^
-@@||cs606929.vk.com^
 @@||cs609400-10.vk.com^
 @@||cs609400-20.vk.com^
 @@||cs609400-30.vk.com^
@@ -1350,13 +1335,11 @@
 @@||cs7014.vk.com^
 @@||cs7777.vk.com^
 @@||cs779.vk.com^
-@@||cs808511-16.vk.com^
 @@||cs808511-20.vk.com^
 @@||cs808511-30.vk.com^
 @@||cs808511.vk.com^
 @@||cs813110-10.vk.com^
 @@||cs813110-30.vk.com^
-@@||cs813110-47.vk.com^
 @@||cs829417-10.vk.com^
 @@||cs829417-20.vk.com^
 @@||cs829417-30.vk.com^
@@ -1372,8 +1355,6 @@
 @@||cs9621.vk.com^
 @@||cs9681.vk.com^
 @@||cs9710.vk.com^
-@@||cs9731.vk.com^
-@@||cs975.vk.com^
 @@||cs9763.vk.com^
 @@||cs9813.vk.com^
 @@||cs9916.vk.com^
@@ -1433,7 +1414,6 @@
 @@||damaskus.vk.com^
 @@||danid.dk^
 @@||danmurphys.ugc.bazaarvoice.com^
-@@||dapk.vk.com^
 @@||dash.cloudflare.com^
 @@||dashboard.adskeeper.co.uk^
 @@||dashboard.lentainform.com^
@@ -1579,6 +1559,7 @@
 @@||do.co^
 @@||doc.vk.com^
 @@||docs.bugsnag.com^
+@@||docs.data-service-api.openx.com^
 @@||docs.google.com^
 @@||docs.openaudience.openx.com^
 @@||docs.openx.com^
@@ -1686,16 +1667,9 @@
 @@||eec.crunchyroll.com^
 @@||eg.2.cqcounter.com^
 @@||egrn06601.vk.com^
-@@||egrn2119.vk.com^
-@@||egrn24039.vk.com^
-@@||egrn39937.vk.com^
-@@||egrn5174.vk.com^
-@@||egrn6963.vk.com^
 @@||egrn72016.vk.com^
-@@||egrn7700.vk.com^
 @@||ehc.com^
 @@||eitquarantine.vk.com^
-@@||eko-holic.vk.com^
 @@||elasticbeanstalk.com^
 @@||electrolux.ugc.bazaarvoice.com^
 @@||electrum.org^
@@ -1767,7 +1741,6 @@
 @@||everest.castbox.fm^
 @@||everyaction.com^
 @@||evoke-windowsservices-tas.msedge.net^
-@@||ew-manutention-sh.vk.com^
 @@||ew.com^
 @@||ew.phncdn.com^
 @@||ew.vk.com^
@@ -2041,7 +2014,6 @@
 @@||glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com^
-@@||glifrp.vk.com^
 @@||global-www.adform.net^
 @@||global.adform.net^
 @@||global.edge.bamgrid.com^
@@ -2309,7 +2281,6 @@
 @@||humblebundle.com^
 @@||hwcdn.net^
 @@||hydro.openx.com^
-@@||hyperlink.vk.com^
 @@||hypothes.is^
 @@||i-ber1.awin1.com^
 @@||i-cdn.embed.ly^
@@ -2373,10 +2344,8 @@
 @@||ikea.com^
 @@||il.2.cqcounter.com^
 @@||im.vk.com^
-@@||im11v4.vk.com^
 @@||im20v4.vk.com^
 @@||im47v4.vk.com^
-@@||im48v4.vk.com^
 @@||im81.vk.com^
 @@||im84v4.vk.com^
 @@||im89v4.vk.com^
@@ -2562,14 +2531,12 @@
 @@||jamf-connector.openx.com^
 @@||japi.adfox.ru^
 @@||jarv.is^
-@@||javascript-events.vk.com^
 @@||jcpenney.com^
 @@||jcpenney.ugc.bazaarvoice.com^
 @@||jcrew.ugc.bazaarvoice.com^
 @@||jcrewfactory.ugc.bazaarvoice.com^
 @@||jdownloader.org^
 @@||jenkins2.devapp.tradedoubler.com^
-@@||jessentials-misc.vk.com^
 @@||jhyzck.vk.com^
 @@||jira-ng.tradedoubler.com^
 @@||jira.tradedoubler.com^
@@ -2597,9 +2564,7 @@
 @@||js.t.sinajs.cn^
 @@||jsfiddle.net^
 @@||jsonip.com^
-@@||juscelinofranca.vk.com^
 @@||justin.tv^
-@@||justtofresh.vk.com^
 @@||jwpltx.com^
 @@||jwpsrv.com^
 @@||jwxes.vk.com^
@@ -2832,7 +2797,6 @@
 @@||mailchimp.com^
 @@||main.cloudflare-dns.com^
 @@||majorgeeks.com^
-@@||makecart.vk.com^
 @@||malwaredomainlist.com^
 @@||malwaredomains.lehigh.edu^
 @@||malwareurls.joxeankoret.com^
@@ -3009,7 +2973,6 @@
 @@||msgapi.skype.com^
 @@||msh.amazon.com^
 @@||msn.com^
-@@||msyfy.vk.com^
 @@||mt-1321.alpha.dashboard.mgid.com^
 @@||mt-1374.alpha.dashboard.mgid.com^
 @@||mt-1750.alpha.dashboard.mgid.com^
@@ -3045,7 +3008,6 @@
 @@||mycapture.com^
 @@||myfox8.com^
 @@||mygw.alipay.com^
-@@||myllurmanagement.vk.com^
 @@||mymonero.com^
 @@||myportfolio.com^
 @@||myshopify.com^
@@ -3095,7 +3057,6 @@
 @@||news.ycombinator.com^
 @@||newsday.com^
 @@||newsinc.com^
-@@||newsletter-html.vk.com^
 @@||newslook.com^
 @@||newstogram.com^
 @@||newyork.cbslocal.com^
@@ -3111,7 +3072,6 @@
 @@||nflxext.com^
 @@||nflximg.com^
 @@||ngpvan.com^
-@@||nhibernate.vk.com^
 @@||nhl.com^
 @@||nike.com^
 @@||nikon.ugc.bazaarvoice.com^
@@ -3133,7 +3093,6 @@
 @@||no.2.cqcounter.com^
 @@||noexit.tv^
 @@||nola.com^
-@@||nolesfootball.vk.com^
 @@||norauto.ugc.bazaarvoice.com^
 @@||nordichardware.se^
 @@||nordstrom.ugc.bazaarvoice.com^
@@ -3168,7 +3127,6 @@
 @@||nus1-authgw.asm.skype.com^
 @@||nwww.vk.com^
 @@||ny.com^
-@@||ny.vk.com^
 @@||ny1.com^
 @@||nya.vk.com^
 @@||nydailynews.com^
@@ -3226,7 +3184,6 @@
 @@||official.paymaya.com^
 @@||ogin.vk.com^
 @@||ogio.ugc.bazaarvoice.com^
-@@||ognjs.vk.com^
 @@||ogs.google.com^
 @@||oh.tags.crwdcntrl.net^
 @@||oillarionov.api.cs7777.vk.com^
@@ -3253,7 +3210,6 @@
 @@||olpair.com^
 @@||olsyar.vk.com^
 @@||om.cbsi.com^
-@@||ommidtvask.vk.com^
 @@||omniture.walmart.com^
 @@||omny.fm^
 @@||omroep.nl^
@@ -3360,7 +3316,6 @@
 @@||paymentinstruments.md.mp.microsoft.com^
 @@||paymentinstruments.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
-@@||paypal-fretefacil-default-oc.vk.com^
 @@||paypal.com^
 @@||paypalobjects.com^
 @@||pbs.twimg.com^
@@ -3389,7 +3344,6 @@
 @@||pgcdn.com^
 @@||pgl.yoyo.org^
 @@||philadelphia.cbslocal.com^
-@@||philology.vk.com^
 @@||phishtank.com^
 @@||phncdn.com^
 @@||phobos.apple.com^
@@ -3559,6 +3513,7 @@
 @@||pubsub.plex.tv^
 @@||pull.logentries.com^
 @@||pull.ticktick.com^
+@@||pulsar-app-play1.playground.scp.splunk.com^
 @@||pulsar-istio-play1.playground.scp.splunk.com^
 @@||puma.ugc.bazaarvoice.com^
 @@||pumajapan.ugc.bazaarvoice.com^
@@ -3603,10 +3558,8 @@
 @@||radiofrance.fr^
 @@||radiofrance.targetspot.com^
 @@||radiostacja.pl^
-@@||raiseinttopower.vk.com^
 @@||rakuten.com^
 @@||rambler.ru^
-@@||randomnopathing.vk.com^
 @@||ranker.com^
 @@||ransomwaretracker.abuse.ch^
 @@||rapidgator.net^
@@ -3704,8 +3657,6 @@
 @@||rptrcks.walmart.com^
 @@||rpxnow.com^
 @@||rq.adfox.ru^
-@@||rrmessages.vk.com^
-@@||rsanjb.vk.com^
 @@||rssinclude.com^
 @@||rt.imgur.com^
 @@||rt.vk.com^
@@ -3899,7 +3850,6 @@
 @@||similarweb.com^
 @@||sina.com.cn^
 @@||sip.tradedoubler.com^
-@@||sismo.vk.com^
 @@||siteimprove.com^
 @@||sites.google.com^
 @@||sites.help.adfox.ru^
@@ -3915,7 +3865,6 @@
 @@||skypegraph.skype.com^
 @@||skypetoken.skype.com^
 @@||slack-redir.net^
-@@||slackd.vk.com^
 @@||slashdot.org^
 @@||slate.com^
 @@||slb-content-operators.adfox.ru^
@@ -3992,10 +3941,8 @@
 @@||squirt.io^
 @@||srv0-128-240-87.vk.com^
 @@||srv0-224-186-93.vk.com^
-@@||srv1-167-240-87.vk.com^
 @@||srv10-34-213-95.vk.com^
 @@||srv112-237-186-93.vk.com^
-@@||srv113-102-213-95.vk.com^
 @@||srv120-131.240.87.vk.com^
 @@||srv124-22-213-95.vk.com^
 @@||srv129-129-240-87.vk.com^
@@ -4006,7 +3953,6 @@
 @@||srv137-137-240-87.vk.com^
 @@||srv137-185-240-87.vk.com^
 @@||srv140-129-240-87.vk.com^
-@@||srv140-47-213-95.vk.com^
 @@||srv142-185-240-87.vk.com^
 @@||srv146-185-240-87.vk.com^
 @@||srv15-116-213-95.vk.com^
@@ -4023,30 +3969,22 @@
 @@||srv177-129-240-87.vk.com^
 @@||srv178-129-240-87.vk.com^
 @@||srv181-129-240-87.vk.com^
-@@||srv193-113-213-95.vk.com^
 @@||srv193-139-240-87.vk.com^
 @@||srv194-139-240-87.vk.com^
-@@||srv205-157-240-87.vk.com^
 @@||srv206-137-240-87.vk.com^
 @@||srv207-137-240-87.vk.com^
 @@||srv207-228-186-93.vk.com^
 @@||srv208-137-240-87.vk.com^
 @@||srv218-0-213-95.vk.com^
 @@||srv220-151-240-87.vk.com^
-@@||srv221-238-186-93.vk.com^
 @@||srv226-191-240-87.vk.com^
 @@||srv228-182-240-87.vk.com^
-@@||srv229-170-240-87.vk.com^
 @@||srv233-185-240-87.vk.com^
-@@||srv24-2-213-95.vk.com^
-@@||srv244-15-213-95.vk.com^
 @@||srv251-165-240-87.vk.com^
 @@||srv3-6-213-95.vk.com^
 @@||srv38-74-213-95.vk.com^
 @@||srv41-129-240-87.vk.com^
 @@||srv43-64-213-95.vk.com^
-@@||srv49-5-213-95.vk.com^
-@@||srv64-61-213-95.vk.com^
 @@||srv66-139-137-79.vk.com^
 @@||srv67-190-240-87.vk.com^
 @@||srv69-190-240-87.vk.com^
@@ -4056,8 +3994,6 @@
 @@||srv75-134-240-87.vk.com^
 @@||srv75-190-240-87.vk.com^
 @@||srv78-190-240-87.vk.com^
-@@||srv79-43-213-95.vk.com^
-@@||srv9-4-213-95.vk.com^
 @@||ss.phncdn.com^
 @@||ss0.baidu.com^
 @@||ss1.baidu.com^
@@ -4086,7 +4022,6 @@
 @@||stackpath.bootstrapcdn.com^
 @@||stackpathdns.net.cloudflare-dns.com^
 @@||stacksocial.com^
-@@||stackviewsexamples.vk.com^
 @@||stadk.tradedoubler.com^
 @@||stage.appinspect.splunk.com^
 @@||stage.guce.advertising.com^
@@ -4205,7 +4140,6 @@
 @@||surveys.twilio.com^
 @@||suunto.ugc.bazaarvoice.com^
 @@||svht.tradedoubler.com^
-@@||swagger-jsdoc.vk.com^
 @@||swap.tradedoubler.com^
 @@||swcdn.apple.com^
 @@||swcdn.apple.com.akadns.net^
@@ -4256,7 +4190,6 @@
 @@||tarru.tradedoubler.com^
 @@||tarse.tradedoubler.com^
 @@||tawk.to^
-@@||taxclinic.vk.com^
 @@||tbl.tradedoubler.com^
 @@||tbs.tradedoubler.com^
 @@||tbsap.tradedoubler.com^
@@ -4324,12 +4257,10 @@
 @@||time.samsungcloudsolution.com^
 @@||time.windows.com^
 @@||timeinc.net^
-@@||tinyendian.vk.com^
 @@||tinypass.com^
 @@||tinypic.com^
 @@||tinyurl.com^
 @@||tip.or.delivery.mp.microsoft.com^
-@@||tippytests.vk.com^
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||tk-absent.cs7777.vk.com^
@@ -4603,7 +4534,6 @@
 @@||vice.com^
 @@||vid-1015.alpha.dashboard.mgid.com^
 @@||viddler.com^
-@@||video-list-player.vk.com^
 @@||video-stats.l.google.com^
 @@||video.google.com^
 @@||videocopilot.net^
@@ -4732,7 +4662,6 @@
 @@||weebly.com^
 @@||weeklyad.target.com^
 @@||weeklyad.target.com.edgesuite.net^
-@@||wejhx.vk.com^
 @@||welcome.openx.com^
 @@||werbung.karstadt.de^
 @@||werbung.oebb.at^
@@ -4887,6 +4816,7 @@
 @@||www.bing.com^
 @@||www.bit.ly^
 @@||www.bitcoin.it^
+@@||www.blockstack.org^
 @@||www.blog.xuite.net^
 @@||www.blogger.com^
 @@||www.bloomberg.com^
@@ -4946,6 +4876,7 @@
 @@||www.easybytez.com^
 @@||www.ebay.com^
 @@||www.ecdinterface.philips.com^
+@@||www.elinkeu.clickdimensions.com^
 @@||www.eloqua.com^
 @@||www.eltrafiko.com^
 @@||www.emjcd.com^
@@ -5288,7 +5219,6 @@
 @@||xmpp-server.l.google.com^
 @@||xn--80aa5alfu.vk.com^
 @@||xn--allestrungen-9ib.de^
-@@||xn--b1agflcndeb5cwb.vk.com^
 @@||xnxx.com^
 @@||xovide.vk.com^
 @@||xsdownload.adobe.com^
@@ -5341,7 +5271,6 @@
 @@||zaloapp.com^
 @@||zam.zamimg.com^
 @@||zappa-st.www.cs00000000000000000000000000000000.vk.com^
-@@||zbzazq.vk.com^
 @@||zcbprod.alipay.com^
 @@||zdbb.net^
 @@||zdnet.com^
