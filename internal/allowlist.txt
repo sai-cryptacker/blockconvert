@@ -104,6 +104,7 @@ chng.it
 christianpost.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
+clickondetroit.com # https://github.com/mkb2091/blockconvert/issues/82 News site
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
 cloudflare-dns.com
@@ -139,6 +140,7 @@ d2405b0jymm2dk.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dailymail.co.uk # Blocked by PrivacyBadger
 datadoghq-browser-agent.com
+dege.freeweb.hu # https://github.com/mkb2091/blockconvert/issues/81 Site that hosts tools for running old games
 *.delivery.mp.microsoft.com
 delivery.mp.microsoft.com
 desktop.google.com
@@ -437,6 +439,7 @@ search.msn.com
 secure.mbl.is
 semrush.com
 sendgrid.com # https://github.com/mkb2091/blockconvert/issues/70 Base domain is not used for tracking
+serial.alcohol-soft.com # https://github.com/mkb2091/blockconvert/issues/80 CD and DVD burning software
 service.weather.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
@@ -526,6 +529,7 @@ tracker.tvnihon.com
 tracking.epicgames.com
 transfer.sh
 travelocity.com
+trial.alcohol-soft.com # https://github.com/mkb2091/blockconvert/issues/80 CD and DVD burning software
 trk.klclick1.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tube8.com
