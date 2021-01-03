@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-01-02Z
+! Version: 2021-01-03Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-01-02Z
+! Last modified: 2021-01-03Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1125,7 +1125,6 @@
 @@||console.cloud.google.com^
 @@||consumer.entitlement.skype.com^
 @@||contactapi.micloud.xiaomi.net^
-@@||contacts.skype.com^
 @@||container.googleapis.com^
 @@||content.adfox.ru^
 @@||content.invisioncic.com^
@@ -1505,6 +1504,7 @@
 @@||discord.gg^
 @@||discovermagazine.com^
 @@||discovery.com^
+@@||discrequest.dps.mp.microsoft.com^
 @@||discuss.newrelic.com^
 @@||discussions.apple.com^
 @@||disneystore.ugc.bazaarvoice.com^
@@ -1627,12 +1627,12 @@
 @@||ebay.com^
 @@||ebay.pl^
 @@||ebd.cda.pl^
+@@||ebs.mp.microsoft.com^
 @@||ebscovideo.vk.com^
 @@||ec-ns.sascdn.com^
 @@||echo.edge.messenger.live.com^
 @@||ecn.dev.virtualearth.net^
 @@||ecovidrio.vk.com^
-@@||ecs.skype.com^
 @@||ecwid.com^
 @@||ecx.images-amazon.com^
 @@||edana.vk.com^
@@ -2744,6 +2744,7 @@
 @@||macys.ugc.bazaarvoice.com^
 @@||madewell.ugc.bazaarvoice.com^
 @@||magpie-static.ugc.bazaarvoice.com^
+@@||mail.adfox.ru^
 @@||mail.com^
 @@||mail.getmonero.org^
 @@||mail.google.com^
@@ -3377,7 +3378,6 @@
 @@||podcasts.adafruit.com^
 @@||poetryfashion.ugc.bazaarvoice.com^
 @@||policy.query.cs316931.vk.com^
-@@||policyprocessor.teams.skype.com^
 @@||polis.vb64z9th8faec4b0.vk.com^
 @@||polishlove1.zappa-st.www.cs00000000000000000000000000000000.vk.com^
 @@||poll.fm^
@@ -4086,6 +4086,7 @@
 @@||sup.adfox.ru^
 @@||support.coinbase.com^
 @@||support.microsoft.com^
+@@||support.notebooksbilliger.de^
 @@||support.skype.com^
 @@||survey.dps.mp.microsoft.com^
 @@||survey.euro.confirmit.com^
@@ -4546,7 +4547,6 @@
 @@||watchdog.burst-alliance.org^
 @@||watchdog.energized.pro^
 @@||watchdogs-int.dps.mp.microsoft.com^
-@@||watchdogs.dps.mp.microsoft.com^
 @@||watson.telemetry.microsoft.com^
 @@||way.vk.com^
 @@||wbd.ms^
@@ -4705,9 +4705,6 @@
 @@||www.agency.help.adfox.ru^
 @@||www.alexa.com^
 @@||www.algolia.com^
-@@||www.aliexpress.com^
-@@||www.amazon.ca^
-@@||www.amazon.co.jp^
 @@||www.amazon.co.uk^
 @@||www.amazon.com^
 @@||www.amazon.de^
@@ -4787,6 +4784,7 @@
 @@||www.db.burst-alliance.org^
 @@||www.debian.org^
 @@||www.dege.freeweb.hu^
+@@||www.dell.com^
 @@||www.demotywatory.pl^
 @@||www.digg.com^
 @@||www.digicert.com^
@@ -4807,7 +4805,6 @@
 @@||www.engadget.com^
 @@||www.et4.de^
 @@||www.ethn.io^
-@@||www.example.com^
 @@||www.example.org^
 @@||www.expressen.se^
 @@||www.facebook.com^
@@ -4878,6 +4875,7 @@
 @@||www.imgspice.com^
 @@||www.impde.tradedoubler.com^
 @@||www.inc.com^
+@@||www.infowars.com^
 @@||www.inputdirector.com^
 @@||www.instagram.com^
 @@||www.instapaper.com^
@@ -4993,14 +4991,12 @@
 @@||www.pornhub.com^
 @@||www.postimage.org^
 @@||www.ppc.tradedoubler.com^
-@@||www.ppt.cc^
 @@||www.privateinternetaccess.com^
 @@||www.proofpoint.com^
 @@||www.providesupport.com^
 @@||www.push.vk.com^
 @@||www.qq.com^
 @@||www.qualtrics.com^
-@@||www.quickenloans.com^
 @@||www.quora.com^
 @@||www.rakuten.com^
 @@||www.reddit.com^
@@ -5008,6 +5004,7 @@
 @@||www.redirects.tradedoubler.com^
 @@||www.reebok.com^
 @@||www.refinery29.com^
+@@||www.res.cloudinary.com^
 @@||www.returnpath.com^
 @@||www.roadandtrack.com^
 @@||www.rpxnow.com^
@@ -5084,7 +5081,6 @@
 @@||www.tusfiles.net^
 @@||www.twitter.com^
 @@||www.ultimedia.com^
-@@||www.ultraimg.com^
 @@||www.unibytes.com^
 @@||www.unix.com^
 @@||www.userscripts-mirror.org^
