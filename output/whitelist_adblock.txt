@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-01-03Z
+! Version: 2021-01-04Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-01-03Z
+! Last modified: 2021-01-04Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -990,6 +990,7 @@
 @@||ci5.googleusercontent.com^
 @@||cindyholbrook.lpages.co^
 @@||ciso-int.dps.mp.microsoft.com^
+@@||ciso.dps.mp.microsoft.com^
 @@||citrix.tradedoubler.com^
 @@||civicscience.com^
 @@||cj.dotomi.com^
@@ -2458,6 +2459,7 @@
 @@||intercontinental.ugc.bazaarvoice.com^
 @@||internal.paymentinstruments-int.mp.microsoft.com^
 @@||internal.paymentinstruments.mp.microsoft.com^
+@@||internalideas.splunk.com^
 @@||internetofthings.ibmcloud.com^
 @@||intersport.peerius.com^
 @@||intgeo-client-ss.msg.skype.com^
@@ -4683,6 +4685,7 @@
 @@||www.122.2o7.net^
 @@||www.1pt.cqcounter.com^
 @@||www.1zz.cqcounter.com^
+@@||www.2shared.com^
 @@||www.4shared.com^
 @@||www.8ch.net^
 @@||www.91-cdn.com^
@@ -4729,6 +4732,7 @@
 @@||www.berush.com^
 @@||www.bestbuy.ca^
 @@||www.bestbuy.com^
+@@||www.better.fyi^
 @@||www.beyondmenu.com^
 @@||www.bgr.com^
 @@||www.binarydefense.com^
