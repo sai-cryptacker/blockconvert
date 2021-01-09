@@ -248,7 +248,6 @@ admedia.adgemini.de
 admin.brightcove.com
 admin.cs7777.vk.com
 admin.dable.io
-admin.playground.scp.splunk.com
 admin.scs.splunk.com
 admin.splunk.com
 admin.staging.scs.splunk.com
@@ -391,6 +390,7 @@ aonhewitt.ugc.bazaarvoice.com
 ap.org
 ap.spotify.com
 ap108.cs304112.vk.com
+apac-canary.messagingthread.skype.com
 api-cdn.embed.ly
 api-glb.smoot.apple.com
 api-global.netflix.com
@@ -430,20 +430,16 @@ api.mymonero.com
 api.onedrive.com
 api.ooyala.com
 api.particle.io
-api.playground.dev.splunk.com
 api.promotions.skype.com
 api.pushbullet.com
 api.razorpay.com
 api.rlje.net
-api.scp.splunk.com
 api.sec.miui.com
-api.skype.com
 api.soundcloud.com
 api.splunk.com
 api.staging.scp.splunk.com
 api.target.com
 api.tau.vk.com
-api.teams.skype.com
 api.tradedoubler.com
 api.tw06.xlmc.sandai.net
 api.twisto.cz
@@ -454,7 +450,6 @@ api.vanilla.futurecdn.net
 api.videos.oovvuu.com
 api.vip.miui.com
 api.zaloapp.com
-api2.playground.dev.splunk.com
 api3.siftscience.com
 apis.google.com
 apis.vk.com
@@ -833,6 +828,7 @@ c4.ugc.bazaarvoice.com
 c5.ugc.bazaarvoice.com
 c6.ugc.bazaarvoice.com
 c64.assets-yammer.com
+ca-canary.messagingthread.skype.com
 ca.2.cqcounter.com
 ca.cqcounter.com
 cabelas.ugc.bazaarvoice.com
@@ -1123,7 +1119,6 @@ content.invisioncic.com
 content.jwplatform.com
 content.logmein.com
 contentapi.skype.com
-contentservice.dce.mp.microsoft.com
 continuum.dds.microsoft.com
 contracts.openx.com
 cookieblock.trackersimulate.org
@@ -1352,6 +1347,7 @@ cu.vk.com
 cubesmart.ugc.bazaarvoice.com
 cursecdn.com
 curvesncombatboots.com
+cus-canary.messagingthread.skype.com
 custhelp.com
 custody.coinbase.com
 customerevents.netflix.com
@@ -1477,7 +1473,6 @@ devint-cdn.openx.com
 devint-docs.data-service-api.openx.com
 devint-docs.openaudience.openx.com
 devint-docs.openx.com
-devspaces.skype.com
 di.com.pl
 di.vk.com
 diagvirus.vk.com
@@ -1487,7 +1482,6 @@ dictionary.cambridge.org
 digg.com
 digicert.com
 digitalassetlinks.googleapis.com
-digitalattachclaims-int.purchase.mp.microsoft.com
 digitalattachclaims.purchase.mp.microsoft.com
 digitalriver.com
 digitaltrends.com
@@ -1611,6 +1605,7 @@ e785s8hz.micpn.com
 e8999.b.akamaiedge.net
 ea.com
 ea1-authgw.asm.skype.com
+eas-canary.messagingthread.skype.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
 eastus.pi-dns.com
 easybytez.com
@@ -1688,6 +1683,7 @@ estimulos-y-respuestas.piter-ix.vk.com
 et4.de
 ethn.io
 etl.tindersparks.com
+eu-canary.messagingthread.skype.com
 eu-v20.events.data.microsoft.com
 eu.logentries.com
 eu1.heatmap.it
@@ -1698,6 +1694,7 @@ eu7.heatmap.it
 eu8.heatmap.it
 eu9.heatmap.it
 eus1-authgw.asm.skype.com
+eus2-canary.messagingthread.skype.com
 ev.rdtcdn.com
 evans.ugc.bazaarvoice.com
 evanscycles-uk.ugc.bazaarvoice.com
@@ -1805,7 +1802,6 @@ finance.yahoo.com
 financialcontent.com
 find.api.micloud.xiaomi.net
 findnsave.com
-firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 firstlook.org
 fiverr.com
@@ -1982,6 +1978,7 @@ glb.frontend-int.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
+global-canary.messagingthread.skype.com
 global-www.adform.net
 global.adform.net
 global.edge.bamgrid.com
@@ -2355,7 +2352,6 @@ img.alicdn.com.danuoyi.alicdn.com
 img.cqcounter.com
 img.purch.com
 img.shouji.sogou.com
-img.teams.skype.com
 img.tradedoubler.com
 img.vidible.tv
 img1.blogblog.com
@@ -2923,7 +2919,6 @@ msedge.net
 msftconnecttest.com
 msg.edit.yahoo.com
 msg2.client.xunlei.com
-msgapi.skype.com
 msh.amazon.com
 msn.com
 mt-1321.alpha.dashboard.mgid.com
@@ -2995,6 +2990,7 @@ netflix.com
 netfort.com
 nets.help.adfox.ru
 networksolutions.com
+neu-canary.messagingthread.skype.com
 neu1-authgw.asm.skype.com
 new.tradedoubler.com
 new.vk.com
@@ -3043,6 +3039,7 @@ nmcheck.gnome.org
 no-cache.hubspot.com
 no-ip.com
 no.2.cqcounter.com
+noam-canary.messagingthread.skype.com
 noexit.tv
 nola.com
 norauto.ugc.bazaarvoice.com
@@ -3055,7 +3052,6 @@ northeu.pi-dns.com
 nos.netease.com
 notabug.org
 notebooksbilliger.de
-notification-hub.skype.com
 notifications.google.com
 notify.vk.com
 notify.xboxlive.com
@@ -3305,7 +3301,6 @@ photo.store.qq.com
 photobucket.com
 photos-ugc.l.googleusercontent.com
 phplist.com
-phrock08.class.splunk.com
 phs.tanx.com
 phx.origin.delivery.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
@@ -3423,6 +3418,7 @@ productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 products.office.com
 productsummary-int.dps.mp.microsoft.com
+productsummary.dps.mp.microsoft.com
 productweb-int.dps.mp.microsoft.com
 productweb.dps.mp.microsoft.com
 profile.target.com
@@ -3469,7 +3465,6 @@ pulsar-app-play1.playground.scp.splunk.com
 pulsar-istio-play1.playground.scp.splunk.com
 puma.ugc.bazaarvoice.com
 pumajapan.ugc.bazaarvoice.com
-purchase-int.mp.microsoft.com
 purchase.mp.microsoft.com
 purdy.ugc.bazaarvoice.com
 push.services.mozilla.com
@@ -3588,7 +3583,6 @@ resultspage.com
 returnpath.com
 rewardstyle.com
 richmedia.coolespiele.com
-riker-int.dps.mp.microsoft.com
 riker.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
@@ -3723,6 +3717,7 @@ search.yahoo.com
 searchanise.com
 searchenginejournal.com
 sears.com
+seas-canary.messagingthread.skype.com
 seatme.yelp.com
 secure-cf-c.ooyala.com
 secure.aadcdn.microsoftonline-p.com
@@ -4020,7 +4015,6 @@ static.xx.fbcdn.net
 static.zdassets.com
 staticamzn.com
 statics.streamable.com
-statics.teams.skype.com
 staticxx.facebook.com
 stats.bitcoin.it
 stats.cqcounter.com
@@ -4080,7 +4074,6 @@ sup.adfox.ru
 support.coinbase.com
 support.microsoft.com
 support.notebooksbilliger.de
-support.skype.com
 survey.dps.mp.microsoft.com
 survey.euro.confirmit.com
 survey.forseeresults.com
@@ -4571,7 +4564,6 @@ webcomp.tradedoubler.com
 webconf.tradedoubler.com
 webflow.com
 webhook.logentries.com
-webhook.teams.skype.com
 webmail.laposte.net
 webmail.orange.fr
 webmasters.stackexchange.com
@@ -4590,6 +4582,7 @@ werbung.pinkstinks.de
 westus.pi-dns.com
 wetransfer.com
 wetter.de
+weu-canary.messagingthread.skype.com
 weu1-authgw.asm.skype.com
 whatismyipaddress.com
 whirlpool.net.au
@@ -4697,6 +4690,7 @@ www.adwords.google.com
 www.aetna.com
 www.affirm.com
 www.agency.help.adfox.ru
+www.aka.ms
 www.alexa.com
 www.algolia.com
 www.amazon.co.uk
@@ -4705,7 +4699,6 @@ www.amazon.de
 www.amazon.es
 www.amazon.fr
 www.amazon.in
-www.amazon.it
 www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.analytics.tradedoubler.com
@@ -4789,7 +4782,6 @@ www.dn.se
 www.driftt.com
 www.drive.google.com
 www.dropbox.com
-www.duosecurity.com
 www.easybytez.com
 www.ebay.com
 www.ecdinterface.philips.com
@@ -4800,7 +4792,6 @@ www.emjcd.com
 www.engadget.com
 www.et4.de
 www.ethn.io
-www.example.org
 www.expressen.se
 www.facebook.com
 www.fansonly.com
@@ -4816,12 +4807,10 @@ www.fonts.tradedoubler.com
 www.forbes.com
 www.force.com
 www.forms.gle
-www.fortune.com
 www.forum.vk.com
 www.forums.adafruit.com
 www.fox2now.com
 www.fr.2.cqcounter.com
-www.framasoft.org
 www.freebsd.org
 www.freedownloadmanager.org
 www.fwmrm.net
@@ -4830,7 +4819,6 @@ www.gardenstatehelicopters.com
 www.geoplugin.net
 www.georiot.com
 www.gigya.com
-www.github.com
 www.github.developerdan.com
 www.github.io
 www.glb.paypal.com
@@ -4938,7 +4926,6 @@ www.nationbuilder.com
 www.naver.com
 www.nbcnews.com
 www.nbcnewyork.com
-www.nesn.com
 www.new.tradedoubler.com
 www.newrelic.com
 www.nextcloud.com
@@ -4958,7 +4945,6 @@ www.olark.com
 www.onesignal.com
 www.onetrust.com
 www.onion.to
-www.opendesktop.org
 www.opensubtitles.org
 www.openvpn.tradedoubler.com
 www.openwall.com
@@ -4984,7 +4970,6 @@ www.pocketnow.com
 www.polldaddy.com
 www.pool.ntp.org
 www.pornhub.com
-www.postimage.org
 www.ppc.tradedoubler.com
 www.privateinternetaccess.com
 www.proofpoint.com
@@ -4995,6 +4980,7 @@ www.qualtrics.com
 www.quora.com
 www.rakuten.com
 www.reddit.com
+www.redditstatic.com
 www.redirectingat.com
 www.redirects.tradedoubler.com
 www.reebok.com
@@ -5091,6 +5077,7 @@ www.wangbase.com
 www.watchdog.burst-alliance.org
 www.weather.com
 www.web.burst-alliance.org
+www.wikipedia.org
 www.wired.com
 www.wistia.com
 www.worldnow.com
