@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-01-20Z
+! Version: 2021-01-23Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-01-20Z
+! Last modified: 2021-01-23Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -269,7 +269,6 @@
 @@||admin.cs7777.vk.com^
 @@||admin.dable.io^
 @@||admin.playground.scp.splunk.com^
-@@||admin.scs.splunk.com^
 @@||admin.splunk.com^
 @@||admin.staging.scp.splunk.com^
 @@||admin.staging.scs.splunk.com^
@@ -491,6 +490,7 @@
 @@||app.adjust.com^
 @@||app.alipay.com^
 @@||app.appsflyer.com^
+@@||app.bugsnag.com^
 @@||app.chat.global.xiaomi.net^
 @@||app.chat.xiaomi.net^
 @@||app.hubspot.com^
@@ -574,9 +574,7 @@
 @@||auth.adfox.ru^
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||auth.gfx.ms^
-@@||auth.playground.scp.splunk.com^
 @@||auth.scp.splunk.com^
-@@||auth.staging.scs.splunk.com^
 @@||auth.vk.com^
 @@||auth0.com^
 @@||authbe.sec.intl.miui.com^
@@ -725,8 +723,6 @@
 @@||blogspot.l.googleusercontent.com^
 @@||bloomberg.com^
 @@||bloxcms.com^
-@@||bn2-extorigin.delivery.mp.microsoft.com^
-@@||bn2-prod.delivery.mp.microsoft.com^
 @@||bn2wns1.wns.windows.com^
 @@||bn3sch020010558.wns.windows.com^
 @@||bn3sch020010560.wns.windows.com^
@@ -872,7 +868,6 @@
 @@||carrefour.adform.net^
 @@||carsondellosa.ugc.bazaarvoice.com^
 @@||cas.org.skyline.vk.com^
-@@||catalog.update.microsoft.com^
 @@||cbsi.com^
 @@||cbsl.mp.microsoft.com^
 @@||cc.cnetcontent.com^
@@ -1113,7 +1108,6 @@
 @@||config.pinyin.sogou.com^
 @@||configuration.apple.com.akadns.net^
 @@||confirmit.com^
-@@||confluence.tradedoubler.com^
 @@||connect.aws.dev.tradedoubler.com^
 @@||connect.facebook.net^
 @@||connect.rom.miui.com^
@@ -1379,8 +1373,6 @@
 @@||cwa.tradedoubler.com^
 @@||cws.conviva.com^
 @@||cxt.tradedoubler.com^
-@@||cy2-extorigin.delivery.mp.microsoft.com^
-@@||cy2-prod.delivery.mp.microsoft.com^
 @@||cy2.displaycatalog.md.mp.microsoft.com.akadns.net^
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^
 @@||cybercrime-tracker.net^
@@ -1420,7 +1412,6 @@
 @@||davidsbridal.ugc.bazaarvoice.com^
 @@||db.burst-alliance.org^
 @@||db.local.clamav.net^
-@@||db5-extorigin.delivery.mp.microsoft.com^
 @@||dcape-na.amazon.com^
 @@||dddd.vk.com^
 @@||ddragon.leagueoflegends.com^
@@ -1541,7 +1532,6 @@
 @@||docs.bugsnag.com^
 @@||docs.data-service-api.openx.com^
 @@||docs.google.com^
-@@||docs.openaudience.openx.com^
 @@||docs.openx.com^
 @@||docs.vk.com^
 @@||documentcloud.org^
@@ -1613,7 +1603,6 @@
 @@||e8999.b.akamaiedge.net^
 @@||ea.az.tops.purchase.mp.microsoft.com^
 @@||ea.com^
-@@||ea1-authgw.asm.skype.com^
 @@||eas-canary.messagingthread.skype.com^
 @@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
 @@||eastus.pi-dns.com^
@@ -1697,7 +1686,6 @@
 @@||eu7.heatmap.it^
 @@||eu8.heatmap.it^
 @@||eu9.heatmap.it^
-@@||eus1-authgw.asm.skype.com^
 @@||eus2-canary.messagingthread.skype.com^
 @@||eus2.az.tops.purchase.mp.microsoft.com^
 @@||ev.rdtcdn.com^
@@ -1734,7 +1722,6 @@
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external-lhr9-1.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
-@@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||exxonmobil.ugc.bazaarvoice.com^
 @@||f.chtah.com^
 @@||f1.g.mi.com^
@@ -1758,7 +1745,6 @@
 @@||fbcdn-profile-a.akamaihd.net^
 @@||fbcdn.net^
 @@||fc-resources.fastcompany.com^
-@@||fe1.update.microsoft.com^
 @@||fe2.update.microsoft.com^
 @@||fe2.update.microsoft.com.akadns.net^
 @@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net^
@@ -2097,8 +2083,6 @@
 @@||history.com^
 @@||hitfile.net^
 @@||hk.2.cqcounter.com^
-@@||hk2-extorigin.delivery.mp.microsoft.com^
-@@||hk2-prod.delivery.mp.microsoft.com^
 @@||hk2.wns.windows.com^
 @@||hk2sch130020721.wns.windows.com^
 @@||hk2sch130020723.wns.windows.com^
@@ -2459,7 +2443,6 @@
 @@||issuu.com^
 @@||isterekhov.cs7777.vk.com^
 @@||istio-play1-admin.playground.scp.splunk.com^
-@@||istio-play1-auth.playground.scp.splunk.com^
 @@||istio-play1-gw.playground.scp.splunk.com^
 @@||istockphoto.com^
 @@||it.2.cqcounter.com^
@@ -2482,8 +2465,6 @@
 @@||jcrewfactory.ugc.bazaarvoice.com^
 @@||jdownloader.org^
 @@||jenkins2.devapp.tradedoubler.com^
-@@||jira-ng.tradedoubler.com^
-@@||jira.tradedoubler.com^
 @@||jm0199515.splunk.com^
 @@||jmbruneau.ugc.bazaarvoice.com^
 @@||jo.cqcounter.com^
@@ -2628,6 +2609,7 @@
 @@||limtu.ifmo.ru^
 @@||linebinevaskemaskine.piter-ix.vk.com^
 @@||linkedin.com^
+@@||links.e.theatlantic.com^
 @@||links.getblueshift.com^
 @@||links.iterable.com^
 @@||links.mint.com^
@@ -2978,7 +2960,6 @@
 @@||nets.help.adfox.ru^
 @@||networksolutions.com^
 @@||neu-canary.messagingthread.skype.com^
-@@||neu1-authgw.asm.skype.com^
 @@||new.tradedoubler.com^
 @@||new.vk.com^
 @@||newad.mail.wo.cn^
@@ -3059,7 +3040,6 @@
 @@||nsatc.net^
 @@||nt3.ggpht.com^
 @@||ntoss.vk.com^
-@@||nus1-authgw.asm.skype.com^
 @@||nwww.vk.com^
 @@||ny.com^
 @@||ny1.com^
@@ -3165,7 +3145,6 @@
 @@||opf.ooyala.com^
 @@||opinion.latimes.com^
 @@||optimizely.com^
-@@||or.delivery.mp.microsoft.com^
 @@||oracle.com^
 @@||orange.fr^
 @@||orange.ugc.bazaarvoice.com^
@@ -3195,7 +3174,6 @@
 @@||p.ebaystatic.com^
 @@||p.imgur.com^
 @@||p.jwpcdn.com^
-@@||pac-int.dse.mp.microsoft.com^
 @@||pacificcoast.ugc.bazaarvoice.com^
 @@||packages-int.dps.mp.microsoft.com^
 @@||packages.chocolatey.org^
@@ -3369,7 +3347,6 @@
 @@||privacymanager.io^
 @@||privateinternetaccess.com^
 @@||prnt.sc^
-@@||prod-docs.openaudience.openx.com^
 @@||prod-docs.openx.com^
 @@||prod.disqus.map.fastlylb.net^
 @@||prod.telemetry.ros.rockstargames.com^
@@ -3489,7 +3466,6 @@
 @@||realestate.nj.com^
 @@||realnetwork.tags.crwdcntrl.net^
 @@||recaptcha.net^
-@@||recommend.skype.com^
 @@||recruitics.com^
 @@||recurly.com^
 @@||redcdn.pl^
@@ -3600,7 +3576,6 @@
 @@||s2.graphiq.com^
 @@||s2.symcb.com^
 @@||s2.wp.com^
-@@||s2s.recommend.infra.skype.com^
 @@||s3-1.amazonaws.com^
 @@||s3-us-west-1.amazonaws.com^
 @@||s3.amazonaws.com^
@@ -3609,7 +3584,6 @@
 @@||s7.orientaltrading.com^
 @@||s9vk01jgn.vk.com^
 @@||sa.symcb.com^
-@@||sa1-authgw.asm.skype.com^
 @@||sacramento.cbslocal.com^
 @@||sadc-24227.alpha.dashboard.mgid.com^
 @@||sadc-24227.beta.dashboard.mgid.com^
@@ -3622,7 +3596,6 @@
 @@||sakeena.cs304111.vk.com^
 @@||salesforce.com^
 @@||salesforceliveagent.com^
-@@||salesoutreach.splunk.com^
 @@||salsalabs.com^
 @@||salsalabs.org^
 @@||saltcdn2.vk.com^
@@ -3823,6 +3796,7 @@
 @@||speedcurve.com^
 @@||spiceworks.com^
 @@||spiegel-de.spiegel.de^
+@@||splunk-base.splunk.com^
 @@||splunkbase-play.staging.splunk.com^
 @@||sport.onet.pl^
 @@||sport.pl^
@@ -3949,7 +3923,6 @@
 @@||static-xl9-ssl.xunlei.com^
 @@||static.3001.net^
 @@||static.ada.support^
-@@||static.asm.skype.com^
 @@||static.bbci.co.uk^
 @@||static.beyondmenu.com^
 @@||static.cloud.coveo.com^
@@ -4050,8 +4023,6 @@
 @@||sweetbaysupermarket.ugc.bazaarvoice.com^
 @@||swiftype.com^
 @@||swrap.tradedoubler.com^
-@@||sws.update.microsoft.com^
-@@||sws1.update.microsoft.com^
 @@||sync.tradedoubler.com^
 @@||syndication.twimg.com^
 @@||syndication.twitter.com^
@@ -4164,7 +4135,6 @@
 @@||tinypass.com^
 @@||tinypic.com^
 @@||tinyurl.com^
-@@||tip.or.delivery.mp.microsoft.com^
 @@||title.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||tkx-acc.apis.anvato.net^
@@ -4499,7 +4469,6 @@
 @@||watson.telemetry.microsoft.com^
 @@||way.vk.com^
 @@||wbd.ms^
-@@||wbtapi.class.splunk.com^
 @@||wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com^
 @@||wd-prod-ss.trafficmanager.net^
 @@||wdcp.microsoft.com^
@@ -4545,7 +4514,6 @@
 @@||wetransfer.com^
 @@||wetter.de^
 @@||weu-canary.messagingthread.skype.com^
-@@||weu1-authgw.asm.skype.com^
 @@||whatismyipaddress.com^
 @@||whirlpool.net.au^
 @@||whiteboard.microsoft.com^
@@ -4559,7 +4527,6 @@
 @@||widgetserver.com^
 @@||wifiapi.micloud.xiaomi.net^
 @@||wiggle.ugc.bazaarvoice.com^
-@@||wiki.tradedoubler.com^
 @@||wikidata.org^
 @@||wikidot.com^
 @@||wikimedia.org^
@@ -4588,7 +4555,6 @@
 @@||woodpecker.uc.cn^
 @@||woosmap.com^
 @@||wordpress.com^
-@@||workflowservice-dev.dps.mp.microsoft.com^
 @@||workflowservice-int.dps.mp.microsoft.com^
 @@||world-gen.g.aaplimg.com^
 @@||worldnow.com^
@@ -4653,11 +4619,10 @@
 @@||www.aka.ms^
 @@||www.alexa.com^
 @@||www.algolia.com^
+@@||www.aliexpress.com^
 @@||www.amazon.co.uk^
 @@||www.amazon.com^
 @@||www.amazon.de^
-@@||www.amazon.es^
-@@||www.amazon.fr^
 @@||www.amazon.in^
 @@||www.amazoncustomerservice.d2.sc.omtrdc.net^
 @@||www.amzn.to^
@@ -4754,7 +4719,6 @@
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
-@@||www.discovery.com^
 @@||www.dn.se^
 @@||www.driftt.com^
 @@||www.drive.google.com^
@@ -4774,7 +4738,6 @@
 @@||www.fbcdn.net^
 @@||www.filesmonster.com^
 @@||www.fili.cc^
-@@||www.flattr.com^
 @@||www.flickr.com^
 @@||www.fling.com^
 @@||www.fm.tuba.pl^
@@ -4798,6 +4761,7 @@
 @@||www.gardenstatehelicopters.com^
 @@||www.geoplugin.net^
 @@||www.georiot.com^
+@@||www.geotrust.com^
 @@||www.gigya.com^
 @@||www.github.developerdan.com^
 @@||www.github.io^
@@ -4850,12 +4814,10 @@
 @@||www.jdoqocy.com^
 @@||www.jdownloader.org^
 @@||www.joblo.com^
-@@||www.jsfiddle.net^
 @@||www.jsonip.com^
 @@||www.kaltura.com^
 @@||www.kampyle.com^
 @@||www.kcsoftwares.com^
-@@||www.kickapps.com^
 @@||www.klarna.com^
 @@||www.komputerswiat.pl^
 @@||www.kopimi.com^
@@ -4896,6 +4858,7 @@
 @@||www.msn.com^
 @@||www.mywot.com^
 @@||www.namecheap.com^
+@@||www.narkive.com^
 @@||www.naver.com^
 @@||www.nbcnews.com^
 @@||www.new.tradedoubler.com^
@@ -4905,7 +4868,6 @@
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
-@@||www.noexit.tv^
 @@||www.nola.com^
 @@||www.nordichardware.se^
 @@||www.northeu.pi-dns.com^
@@ -5010,6 +4972,7 @@
 @@||www.statcounter.com^
 @@||www.storage.googleapis.com^
 @@||www.strefa.fm^
+@@||www.stripe.com^
 @@||www.t-online.de^
 @@||www.t.co^
 @@||www.tags.crwdcntrl.net^
@@ -5060,9 +5023,8 @@
 @@||www.weather.com^
 @@||www.web.burst-alliance.org^
 @@||www.webmd.com^
-@@||www.wikipedia.org^
+@@||www.winfuture.de^
 @@||www.wired.com^
-@@||www.wistia.com^
 @@||www.worldnow.com^
 @@||www.wshifen.com^
 @@||www.wsj.com^
@@ -5073,7 +5035,6 @@
 @@||www.xboxlive.com^
 @@||www.yahoo.com^
 @@||www.yahoo.comwww.vk.com^
-@@||www.yellowpages.com^
 @@||www.yotpo.com^
 @@||www.youtube-nocookie.com^
 @@||www.youtube.com^
