@@ -1084,6 +1084,7 @@ com.cloudflare-dns.com
 commozilla.cloudflare-dns.com
 community.spiceworks.com
 completion.amazon.com
+composerapi-int.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
 composerweb.dps.mp.microsoft.com
 compute.googleapis.com
@@ -2245,7 +2246,6 @@ ibm.com
 ibsys.com
 ic3-voiceauth-apac.skype.com
 ic3-voiceauth-emea.skype.com
-ic3-voiceauth-eus.skype.com
 ic3-voiceauth-noam.skype.com
 ic3-voiceauth-scus.skype.com
 ic3-voiceauth-weu.skype.com
@@ -2824,6 +2824,7 @@ miui.com
 miui.net
 mixcloud.com
 mixnews.lv
+mkt.tradedoubler.com
 mlb.com
 mlive.com
 mls.com
@@ -3165,6 +3166,7 @@ ozilla.cloudflare-dns.com
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
+pac-int.dse.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
 packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
@@ -4601,6 +4603,7 @@ www.a-0008.a-msedge.net
 www.a-0009.a-msedge.net
 www.a.shifen.com
 www.accuweather.com
+www.add0n.com
 www.adfox.ru
 www.adwords.google.com
 www.aeriagames.com
@@ -4710,7 +4713,9 @@ www.demotywatory.pl
 www.digg.com
 www.digicert.com
 www.digitaltrends.com
+www.discovery.com
 www.dn.se
+www.donorbox.org
 www.driftt.com
 www.drive.google.com
 www.dropbox.com
@@ -4726,6 +4731,7 @@ www.ethn.io
 www.everyaction.com
 www.expressen.se
 www.facebook.com
+www.familydollar.com
 www.fbcdn.net
 www.filesmonster.com
 www.fili.cc
@@ -4802,6 +4808,7 @@ www.istockphoto.com
 www.iubenda.com
 www.jaleco.com
 www.janrain.com
+www.jarv.is
 www.jdoqocy.com
 www.jdownloader.org
 www.joblo.com
@@ -4824,6 +4831,7 @@ www.livejournal.com
 www.load.to
 www.logentries.com
 www.loggly.com
+www.lowes.com
 www.luckyorange.com
 www.m.vk.com
 www.mailchimp.com
@@ -4870,6 +4878,7 @@ www.ojrq.net
 www.olark.com
 www.onesignal.com
 www.onetrust.com
+www.onion.to
 www.openbsd.org
 www.openstreetmap.org
 www.opensubtitles.org
@@ -5001,10 +5010,10 @@ www.ultimedia.com
 www.unibytes.com
 www.unix.com
 www.userscripts-mirror.org
-www.variety.com
 www.vgwort.de
 www.vidible.tv
 www.viglink.com
+www.virtualearth.net
 www.vk.vk.com
 www.vmn.net
 www.wallet.burst-alliance.org
