@@ -211,12 +211,9 @@ aboo.se
 abroad.apilocate.amap.com
 acast.com
 account.xiaomi.com
-accountmgmtservice-df.dce.mp.microsoft.com
-accountmgmtservice.dce.mp.microsoft.com
 accounts.eu1.gigya.com
 accounts.google.com
 accounts.us1.gigya.com
-accountuserservice.dce.mp.microsoft.com
 accuweather.com
 acehardware.com
 acs.m.taobao.com
@@ -231,7 +228,6 @@ ad.10010.com
 ad.2.cqcounter.com
 ad.abchina.com
 ad.kazakinfo.com
-ad.ourgame.com
 ad2.uoocuniversity.com
 adapt.tradedoubler.com
 adash.man.aliyuncs.com
@@ -262,7 +258,6 @@ admin.dable.io
 admin.playground.scp.splunk.com
 admin.splunk.com
 admin.staging.scp.splunk.com
-admin.staging.scs.splunk.com
 admin.tau.vk.com
 admin.vk.com
 adnet.qq.com
@@ -475,7 +470,9 @@ apis.vk.com
 apnewsregistry.com
 apollo.m.tau.vk.com
 apollo.tau.vk.com
+app-admin.playground.scp.splunk.com
 app-admin.scp.splunk.com
+app-admin.staging.scp.splunk.com
 app-advertise.zhihuishu.com
 app-api.ted.com
 app.adjust.com
@@ -505,7 +502,6 @@ appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com
-appxapi.dps.mp.microsoft.com
 apresolve.spotify.com
 apt.newrelic.com
 apt.sonarr.tv
@@ -565,7 +561,6 @@ audid-api.taobao.com
 auth.adfox.ru
 auth.api.sonyentertainmentnetwork.com
 auth.gfx.ms
-auth.scp.splunk.com
 auth.vk.com
 auth0.com
 authbe.sec.intl.miui.com
@@ -1114,6 +1109,7 @@ consent.google.com
 console-adnxs.tradedoubler.com
 console.cloud.google.com
 console.scs.splunk.com
+console.staging.scs.splunk.com
 consumer.entitlement.skype.com
 contactapi.micloud.xiaomi.net
 container.googleapis.com
@@ -1457,9 +1453,6 @@ deviantart.com
 deviantart.net
 device.auth.xboxlive.com
 deviceportal.nettvservices.com
-devicequalificationservice.mp.microsoft.com
-devicequalificationserviceppe.mp.microsoft.com
-devicereturns-preview.mp.microsoft.com
 devint-cdn.openx.com
 devint-docs.data-service-api.openx.com
 devint-docs.openaudience.openx.com
@@ -1522,7 +1515,6 @@ dnsotls-ds.metric.gstatic.com
 do.co
 doc.vk.com
 docs.bugsnag.com
-docs.data-service-api.openx.com
 docs.google.com
 docs.openx.com
 docs.vk.com
@@ -1702,17 +1694,7 @@ expovaccins.vk.com
 express.co.uk
 express.ugc.bazaarvoice.com
 expressen.se
-external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
 external.xx.fbcdn.net
 exxonmobil.ugc.bazaarvoice.com
 f.chtah.com
@@ -1749,8 +1731,6 @@ feedly.com
 feedproxy.google.com
 feeds.soundcloud.com
 feeds2.feedburner.com
-fees-int.mp.microsoft.com
-fees.mp.microsoft.com
 fellowes.ugc.bazaarvoice.com
 feodotracker.abuse.ch
 fg.v4.download.windowsupdate.com
@@ -1761,7 +1741,6 @@ fidelity-ssl.ugc.bazaarvoice.com
 file.dingtalk.com
 file.market.xiaomi.com
 filefactory.com
-filepicker.io
 files.adform.net
 files.alicdn.com
 files.catbox.moe
@@ -1847,7 +1826,6 @@ fox5sandiego.com
 fox6now.com
 fox8.com
 foxsports.com.au
-fpt.skype.com
 fptest.tradedoubler.com
 fr.2.cqcounter.com
 fr.aliexpress.com
@@ -2244,14 +2222,6 @@ iadsdk.apple.com.edgekey.net
 iamcredentials.googleapis.com
 ibm.com
 ibsys.com
-ic3-voiceauth-apac.skype.com
-ic3-voiceauth-emea.skype.com
-ic3-voiceauth-noam.skype.com
-ic3-voiceauth-scus.skype.com
-ic3-voiceauth-weu.skype.com
-ic3-voiceauth-wia.skype.com
-ic3-voiceauth-wus.skype.com
-ic3-voiceauth.skype.com
 icanhazip.com
 icbdr.com
 icebreaker.ugc.bazaarvoice.com
@@ -2386,7 +2356,6 @@ informer.com
 infowars.com
 infowarsstore.com
 ing.sakeena.cs304111.vk.com
-ingestionapi.dps.mp.microsoft.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestionuxservice-int.dps.mp.microsoft.com
 inputdirector.com
@@ -3147,7 +3116,6 @@ org.skyline.vk.com
 oriflame.ugc.bazaarvoice.com
 origin-cdn.openx.com
 origin-www.openx.com
-origin.delivery.mp.microsoft.com
 origin.platform.dev.openx.com
 origincache-atn.fbcdn.net
 orion.ugc.bazaarvoice.com
@@ -3172,7 +3140,6 @@ packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.dps.mp.microsoft.com
 packages.linuxmint.com
-packagesapi.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
@@ -3235,7 +3202,6 @@ photobucket.com
 photos-ugc.l.googleusercontent.com
 phplist.com
 phs.tanx.com
-phx.origin.delivery.mp.microsoft.com
 phx.sfs-dev.dcat.dsp.mp.microsoft.com
 phx.sfs-int.dcat.dsp.mp.microsoft.com
 pi-dns.com
@@ -3287,7 +3253,6 @@ player.radio.com
 player.vimeo.com
 players.brightcove.net
 playerstatic.entropymedia.com
-playground.dev.splunk.com
 playground.scp.splunk.com
 playstation.com
 plex.tv
@@ -3395,7 +3360,6 @@ pubsub.plex.bz
 pubsub.plex.tv
 pull.logentries.com
 pull.ticktick.com
-pulsar-app-play1.playground.scp.splunk.com
 puma.ugc.bazaarvoice.com
 pumajapan.ugc.bazaarvoice.com
 purchase.md.mp.microsoft.com
@@ -3494,7 +3458,6 @@ remixstid.vk.com
 removeviruswithease.vk.com
 rep.logentries.com
 reply.vk.com
-repo.skype.com
 report-uri.com
 reports.tradedoubler.com
 res.cloudinary.com
@@ -3612,7 +3575,6 @@ schibsted.no
 scholastic.ugc.bazaarvoice.com
 scholasticclubs.ugc.bazaarvoice.com
 scontent-iad3-1.cdninstagram.com
-scontent-lhr3-1.xx.fbcdn.net
 scontent-nrt1-1.xx.fbcdn.net
 scontent-ort2-2.xx.fbcdn.net
 scontent.cdninstagram.com
@@ -3711,7 +3673,6 @@ similarweb.com
 sina.com.cn
 sinaimg.cn
 sip.tradedoubler.com
-sip2.lgw.skype.com
 siteassets.parastorage.com
 siteimprove.com
 sites.google.com
@@ -3744,7 +3705,6 @@ smse2etest1.skype.com
 smse2etest2.skype.com
 smse2etest3.skype.com
 smse2etestsfe.skype.com
-smssfe.skype.com
 smtp.mail.yahoo.com
 smtp.srv67-190-240-87.vk.com
 smtp.srv71-129-240-87.vk.com
@@ -3961,7 +3921,6 @@ statuspage.io
 steamcommunity.com
 steampowered.com
 stenaline.ugc.bazaarvoice.com
-stitchapi-int.dps.mp.microsoft.com
 stopklatka.pl
 storage-int.mp.microsoft.com
 storage.cloud.google.com
@@ -3976,6 +3935,7 @@ store.steampowered.com
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 str.hit.gemius.pl
+streaming.playground.scp.splunk.com
 streaming.staging.scp.splunk.com
 streaming.vk.com
 streamtheworld.com
@@ -4480,7 +4440,6 @@ web.de
 web.facebook.com
 web.getmonero.org
 web.poecdn.com
-web.skype.com
 web.tresorit.com
 web5913.cs304110.vk.com
 web7.vk.com
@@ -4548,7 +4507,6 @@ wonderbox.ugc.bazaarvoice.com
 woodpecker.uc.cn
 woosmap.com
 wordpress.com
-workflowservice-int.dps.mp.microsoft.com
 world-gen.g.aaplimg.com
 worldnow.com
 worldstream.nl
@@ -4621,7 +4579,6 @@ www.amazon.in
 www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.analytics.tradedoubler.com
-www.androidforums.com
 www.angularjs.org
 www.anrdoezrs.net
 www.answers.com
@@ -4631,6 +4588,7 @@ www.ar.2.cqcounter.com
 www.attservicesinc.tt.omtrdc.net
 www.awin1.com
 www.baidu.com
+www.bazaarvoice.com
 www.bbc.com
 www.bcorg.web.burst-alliance.org
 www.berush.com
@@ -4657,7 +4615,6 @@ www.bing.se
 www.bit.ly
 www.bitcoin.it
 www.bitlord.com
-www.blockstack.org
 www.blog.xuite.net
 www.blogger.com
 www.bloomberg.com
@@ -4671,7 +4628,6 @@ www.businessinsider.com
 www.buymeacoffee.com
 www.buzzfeed.com
 www.ca.2.cqcounter.com
-www.catalog.update.microsoft.com
 www.cbsi.com
 www.ccleaner.com
 www.cda.pl
@@ -4688,7 +4644,6 @@ www.cnet.com
 www.cnn.com
 www.cnnmoney.tags.crwdcntrl.net
 www.code.createjs.com
-www.codeload.github.com
 www.coinbase.com
 www.coingeek.com
 www.coinpot.co
@@ -4722,7 +4677,6 @@ www.dropbox.com
 www.easybytez.com
 www.ebay.com
 www.ecdinterface.philips.com
-www.elinkeu.clickdimensions.com
 www.eloqua.com
 www.eltrafiko.com
 www.emjcd.com
@@ -4733,7 +4687,6 @@ www.expressen.se
 www.facebook.com
 www.familydollar.com
 www.fbcdn.net
-www.filesmonster.com
 www.fili.cc
 www.flickr.com
 www.fling.com
@@ -4787,11 +4740,10 @@ www.hstfr.tradedoubler.com
 www.hstno.tradedoubler.com
 www.hstse.tradedoubler.com
 www.hstus.tradedoubler.com
-www.humblebundle.com
+www.hulu.com
 www.ibm.com
 www.ibsys.com
 www.icanhazip.com
-www.idg.se
 www.ign.com
 www.ignorelist.com
 www.ikea.com
@@ -4822,7 +4774,6 @@ www.kopimi.com
 www.latimes.com
 www.leanplum.com
 www.linkedin.com
-www.linktr.ee
 www.linkwithin.com
 www.livechatinc.com
 www.livefyre.com
@@ -4863,6 +4814,7 @@ www.nbcnews.com
 www.new.tradedoubler.com
 www.newegg.com
 www.newrelic.com
+www.newyorker.com
 www.nike.com
 www.nj.com
 www.no-ip.com
@@ -4877,7 +4829,6 @@ www.observer.com
 www.ojrq.net
 www.olark.com
 www.onesignal.com
-www.onetrust.com
 www.onion.to
 www.openbsd.org
 www.openstreetmap.org
@@ -4925,7 +4876,6 @@ www.reddit.com
 www.redditstatic.com
 www.redirectingat.com
 www.redirects.tradedoubler.com
-www.reebok.com
 www.refinery29.com
 www.res.cloudinary.com
 www.returnpath.com
@@ -4935,14 +4885,12 @@ www.satkurier.pl
 www.scribblelive.com
 www.sdad.guru
 www.searchanise.com
-www.searchenginejournal.com
 www.sears.com
 www.securitymetrics.com
 www.segment.com
 www.semrush.com
 www.sgizmo.com
 www.share-online.biz
-www.shopify.com
 www.shst.tradedoubler.com
 www.si.2.cqcounter.com
 www.sina.com.cn
@@ -4951,7 +4899,6 @@ www.slate.com
 www.slidedeck.com
 www.snapchat.com
 www.snapengage.com
-www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
 www.someonewhocares.org
@@ -5020,7 +4967,6 @@ www.wallet.burst-alliance.org
 www.walmart.com
 www.wangbase.com
 www.watchdog.burst-alliance.org
-www.weather.com
 www.web.burst-alliance.org
 www.webmd.com
 www.winfuture.de
@@ -5144,7 +5090,6 @@ zoho.com
 zoho.eu
 zohopublic.com
 zohostatic.com
-zombaio.com
 zopim.com
 zoso.ro
 zz.cqcounter.com
