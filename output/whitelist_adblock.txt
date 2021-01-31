@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-01-30Z
+! Version: 2021-01-31Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-01-30Z
+! Last modified: 2021-01-31Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -416,6 +416,7 @@
 @@||api-global.netflix.com^
 @@||api-iad10.playground.scp.splunk.com^
 @@||api-maps.yandex.ru^
+@@||api-tip.dcat.dsp.mp.microsoft.com^
 @@||api.account.xiaomi.com^
 @@||api.ad.xiaomi.com^
 @@||api.adfox.ru^
@@ -579,7 +580,6 @@
 @@||autodiscover.awin1.com^
 @@||autodiscover.coingeek.com^
 @@||autodiscover.corp.vk.com^
-@@||autodiscover.notebooksbilliger.de^
 @@||autodiscover.team.vk.com^
 @@||autodiscover.tradedoubler.com^
 @@||av.tradedoubler.com^
@@ -718,6 +718,7 @@
 @@||blogspot.l.googleusercontent.com^
 @@||bloomberg.com^
 @@||bloxcms.com^
+@@||bn2.api-tip.dcat.dsp.mp.microsoft.com^
 @@||bn2wns1.wns.windows.com^
 @@||bn3sch020010558.wns.windows.com^
 @@||bn3sch020010560.wns.windows.com^
@@ -788,7 +789,6 @@
 @@||bsp.mp.microsoft.com^
 @@||bspmts-int.mp.microsoft.com^
 @@||bspmts.mp.microsoft.com^
-@@||bsxbenefits-int.mp.microsoft.com^
 @@||bsxbenefits.mp.microsoft.com^
 @@||bt-1262.beta.dashboard.mgid.com^
 @@||bt-1279.beta.dashboard.mgid.com^
@@ -805,7 +805,6 @@
 @@||bt-1442.alpha.dashboard.mgid.com^
 @@||bt-1476.alpha.dashboard.mgid.com^
 @@||bt.tradedoubler.com^
-@@||bucketlist.splunk.com^
 @@||bugsnag.com^
 @@||build.origami.ft.com^
 @@||builder-assets.unbounce.com^
@@ -1370,6 +1369,7 @@
 @@||cwa.tradedoubler.com^
 @@||cws.conviva.com^
 @@||cxt.tradedoubler.com^
+@@||cy2.api-tip.dcat.dsp.mp.microsoft.com^
 @@||cy2.displaycatalog.md.mp.microsoft.com.akadns.net^
 @@||cy2.licensing.md.mp.microsoft.com.akadns.net^
 @@||cybercrime-tracker.net^
@@ -1455,6 +1455,7 @@
 @@||dev.tradedoubler.com^
 @@||dev.twitter.com^
 @@||dev.virtualearth.net^
+@@||devcenterapi-df.dce.mp.microsoft.com^
 @@||developer.twitter.com^
 @@||developers.facebook.com^
 @@||developers.google.com^
@@ -1758,7 +1759,6 @@
 @@||files.graphiq.com^
 @@||files2.freedownloadmanager.org^
 @@||files5.adform.net^
-@@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
 @@||filesmonster.com^
 @@||fili.cc^
@@ -2434,7 +2434,6 @@
 @@||jcrewfactory.ugc.bazaarvoice.com^
 @@||jdownloader.org^
 @@||jenkins2.devapp.tradedoubler.com^
-@@||jm0199515.splunk.com^
 @@||jmbruneau.ugc.bazaarvoice.com^
 @@||jo.cqcounter.com^
 @@||joblo.com^
@@ -3318,12 +3317,9 @@
 @@||prod.disqus.map.fastlylb.net^
 @@||prod.telemetry.ros.rockstargames.com^
 @@||prod.tradedoubler.com^
-@@||product-int.dps.mp.microsoft.com^
-@@||product.dps.mp.microsoft.com^
 @@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||productcatalogservice.dce.mp.microsoft.com^
 @@||products.office.com^
-@@||productsummary-int.dps.mp.microsoft.com^
 @@||productsummary.dps.mp.microsoft.com^
 @@||productweb-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
@@ -3579,6 +3575,8 @@
 @@||scene7.com^
 @@||schd.ws^
 @@||sched.org^
+@@||schemaapi-int.dps.mp.microsoft.com^
+@@||schemaapi.dps.mp.microsoft.com^
 @@||schibsted.com^
 @@||schibsted.no^
 @@||scholastic.ugc.bazaarvoice.com^
@@ -3969,6 +3967,7 @@
 @@||support.coinbase.com^
 @@||support.microsoft.com^
 @@||support.notebooksbilliger.de^
+@@||survey.dps.mp.microsoft.com^
 @@||survey.euro.confirmit.com^
 @@||survey.forseeresults.com^
 @@||survey.pearsoncmg.com^
@@ -4540,6 +4539,7 @@
 @@||wufoo.com^
 @@||wupload.com^
 @@||wus2.az.tops.purchase.mp.microsoft.com^
+@@||wus2.displaycatalog-int.mp.microsoft.com^
 @@||wus2.staging-dcatbackend-int.mp.microsoft.com^
 @@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||wusthof.ugc.bazaarvoice.com^
@@ -4654,7 +4654,6 @@
 @@||www.cnnmoney.tags.crwdcntrl.net^
 @@||www.code.createjs.com^
 @@||www.coinbase.com^
-@@||www.coingeek.com^
 @@||www.coinpot.co^
 @@||www.cointraffic.io^
 @@||www.collamask.vk.com^
@@ -4677,6 +4676,7 @@
 @@||www.digg.com^
 @@||www.digicert.com^
 @@||www.digitaltrends.com^
+@@||www.directvnow.com^
 @@||www.discovery.com^
 @@||www.dn.se^
 @@||www.donorbox.org^
@@ -4708,16 +4708,17 @@
 @@||www.forums.adafruit.com^
 @@||www.fossbytes.com^
 @@||www.fox40.com^
+@@||www.fox43.com^
 @@||www.fox4kc.com^
 @@||www.fox59.com^
 @@||www.fox8.com^
 @@||www.fr.2.cqcounter.com^
+@@||www.framasoft.org^
 @@||www.frankerfacez.com^
 @@||www.freedownloadmanager.org^
 @@||www.fwmrm.net^
 @@||www.g.ezoic.net^
 @@||www.gap.com^
-@@||www.gardenstatehelicopters.com^
 @@||www.geoplugin.net^
 @@||www.georiot.com^
 @@||www.geotrust.com^
@@ -4765,7 +4766,6 @@
 @@||www.instapaper.com^
 @@||www.intercom.io^
 @@||www.ipify.org^
-@@||www.istockphoto.com^
 @@||www.iubenda.com^
 @@||www.jaleco.com^
 @@||www.janrain.com^
@@ -4804,10 +4804,10 @@
 @@||www.mbl.is^
 @@||www.mediafire.com^
 @@||www.mega.nz^
-@@||www.megaphone.fm^
 @@||www.mesh.com^
 @@||www.miaminewtimes.com^
 @@||www.mlive.com^
+@@||www.mobify.com^
 @@||www.monero.org^
 @@||www.moonbit.co.in^
 @@||www.mozilla.org^
@@ -4824,7 +4824,6 @@
 @@||www.newegg.com^
 @@||www.newrelic.com^
 @@||www.newyorker.com^
-@@||www.nike.com^
 @@||www.nj.com^
 @@||www.no-ip.com^
 @@||www.no.2.cqcounter.com^
@@ -4911,7 +4910,6 @@
 @@||www.snapengage.com^
 @@||www.sociallitelife.tags.crwdcntrl.net^
 @@||www.sohu.com^
-@@||www.someonewhocares.org^
 @@||www.spaceport.tradedoubler.com^
 @@||www.speedcurve.com^
 @@||www.sportsillustrated.tags.crwdcntrl.net^
@@ -4930,6 +4928,7 @@
 @@||www.storage.googleapis.com^
 @@||www.strefa.fm^
 @@||www.stripe.com^
+@@||www.surveygizmo.com^
 @@||www.t-online.de^
 @@||www.t.co^
 @@||www.tags.crwdcntrl.net^
@@ -4951,7 +4950,6 @@
 @@||www.tiktok.com^
 @@||www.tinypass.com^
 @@||www.tinyurl.com^
-@@||www.tld-list.com^
 @@||www.tmz.com^
 @@||www.tomshardware.com^
 @@||www.tools.tradedoubler.com^
@@ -4981,7 +4979,6 @@
 @@||www.webmd.com^
 @@||www.winfuture.de^
 @@||www.wired.com^
-@@||www.worldnow.com^
 @@||www.wshifen.com^
 @@||www.wsj.com^
 @@||www.wupload.com^
@@ -4996,6 +4993,7 @@
 @@||www.youtube.com^
 @@||www.zdnet.com^
 @@||www.zee.cws.conviva.com^
+@@||www.zendesk.com^
 @@||www.zerohedge.com^
 @@||www.ziplist.com^
 @@||www1.awin1.com^
