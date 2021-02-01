@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-01-31Z
+! Version: 2021-02-01Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-01-31Z
+! Last modified: 2021-02-01Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -219,6 +219,7 @@
 @@||aboo.se^
 @@||abroad.apilocate.amap.com^
 @@||acast.com^
+@@||access.tradedoubler.com^
 @@||account.xiaomi.com^
 @@||accounts.eu1.gigya.com^
 @@||accounts.google.com^
@@ -950,6 +951,7 @@
 @@||cds.d2s7q6s2.hwcdn.net^
 @@||cds.j3z9t3p6.hwcdn.net^
 @@||cds.s5x3j6q5.hwcdn.net^
+@@||ce1.uicdn.net^
 @@||celebslam.tags.crwdcntrl.net^
 @@||centraleu.pi-dns.com^
 @@||cern.ch^
@@ -2548,6 +2550,7 @@
 @@||lcdn-locator.apple.com.akadns.net^
 @@||leagueoflegends.com^
 @@||leanplum.com^
+@@||legacy.publisher.adservice.com^
 @@||legacy.tradedoubler.com^
 @@||lego.ugc.bazaarvoice.com^
 @@||lemon-ads.com^
@@ -3148,6 +3151,7 @@
 @@||packages.chocolatey.org^
 @@||packages.dps.mp.microsoft.com^
 @@||packages.linuxmint.com^
+@@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
 @@||paddle.com^
 @@||pagead.l.doubleclick.net^
@@ -3740,6 +3744,7 @@
 @@||soma.ugc.bazaarvoice.com^
 @@||someonewhocares.org^
 @@||son-video.ugc.bazaarvoice.com^
+@@||sonar-int.px.mp.microsoft.com^
 @@||sonar.px.mp.microsoft.com^
 @@||sorelintl.ugc.bazaarvoice.com^
 @@||soundcloud.com^
@@ -4555,6 +4560,7 @@
 @@||www.112.2o7.net^
 @@||www.122.2o7.net^
 @@||www.1pt.cqcounter.com^
+@@||www.1und1.de^
 @@||www.1zz.cqcounter.com^
 @@||www.2shared.com^
 @@||www.4shared.com^

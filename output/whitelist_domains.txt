@@ -210,6 +210,7 @@ abcnews.go.com
 aboo.se
 abroad.apilocate.amap.com
 acast.com
+access.tradedoubler.com
 account.xiaomi.com
 accounts.eu1.gigya.com
 accounts.google.com
@@ -941,6 +942,7 @@ cdp.aliexpress.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
+ce1.uicdn.net
 celebslam.tags.crwdcntrl.net
 centraleu.pi-dns.com
 cern.ch
@@ -2539,6 +2541,7 @@ lcdn-locator-usnkq.apple.com.akadns.net
 lcdn-locator.apple.com.akadns.net
 leagueoflegends.com
 leanplum.com
+legacy.publisher.adservice.com
 legacy.tradedoubler.com
 lego.ugc.bazaarvoice.com
 lemon-ads.com
@@ -3139,6 +3142,7 @@ packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.dps.mp.microsoft.com
 packages.linuxmint.com
+packagesapi-intppe.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 paddle.com
 pagead.l.doubleclick.net
@@ -3731,6 +3735,7 @@ som.aeroplan.com
 soma.ugc.bazaarvoice.com
 someonewhocares.org
 son-video.ugc.bazaarvoice.com
+sonar-int.px.mp.microsoft.com
 sonar.px.mp.microsoft.com
 sorelintl.ugc.bazaarvoice.com
 soundcloud.com
@@ -4546,6 +4551,7 @@ www-tc.pbs.org
 www.112.2o7.net
 www.122.2o7.net
 www.1pt.cqcounter.com
+www.1und1.de
 www.1zz.cqcounter.com
 www.2shared.com
 www.4shared.com

@@ -98,6 +98,7 @@ cdnp1.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static
 cdnp2.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
 cdnp3.stackassets.com # https://github.com/mkb2091/blockconvert/issues/64 Static assets for stacksocial.com
 cdn.privacy-mgmt.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-701373707 Breaks closing of a popup
+ce1.uicdn.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-769915219 Breaks login for many www.ionos.de and www.1und1.de services
 change.org
 checkappexec.microsoft.com
 chng.it
