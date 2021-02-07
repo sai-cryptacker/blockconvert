@@ -13,6 +13,7 @@ accounts.us1.gigya.com # Needed for iRobot app https://github.com/mkb2091/blockc
 activation.sls.microsoft.com
 activation-v2.sls.microsoft.com
 *.adafruit.com
+ada.support # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Cricket cell phone customer support
 adaway.org
 adblock.ee
 add0n.com
@@ -53,6 +54,7 @@ ars.smartscreen.microsoft.com
 assets.bwbx.io # Breaks bloomberg.com layout
 assets.micpn.com
 assets.penny-arcade.com
+att.ada.support # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Cricket cell phone customer support
 attfeedback.uservoice.com
 au.download.windowsupdate.com
 auth.gfx.ms
@@ -129,6 +131,7 @@ config.edge.skype.com
 confirmit.com
 content.invisioncic.com
 countryflags.io
+cricket.att.ada.support # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Cricket cell phone customer support
 crunchyroll.com
 ctldl.windowsupdate.com
 ct.sendgrid.net
@@ -214,6 +217,7 @@ fide.com
 files2.freedownloadmanager.org
 files.catbox.moe
 files.freedownloadmanager.org
+files.slack.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-771638966 Breaks user uploaded content on Slack
 filtri-dns.ga
 firebaseremoteconfig.googleapis.com # Breaks android applications internally updating
 fiverr.com
@@ -244,6 +248,7 @@ getmonero.org
 github.com
 github.developerdan.com
 gitlab.com
+gleam.io # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993
 g.live.com
 global.edge.bamgrid.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-687908780 Blocks access to Disney Plus
 global.ssl.fastly.net
@@ -260,6 +265,8 @@ gsp-ssl.ls-apple.com.akadns.net # Breaks Apple Maps
 guce.advertising.com
 guce.huffpost.com
 hblock.molinero.dev
+h-ebay.online-metrix.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks EBay external logins
+help.mint.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Mint help
 heureka.cz
 highcharts.com
 homedepot.tt.omtrdc.net
@@ -267,6 +274,7 @@ hostsfile.mine.nu
 howtogeek.com
 hubpages.com
 hwcdn.net
+i-am3p-cor003.api.p001.1drv.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks OneDrive/OutLook file storage
 ibm.com
 ign.com
 ignorelist.com
@@ -395,6 +403,7 @@ phishtank.com
 polyfill.io
 pool.ntp.org
 pornhub.com
+post.spmailtechnol.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Used for links in email
 powr.io
 privateinternetaccess.com
 *.prod.do.dsp.mp.microsoft.com
@@ -433,6 +442,7 @@ s7.orientaltrading.com
 safebrowsing-cache.google.com
 safebrowsing.google.com
 *.safelinks.protection.outlook.com
+sat1.us1-1.nanorep.co # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Mint help
 scrapinghub.com
 sdks.shopifycdn.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-707148021 Needed for webshops
 searchenginejournal.com
@@ -478,6 +488,7 @@ speedcurve.com
 spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
 *.splunk.com
 squidblacklist.org
+src.ebay-us.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks EBay external logins
 ssl.bblck.me
 sslbl.abuse.ch
 ssl.marfeelcdn.com
@@ -495,11 +506,14 @@ static.wikia.nocookie.net # https://github.com/mkb2091/blockconvert/issues/3#iss
 static.zdassets.com
 statsfe2.update.microsoft.com.akadns.net
 stats.foldingathome.org # https://github.com/mkb2091/blockconvert/issues/74 Regex False Positive
+stats.pingdom.com
 stats.stackexchange.com
 statuscake.com
 statuscake-email.com
 status.newrelic.com
+status.roll20.net
 *.storage.live.com
+storage.live.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks OneDrive/OutLook file storage
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 store-images.microsoft.com
