@@ -72,6 +72,7 @@ berush.com
 bestbuy.ca
 betfair.com
 better.fyi
+bgp.he.net # https://github.com/mkb2091/blockconvert/issues/86 Part of Hurricane Electric's Internet Toolkit
 b-graph.facebook.com
 bilder.bild.de # https://github.com/mkb2091/blockconvert/issues/57 Breaks images on https://www.bild.de/
 binarydefense.com
