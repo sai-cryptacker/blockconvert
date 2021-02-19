@@ -32,21 +32,21 @@ Malware, advert and tracking blocklist which consolidates and improves upon many
 
 ## Links
 
-[Adblock Plus format](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/adblock.txt)
+[Adblock Plus format](https://mkb2091.github.io/blockconvert/output/adblock.txt)
 
-[Hosts file format](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/hosts.txt)
+[Hosts file format](https://mkb2091.github.io/blockconvert/output/hosts.txt)
 
-[Domain list](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt)
+[Domain list](https://mkb2091.github.io/blockconvert/output/domains.txt)
 
-[Blocked IP address list](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/ip_blocklist.txt)
+[Blocked IP address list](https://mkb2091.github.io/blockconvert/output/ip_blocklist.txt)
 
-[DNS Response Policy Zone(RPZ) format](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.rpz)
+[DNS Response Policy Zone(RPZ) format](https://mkb2091.github.io/blockconvert/output/domains.rpz)
 
 As well as generating blocklists, this project also generates whitelists which are used in the process. If you maintain your own blocklist, you may find one of the following whitelists useful:
 
-[Whitelisted domains](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt)
+[Whitelisted domains](https://mkb2091.github.io/blockconvert/output/whitelist_domains.txt)
 
-[Whitelisted ABP format](https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_adblock.txt)
+[Whitelisted ABP format](https://mkb2091.github.io/blockconvert/output/whitelist_adblock.txt)
 
 ## The Process
 
