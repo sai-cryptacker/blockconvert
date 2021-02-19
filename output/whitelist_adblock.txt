@@ -3162,6 +3162,7 @@
 @@||secure.consumer.entitlement.skype.com^
 @@||secure.dshield.org^
 @@||secure.gravatar.com^
+@@||secure.indeed.com^
 @@||secure.logmein.com^
 @@||secure.mbl.is^
 @@||secure.netflix.com^

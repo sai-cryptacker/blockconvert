@@ -448,6 +448,7 @@ sdks.shopifycdn.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomm
 searchenginejournal.com
 *.search.msn.com
 search.msn.com
+secure.indeed.com # https://github.com/mkb2091/blockconvert/issues/84 Breaks login page for indeed.com
 secure.mbl.is
 semrush.com
 sendgrid.com # https://github.com/mkb2091/blockconvert/issues/70 Base domain is not used for tracking
