@@ -1299,6 +1299,7 @@
 @@||down-cdn.dingtalk.com^
 @@||down.sandai.net^
 @@||download.cnet.com^
+@@||download.db-ip.com^
 @@||download.electrum.org^
 @@||download.intsig.net^
 @@||download.maxmind.com^
