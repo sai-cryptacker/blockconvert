@@ -320,6 +320,7 @@
 @@||api.playground.dev.splunk.com^
 @@||api.promotions.skype.com^
 @@||api.pushbullet.com^
+@@||api.qrserver.com^
 @@||api.razorpay.com^
 @@||api.rlje.net^
 @@||api.scp.splunk.com^
@@ -1791,6 +1792,7 @@
 @@||googlecode.com^
 @@||googlecommerce.com^
 @@||googlehosted.l.googleusercontent.com^
+@@||googletagmanager.com^
 @@||googlevideo.com^
 @@||governmentjobs.com^
 @@||gp.se^
@@ -4391,6 +4393,7 @@
 @@||www.googleadservices.com^
 @@||www.googleapis.com^
 @@||www.googlecommerce.com^
+@@||www.googletagmanager.com^
 @@||www.googletagservices.com^
 @@||www.greenhouse.io^
 @@||www.gstatic.com^

@@ -42,6 +42,7 @@ api.facebook.com
 api.mobile.immobilienscout24.de # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-715523256 Breaks the immoscout24 app
 api.mymonero.com
 api.particle.io
+api.qrserver.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-780859152 Breaks setting up Google 2FA
 api.vanilla.futurecdn.net
 api.videos.oovvuu.com
 appleid.apple.com.akadns.net
@@ -260,6 +261,7 @@ go.microsoft.com
 google.*
 google.co.*
 google.com.*
+googletagmanager.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-780859152 Breaks setting up Google 2FA
 gs-loc.apple.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-695044303 Needed for Apple geolocation
 gsp-ssl-geomap.ls-apple.com.akadns.net # Breaks Apple Maps
 gsp-ssl.ls.apple.com # Break Apple Maps
