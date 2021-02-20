@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-02-19Z
+! Version: 2021-02-20Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-02-19Z
+! Last modified: 2021-02-20Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -4120,6 +4120,7 @@
 @@||www.amazon.com^
 @@||www.amazon.de^
 @@||www.amazon.in^
+@@||www.amazon.it^
 @@||www.amazoncustomerservice.d2.sc.omtrdc.net^
 @@||www.amzn.to^
 @@||www.anrdoezrs.net^
@@ -4406,6 +4407,7 @@
 @@||www.slack-redir.net^
 @@||www.slate.com^
 @@||www.snapengage.com^
+@@||www.snipcart.com^
 @@||www.sohu.com^
 @@||www.speedcurve.com^
 @@||www.spot.im^

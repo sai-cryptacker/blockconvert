@@ -4111,6 +4111,7 @@ www.amazon.co.uk
 www.amazon.com
 www.amazon.de
 www.amazon.in
+www.amazon.it
 www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
 www.anrdoezrs.net
@@ -4397,6 +4398,7 @@ www.skimresources.com
 www.slack-redir.net
 www.slate.com
 www.snapengage.com
+www.snipcart.com
 www.sohu.com
 www.speedcurve.com
 www.spot.im
