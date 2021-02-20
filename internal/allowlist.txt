@@ -345,6 +345,7 @@ media.pearsoncmg.com
 mediaredirect.microsoft.com
 mine.nu
 miro.medium.com # https://github.com/mkb2091/blockconvert/issues/77 and https://github.com/mkb2091/blockconvert/issues/3#issuecomment-748449378, Breaks images on medium.com
+mirror.co.uk
 m.me
 mobile.tube8.com
 mobile.twitter.com
@@ -428,6 +429,7 @@ reddit.app.link
 reddit.com
 redditstatic.s3.amazonaws.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-687908780 Breaks something
 redtube.com
+refinery29.com # Blog website
 report-uri.com
 rest-prde.immedia-semi.com
 returnpath.com
@@ -626,7 +628,6 @@ wscont.apps.microsoft.com
 wsj.com
 w.soundcloud.com # https://github.com/mkb2091/blockconvert/issues/51
 ww2.sinaimg.cn # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-758476709 Breaks images on Chinese social media Weibo
-www.refinery29.com # Blog website
 wwww.youporn.com
 ww.youporn.com
 wx2.sinaimg.cn # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-758476709 Breaks images on Chinese social media Weibo
