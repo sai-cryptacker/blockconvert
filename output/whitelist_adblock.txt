@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-02-20Z
+! Version: 2021-02-21Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-02-20Z
+! Last modified: 2021-02-21Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1574,6 +1574,7 @@
 @@||files.graphiq.com^
 @@||files.slack.com^
 @@||files2.freedownloadmanager.org^
+@@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
 @@||filesmonster.com^
 @@||fili.cc^
@@ -3014,6 +3015,7 @@
 @@||prod.disqus.map.fastlylb.net^
 @@||prod.telemetry.ros.rockstargames.com^
 @@||product-int.dps.mp.microsoft.com^
+@@||product.dps.mp.microsoft.com^
 @@||products.office.com^
 @@||productsummary-int.dps.mp.microsoft.com^
 @@||profile.target.com^
@@ -4340,6 +4342,7 @@
 @@||www.digitaltrends.com^
 @@||www.directvnow.com^
 @@||www.discovery.com^
+@@||www.distilnetworks.com^
 @@||www.dn.se^
 @@||www.donorbox.org^
 @@||www.driftt.com^
@@ -4603,6 +4606,7 @@
 @@||www.tusfiles.net^
 @@||www.twitter.com^
 @@||www.ultimedia.com^
+@@||www.ultraimg.com^
 @@||www.unibytes.com^
 @@||www.vgwort.de^
 @@||www.vidible.tv^

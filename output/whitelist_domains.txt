@@ -1565,6 +1565,7 @@ files.freedownloadmanager.org
 files.graphiq.com
 files.slack.com
 files2.freedownloadmanager.org
+filesapi-int.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
 filesmonster.com
 fili.cc
@@ -3005,6 +3006,7 @@ prnt.sc
 prod.disqus.map.fastlylb.net
 prod.telemetry.ros.rockstargames.com
 product-int.dps.mp.microsoft.com
+product.dps.mp.microsoft.com
 products.office.com
 productsummary-int.dps.mp.microsoft.com
 profile.target.com
@@ -4331,6 +4333,7 @@ www.digicert.com
 www.digitaltrends.com
 www.directvnow.com
 www.discovery.com
+www.distilnetworks.com
 www.dn.se
 www.donorbox.org
 www.driftt.com
@@ -4594,6 +4597,7 @@ www.turnto.com
 www.tusfiles.net
 www.twitter.com
 www.ultimedia.com
+www.ultraimg.com
 www.unibytes.com
 www.vgwort.de
 www.vidible.tv
