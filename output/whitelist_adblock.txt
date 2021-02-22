@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-02-21Z
+! Version: 2021-02-22Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-02-21Z
+! Last modified: 2021-02-22Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -33,6 +33,9 @@
 @@||1.www.s81c.com^
 @@||100-0-pool.burst-alliance.org^
 @@||1001.cloudflare-dns.com^
+@@||10180.redirect.appmetrica.yandex.com^
+@@||10267.redirect.appmetrica.yandex.com^
+@@||1038135.redirect.appmetrica.yandex.com^
 @@||11.vk.com^
 @@||110415.libdd.com^
 @@||1111.cloudflare-dns.com^
@@ -40,9 +43,12 @@
 @@||116profile.vk.com^
 @@||12.vk.com^
 @@||122.2o7.net^
+@@||1389598.redirect.appmetrica.yandex.com^
 @@||140cc.v.fwmrm.net^
 @@||1637156167.vk.com^
 @@||167274089.vk.com^
+@@||174640.redirect.appmetrica.yandex.com^
+@@||19531.redirect.appmetrica.yandex.com^
 @@||19534.redirect.appmetrica.yandex.com^
 @@||1dot0dot0dot1.cloudflare-dns.com^
 @@||1dot1dot1do1.cloudflare-dns.com^
@@ -60,14 +66,20 @@
 @@||2-edge-chat.facebook.com^
 @@||2.android.pool.ntp.org^
 @@||2.burst-alliance.org^
+@@||2.redirect.appmetrica.yandex.com^
 @@||2.vk.com^
 @@||21321.vk.com^
+@@||2171938.redirect.appmetrica.yandex.com^
+@@||21925.redirect.appmetrica.yandex.com^
 @@||22m.vk.com^
 @@||240.87.vk.com^
 @@||24timezones.com^
 @@||252faway.vk.com^
+@@||25378.redirect.appmetrica.yandex.com^
 @@||2540notify.vk.com^
 @@||267274089.vk.com^
+@@||28554.redirect.appmetrica.yandex.com^
+@@||29733.redirect.appmetrica.yandex.com^
 @@||2fapi.vk.com^
 @@||2faway.vk.com^
 @@||2fm.vk.com^
@@ -85,6 +97,8 @@
 @@||3p.ampproject.net^
 @@||4-edge-chat.facebook.com^
 @@||4.redirect.appmetrica.yandex.com^
+@@||40135.redirect.appmetrica.yandex.com^
+@@||42989.redirect.appmetrica.yandex.com^
 @@||43.vk.com^
 @@||45.vk.com^
 @@||4chan.org^
@@ -97,11 +111,14 @@
 @@||6457447.1z.vk.com^
 @@||68post.vk.com^
 @@||70i.net^
+@@||723003.redirect.appmetrica.yandex.com^
+@@||723009.redirect.appmetrica.yandex.com^
 @@||79423.analytics.edgekey.net^
 @@||7ww.vk.com^
 @@||87.vk.com^
 @@||8ch.net^
 @@||91-cdn.com^
+@@||917433.redirect.appmetrica.yandex.com^
 @@||91mobiles.com^
 @@||a-0001.a-msedge.net^
 @@||a-0002.a-msedge.net^
@@ -4532,12 +4549,14 @@
 @@||www.readability.com^
 @@||www.reddit.com^
 @@||www.redirectingat.com^
+@@||www.redtube.com^
 @@||www.reebok.com^
 @@||www.refinery29.com^
 @@||www.res.cloudinary.com^
 @@||www.returnpath.com^
 @@||www.roadandtrack.com^
 @@||www.rpxnow.com^
+@@||www.scribd.com^
 @@||www.sdad.guru^
 @@||www.searchanise.com^
 @@||www.searchenginejournal.com^
@@ -4600,6 +4619,7 @@
 @@||www.tomshardware.com^
 @@||www.transfer.sh^
 @@||www.trbimg.com^
+@@||www.trumba.com^
 @@||www.trustpilot.com^
 @@||www.tumblr.com^
 @@||www.turnto.com^
