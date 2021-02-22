@@ -63,6 +63,7 @@
 @@||1m.vk.com^
 @@||1und1.de^
 @@||1z.vk.com^
+@@||2-01-2c3e-003d.cdx.cedexis.net^
 @@||2-edge-chat.facebook.com^
 @@||2.android.pool.ntp.org^
 @@||2.burst-alliance.org^
@@ -880,6 +881,7 @@
 @@||cmail19.com^
 @@||cmail20.com^
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
+@@||cmd-int.dcat.dsp.mp.microsoft.com^
 @@||cn-geo1.uber.com^
 @@||cn.bing.com^
 @@||cname.tradepub.com^
@@ -914,6 +916,7 @@
 @@||com.biblio.vk.com^
 @@||com.cloudflare-dns.com^
 @@||com.place.63.6456456-62.6457447.1z.vk.com^
+@@||commercial.displaycatalog.mp.microsoft.com^
 @@||commozilla.cloudflare-dns.com^
 @@||community.spiceworks.com^
 @@||completion.amazon.com^
@@ -949,6 +952,7 @@
 @@||content.invisioncic.com^
 @@||content.jwplatform.com^
 @@||content.logmein.com^
+@@||contentservice.dce.mp.microsoft.com^
 @@||continuum.dds.microsoft.com^
 @@||coo-m-mark.vk.com^
 @@||cookieblock.trackersimulate.org^
@@ -1309,6 +1313,7 @@
 @@||display-test.ugc.bazaarvoice.com^
 @@||display.ugc.bazaarvoice.com^
 @@||displaycatalog-int.mp.microsoft.com^
+@@||displaycatalog.md.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||disq.us^
 @@||disqus.com^
@@ -1538,6 +1543,7 @@
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
 @@||extorigin-dev.dcat.dsp.mp.microsoft.com^
+@@||extorigin-int.dcat.dsp.mp.microsoft.com^
 @@||exxonmobil.ugc.bazaarvoice.com^
 @@||f.chtah.com^
 @@||f1.g.mi.com^
@@ -3603,6 +3609,7 @@
 @@||stat.download.xunlei.com^
 @@||statcounter.com^
 @@||static-dot-virustotalcloud.appspot.com^
+@@||static-exp1.licdn.com^
 @@||static-pepper.dealabs.com^
 @@||static-xl9-ssl.xunlei.com^
 @@||static.3001.net^
@@ -4266,6 +4273,7 @@
 @@||www.adblock.ee^
 @@||www.add0n.com^
 @@||www.adwords.google.com^
+@@||www.adyen.com^
 @@||www.aeriagames.com^
 @@||www.aetna.com^
 @@||www.affirm.com^
@@ -4347,6 +4355,7 @@
 @@||www.cs292596712.vk.com^
 @@||www.cutcaptcha.com^
 @@||www.cws.conviva.com^
+@@||www.dailymotion.com^
 @@||www.datadoghq-browser-agent.com^
 @@||www.dataplicity.com^
 @@||www.db.burst-alliance.org^
@@ -4380,6 +4389,7 @@
 @@||www.familydollar.com^
 @@||www.fastly.net^
 @@||www.fbcdn.net^
+@@||www.filesmonster.com^
 @@||www.fili.cc^
 @@||www.flattr.com^
 @@||www.flickr.com^
@@ -4535,6 +4545,7 @@
 @@||www.pling.com^
 @@||www.pocketnow.com^
 @@||www.polldaddy.com^
+@@||www.pool.ntp.org^
 @@||www.pornhub.com^
 @@||www.postimage.org^
 @@||www.powerreviews.com^
@@ -4546,6 +4557,7 @@
 @@||www.qualtrics.com^
 @@||www.quickenloans.com^
 @@||www.quora.com^
+@@||www.rakuten.com^
 @@||www.readability.com^
 @@||www.reddit.com^
 @@||www.redirectingat.com^

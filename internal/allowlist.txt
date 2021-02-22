@@ -1,5 +1,6 @@
 1drv.ms
 1.www.s81c.com
+2-01-2c3e-003d.cdx.cedexis.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-783295583 Breaks LinkedIn.com
 24timezones.com
 3p.ampproject.net
 79423.analytics.edgekey.net
@@ -504,6 +505,7 @@ staging-discuss.newrelic.com
 star-mini.c10r.facebook.com
 static.bbci.co.uk
 static-dot-virustotalcloud.appspot.com
+static-exp1.licdn.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-783295583 Breaks LinkedIn.com
 static.getmonero.org
 static.matterport.com # https://github.com/mkb2091/blockconvert/issues/72 Breaks a 3D space capture platform
 statics.streamable.com
