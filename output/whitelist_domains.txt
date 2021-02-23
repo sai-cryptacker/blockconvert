@@ -4009,6 +4009,7 @@ uservoice.com
 uth.vk.com
 uuvkmm.vk.com
 uwpproc-int.mix.mp.microsoft.com
+uwpproc.mix.mp.microsoft.com
 v.firebog.net
 v.pinimg.com
 v0.wordpress.com
@@ -4419,6 +4420,7 @@ www.googletagservices.com
 www.greenhouse.io
 www.gstatic.com
 www.heise.de
+www.horseanswerstoday.com
 www.howtogeek.com
 www.hrblock.com
 www.href.li
