@@ -228,6 +228,7 @@ fiverr.com
 flipboard.com
 forms.office.com
 forum.getmonero.org
+forum.overclockers.co.uk # PC forum
 forums.storagereview.com
 fossbytes.com
 freedownloadmanager.org
@@ -399,6 +400,7 @@ oracle.com # Breaks java download
 orbitz.com
 osce11-0-en.url.trendmicro.com
 outlook.office365.com
+overclockers.co.uk # PC forum
 pastebin.com
 pastebin.org
 pasteboard.co

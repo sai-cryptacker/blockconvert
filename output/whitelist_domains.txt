@@ -290,6 +290,7 @@ ap108.cs304112.vk.com
 api-cdn.embed.ly
 api-glb.smoot.apple.com
 api-global.netflix.com
+api-iad10.playground.scp.splunk.com
 api-maps.yandex.ru
 api-tip.dcat.dsp.mp.microsoft.com
 api.account.xiaomi.com
@@ -327,6 +328,7 @@ api.onedrive.com
 api.ooyala.com
 api.particle.io
 api.playground.dev.splunk.com
+api.playground.scs.splunk.com
 api.promotions.skype.com
 api.pushbullet.com
 api.qrserver.com
@@ -912,6 +914,8 @@ commozilla.cloudflare-dns.com
 community.spiceworks.com
 completion.amazon.com
 composerapi-int.dps.mp.microsoft.com
+composerapi.dps.mp.microsoft.com
+composerweb.dps.mp.microsoft.com
 compute.googleapis.com
 comwww.vk.com
 concierge.analytics.console.aws.a2z.com
@@ -1682,6 +1686,7 @@ freight.aliexpress.com
 freshchat.com
 frys.com
 fs.microsoft.com
+ftp.bmp.ovh
 ftp.chocolatey.org
 ftp.heanet.ie
 ftp.srv158-137-240-87.vk.com
@@ -2859,6 +2864,7 @@ outch.vk.com
 outlook.com
 outlook.live.com
 outlook.office365.com
+overclockers.co.uk
 ow.ly
 oyecwj.vk.com
 ozilla.cloudflare-dns.com
@@ -3640,6 +3646,7 @@ stats.foldingathome.org
 stats.pingdom.com
 stats.pusher.com
 stats.stackexchange.com
+status.businessflowapp.splunk.com
 status.coinbase.com
 status.newrelic.com
 status.plex.tv
@@ -4278,6 +4285,7 @@ www.amazon.in
 www.amazon.it
 www.amazoncustomerservice.d2.sc.omtrdc.net
 www.amzn.to
+www.androidforums.com
 www.anrdoezrs.net
 www.answers.com
 www.aol.com
@@ -4459,6 +4467,7 @@ www.kopimi.com
 www.kroger.com
 www.latimes.com
 www.leanplum.com
+www.libsyn.com
 www.linkedin.com
 www.linkwithin.com
 www.livechatinc.com
@@ -4474,6 +4483,7 @@ www.lwn.net
 www.m.vk.com
 www.mailchimp.com
 www.majorgeeks.com
+www.mapquestapi.com
 www.marketo.com
 www.mask13.vk.com
 www.masslive.com
