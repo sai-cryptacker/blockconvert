@@ -188,9 +188,9 @@ adm.vk.com
 admin.brightcove.com
 admin.cs7777.vk.com
 admin.dable.io
+admin.playground.scs.splunk.com
 admin.scs.splunk.com
 admin.splunk.com
-admin.staging.scp.splunk.com
 admin.staging.scs.splunk.com
 admin.tau.vk.com
 admin.vk.com
@@ -390,6 +390,7 @@ appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com
 appspot.com
+appxapi-int.dps.mp.microsoft.com
 appxapi.dps.mp.microsoft.com
 apresolve.spotify.com
 apt.newrelic.com
@@ -654,12 +655,14 @@ brightcove.net
 brother-emea.ugc.bazaarvoice.com
 browser.pipe.aria.microsoft.com
 browser.vk.com
+bsp.mp.microsoft.com
 bspmgmtsvc-int.mp.microsoft.com
 bspmgmtsvc.mp.microsoft.com
 bspmts-int.mp.microsoft.com
 bspmts.mp.microsoft.com
 bsxcommerce-int.mp.microsoft.com
 bsxcommerce.mp.microsoft.com
+bucketlist.splunk.com
 bugsnag.com
 build.origami.ft.com
 builder-assets.unbounce.com
@@ -829,7 +832,6 @@ ci.phncdn.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
 cindyholbrook.lpages.co
-ciso-int.dps.mp.microsoft.com
 civicscience.com
 cj.dotomi.com
 class.splunk.com
@@ -939,7 +941,6 @@ conrad.ugc.bazaarvoice.com
 consent.google.com
 console.cloud.google.com
 console.playground.scp.splunk.com
-console.scs.splunk.com
 console.staging.scs.splunk.com
 consumer.entitlement.skype.com
 contactapi.micloud.xiaomi.net
@@ -1297,7 +1298,6 @@ discord.com
 discord.gg
 discovermagazine.com
 discovery.com
-discrequest-int.dps.mp.microsoft.com
 discrequest.dps.mp.microsoft.com
 discuss.newrelic.com
 discussions.apple.com
@@ -1566,6 +1566,7 @@ fcbqwq.vk.com
 fcqnru.vk.com
 fe2.update.microsoft.com
 fe2.update.microsoft.com.akadns.net
+fe2cr.update.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 fe3.delivery.mp.microsoft.com
 feed.adrelayer.com
@@ -1593,7 +1594,6 @@ files.graphiq.com
 files.slack.com
 files2.freedownloadmanager.org
 filesapi-int.dps.mp.microsoft.com
-filesapi.dps.mp.microsoft.com
 filesmonster.com
 fili.cc
 filmekmaskepp.vk.com
@@ -2003,6 +2003,7 @@ hypothes.is
 i-am3p-cor003.api.p001.1drv.com
 i-ber1.awin1.com
 i-cdn.embed.ly
+i-lhr1.awin1.com
 i-new.awin1.com
 i.alicdn.com
 i.alipayobjects.com
@@ -2853,7 +2854,6 @@ orchardbrands.ugc.bazaarvoice.com
 oregonlive.com
 org.skyline.vk.com
 oriflame.ugc.bazaarvoice.com
-origincache-atn.fbcdn.net
 orion.ugc.bazaarvoice.com
 osce11-0-en.url.trendmicro.com
 osnews.com
@@ -2877,6 +2877,7 @@ pacificcoast.ugc.bazaarvoice.com
 packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.linuxmint.com
+packagesapi-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
 packagesapi.dps.mp.microsoft.com
 pacman.old-games.org
@@ -2927,7 +2928,6 @@ philology.vk.com
 phishtank.com
 phncdn.com
 phobos.apple.com
-phobot-live.skype.com
 phoenix.burst-alliance.org
 phonecallapi.micloud.xiaomi.net
 photo.store.qq.com
@@ -3078,6 +3078,7 @@ purdy.ugc.bazaarvoice.com
 push.services.mozilla.com
 push.vk.com
 puskesmaskota.vk.com
+pv-lhr1.awin1.com
 pv-new.awin1.com
 pv.awin1.com
 pwc.chase.com
@@ -3156,6 +3157,7 @@ reebokjp.ugc.bazaarvoice.com
 referrer.disqus.com
 refinery29.com
 reflex.tau.vk.com
+region-iad10.api.playground.scs.splunk.com
 release.theplatform.com
 releases.flowplayer.org
 remixstid.vk.com
@@ -3285,6 +3287,8 @@ scribblelive.com
 scribd.com
 script.google.com
 script.ioam.de
+scs001-iad10.admin.playground.scs.splunk.com
+scs002-iad10.admin.playground.scs.splunk.com
 scs002-iad10.admin.scs.splunk.com
 sdad.guru
 sdks.shopifycdn.com
@@ -4125,7 +4129,6 @@ watchdog-ultimate.energized.pro
 watchdog-unified.energized.pro
 watchdog.burst-alliance.org
 watchdog.energized.pro
-watchdogs.dps.mp.microsoft.com
 watson.telemetry.microsoft.com
 way.vk.com
 wbd.ms
@@ -4406,6 +4409,7 @@ www.framasoft.org
 www.freedownloadmanager.org
 www.fwmrm.net
 www.g.ezoic.net
+www.gardenstatehelicopters.com
 www.geoplugin.net
 www.georiot.com
 www.geotrust.com
@@ -4441,6 +4445,7 @@ www.ign.com
 www.ignorelist.com
 www.ikea.com
 www.img-bahn.de
+www.imgspice.com
 www.inc.com
 www.inputdirector.com
 www.instagram.com
@@ -4538,6 +4543,7 @@ www.oregonlive.com
 www.pasteboard.co
 www.paypal.com
 www.paypal.com.edgekey.net
+www.paypalobjects.com
 www.pcbeta.com
 www.pcmag.com
 www.pcmatic.com
@@ -4558,7 +4564,6 @@ www.providesupport.com
 www.push.vk.com
 www.qq.com
 www.qualtrics.com
-www.quickenloans.com
 www.quora.com
 www.rakuten.com
 www.readability.com
@@ -4631,7 +4636,6 @@ www.tinyurl.com
 www.tlaol.com
 www.tlc.com
 www.tmz.com
-www.tomshardware.com
 www.transfer.sh
 www.trbimg.com
 www.trumba.com
