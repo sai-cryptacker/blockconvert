@@ -36,6 +36,8 @@ Malware, advert and tracking blocklist which consolidates and improves upon many
 
 [Hosts file format](https://mkb2091.github.io/blockconvert/output/hosts.txt)
 
+WARNING: Too large for Windows: https://github.com/mkb2091/blockconvert/issues/87
+
 [Domain list](https://mkb2091.github.io/blockconvert/output/domains.txt)
 
 [Blocked IP address list](https://mkb2091.github.io/blockconvert/output/ip_blocklist.txt)
