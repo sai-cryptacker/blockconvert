@@ -4683,6 +4683,7 @@ www.xboxlive.com
 www.xiaomi.com
 www.yahoo.com
 www.yahoo.comwww.vk.com
+www.yandex.ru
 www.yotpo.com
 www.youtube-nocookie.com
 www.youtube.com
@@ -4743,6 +4744,7 @@ yahoo.net
 yahoo.uservoice.com
 yahooapis.com
 yandex.ocsp-responder.com
+yandex.ru
 yardbarker.com
 yardbarker.tags.crwdcntrl.net
 yastatic.net

@@ -643,6 +643,7 @@ x1.com
 xnxx.com # https://github.com/mkb2091/blockconvert/issues/56
 yahoo.co.jp
 yahoo.uservoice.com
+yandex.ru # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-786252939 Breaks yandex
 yoast.com
 youporn.com
 zdnet.com
