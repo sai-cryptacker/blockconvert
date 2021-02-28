@@ -372,6 +372,7 @@ app.hubspot.com
 app.migc.xiaomi.com
 app.plex.tv
 app.qq.com
+app.scp.splunk.com
 app.scs.splunk.com
 app.staging.scp.splunk.com
 app.vk.com
@@ -2848,6 +2849,7 @@ opera.cloudflare-dns.com
 opera.software
 opf.ooyala.com
 opinion.latimes.com
+optimized-by.simply.com
 optimizely.com
 optout.networkadvertising.org
 oracle.com
@@ -3042,6 +3044,7 @@ product-int.dps.mp.microsoft.com
 product.dps.mp.microsoft.com
 products.office.com
 productsummary-int.dps.mp.microsoft.com
+productweb.dps.mp.microsoft.com
 profile.target.com
 profimasking.dev.tau.vk.com
 promodj.com
@@ -4552,6 +4555,7 @@ www.pcmag.com
 www.pcmatic.com
 www.pennlive.com
 www.pinterest.com
+www.piratebay.org
 www.placehold.it
 www.playstation.com
 www.pling.com
@@ -4598,6 +4602,7 @@ www.snapengage.com
 www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
+www.someonewhocares.org
 www.speedcurve.com
 www.spiceworks.com
 www.sportsillustrated.tags.crwdcntrl.net
@@ -4652,6 +4657,7 @@ www.ultraimg.com
 www.unibytes.com
 www.unix.com
 www.vgwort.de
+www.vice.com
 www.vidible.tv
 www.viglink.com
 www.vimeo.com
@@ -4674,6 +4680,7 @@ www.ww.vk.com
 www.www.m.vk.com
 www.wykop.pl
 www.xboxlive.com
+www.xiaomi.com
 www.yahoo.com
 www.yahoo.comwww.vk.com
 www.yotpo.com

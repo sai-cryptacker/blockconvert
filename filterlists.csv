@@ -6,12 +6,14 @@ uBlock filters – Resource abuse,https://raw.githubusercontent.com/uBlockOrigin
 uBlock filters – Privacy,https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt,,GPLv3,345600,Adblock
 uBlock filters – Badware risks,https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt,,GPLv3,345600,Adblock
 uBlock filters,https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt,,GPLv3,345600,Adblock
+mobiletrackers,https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt,,GPLv3,604800,DomainBlocklist
 mkb2091's Honeypot host.deny,http://192.243.103.198/hosts.deny,mkb2091,CC0,30,DenyHosts
 iOS Tracker Blocklist,https://jarv.is/ios-trackers/blocklist.txt,jakejarvis,MIT,864000,DomainBlocklist
 hostsVN,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,,MIT,86400,Hostfile
 abuse.ch URLhaus Response Policy Zones,https://urlhaus.abuse.ch/downloads/hostfile,,CC0,86400,Hostfile
 abuse.ch SSLBL Botnet C2 IP Blacklist,https://sslbl.abuse.ch/blacklist/sslipblacklist.txt,,CC0,86400,IPBlocklist
 abuse.ch Feodo Tracker Botnet C2 IP Blocklist,https://feodotracker.abuse.ch/downloads/ipblocklist.txt,,CC0,86400,IPBlocklist
+Xiaomi DNS Blocklist,https://raw.githubusercontent.com/unknownFalleN/xiaomi-dns-blocklist/master/xiaomi_dns_block.lst,,GPLv3,604800,DomainBlocklist
 WindowsSpyBlocker - Hosts spy rules,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,,MIT,86400,Hostfile
 Whitelist,https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt,ookangzheng,CC BY-NC-SA 4.0(I  received permission to add to this project),86400,DomainAllowlist
 Whitelist,https://raw.githubusercontent.com/NoExitTV/whitelist/master/domains/whitelist.txt,,MIT,604800,DomainAllowlist
@@ -28,6 +30,10 @@ Slovenian List,https://raw.githubusercontent.com/betterwebleon/slovenian-list/ma
 Scams and Phishing,https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt,infinitytec,MIT,864000,Hostfile
 Scam Blocklist by DurableNapkin,https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt,DurableNapkin,MIT,86400,Hostfile
 Regex Filters for Pi-hole,https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list,,With Permission from https://github.com/mmotti/pihole-regex/issues/30,864000,RegexBlocklist
+Quantum Simply Ads,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt,,The Unlicense,604800,Hostfile
+Quantum Privacy List,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt,,The Unlicense,604800,Hostfile
+Quantum Privacy,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt,,The Unlicense,604800,Hostfile
+Quantum Abuse List,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Abuse-List.txt,,The Unlicense,604800,Hostfile
 Privacy filters,https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt,,The Unlicense,86400,Adblock
 Possibilities,https://raw.githubusercontent.com/infinitytec/blocklists/master/possibilities.txt,infinitytec,MIT,864000,Hostfile
 PiHoleBlocklist - SmartTV,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,,MIT,86400,DomainBlocklist
