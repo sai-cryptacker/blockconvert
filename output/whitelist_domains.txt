@@ -190,7 +190,6 @@ admin.cs7777.vk.com
 admin.dable.io
 admin.playground.scs.splunk.com
 admin.scs.splunk.com
-admin.splunk.com
 admin.staging.scs.splunk.com
 admin.tau.vk.com
 admin.vk.com
@@ -447,6 +446,7 @@ audid-api.taobao.com
 auth.api.sonyentertainmentnetwork.com
 auth.gfx.ms
 auth.playground.scp.splunk.com
+auth.playground.scs.splunk.com
 auth.scs.splunk.com
 auth.staging.scs.splunk.com
 auth.vk.com
@@ -575,6 +575,7 @@ blockstack.org
 blog.coinbase.com
 blog.csdn.net
 blog.hubspot.com
+blog.logentries.com
 blog.logrocket.com
 blog.tube8.com
 blog.xuite.net
@@ -726,7 +727,6 @@ cdiscount.ugc.bazaarvoice.com
 cdn-a.sonyentertainmentnetwork.com
 cdn-ads.vk.com
 cdn-content.ampproject.org
-cdn-dev.adafruit.com
 cdn-eu.dynamicyield.com
 cdn-us-ec.yottaa.net
 cdn.ampproject.org
@@ -806,7 +806,6 @@ cevoi.vk.com
 cf.hamreus.com
 cf.iadsdk.apple.com
 cfvod.kaltura.com
-cgw.skype.com
 chainreactioncycles.ugc.bazaarvoice.com
 change.org
 charter.com
@@ -832,6 +831,7 @@ ci.phncdn.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
 cindyholbrook.lpages.co
+ciso.dps.mp.microsoft.com
 civicscience.com
 cj.dotomi.com
 class.splunk.com
@@ -1288,9 +1288,11 @@ dict.leo.org
 dictionary.cambridge.org
 digg.com
 digicert.com
+digital.fcamara.com.br
 digitalassetlinks.googleapis.com
 digitalattach-int.mp.microsoft.com
 digitalattach.mp.microsoft.com
+digitalattachclaims.purchase.mp.microsoft.com
 digitalriver.com
 digitaltrends.com
 directvnow.com
@@ -1344,6 +1346,7 @@ doh.centraleu.pi-dns.com
 doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
+domaindataservice.dps.mp.microsoft.com
 donate.getmonero.org
 donorbox.org
 donvirus.vk.com
@@ -1594,6 +1597,7 @@ files.graphiq.com
 files.slack.com
 files2.freedownloadmanager.org
 filesapi-int.dps.mp.microsoft.com
+filesapi.dps.mp.microsoft.com
 filesmonster.com
 fili.cc
 filmekmaskepp.vk.com
@@ -1646,6 +1650,7 @@ forum.notebookreview.com
 forum.paradoxplaza.com
 forum.vk.com
 forum.xda-developers.com
+forums.adafruit.com
 forums.appleinsider.com
 forums.geforce.com
 forums.ilounge.com
@@ -2347,7 +2352,6 @@ linktr.ee
 linkwithin.com
 list-manage.com
 listingsapi-int.dps.mp.microsoft.com
-listingsapi.dps.mp.microsoft.com
 lithium.facebook.com
 live.com
 livechatinc.com
@@ -2516,7 +2520,6 @@ messenger.com
 messenger.live.com
 messenger.msn.com
 messenger.yahoo.com
-meta.plex.bz
 meta.plex.tv
 meta.vk.com
 meta.wikimedia.org
@@ -2822,6 +2825,7 @@ one.one.one.cloudflare-dns.com
 one.one.one.one.cloudflare-dns.com
 oneclient.sfx.ms
 onedrive.live.com
+oneline.nextday.media
 onesignal.com
 onet.pl
 onetrust.com
@@ -2874,7 +2878,6 @@ p.jwpcdn.com
 pac-int.dse.mp.microsoft.com
 pac.dce.mp.microsoft.com
 pacificcoast.ugc.bazaarvoice.com
-packages-int.dps.mp.microsoft.com
 packages.chocolatey.org
 packages.linuxmint.com
 packagesapi-int.dps.mp.microsoft.com
@@ -2903,6 +2906,7 @@ pasteboard.co
 pay.google.com
 paymentinstruments-int.mp.microsoft.com
 paymentinstruments.mp.microsoft.com
+payoutorderstatus.dps.mp.microsoft.com
 paypal-fretefacil-default-oc.vk.com
 paypal.com
 paypalobjects.com
@@ -3176,7 +3180,6 @@ rest.us.logentries.com
 restapi.amap.com
 restaurant.ugc.bazaarvoice.com
 restore.vk.com
-restriction-int.dps.mp.microsoft.com
 resultspage.com
 returnpath.com
 rewardstyle.com
@@ -3362,6 +3365,7 @@ simage.gshifen.com
 similac.ugc.bazaarvoice.com
 similarweb.com
 sina.com.cn
+sinaimg.cn
 sismo.vk.com
 siteassets.parastorage.com
 siteimprove.com
@@ -3427,7 +3431,6 @@ spclient.wg.spotify.com
 speedcurve.com
 spiceworks.com
 spiegel-de.spiegel.de
-splunk-base.splunk.com
 splunkbot.splunk.com
 sport.onet.pl
 sport.pl
@@ -3674,7 +3677,6 @@ store-images.s-microsoft.com
 store.akamai.steamstatic.com
 store.steampowered.com
 storecatalogrevocation.storequality.microsoft.com
-storeedgefd-origin.dsx.mp.microsoft.com
 storeedgefd-ppe-origin.dsx.mp.microsoft.com
 storeedgefd-ppe.dsx.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
@@ -4276,7 +4278,6 @@ www.adblock.ee
 www.add0n.com
 www.adwords.google.com
 www.adyen.com
-www.aeriagames.com
 www.aetna.com
 www.affirm.com
 www.alexa.com
@@ -4346,7 +4347,6 @@ www.cleveland.com
 www.cloudflare-dns.com
 www.cnbc.com
 www.cnet.com
-www.cnn.com
 www.cnnmoney.tags.crwdcntrl.net
 www.code.createjs.com
 www.coinbase.com
@@ -4399,10 +4399,12 @@ www.flickr.com
 www.fling.com
 www.fm.tuba.pl
 www.fonts.com
+www.forbes.com
 www.force.com
 www.forms.gle
 www.fortune.com
 www.forum.vk.com
+www.forums.adafruit.com
 www.fox43.com
 www.fox5sandiego.com
 www.framasoft.org
@@ -4412,7 +4414,7 @@ www.g.ezoic.net
 www.gardenstatehelicopters.com
 www.geoplugin.net
 www.georiot.com
-www.geotrust.com
+www.getpocket.com
 www.gigya.com
 www.github.com
 www.github.developerdan.com
@@ -4429,6 +4431,7 @@ www.googleapis.com
 www.googlecommerce.com
 www.googletagmanager.com
 www.googletagservices.com
+www.greasyfork.org
 www.greenhouse.io
 www.gstatic.com
 www.heise.de
@@ -4458,15 +4461,16 @@ www.jaleco.com
 www.janrain.com
 www.jarv.is
 www.jdoqocy.com
-www.jdownloader.org
 www.joblo.com
 www.jsfiddle.net
 www.jsonip.com
 www.kaltura.com
 www.kampyle.com
+www.kaspersky.com
 www.kcsoftwares.com
 www.klarna.com
 www.kmart.com
+www.kohls.com
 www.komputerswiat.pl
 www.kopimi.com
 www.kroger.com
@@ -4479,7 +4483,6 @@ www.livechatinc.com
 www.livefyre.com
 www.livejasmin.com
 www.livejournal.com
-www.load.to
 www.logentries.com
 www.loggly.com
 www.lowes.com
@@ -4490,6 +4493,7 @@ www.mailchimp.com
 www.majorgeeks.com
 www.mapquestapi.com
 www.marketo.com
+www.mashable.com
 www.mask13.vk.com
 www.masslive.com
 www.master.burst-alliance.org
@@ -4511,7 +4515,6 @@ www.msftncsi.com
 www.msn.com
 www.mywot.com
 www.namecheap.com
-www.narkive.com
 www.naver.com
 www.nbcnews.com
 www.newegg.com
@@ -4526,7 +4529,6 @@ www.npr.org
 www.nydailynews.com
 www.nytimes.com
 www.oboom.com
-www.observer.com
 www.ojrq.net
 www.olark.com
 www.old-games.org
@@ -4540,6 +4542,7 @@ www.optimizely.com
 www.oracle.com
 www.orbitz.com
 www.oregonlive.com
+www.overclockers.co.uk
 www.pasteboard.co
 www.paypal.com
 www.paypal.com.edgekey.net
@@ -4571,7 +4574,6 @@ www.reddit.com
 www.redirectingat.com
 www.redtube.com
 www.reebok.com
-www.refinery29.com
 www.res.cloudinary.com
 www.returnpath.com
 www.roadandtrack.com
@@ -4597,6 +4599,7 @@ www.snipcart.com
 www.sociallitelife.tags.crwdcntrl.net
 www.sohu.com
 www.speedcurve.com
+www.spiceworks.com
 www.sportsillustrated.tags.crwdcntrl.net
 www.spot.im
 www.spotify.com
@@ -4615,10 +4618,10 @@ www.steamcommunity.com
 www.steampowered.com
 www.stopklatka.pl
 www.storage.googleapis.com
-www.stripe.com
 www.t-online.de
 www.t.co
 www.tags.crwdcntrl.net
+www.talkbusiness.net
 www.target.com
 www.techguy.org
 www.techradar.com
@@ -4647,6 +4650,7 @@ www.twitter.com
 www.ultimedia.com
 www.ultraimg.com
 www.unibytes.com
+www.unix.com
 www.vgwort.de
 www.vidible.tv
 www.viglink.com
@@ -4660,7 +4664,6 @@ www.wangbase.com
 www.watchdog.burst-alliance.org
 www.web.burst-alliance.org
 www.webmd.com
-www.winfuture.de
 www.wired.com
 www.worldnow.com
 www.wp.com
@@ -4679,6 +4682,7 @@ www.youtube.com
 www.zdnet.com
 www.zee.cws.conviva.com
 www.zendesk.com
+www.zoho.com
 www1.awin1.com
 www17.wixdns.net
 www3.l.google.com
