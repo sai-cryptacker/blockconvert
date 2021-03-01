@@ -222,6 +222,7 @@ files2.freedownloadmanager.org
 files.catbox.moe
 files.freedownloadmanager.org
 files.slack.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-771638966 Breaks user uploaded content on Slack
+filterlists.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-787428332 Website with list of filterlists
 filtri-dns.ga
 firebaseremoteconfig.googleapis.com # Breaks android applications internally updating
 fiverr.com

@@ -1613,6 +1613,7 @@
 @@||filmekmaskepp.vk.com^
 @@||filmweb.pl^
 @@||filmyhd.net^
+@@||filterlists.com^
 @@||filters.adtidy.org^
 @@||filtri-dns.ga^
 @@||finance.yahoo.com^
@@ -4591,7 +4592,6 @@
 @@||www.returnpath.com^
 @@||www.roadandtrack.com^
 @@||www.rpxnow.com^
-@@||www.scribd.com^
 @@||www.sdad.guru^
 @@||www.searchanise.com^
 @@||www.searchenginejournal.com^
@@ -4655,7 +4655,6 @@
 @@||www.tmz.com^
 @@||www.transfer.sh^
 @@||www.trbimg.com^
-@@||www.trumba.com^
 @@||www.trustpilot.com^
 @@||www.tumblr.com^
 @@||www.turnto.com^
