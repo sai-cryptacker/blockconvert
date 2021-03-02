@@ -354,6 +354,7 @@ mediaredirect.microsoft.com
 mine.nu
 miro.medium.com # https://github.com/mkb2091/blockconvert/issues/77 and https://github.com/mkb2091/blockconvert/issues/3#issuecomment-748449378, Breaks images on medium.com
 mirror.co.uk
+mirrorservice.org # Breaks VLC update download
 m.me
 mobile.tube8.com
 mobile.twitter.com
