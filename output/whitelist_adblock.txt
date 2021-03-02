@@ -173,6 +173,7 @@
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
+@@||ad.nl^
 @@||ad.ourgame.com^
 @@||ada.support^
 @@||adash.man.aliyuncs.com^
@@ -290,6 +291,7 @@
 @@||answers.splunk.com^
 @@||answers.yahoo.com^
 @@||anthos.googleapis.com^
+@@||anti-ad.net^
 @@||anukef.vk.com^
 @@||aol.com^
 @@||aonhewitt.ugc.bazaarvoice.com^
@@ -4304,6 +4306,7 @@
 @@||www.a-0009.a-msedge.net^
 @@||www.a.shifen.com^
 @@||www.accuweather.com^
+@@||www.ad.nl^
 @@||www.ada.support^
 @@||www.adblock.ee^
 @@||www.add0n.com^
@@ -4330,6 +4333,7 @@
 @@||www.awin1.com^
 @@||www.baidu.com^
 @@||www.bazaarvoice.com^
+@@||www.bbc.co.uk^
 @@||www.bbc.com^
 @@||www.bcorg.web.burst-alliance.org^
 @@||www.berush.com^
@@ -4465,6 +4469,7 @@
 @@||www.greenhouse.io^
 @@||www.gstatic.com^
 @@||www.heise.de^
+@@||www.hollywoodlife.com^
 @@||www.horseanswerstoday.com^
 @@||www.howtogeek.com^
 @@||www.hrblock.com^
@@ -4476,6 +4481,7 @@
 @@||www.idg.se^
 @@||www.ign.com^
 @@||www.ignorelist.com^
+@@||www.iij.ad.jp^
 @@||www.ikea.com^
 @@||www.img-bahn.de^
 @@||www.imgspice.com^
@@ -4587,6 +4593,7 @@
 @@||www.placehold.it^
 @@||www.playstation.com^
 @@||www.pling.com^
+@@||www.plot.ly^
 @@||www.pocketnow.com^
 @@||www.polldaddy.com^
 @@||www.pool.ntp.org^
