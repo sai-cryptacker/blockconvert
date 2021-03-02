@@ -669,6 +669,7 @@ bugsnag.com
 build.origami.ft.com
 builder-assets.unbounce.com
 bungie.net
+burst.dps.mp.microsoft.com
 burton.ugc.bazaarvoice.com
 business.officedepot.com.edgekey.net
 businessfinder.nj.com
@@ -1275,6 +1276,7 @@ dev.twitter.com
 dev.virtualearth.net
 devcenterapi-df.dce.mp.microsoft.com
 devcenterapi.dce.mp.microsoft.com
+developer.spotify.com
 developer.twitter.com
 developers.facebook.com
 developers.google.com
@@ -2836,6 +2838,7 @@ online.jimmyjohns.com
 onswipe.com
 op-cdn.net
 open.fm
+open.spotify.com
 openbsd.org
 opendesktop.org
 openlayers.org
@@ -3112,6 +3115,7 @@ qyuooh.vk.com
 r-redesign.cs7777.vk.com
 r.sg.sec.miui.com
 r.us-east-1.awstrack.me
+ra-int.dce.mp.microsoft.com
 rackspacecloud.com
 radikal.ru
 radiofrance.fr
@@ -3184,9 +3188,11 @@ rest.us.logentries.com
 restapi.amap.com
 restaurant.ugc.bazaarvoice.com
 restore.vk.com
+restriction-int.dps.mp.microsoft.com
 resultspage.com
 returnpath.com
 rewardstyle.com
+riker-int.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
@@ -4362,7 +4368,6 @@ www.cs001.vk.com
 www.cs292596712.vk.com
 www.cutcaptcha.com
 www.cws.conviva.com
-www.dailymotion.com
 www.datadoghq-browser-agent.com
 www.dataplicity.com
 www.db.burst-alliance.org
@@ -4460,6 +4465,7 @@ www.instapaper.com
 www.intercom.io
 www.ipify.org
 www.ipinfo.io
+www.ipredator.se
 www.iubenda.com
 www.jaleco.com
 www.janrain.com
@@ -4573,7 +4579,6 @@ www.push.vk.com
 www.qq.com
 www.qualtrics.com
 www.quora.com
-www.rakuten.com
 www.readability.com
 www.reddit.com
 www.redirectingat.com
@@ -4633,6 +4638,7 @@ www.techradar.com
 www.techrepublic.com
 www.testnet-2.burst-alliance.org
 www.texashomebase.com
+www.textalk.se
 www.thebot.net
 www.theoldnet.com
 www.thepiratebay.org
