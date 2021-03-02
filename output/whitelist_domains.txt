@@ -278,6 +278,7 @@ androidforums.com
 angularjs.org
 answers.com
 answers.microsoft.com
+answers.splunk.com
 answers.yahoo.com
 anthos.googleapis.com
 anukef.vk.com
@@ -804,6 +805,7 @@ centraleu.pi-dns.com
 cern.ch
 ceros.com
 cert.mgt.xboxlive.com
+certweb.dps.mp.microsoft.com
 cevoi.vk.com
 cf.hamreus.com
 cf.iadsdk.apple.com
@@ -916,6 +918,7 @@ com.place.63.6456456-62.6457447.1z.vk.com
 commercial.displaycatalog.mp.microsoft.com
 commozilla.cloudflare-dns.com
 community.spiceworks.com
+community.splunk.com
 completion.amazon.com
 composerapi-int.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
@@ -969,6 +972,7 @@ crbcdn.jsfiddle.net
 createandcraft.ugc.bazaarvoice.com
 createandcraftus.ugc.bazaarvoice.com
 creativecommons.org
+credit.finance.intuit.com
 cricket.att.ada.support
 crl.microsoft.com
 crl.verisign.net
@@ -2449,6 +2453,7 @@ manager-magazin-de.manager-magazin.de
 mandrillapp.com
 manifest.googlevideo.com
 manifest.prod.boltdns.net
+manualreview.dps.mp.microsoft.com
 mapbox.com
 maponline0.bdimg.com
 maponline1.bdimg.com
@@ -2514,6 +2519,7 @@ members.internetdefenseleague.org
 menshealth.com
 meqzhx.vk.com
 merchantapi.coingeek.com
+mercury.old-games.org
 merriam-webster.com
 mesh.com
 meshca.googleapis.com
@@ -3002,6 +3008,7 @@ plus.l.google.com
 pochta.ru
 pocketnow.com
 podarki.vk.com
+podcasts.adafruit.com
 poetryfashion.ugc.bazaarvoice.com
 policy.query.cs316931.vk.com
 polis.vb64z9th8faec4b0.vk.com
@@ -3116,6 +3123,7 @@ r-redesign.cs7777.vk.com
 r.sg.sec.miui.com
 r.us-east-1.awstrack.me
 ra-int.dce.mp.microsoft.com
+ra.dce.mp.microsoft.com
 rackspacecloud.com
 radikal.ru
 radiofrance.fr
@@ -3189,10 +3197,12 @@ restapi.amap.com
 restaurant.ugc.bazaarvoice.com
 restore.vk.com
 restriction-int.dps.mp.microsoft.com
+restriction.dps.mp.microsoft.com
 resultspage.com
 returnpath.com
 rewardstyle.com
 riker-int.dps.mp.microsoft.com
+riker.dps.mp.microsoft.com
 ris-lx09.roslin.www.cs001.vk.com
 ris.api.iris.microsoft.com
 rk-agoglev.cs7777.vk.com
@@ -3276,6 +3286,7 @@ saving.vk.com
 sberbank.cs9621.vk.com
 sbnation.com
 scan.ugc.bazaarvoice.com
+scanservice-int.px.mp.microsoft.com
 scene7.com
 schd.ws
 sched.org
@@ -3441,6 +3452,7 @@ spclient.wg.spotify.com
 speedcurve.com
 spiceworks.com
 spiegel-de.spiegel.de
+splunk-base.splunk.com
 splunkbot.splunk.com
 sport.onet.pl
 sport.pl

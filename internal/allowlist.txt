@@ -134,6 +134,7 @@ config.edge.skype.com
 confirmit.com
 content.invisioncic.com
 countryflags.io
+credit.finance.intuit.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-788266121 Breaks checking credit score on Mint Mobile App
 cricket.att.ada.support # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Cricket cell phone customer support
 crunchyroll.com
 ctldl.windowsupdate.com
@@ -151,6 +152,7 @@ dege.freeweb.hu # https://github.com/mkb2091/blockconvert/issues/81 Site that ho
 *.delivery.mp.microsoft.com
 delivery.mp.microsoft.com
 desktop.google.com
+developer.spotify.com # Breaks Spotify
 dev.maxmind.com # Used for MaxMind developer guide
 digicert.com
 digitalriver.com
@@ -193,6 +195,7 @@ eec.crunchyroll.com
 electrum.org
 elinkeu.clickdimensions.com
 eloqua.com
+embed.spotify.com # Breaks Spotify
 emdl.ws.microsoft.com
 *.e-msedge.net
 e-msedge.net
@@ -396,6 +399,7 @@ oneclient.sfx.ms
 onesignal.com
 onion.to
 online.jimmyjohns.com
+open.spotify.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-788015015 Breaks Spotify
 openwall.com
 oracle.com # Breaks java download
 orbitz.com
@@ -409,6 +413,8 @@ pbs.twimg.com
 pcmag.com # Blocked by PrivacyBadger
 pcmatic.com
 phishtank.com
+play.spotify.com # Breaks Spotify
+play.spotify.edgekey.net # Breaks Spotify
 polyfill.io
 pool.ntp.org
 pornhub.com
@@ -498,6 +504,7 @@ sourceforge.net
 speedcurve.com
 spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
 *.splunk.com
+spotify.com # Breaks Spotify
 squidblacklist.org
 src.ebay-us.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks EBay external logins
 ssl.bblck.me
