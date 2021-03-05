@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-04Z
+! Version: 2021-03-05Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-04Z
+! Last modified: 2021-03-05Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1409,6 +1409,7 @@
 @@||fast.fonts.net^
 @@||footlocker-inc.com^
 @@||footlocker.com^
+@@||c.footprint.net^
 @@||download.windowsupdate.com.c.footprint.net^
 @@||forbes.com^
 @@||www.forbes.com^
@@ -2225,6 +2226,7 @@
 @@||bspmts.mp.microsoft.com^
 @@||bsxcommerce-int.mp.microsoft.com^
 @@||bsxcommerce.mp.microsoft.com^
+@@||cbsl.mp.microsoft.com^
 @@||collections-int.mp.microsoft.com^
 @@||accountmgmtservice-df.dce.mp.microsoft.com^
 @@||accountmgmtservice-int.dce.mp.microsoft.com^
@@ -2235,6 +2237,7 @@
 @@||devcenterapi.dce.mp.microsoft.com^
 @@||engagement-int.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
+@@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||ra-int.dce.mp.microsoft.com^
 @@||ra.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
@@ -3418,6 +3421,7 @@
 @@||web.tresorit.com^
 @@||go.trouter.io^
 @@||trumba.com^
+@@||www.trumba.com^
 @@||privacy-policy.truste.com^
 @@||trustkeeper.net^
 @@||trustpilot.com^

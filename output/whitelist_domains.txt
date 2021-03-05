@@ -1400,6 +1400,7 @@ fonts.net
 fast.fonts.net
 footlocker-inc.com
 footlocker.com
+c.footprint.net
 download.windowsupdate.com.c.footprint.net
 forbes.com
 www.forbes.com
@@ -2216,6 +2217,7 @@ bspmts-int.mp.microsoft.com
 bspmts.mp.microsoft.com
 bsxcommerce-int.mp.microsoft.com
 bsxcommerce.mp.microsoft.com
+cbsl.mp.microsoft.com
 collections-int.mp.microsoft.com
 accountmgmtservice-df.dce.mp.microsoft.com
 accountmgmtservice-int.dce.mp.microsoft.com
@@ -2226,6 +2228,7 @@ devcenterapi-df.dce.mp.microsoft.com
 devcenterapi.dce.mp.microsoft.com
 engagement-int.dce.mp.microsoft.com
 pac.dce.mp.microsoft.com
+productcatalogservice-df.dce.mp.microsoft.com
 ra-int.dce.mp.microsoft.com
 ra.dce.mp.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -3409,6 +3412,7 @@ osce11-0-en.url.trendmicro.com
 web.tresorit.com
 go.trouter.io
 trumba.com
+www.trumba.com
 privacy-policy.truste.com
 trustkeeper.net
 trustpilot.com
