@@ -1975,6 +1975,7 @@
 @@||www.kcsoftwares.com^
 @@||advert.kf5.com^
 @@||kickapps.com^
+@@||www.kickapps.com^
 @@||kickstarter.com^
 @@||static.kickstarter.com^
 @@||kidsfootlocker.com^
@@ -2130,7 +2131,6 @@
 @@||mail.ru^
 @@||mailchi.mp^
 @@||mailchimp.com^
-@@||www.mailchimp.com^
 @@||majorgeeks.com^
 @@||www.majorgeeks.com^
 @@||malwaredomainlist.com^
@@ -2253,6 +2253,7 @@
 @@||appxapi.dps.mp.microsoft.com^
 @@||availability.dps.mp.microsoft.com^
 @@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
+@@||burst-int.dps.mp.microsoft.com^
 @@||burst.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
 @@||ciso.dps.mp.microsoft.com^
@@ -3211,6 +3212,7 @@
 @@||api.playground.scs.splunk.com^
 @@||region-iad10.api.playground.scs.splunk.com^
 @@||auth.playground.scs.splunk.com^
+@@||region-iad10.auth.playground.scs.splunk.com^
 @@||admin.staging.scs.splunk.com^
 @@||app-admin.staging.scs.splunk.com^
 @@||auth.staging.scs.splunk.com^
