@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-05Z
+! Version: 2021-03-06Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-05Z
+! Last modified: 2021-03-06Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -861,6 +861,7 @@
 @@||cdnpk.com^
 @@||2-01-2c3e-003d.cdx.cedexis.net^
 @@||cern.ch^
+@@||www.cern.ch^
 @@||ceros.com^
 @@||change.org^
 @@||charter.com^
@@ -1092,6 +1093,7 @@
 @@||cstv.com^
 @@||cursecdn.com^
 @@||curvesncombatboots.com^
+@@||www.curvesncombatboots.com^
 @@||custhelp.com^
 @@||track.customer.io^
 @@||e.customeriomail.com^
@@ -1121,6 +1123,7 @@
 @@||www.dell.com^
 @@||delvenetworks.com^
 @@||demotywatory.pl^
+@@||www.demotywatory.pl^
 @@||github.developerdan.com^
 @@||www.github.developerdan.com^
 @@||deviantart.com^
@@ -2219,6 +2222,7 @@
 @@||xbox.ipv6.microsoft.com^
 @@||ris.api.iris.microsoft.com^
 @@||dmd.metaservices.microsoft.com^
+@@||azure-ratecard-dev.mp.microsoft.com^
 @@||bsp.mp.microsoft.com^
 @@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
@@ -2228,6 +2232,7 @@
 @@||bsxcommerce.mp.microsoft.com^
 @@||cbsl.mp.microsoft.com^
 @@||collections-int.mp.microsoft.com^
+@@||collections.mp.microsoft.com^
 @@||accountmgmtservice-df.dce.mp.microsoft.com^
 @@||accountmgmtservice-int.dce.mp.microsoft.com^
 @@||accountmgmtservice.dce.mp.microsoft.com^
@@ -2238,6 +2243,7 @@
 @@||engagement-int.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
 @@||productcatalogservice-df.dce.mp.microsoft.com^
+@@||productcatalogservice.dce.mp.microsoft.com^
 @@||ra-int.dce.mp.microsoft.com^
 @@||ra.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
@@ -2268,6 +2274,7 @@
 @@||ingestionuxservice-int.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
 @@||listingsapi.dps.mp.microsoft.com^
+@@||manualreview-int.dps.mp.microsoft.com^
 @@||manualreview.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
 @@||packagesapi-intppe.dps.mp.microsoft.com^
@@ -2297,6 +2304,9 @@
 @@||pac-int.dse.mp.microsoft.com^
 @@||api-tip.dcat.dsp.mp.microsoft.com^
 @@||cy2.api-tip.dcat.dsp.mp.microsoft.com^
+@@||glb.approvals-dev.dcat.dsp.mp.microsoft.com^
+@@||glb.approvals-int.dcat.dsp.mp.microsoft.com^
+@@||glb.approvals-tip.dcat.dsp.mp.microsoft.com^
 @@||catalogservice-prod.dcat.dsp.mp.microsoft.com^
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
 @@||cmd-int.dcat.dsp.mp.microsoft.com^
@@ -2311,6 +2321,7 @@
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||int.do.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
+@@||storeedgefd-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe.dsx.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
@@ -2343,6 +2354,7 @@
 @@||licensingphone.mp.microsoft.com^
 @@||licensingwindows-int.mp.microsoft.com^
 @@||licensingwindows.mp.microsoft.com^
+@@||collections.md.mp.microsoft.com^
 @@||displaycatalog.md.mp.microsoft.com^
 @@||entitlementfulfillment-int.md.mp.microsoft.com^
 @@||entitlementfulfillment.md.mp.microsoft.com^
@@ -2358,8 +2370,10 @@
 @@||purchase.mp.microsoft.com^
 @@||digitalattachclaims.purchase.mp.microsoft.com^
 @@||scanservice-int.px.mp.microsoft.com^
+@@||scanservice.px.mp.microsoft.com^
 @@||sonar-int.px.mp.microsoft.com^
 @@||sonarweb-int.px.mp.microsoft.com^
+@@||sonarweb.px.mp.microsoft.com^
 @@||staging-dcatbackend-int.mp.microsoft.com^
 @@||wus2.staging-dcatbackend-int.mp.microsoft.com^
 @@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
@@ -3189,7 +3203,6 @@
 @@||auth.playground.scp.splunk.com^
 @@||cae.playground.scp.splunk.com^
 @@||console.playground.scp.splunk.com^
-@@||istio-play1-auth.playground.scp.splunk.com^
 @@||pulsar-istio-play1.playground.scp.splunk.com^
 @@||skinny-demo.playground.scp.splunk.com^
 @@||splunkbase-cloudfront.playground.scp.splunk.com^
@@ -3213,6 +3226,7 @@
 @@||region-iad10.api.playground.scs.splunk.com^
 @@||auth.playground.scs.splunk.com^
 @@||region-iad10.auth.playground.scs.splunk.com^
+@@||pulsar.scs.splunk.com^
 @@||admin.staging.scs.splunk.com^
 @@||app-admin.staging.scs.splunk.com^
 @@||auth.staging.scs.splunk.com^
@@ -4431,6 +4445,7 @@
 @@||vk.vk.com^
 @@||www.vk.vk.com^
 @@||vkadmin.vk.com^
+@@||vkube.vk.com^
 @@||vu.vk.com^
 @@||vww.vk.com^
 @@||way.vk.com^
