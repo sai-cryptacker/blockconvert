@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-06Z
+! Version: 2021-03-07Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-06Z
+! Last modified: 2021-03-07Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -277,6 +277,7 @@
 @@||s.amazon-adsystem.com^
 @@||amazon.at^
 @@||amazon.ca^
+@@||www.amazon.ca^
 @@||amazon.cn^
 @@||amazon.com^
 @@||arcus-uswest.amazon.com^
@@ -1055,6 +1056,7 @@
 @@||cosmopolitan.com^
 @@||costco.com^
 @@||countryflags.io^
+@@||www.countryflags.io^
 @@||platform.cloud.coveo.com^
 @@||static.cloud.coveo.com^
 @@||cloudplatform.coveo.com^
@@ -2119,6 +2121,7 @@
 @@||embed.blog.logrocket.com^
 @@||i.loli.net^
 @@||lowendbox.com^
+@@||www.lowendbox.com^
 @@||lowes.com^
 @@||www.lowes.com^
 @@||cindyholbrook.lpages.co^
@@ -2635,6 +2638,7 @@
 @@||www.nydailynews.com^
 @@||nymag.com^
 @@||nypost.com^
+@@||www.nypost.com^
 @@||nyt.com^
 @@||nytimes.com^
 @@||www.nytimes.com^
@@ -2756,6 +2760,7 @@
 @@||clientconfig.passport.net^
 @@||passwordbox.com^
 @@||pastebin.com^
+@@||www.pastebin.com^
 @@||pastebin.org^
 @@||pasteboard.co^
 @@||www.pasteboard.co^
@@ -3212,6 +3217,7 @@
 @@||staging.scp.splunk.com^
 @@||app-admin.staging.scp.splunk.com^
 @@||app.staging.scp.splunk.com^
+@@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||streaming.staging.scp.splunk.com^
 @@||status.scp.splunk.com^
 @@||streaming.scp.splunk.com^
