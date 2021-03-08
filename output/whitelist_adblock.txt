@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-07Z
+! Version: 2021-03-08Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-07Z
+! Last modified: 2021-03-08Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1489,6 +1489,7 @@
 @@||target.georiot.com^
 @@||www.georiot.com^
 @@||geotrust.com^
+@@||www.geotrust.com^
 @@||links.getblueshift.com^
 @@||getmonero.org^
 @@||dlsrc.getmonero.org^
@@ -2322,7 +2323,15 @@
 @@||phx.sfs-prod.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-tip.dcat.dsp.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
+@@||geover-int.do.dsp.mp.microsoft.com^
+@@||geover-prod.do.dsp.mp.microsoft.com^
 @@||int.do.dsp.mp.microsoft.com^
+@@||orgeover-int.do.dsp.mp.microsoft.com^
+@@||orgeover-prod.do.dsp.mp.microsoft.com^
+@@||glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.adminportalapi-int.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com^
+@@||auar.trafficshaping.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||storeedgefd-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe-origin.dsx.mp.microsoft.com^
@@ -2882,6 +2891,7 @@
 @@||powerreviews.com^
 @@||www.powerreviews.com^
 @@||powr.io^
+@@||www.powr.io^
 @@||ppt.cc^
 @@||www.ppt.cc^
 @@||full.pr0gramm.com^
@@ -3130,10 +3140,12 @@
 @@||www.slate.com^
 @@||slickdeals.net^
 @@||slidedeck.com^
+@@||www.slidedeck.com^
 @@||public.slidesharecdn.com^
 @@||smallseotools.com^
 @@||smugmug.com^
 @@||snapchat.com^
+@@||www.snapchat.com^
 @@||snapengage.com^
 @@||www.snapengage.com^
 @@||sndcdn.com^
@@ -3241,6 +3253,9 @@
 @@||services.splunk.com^
 @@||splunk-base.splunk.com^
 @@||splunkbot.splunk.com^
+@@||staging.splunk.com^
+@@||login.staging.splunk.com^
+@@||hooks.login.staging.splunk.com^
 @@||post.spmailtechnol.com^
 @@||sport.pl^
 @@||spot.im^
@@ -3309,6 +3324,7 @@
 @@||m.stripe.network^
 @@||stripecdn.com^
 @@||surveygizmo.com^
+@@||www.surveygizmo.com^
 @@||surveymonkey.com^
 @@||secure.surveymonkey.com^
 @@||sweclockers.com^
@@ -3400,6 +3416,7 @@
 @@||tiktok.com^
 @@||www.tiktok.com^
 @@||time.com^
+@@||www.time.com^
 @@||timeinc.net^
 @@||etl.tindersparks.com^
 @@||tinypass.com^
