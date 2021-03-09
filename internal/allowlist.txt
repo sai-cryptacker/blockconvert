@@ -454,6 +454,7 @@ router.utorrent.com
 rumble.com # https://github.com/mkb2091/blockconvert/issues/76 Video Streaming Platform
 s0.ipstatp.com # https://github.com/mkb2091/blockconvert/issues/83 Breaks Captcha
 s3.amazonaws.com
+s3-ap-southeast-1.amazonaws.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-793400847 Breaks AWS S3 in SEA
 s3.tradingview.com # https://github.com/mkb2091/blockconvert/issues/49
 s3-us-west-1.amazonaws.com
 s7.orientaltrading.com

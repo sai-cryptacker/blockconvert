@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-08Z
+! Version: 2021-03-09Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-08Z
+! Last modified: 2021-03-09Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -82,6 +82,7 @@
 @@||www.ada.support^
 @@||forums.adafruit.com^
 @@||www.forums.adafruit.com^
+@@||makecode.adafruit.com^
 @@||podcasts.adafruit.com^
 @@||adaway.org^
 @@||adblock.dk^
@@ -276,6 +277,7 @@
 @@||aax-us-east.amazon-adsystem.com^
 @@||s.amazon-adsystem.com^
 @@||amazon.at^
+@@||www.amazon.at^
 @@||amazon.ca^
 @@||www.amazon.ca^
 @@||amazon.cn^
@@ -298,6 +300,8 @@
 @@||api.amazonalexa.com^
 @@||amazonaws.com^
 @@||s3-1.amazonaws.com^
+@@||s3-ap-southeast-1.amazonaws.com^
+@@||www.s3-ap-southeast-1.amazonaws.com^
 @@||s3-us-west-1.amazonaws.com^
 @@||s3.amazonaws.com^
 @@||redditstatic.s3.amazonaws.com^
@@ -688,6 +692,7 @@
 @@||betfair.com^
 @@||l.betrad.com^
 @@||better.fyi^
+@@||www.better.fyi^
 @@||betterttv.net^
 @@||beyondmenu.com^
 @@||static.beyondmenu.com^
@@ -782,6 +787,7 @@
 @@||boxrec.com^
 @@||braintreegateway.com^
 @@||brakrock.be^
+@@||www.brakrock.be^
 @@||breakingburner.com^
 @@||brightcove.com^
 @@||admin.brightcove.com^
@@ -976,6 +982,8 @@
 @@||ws.cnetcontent.com^
 @@||cnn.com^
 @@||taimeod.co.il^
+@@||mail.taimeod.co.il^
+@@||www.taimeod.co.il^
 @@||moonbit.co.in^
 @@||www.moonbit.co.in^
 @@||amazon.co.jp^
@@ -1047,6 +1055,7 @@
 @@||ocsp.comodoca4.com^
 @@||confirmit.com^
 @@||survey.euro.confirmit.com^
+@@||www.confirmit.com^
 @@||cws.conviva.com^
 @@||www.cws.conviva.com^
 @@||zee.cws.conviva.com^
@@ -1118,6 +1127,7 @@
 @@||static-pepper.dealabs.com^
 @@||dealer.com^
 @@||dealerinspire.com^
+@@||www.dealerinspire.com^
 @@||debian.org^
 @@||delicious.com^
 @@||www.delicious.com^
@@ -2149,6 +2159,7 @@
 @@||events.mapbox.com^
 @@||tiles.mapbox.com^
 @@||mapquestapi.com^
+@@||www.mapquestapi.com^
 @@||ssl.marfeelcdn.com^
 @@||margevicius.lt^
 @@||marketo.com^
@@ -2288,6 +2299,7 @@
 @@||product.dps.mp.microsoft.com^
 @@||productsummary-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
+@@||promotion-int.dps.mp.microsoft.com^
 @@||restriction-int.dps.mp.microsoft.com^
 @@||restriction.dps.mp.microsoft.com^
 @@||riker-int.dps.mp.microsoft.com^
@@ -2331,7 +2343,14 @@
 @@||glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.adminportalapi-int.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.auar-dev.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.auar-int.trafficshaping.dsp.mp.microsoft.com^
 @@||auar.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.frontend-dev.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.frontend-int.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com^
+@@||glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||storeedgefd-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe-origin.dsx.mp.microsoft.com^
@@ -2679,6 +2698,7 @@
 @@||mercury.old-games.org^
 @@||pacman.old-games.org^
 @@||rom.old-games.org^
+@@||server10.old-games.org^
 @@||tetris.old-games.org^
 @@||www.old-games.org^
 @@||omny.fm^
@@ -2969,6 +2989,7 @@
 @@||razorpay.com^
 @@||api.razorpay.com^
 @@||checkout.razorpay.com^
+@@||www.razorpay.com^
 @@||cv.rdtcdn.com^
 @@||ev.rdtcdn.com^
 @@||readability.com^
@@ -3190,6 +3211,7 @@
 @@||banner.splunk.com^
 @@||boo.splunk.com^
 @@||botn.splunk.com^
+@@||bots.splunk.com^
 @@||bucketlist.splunk.com^
 @@||status.businessflowapp.splunk.com^
 @@||class.splunk.com^
@@ -3210,6 +3232,7 @@
 @@||events.splunk.com^
 @@||jira.splunk.com^
 @@||mint.splunk.com^
+@@||pep01.splunk.com^
 @@||response.splunk.com^
 @@||scp.splunk.com^
 @@||api.scp.splunk.com^
@@ -4528,6 +4551,7 @@
 @@||washingtonpost.com^
 @@||wbd.ms^
 @@||weather.com^
+@@||www.weather.com^
 @@||weather.gov^
 @@||weatherbug.com^
 @@||weathernationtv.com^
@@ -4890,6 +4914,7 @@
 @@||zendesk.com^
 @@||www.zendesk.com^
 @@||zerohedge.com^
+@@||www.zerohedge.com^
 @@||app-advertise.zhihuishu.com^
 @@||ziplist.com^
 @@||zippyshare.com^
