@@ -1,13 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-09Z
+! Version: 2021-03-10Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-09Z
+! Last modified: 2021-03-10Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
 !
 !-----------------------Filters-----------------------!
 @@||ad.10010.com^
+@@||m1.ad.10010.com^
 @@||static.ws.126.net^
 @@||bnet.163.com^
 @@||1drv.com^
@@ -70,6 +71,7 @@
 @@||vortex.accuweather.com^
 @@||www.accuweather.com^
 @@||acehardware.com^
+@@||www.acehardware.com^
 @@||delivery.acm.org^
 @@||actionnetwork.org^
 @@||www.iij.ad.jp^
@@ -358,6 +360,7 @@
 @@||api-glb.smoot.apple.com^
 @@||swcdn.apple.com^
 @@||trailers.apple.com^
+@@||www.apple.com^
 @@||imp.appledaily.com^
 @@||forums.appleinsider.com^
 @@||artifactory.appodeal.com^
@@ -670,7 +673,6 @@
 @@||wusthof.ugc.bazaarvoice.com^
 @@||xerox.ugc.bazaarvoice.com^
 @@||yvesrocher.ugc.bazaarvoice.com^
-@@||www.bazaarvoice.com^
 @@||bbb.org^
 @@||bbc.com^
 @@||www.bbc.com^
@@ -1775,6 +1777,7 @@
 @@||history.com^
 @@||hitfile.net^
 @@||hm.com^
+@@||www.hm.com^
 @@||hollywoodlife.com^
 @@||www.hollywoodlife.com^
 @@||homedepot.com^
@@ -2238,6 +2241,7 @@
 @@||ris.api.iris.microsoft.com^
 @@||dmd.metaservices.microsoft.com^
 @@||azure-ratecard-dev.mp.microsoft.com^
+@@||azure-ratecard.mp.microsoft.com^
 @@||bsp.mp.microsoft.com^
 @@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
@@ -2253,7 +2257,6 @@
 @@||accountmgmtservice.dce.mp.microsoft.com^
 @@||accountuserservice-int.dce.mp.microsoft.com^
 @@||contentservice.dce.mp.microsoft.com^
-@@||devcenterapi-df.dce.mp.microsoft.com^
 @@||devcenterapi.dce.mp.microsoft.com^
 @@||engagement-int.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
@@ -2274,6 +2277,7 @@
 @@||appxapi.dps.mp.microsoft.com^
 @@||availability.dps.mp.microsoft.com^
 @@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
+@@||bias.dps.mp.microsoft.com^
 @@||burst-int.dps.mp.microsoft.com^
 @@||burst.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
@@ -2285,6 +2289,8 @@
 @@||domaindataservice.dps.mp.microsoft.com^
 @@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
+@@||flighting-int.dps.mp.microsoft.com^
+@@||imagepublishingservice-dev.dps.mp.microsoft.com^
 @@||ingestionapi-dev.dps.mp.microsoft.com^
 @@||ingestionuxservice-int.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
@@ -2292,7 +2298,6 @@
 @@||manualreview-int.dps.mp.microsoft.com^
 @@||manualreview.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
-@@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
 @@||product-int.dps.mp.microsoft.com^
@@ -2312,6 +2317,7 @@
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice-dev.dps.mp.microsoft.com^
 @@||workflowservice-int.dps.mp.microsoft.com^
+@@||workflowservice.dps.mp.microsoft.com^
 @@||engagementservice.dse.mp.microsoft.com^
 @@||engagementweb-int.dse.mp.microsoft.com^
 @@||engagementweb.dse.mp.microsoft.com^
@@ -2326,6 +2332,8 @@
 @@||catalogservice-prod.dcat.dsp.mp.microsoft.com^
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
 @@||cmd-int.dcat.dsp.mp.microsoft.com^
+@@||cmd-tip.dcat.dsp.mp.microsoft.com^
+@@||cy2.cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||bn2.dataapi-prod.dcat.dsp.mp.microsoft.com^
 @@||cy2.dataapi-prod.dcat.dsp.mp.microsoft.com^
 @@||extorigin-dev.dcat.dsp.mp.microsoft.com^
@@ -2402,7 +2410,6 @@
 @@||digitalattachclaims.purchase.mp.microsoft.com^
 @@||scanservice-int.px.mp.microsoft.com^
 @@||scanservice.px.mp.microsoft.com^
-@@||sonar-int.px.mp.microsoft.com^
 @@||sonarweb-int.px.mp.microsoft.com^
 @@||sonarweb.px.mp.microsoft.com^
 @@||staging-dcatbackend-int.mp.microsoft.com^
@@ -2563,6 +2570,7 @@
 @@||nbcnews.com^
 @@||www.nbcnews.com^
 @@||nbcnewyork.com^
+@@||www.nbcnewyork.com^
 @@||nbcuni.com^
 @@||s.ndemiccreations.com^
 @@||ac.ebis.ne.jp^
@@ -2643,6 +2651,7 @@
 @@||www.nordichardware.se^
 @@||nordvpn.com^
 @@||notabug.org^
+@@||www.notabug.org^
 @@||forum.notebookreview.com^
 @@||cloud.notification-naviextras.com^
 @@||now.sh^
@@ -2906,7 +2915,6 @@
 @@||hubt.pornhub.com^
 @@||www.pornhub.com^
 @@||postimage.org^
-@@||www.postimage.org^
 @@||postimg.cc^
 @@||powerreviews.com^
 @@||www.powerreviews.com^
@@ -3222,7 +3230,6 @@
 @@||conf.splunk.com^
 @@||dev.splunk.com^
 @@||api.dev.splunk.com^
-@@||api2.dev.splunk.com^
 @@||playground.dev.splunk.com^
 @@||api.playground.dev.splunk.com^
 @@||api2.playground.dev.splunk.com^
@@ -3230,12 +3237,14 @@
 @@||api.staging.dev.splunk.com^
 @@||api2.staging.dev.splunk.com^
 @@||events.splunk.com^
+@@||investors.splunk.com^
 @@||jira.splunk.com^
 @@||mint.splunk.com^
 @@||pep01.splunk.com^
 @@||response.splunk.com^
 @@||scp.splunk.com^
 @@||api.scp.splunk.com^
+@@||app-admin.scp.splunk.com^
 @@||app.scp.splunk.com^
 @@||playground.scp.splunk.com^
 @@||api.playground.scp.splunk.com^
@@ -3252,13 +3261,13 @@
 @@||staging.scp.splunk.com^
 @@||app-admin.staging.scp.splunk.com^
 @@||app.staging.scp.splunk.com^
+@@||console.staging.scp.splunk.com^
 @@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||streaming.staging.scp.splunk.com^
 @@||status.scp.splunk.com^
 @@||streaming.scp.splunk.com^
 @@||admin.scs.splunk.com^
 @@||scs002-iad10.admin.scs.splunk.com^
-@@||app.scs.splunk.com^
 @@||auth.scs.splunk.com^
 @@||admin.playground.scs.splunk.com^
 @@||scs001-iad10.admin.playground.scs.splunk.com^
@@ -3275,6 +3284,8 @@
 @@||streaming.scs.splunk.com^
 @@||services.splunk.com^
 @@||splunk-base.splunk.com^
+@@||splunkbase.splunk.com^
+@@||dev.splunkbase.splunk.com^
 @@||splunkbot.splunk.com^
 @@||staging.splunk.com^
 @@||login.staging.splunk.com^
@@ -3461,6 +3472,7 @@
 @@||torbit.com^
 @@||torrentfreak.com^
 @@||townnews.com^
+@@||www.townnews.com^
 @@||toysrus.com^
 @@||cookieblock.trackersimulate.org^
 @@||redir.tradedoubler.com^
@@ -3560,6 +3572,7 @@
 @@||ui-portal.de^
 @@||ce1.uicdn.net^
 @@||uk.com^
+@@||www.uk.com^
 @@||ultimedia.com^
 @@||www.ultimedia.com^
 @@||ultraimg.com^
