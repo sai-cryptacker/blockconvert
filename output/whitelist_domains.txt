@@ -1445,6 +1445,7 @@ fox8.com
 framasoft.org
 www.framasoft.org
 frankerfacez.com
+www.frankerfacez.com
 dl.free.fr
 freebsd.org
 freedownloadmanager.org
@@ -1950,6 +1951,7 @@ jquery.com
 code.jquery.com
 codeorigin.jquery.com
 jquerytools.org
+www.jquerytools.org
 cdn.jsdelivr.net
 jsfiddle.net
 crbcdn.jsfiddle.net
@@ -2281,6 +2283,7 @@ domaindataservice.dps.mp.microsoft.com
 filesapi-int.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
 flighting-int.dps.mp.microsoft.com
+flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
 ingestionuxservice-int.dps.mp.microsoft.com
@@ -2296,6 +2299,7 @@ product.dps.mp.microsoft.com
 productsummary-int.dps.mp.microsoft.com
 productweb.dps.mp.microsoft.com
 promotion-int.dps.mp.microsoft.com
+publishingapi.dps.mp.microsoft.com
 restriction-int.dps.mp.microsoft.com
 restriction.dps.mp.microsoft.com
 riker-int.dps.mp.microsoft.com
@@ -2446,6 +2450,7 @@ tile-service.weather.microsoft.com
 whiteboard.microsoft.com
 int.whiteboard.microsoft.com
 emdl.ws.microsoft.com
+www.microsoft.com
 secure.aadcdn.microsoftonline-p.com
 microsoftonline.com
 login.microsoftonline.com
@@ -2554,6 +2559,7 @@ narkive.com
 denis-ovs.narod.ru
 naszdziennik.pl
 nationalgeographic.com
+www.nationalgeographic.com
 nationbuilder.com
 naver.com
 www.naver.com
@@ -2924,6 +2930,7 @@ privacymanager.io
 privateinternetaccess.com
 www.privateinternetaccess.com
 prnt.sc
+www.prnt.sc
 image.prntscr.com
 promodj.com
 proofpoint.com
@@ -3259,6 +3266,7 @@ status.scp.splunk.com
 streaming.scp.splunk.com
 admin.scs.splunk.com
 scs002-iad10.admin.scs.splunk.com
+api.scs.splunk.com
 auth.scs.splunk.com
 admin.playground.scs.splunk.com
 scs001-iad10.admin.playground.scs.splunk.com
@@ -3269,6 +3277,7 @@ auth.playground.scs.splunk.com
 region-iad10.auth.playground.scs.splunk.com
 pulsar.scs.splunk.com
 admin.staging.scs.splunk.com
+api.staging.scs.splunk.com
 app-admin.staging.scs.splunk.com
 auth.staging.scs.splunk.com
 console.staging.scs.splunk.com
