@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-12Z
+! Version: 2021-03-13Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-12Z
+! Last modified: 2021-03-13Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -891,6 +891,7 @@
 @@||www.cleveland.com^
 @@||elinkeu.clickdimensions.com^
 @@||clickondetroit.com^
+@@||www.clickondetroit.com^
 @@||location-inference-westus.cloudapp.net^
 @@||skypeecs-prod-usw-0-b.cloudapp.net^
 @@||cloudflare-dns.com^
@@ -1815,6 +1816,7 @@
 @@||hulu.com^
 @@||www.hulu.com^
 @@||humblebundle.com^
+@@||www.humblebundle.com^
 @@||hwcdn.net^
 @@||cds.d2s7q6s2.hwcdn.net^
 @@||cds.j3z9t3p6.hwcdn.net^
@@ -2162,6 +2164,7 @@
 @@||api.mapbox.com^
 @@||events.mapbox.com^
 @@||tiles.mapbox.com^
+@@||www.mapbox.com^
 @@||mapquestapi.com^
 @@||www.mapquestapi.com^
 @@||ssl.marfeelcdn.com^
@@ -2264,6 +2267,7 @@
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
+@@||devicequalificationserviceppe.mp.microsoft.com^
 @@||digitalattach-int.mp.microsoft.com^
 @@||digitalattach.mp.microsoft.com^
 @@||displaycatalog-int.mp.microsoft.com^
@@ -2375,6 +2379,7 @@
 @@||entitlementsinternal.mp.microsoft.com^
 @@||entitlementssubscriptionnotifications-int.mp.microsoft.com^
 @@||entitlementssubscriptionnotifications.mp.microsoft.com^
+@@||fees-int.mp.microsoft.com^
 @@||firstparty-collections-int.mp.microsoft.com^
 @@||firstparty-collections.mp.microsoft.com^
 @@||firstparty-entitlements-int.mp.microsoft.com^
@@ -4904,6 +4909,7 @@
 @@||www.zerohedge.com^
 @@||app-advertise.zhihuishu.com^
 @@||ziplist.com^
+@@||www.ziplist.com^
 @@||zippyshare.com^
 @@||ziprecruiter.com^
 @@||zlcdn.com^
