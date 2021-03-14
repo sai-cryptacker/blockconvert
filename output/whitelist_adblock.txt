@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-13Z
+! Version: 2021-03-14Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-13Z
+! Last modified: 2021-03-14Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -25,10 +25,10 @@
 @@||cdn.gigya.commes.122.2o7.net^
 @@||www.122.2o7.net^
 @@||2shared.com^
+@@||www.2shared.com^
 @@||static.3001.net^
 @@||4chan.org^
 @@||4shared.com^
-@@||www.4shared.com^
 @@||70i.net^
 @@||8ch.net^
 @@||91-cdn.com^
@@ -689,7 +689,6 @@
 @@||bestbuy.ca^
 @@||www.bestbuy.ca^
 @@||bestbuy.com^
-@@||www.bestbuy.com^
 @@||betanews.com^
 @@||betfair.com^
 @@||l.betrad.com^
@@ -963,6 +962,7 @@
 @@||rawhttp.cloudflareworkers.com^
 @@||d1z2jf7jlzjs58.cloudfront.net^
 @@||d2405b0jymm2dk.cloudfront.net^
+@@||d25xi40x97liuc.cloudfront.net^
 @@||d2c8v52ll5s99u.cloudfront.net^
 @@||d2gatte9o95jao.cloudfront.net^
 @@||d3orhvfyxudxxq.cloudfront.net^
@@ -1048,7 +1048,6 @@
 @@||go.scorptec.com.au^
 @@||weatherzone.com.au^
 @@||bing.com.br^
-@@||www.bing.com.br^
 @@||vivo.com.br^
 @@||sina.com.cn^
 @@||www.sina.com.cn^
@@ -1142,7 +1141,6 @@
 @@||github.developerdan.com^
 @@||www.github.developerdan.com^
 @@||deviantart.com^
-@@||www.deviantart.com^
 @@||deviantart.net^
 @@||digg.com^
 @@||www.digg.com^
@@ -1162,14 +1160,12 @@
 @@||h5.dingtalk.com^
 @@||static.dingtalk.com^
 @@||directvnow.com^
-@@||www.directvnow.com^
 @@||discord.com^
 @@||discord.gg^
 @@||cdn.discordapp.com^
 @@||discovermagazine.com^
 @@||blogs.discovermagazine.com^
 @@||discovery.com^
-@@||www.discovery.com^
 @@||disq.us^
 @@||disqus.com^
 @@||referrer.disqus.com^
@@ -1187,7 +1183,6 @@
 @@||documentcloud.org^
 @@||www.documentcloud.org^
 @@||donorbox.org^
-@@||www.donorbox.org^
 @@||forum.doom9.org^
 @@||cdn.dopc.cz^
 @@||cj.dotomi.com^
@@ -1438,7 +1433,6 @@
 @@||formstack.com^
 @@||survey.forseeresults.com^
 @@||fortune.com^
-@@||www.fortune.com^
 @@||fossbytes.com^
 @@||fox13now.com^
 @@||fox17online.com^
@@ -1452,7 +1446,6 @@
 @@||fox6now.com^
 @@||fox8.com^
 @@||framasoft.org^
-@@||www.framasoft.org^
 @@||frankerfacez.com^
 @@||www.frankerfacez.com^
 @@||dl.free.fr^
@@ -1786,6 +1779,7 @@
 @@||cdn.hometogo.net^
 @@||cdn2.hometogo.net^
 @@||hoopshype.com^
+@@||www.hoopshype.com^
 @@||hootsuite.com^
 @@||horseanswerstoday.com^
 @@||hosts-file.net^
@@ -2249,17 +2243,13 @@
 @@||bsp.mp.microsoft.com^
 @@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
-@@||bspmts-int.mp.microsoft.com^
 @@||bspmts.mp.microsoft.com^
 @@||bsxcommerce-int.mp.microsoft.com^
 @@||bsxcommerce.mp.microsoft.com^
 @@||cbsl.mp.microsoft.com^
 @@||collections-int.mp.microsoft.com^
 @@||collections.mp.microsoft.com^
-@@||accountmgmtservice-int.dce.mp.microsoft.com^
-@@||accountuserservice-int.dce.mp.microsoft.com^
 @@||contentservice.dce.mp.microsoft.com^
-@@||pac.dce.mp.microsoft.com^
 @@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||productcatalogservice.dce.mp.microsoft.com^
 @@||ra-int.dce.mp.microsoft.com^
@@ -2277,14 +2267,17 @@
 @@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi.dps.mp.microsoft.com^
 @@||availability.dps.mp.microsoft.com^
+@@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
 @@||bias.dps.mp.microsoft.com^
 @@||burst-int.dps.mp.microsoft.com^
 @@||burst.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
+@@||ciso-int.dps.mp.microsoft.com^
 @@||ciso.dps.mp.microsoft.com^
 @@||composerapi-int.dps.mp.microsoft.com^
 @@||composerapi.dps.mp.microsoft.com^
 @@||composerweb.dps.mp.microsoft.com^
+@@||discrequest-int.dps.mp.microsoft.com^
 @@||discrequest.dps.mp.microsoft.com^
 @@||domaindataservice.dps.mp.microsoft.com^
 @@||filesapi-int.dps.mp.microsoft.com^
@@ -2300,7 +2293,6 @@
 @@||packagesapi-int.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
-@@||product-int.dps.mp.microsoft.com^
 @@||product.dps.mp.microsoft.com^
 @@||productsummary-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
@@ -2310,9 +2302,7 @@
 @@||restriction.dps.mp.microsoft.com^
 @@||riker-int.dps.mp.microsoft.com^
 @@||riker.dps.mp.microsoft.com^
-@@||schemaapi.dps.mp.microsoft.com^
 @@||stitchapi-int.dps.mp.microsoft.com^
-@@||survey.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice-dev.dps.mp.microsoft.com^
@@ -2327,6 +2317,7 @@
 @@||cy2.api-tip.dcat.dsp.mp.microsoft.com^
 @@||glb.approvals-dev.dcat.dsp.mp.microsoft.com^
 @@||glb.approvals-int.dcat.dsp.mp.microsoft.com^
+@@||glb.approvals-prod.dcat.dsp.mp.microsoft.com^
 @@||glb.approvals-tip.dcat.dsp.mp.microsoft.com^
 @@||catalogservice-prod.dcat.dsp.mp.microsoft.com^
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
@@ -2401,10 +2392,13 @@
 @@||licensing.md.mp.microsoft.com^
 @@||licensingphone.md.mp.microsoft.com^
 @@||licensingwindows.md.mp.microsoft.com^
+@@||paymentinstruments.md.mp.microsoft.com^
 @@||uwpproc-int.mix.mp.microsoft.com^
 @@||uwpproc.mix.mp.microsoft.com^
 @@||paymentinstruments-int.mp.microsoft.com^
+@@||internal.paymentinstruments-int.mp.microsoft.com^
 @@||paymentinstruments.mp.microsoft.com^
+@@||internal.paymentinstruments.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
 @@||digitalattachclaims.purchase.mp.microsoft.com^
 @@||scanservice-int.px.mp.microsoft.com^
@@ -2673,7 +2667,6 @@
 @@||ny.com^
 @@||ny1.com^
 @@||nydailynews.com^
-@@||www.nydailynews.com^
 @@||nymag.com^
 @@||nypost.com^
 @@||www.nypost.com^
@@ -2705,7 +2698,6 @@
 @@||downloads.old-games.org^
 @@||mercury.old-games.org^
 @@||server10.old-games.org^
-@@||www.old-games.org^
 @@||omny.fm^
 @@||omroep.nl^
 @@||amazoncustomerservice.d2.sc.omtrdc.net^
@@ -3063,6 +3055,7 @@
 @@||api.tw06.xlmc.sandai.net^
 @@||ec-ns.sascdn.com^
 @@||satkurier.pl^
+@@||www.satkurier.pl^
 @@||sbnation.com^
 @@||gcs.sc-cdn.net^
 @@||scene7.com^
@@ -3208,8 +3201,6 @@
 @@||answers.splunk.com^
 @@||api.splunk.com^
 @@||appinspect.splunk.com^
-@@||new.appinspect.splunk.com^
-@@||www.appinspect.splunk.com^
 @@||banner.splunk.com^
 @@||boo.splunk.com^
 @@||botn.splunk.com^
@@ -3245,9 +3236,7 @@
 @@||app.staging.scp.splunk.com^
 @@||console.staging.scp.splunk.com^
 @@||pulsar-app-stage1.staging.scp.splunk.com^
-@@||streaming.staging.scp.splunk.com^
 @@||status.scp.splunk.com^
-@@||streaming.scp.splunk.com^
 @@||admin.scs.splunk.com^
 @@||scs002-iad10.admin.scs.splunk.com^
 @@||api.scs.splunk.com^
@@ -3324,7 +3313,6 @@
 @@||steamcommunity.com^
 @@||steampowered.com^
 @@||store.steampowered.com^
-@@||www.steampowered.com^
 @@||store.akamai.steamstatic.com^
 @@||stopklatka.pl^
 @@||www.stopklatka.pl^
@@ -3385,7 +3373,6 @@
 @@||teamviewer.com^
 @@||techguy.org^
 @@||forums.techguy.org^
-@@||www.techguy.org^
 @@||technorati.com^
 @@||techradar.com^
 @@||www.techradar.com^
@@ -3409,12 +3396,12 @@
 @@||thechive.com^
 @@||theepochtimes.com^
 @@||thefreethoughtproject.com^
+@@||www.thefreethoughtproject.com^
 @@||thehill.com^
 @@||thenextweb.com^
 @@||theoldnet.com^
 @@||www.theoldnet.com^
 @@||thepiratebay.org^
-@@||www.thepiratebay.org^
 @@||theplatform.com^
 @@||release.theplatform.com^
 @@||thetvdb.com^
@@ -3626,7 +3613,6 @@
 @@||ecn.dev.virtualearth.net^
 @@||t0.ssl.ak.tiles.virtualearth.net^
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^
-@@||www.virtualearth.net^
 @@||visa.com^
 @@||code.visualstudio.com^
 @@||update.code.visualstudio.com^

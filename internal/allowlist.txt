@@ -146,6 +146,7 @@ cy2.licensing.md.mp.microsoft.com.akadns.net
 cy2.settings.data.microsoft.com.akadns.net
 cybercrime-tracker.net
 d2405b0jymm2dk.cloudfront.net
+d25xi40x97liuc.cloudfront.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-798791030 Breaks Amazon Video
 d2gatte9o95jao.cloudfront.net
 dailymail.co.uk # Blocked by PrivacyBadger
 datadoghq-browser-agent.com
