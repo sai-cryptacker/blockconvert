@@ -22,8 +22,8 @@ static.3001.net
 4shared.com
 70i.net
 8ch.net
+www.8ch.net
 91-cdn.com
-www.91-cdn.com
 91mobiles.com
 a-0001.a-msedge.net
 bat-bing-com.a-0001.a-msedge.net
@@ -80,12 +80,10 @@ podcasts.adafruit.com
 adaway.org
 adblock.dk
 adblock.ee
-www.adblock.ee
 road.adblock.ro
 easylist-downloads.adblockplus.org
 adcolo.com
 add0n.com
-www.add0n.com
 adguard.com
 adidas.com
 www.adidas.com
@@ -316,6 +314,7 @@ androidauthority.com
 androidforums.com
 www.androidforums.com
 angularjs.org
+www.angularjs.org
 www.anrdoezrs.net
 answers.com
 www.answers.com
@@ -678,7 +677,6 @@ behance.net
 berush.com
 www.berush.com
 bestbuy.ca
-www.bestbuy.ca
 bestbuy.com
 betanews.com
 betfair.com
@@ -690,7 +688,6 @@ beyondmenu.com
 static.beyondmenu.com
 www.beyondmenu.com
 bgr.com
-www.bgr.com
 buyad.bi-xenon.cn
 bigcommerce.com
 bilder.bild.de
@@ -698,37 +695,23 @@ billiger.de
 binarydefense.com
 www.binarydefense.com
 bing.at
-www.bing.at
 bing.ch
-www.bing.ch
 bing.com
 api.bing.com
 cn.bing.com
 www.bing.com
 bing.cz
-www.bing.cz
 bing.es
-www.bing.es
 bing.fi
-www.bing.fi
 bing.fr
-www.bing.fr
 bing.gr
-www.bing.gr
 bing.hu
-www.bing.hu
 bing.ie
-www.bing.ie
 bing.it
-www.bing.it
 bing.no
-www.bing.no
 bing.pl
-www.bing.pl
 bing.ru
-www.bing.ru
 bing.se
-www.bing.se
 bit.ly
 www.bit.ly
 bitbucket.org
@@ -997,7 +980,6 @@ www.bbc.co.uk
 bbci.co.uk
 static.bbci.co.uk
 bing.co.uk
-www.bing.co.uk
 dailymail.co.uk
 express.co.uk
 guardian.co.uk
@@ -1157,6 +1139,7 @@ cdn.discordapp.com
 discovermagazine.com
 blogs.discovermagazine.com
 discovery.com
+www.discovery.com
 disq.us
 disqus.com
 referrer.disqus.com
@@ -1278,7 +1261,6 @@ epoq.de
 espn.com
 a.espncdn.com
 et4.de
-www.et4.de
 ethn.io
 www.ethn.io
 eventbrite.com
@@ -1350,7 +1332,6 @@ limited-prod.giphy.map.fastly.net
 stripecdn.map.fastly.net
 global.ssl.fastly.net
 travis-ci-org.global.ssl.fastly.net
-www.fastly.net
 prod.disqus.map.fastlylb.net
 faucethub.io
 fb.com
@@ -1425,12 +1406,12 @@ formstack.com
 survey.forseeresults.com
 fortune.com
 fossbytes.com
+www.fossbytes.com
 fox13now.com
 fox17online.com
 fox2now.com
 fox40.com
 fox43.com
-www.fox43.com
 fox4kc.com
 fox59.com
 fox5sandiego.com
@@ -1455,6 +1436,7 @@ build.origami.ft.com
 funk.eu
 funnyordie.com
 fuseservice.com
+www.fuseservice.com
 vanilla.futurecdn.net
 api.vanilla.futurecdn.net
 fwmrm.net
@@ -1907,7 +1889,6 @@ ipify.org
 api.ipify.org
 www.ipify.org
 ipinfo.io
-www.ipinfo.io
 ipla.tv
 ipredator.se
 www.ipredator.se
@@ -1927,7 +1908,6 @@ jaleco.com
 www.jaleco.com
 www.janrain.com
 jarv.is
-www.jarv.is
 jcpenney.com
 gia.jd.com
 wl.jd.com
@@ -1991,7 +1971,6 @@ kingfeatures.com
 kinja-static.com
 kinja.com
 klarna.com
-www.klarna.com
 trk.klclick1.com
 klm.com
 kmart.com
@@ -2007,7 +1986,6 @@ kotaku.com
 blocklist.kowabit.de
 omsc.kpn.com
 kroger.com
-www.kroger.com
 shuc-android.ksord.com
 dw-online.ksosoft.com
 ku6.com
@@ -2125,12 +2103,10 @@ i.loli.net
 lowendbox.com
 www.lowendbox.com
 lowes.com
-www.lowes.com
 cindyholbrook.lpages.co
 luckyorange.com
 www.luckyorange.com
 lwn.net
-www.lwn.net
 m.me
 forums.macrumors.com
 macys.com
@@ -2188,6 +2164,7 @@ medium.com
 miro.medium.com
 mega.nz
 megaphone.fm
+www.megaphone.fm
 menshealth.com
 merriam-webster.com
 mesh.com
@@ -2240,14 +2217,24 @@ bsxcommerce.mp.microsoft.com
 cbsl.mp.microsoft.com
 collections-int.mp.microsoft.com
 collections.mp.microsoft.com
+accountuserservice.dce.mp.microsoft.com
 contentservice.dce.mp.microsoft.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 ra-int.dce.mp.microsoft.com
 ra.dce.mp.microsoft.com
+bn2-extorigin.delivery.mp.microsoft.com
+bn2-prod.delivery.mp.microsoft.com
+cy2-extorigin.delivery.mp.microsoft.com
+cy2-prod.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 fe3.delivery.mp.microsoft.com
+or.delivery.mp.microsoft.com
+tip.or.delivery.mp.microsoft.com
+origin.delivery.mp.microsoft.com
+phx.origin.delivery.mp.microsoft.com
+devicequalificationservice.mp.microsoft.com
 devicequalificationserviceppe.mp.microsoft.com
 digitalattach-int.mp.microsoft.com
 digitalattach.mp.microsoft.com
@@ -2276,7 +2263,6 @@ filesapi.dps.mp.microsoft.com
 flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
-ingestionuxservice-int.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
 listingsapi.dps.mp.microsoft.com
 manualreview-int.dps.mp.microsoft.com
@@ -2319,6 +2305,7 @@ bn2.dataapi-prod.dcat.dsp.mp.microsoft.com
 cy2.dataapi-prod.dcat.dsp.mp.microsoft.com
 extorigin-dev.dcat.dsp.mp.microsoft.com
 extorigin-int.dcat.dsp.mp.microsoft.com
+extorigin-tip.dcat.dsp.mp.microsoft.com
 phx.sfs-dev.dcat.dsp.mp.microsoft.com
 phx.sfs-int.dcat.dsp.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
@@ -2326,7 +2313,6 @@ phx.sfs-tip.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 geover-int.do.dsp.mp.microsoft.com
 geover-prod.do.dsp.mp.microsoft.com
-int.do.dsp.mp.microsoft.com
 orgeover-int.do.dsp.mp.microsoft.com
 orgeover-prod.do.dsp.mp.microsoft.com
 glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com
@@ -2362,6 +2348,7 @@ entitlementsinternal.mp.microsoft.com
 entitlementssubscriptionnotifications-int.mp.microsoft.com
 entitlementssubscriptionnotifications.mp.microsoft.com
 fees-int.mp.microsoft.com
+fees.mp.microsoft.com
 firstparty-collections-int.mp.microsoft.com
 firstparty-collections.mp.microsoft.com
 firstparty-entitlements-int.mp.microsoft.com
@@ -2468,7 +2455,6 @@ www.miui.net
 mixcloud.com
 www.mixcloud.com
 mixnews.lv
-www.mixnews.lv
 sj14.mktossl.com
 mlb.com
 mlive.com
@@ -2610,7 +2596,6 @@ www.nextcloud.com
 oneline.nextday.media
 nextopiasoftware.com
 nfl.com
-www.nfl.com
 nflxext.com
 assets.nflxext.com
 cdn3.nflxext.com
@@ -2748,7 +2733,6 @@ cdn2.optimizely.com
 cdn3.optimizely.com
 www.optimizely.com
 oracle.com
-www.oracle.com
 orange.fr
 webmail.orange.fr
 orbitz.com
@@ -2758,6 +2742,7 @@ www.oregonlive.com
 s7.orientaltrading.com
 fr.osdn.net
 osnews.com
+www.osnews.com
 ouo.io
 ad.ourgame.com
 outlook.com
@@ -2876,7 +2861,6 @@ my.plexapp.com
 nine.plugins.plexapp.com
 tvthemes.plexapp.com
 pling.com
-www.pling.com
 plot.ly
 www.plot.ly
 cdn.plyr.io
@@ -2895,7 +2879,6 @@ postimage.org
 postimg.cc
 powerreviews.com
 powr.io
-www.powr.io
 ppt.cc
 www.ppt.cc
 full.pr0gramm.com
@@ -3124,9 +3107,7 @@ static.asm.skype.com
 weu1-authgw.asm.skype.com
 blogs.skype.com
 c1.skype.com
-do.skype.com
 download.skype.com
-ecs.skype.com
 edge.skype.com
 config.edge.skype.com
 consumer.entitlement.skype.com
@@ -3152,7 +3133,6 @@ public.slidesharecdn.com
 smallseotools.com
 smugmug.com
 snapchat.com
-www.snapchat.com
 snapengage.com
 www.snapengage.com
 sndcdn.com
@@ -3187,14 +3167,13 @@ spiceworks.com
 community.spiceworks.com
 www.spiceworks.com
 spiegel-de.spiegel.de
+admin.splunk.com
+staging.admin.splunk.com
 aha-endpoint.splunk.com
-amp.splunk.com
 answers.splunk.com
 api.splunk.com
 appinspect.splunk.com
 banner.splunk.com
-boo.splunk.com
-botn.splunk.com
 bots.splunk.com
 bucketlist.splunk.com
 status.businessflowapp.splunk.com
@@ -3203,9 +3182,9 @@ wbtapi.class.splunk.com
 cloud.splunk.com
 community.splunk.com
 conf.splunk.com
-dev.splunk.com
 staging.dev.splunk.com
 events.splunk.com
+gsuite.splunk.com
 investors.splunk.com
 jira.splunk.com
 mint.splunk.com
@@ -3218,16 +3197,12 @@ playground.scp.splunk.com
 api.playground.scp.splunk.com
 auth.playground.scp.splunk.com
 cae.playground.scp.splunk.com
-console.playground.scp.splunk.com
-pulsar-istio-play1.playground.scp.splunk.com
 splunkbase-cloudfront.playground.scp.splunk.com
 udf.playground.scp.splunk.com
 wc-develop.playground.scp.splunk.com
 staging.scp.splunk.com
-app.staging.scp.splunk.com
 console.staging.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
-status.scp.splunk.com
 admin.scs.splunk.com
 scs002-iad10.admin.scs.splunk.com
 api.scs.splunk.com
@@ -3243,6 +3218,7 @@ pulsar.scs.splunk.com
 admin.staging.scs.splunk.com
 api.staging.scs.splunk.com
 auth.staging.scs.splunk.com
+streaming.scs.splunk.com
 services.splunk.com
 splunk-base.splunk.com
 splunkbase.splunk.com
@@ -3306,7 +3282,6 @@ steampowered.com
 store.steampowered.com
 store.akamai.steamstatic.com
 stopklatka.pl
-www.stopklatka.pl
 statics.streamable.com
 streamtheworld.com
 strefa.fm
@@ -3416,7 +3391,6 @@ tinypic.com
 tinyurl.com
 www.tinyurl.com
 tlaol.com
-www.tlaol.com
 tlc.com
 www.tlc.com
 tld-list.com
@@ -3460,7 +3434,6 @@ www.trustpilot.com
 trustwave.com
 tuba.fm
 fm.tuba.pl
-www.fm.tuba.pl
 tube8.com
 blog.tube8.com
 mobile.tube8.com
@@ -4527,7 +4500,6 @@ weathernationtv.com
 web.de
 webflow.com
 webmd.com
-www.webmd.com
 webs.com
 websimages.com
 webtype.com
@@ -4710,7 +4682,6 @@ i3.wp.com
 s0.wp.com
 s1.wp.com
 s2.wp.com
-www.wp.com
 tv.wp.pl
 wpengine.com
 www.wshifen.com
