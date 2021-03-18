@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-16Z
+! Version: 2021-03-18Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-16Z
+! Last modified: 2021-03-18Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -766,8 +766,10 @@
 @@||maxcdn.bootstrapcdn.com^
 @@||netdna.bootstrapcdn.com^
 @@||stackpath.bootstrapcdn.com^
+@@||www.bootstrapcdn.com^
 @@||inapcache.boston.com^
 @@||bountysource.com^
+@@||www.bountysource.com^
 @@||bowercdn.net^
 @@||boxrec.com^
 @@||braintreegateway.com^
@@ -958,6 +960,7 @@
 @@||cmail19.com^
 @@||cmail20.com^
 @@||i.cmpnet.com^
+@@||www.i.cmpnet.com^
 @@||cnbc.com^
 @@||www.cnbc.com^
 @@||images2015.cnblogs.com^
@@ -1095,6 +1098,7 @@
 @@||e.customeriomail.com^
 @@||cutcaptcha.com^
 @@||cvs.com^
+@@||www.cvs.com^
 @@||cybercrime-tracker.net^
 @@||d3js.org^
 @@||admin.dable.io^
@@ -1274,6 +1278,7 @@
 @@||www.ethn.io^
 @@||eventbrite.com^
 @@||everyaction.com^
+@@||www.everyaction.com^
 @@||c.evidon.com^
 @@||ew.com^
 @@||click.virt.exacttarget.com^
@@ -1980,6 +1985,7 @@
 @@||kinja-static.com^
 @@||kinja.com^
 @@||klarna.com^
+@@||www.klarna.com^
 @@||trk.klclick1.com^
 @@||klm.com^
 @@||kmart.com^
@@ -2226,6 +2232,8 @@
 @@||cbsl.mp.microsoft.com^
 @@||collections-int.mp.microsoft.com^
 @@||collections.mp.microsoft.com^
+@@||accountmgmtservice-df.dce.mp.microsoft.com^
+@@||accountmgmtservice.dce.mp.microsoft.com^
 @@||accountuserservice.dce.mp.microsoft.com^
 @@||contentservice.dce.mp.microsoft.com^
 @@||productcatalogservice-df.dce.mp.microsoft.com^
@@ -2250,6 +2258,7 @@
 @@||displaycatalog-int.mp.microsoft.com^
 @@||wus2.displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
+@@||aircapi.displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
 @@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi.dps.mp.microsoft.com^
@@ -2258,6 +2267,7 @@
 @@||bias.dps.mp.microsoft.com^
 @@||burst-int.dps.mp.microsoft.com^
 @@||burst.dps.mp.microsoft.com^
+@@||certweb-int.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
 @@||ciso-int.dps.mp.microsoft.com^
 @@||ciso.dps.mp.microsoft.com^
@@ -2274,10 +2284,13 @@
 @@||imagepublishingservice-dev.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
 @@||listingsapi.dps.mp.microsoft.com^
+@@||listingsweb.dps.mp.microsoft.com^
 @@||manualreview-int.dps.mp.microsoft.com^
 @@||manualreview.dps.mp.microsoft.com^
+@@||packages.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
+@@||packagesweb.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
 @@||product.dps.mp.microsoft.com^
 @@||productsummary-int.dps.mp.microsoft.com^
@@ -2289,6 +2302,9 @@
 @@||riker-int.dps.mp.microsoft.com^
 @@||riker.dps.mp.microsoft.com^
 @@||stitchapi-int.dps.mp.microsoft.com^
+@@||submissionapi.dps.mp.microsoft.com^
+@@||submissioncompareapi.dps.mp.microsoft.com^
+@@||submissionweb.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice-dev.dps.mp.microsoft.com^
@@ -2336,6 +2352,7 @@
 @@||glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
+@@||ratingsedgefd.dsx.mp.microsoft.com^
 @@||storeedgefd-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe.dsx.mp.microsoft.com^
@@ -2362,6 +2379,8 @@
 @@||firstparty-collections.mp.microsoft.com^
 @@||firstparty-entitlements-int.mp.microsoft.com^
 @@||firstparty-entitlements.mp.microsoft.com^
+@@||keyfulfillment-int.mp.microsoft.com^
+@@||keyfulfillment.mp.microsoft.com^
 @@||licensing-entitlements-int.mp.microsoft.com^
 @@||licensing-entitlements.mp.microsoft.com^
 @@||licensing-int.mp.microsoft.com^
@@ -2601,7 +2620,6 @@
 @@||newyorker.com^
 @@||www.newyorker.com^
 @@||nextcloud.com^
-@@||www.nextcloud.com^
 @@||oneline.nextday.media^
 @@||nextopiasoftware.com^
 @@||nfl.com^
@@ -2944,6 +2962,7 @@
 @@||umich.qualtrics.com^
 @@||www.qualtrics.com^
 @@||quickenloans.com^
+@@||www.quickenloans.com^
 @@||quora.com^
 @@||www.quora.com^
 @@||quotemedia.com^
@@ -3050,6 +3069,7 @@
 @@||schibsted.tech^
 @@||scrapinghub.com^
 @@||scribblelive.com^
+@@||www.scribblelive.com^
 @@||scribd.com^
 @@||sdad.guru^
 @@||www.sdad.guru^
@@ -3126,9 +3146,9 @@
 @@||fpt.skype.com^
 @@||login.skype.com^
 @@||peoplerecommendations.skype.com^
-@@||pipe.portal.skype.com^
 @@||api.promotions.skype.com^
 @@||bo.promotions.skype.com^
+@@||tr.skype.com^
 @@||usermap.skype.com^
 @@||slack-redir.net^
 @@||files.slack.com^
@@ -3190,18 +3210,22 @@
 @@||wbtapi.class.splunk.com^
 @@||cloud.splunk.com^
 @@||community.splunk.com^
+@@||concur.splunk.com^
 @@||conf.splunk.com^
 @@||staging.dev.splunk.com^
+@@||directory.splunk.com^
 @@||events.splunk.com^
 @@||gsuite.splunk.com^
 @@||investors.splunk.com^
 @@||jira.splunk.com^
+@@||ldaps.splunk.com^
 @@||mint.splunk.com^
 @@||pep01.splunk.com^
 @@||response.splunk.com^
 @@||scp.splunk.com^
 @@||app-admin.scp.splunk.com^
 @@||app.scp.splunk.com^
+@@||console.scp.splunk.com^
 @@||playground.scp.splunk.com^
 @@||api.playground.scp.splunk.com^
 @@||auth.playground.scp.splunk.com^
@@ -3227,11 +3251,14 @@
 @@||admin.staging.scs.splunk.com^
 @@||api.staging.scs.splunk.com^
 @@||auth.staging.scs.splunk.com^
+@@||missioncontrol.staging.scs.splunk.com^
 @@||streaming.scs.splunk.com^
 @@||services.splunk.com^
 @@||splunk-base.splunk.com^
 @@||splunkbase.splunk.com^
 @@||dev.splunkbase.splunk.com^
+@@||staging.splunkbase.splunk.com^
+@@||splunkbase-cloudfront.staging.splunkbase.splunk.com^
 @@||staging.splunk.com^
 @@||login.staging.splunk.com^
 @@||hooks.login.staging.splunk.com^
@@ -3377,6 +3404,7 @@
 @@||theoldnet.com^
 @@||www.theoldnet.com^
 @@||thepiratebay.org^
+@@||www.thepiratebay.org^
 @@||theplatform.com^
 @@||release.theplatform.com^
 @@||thetvdb.com^
@@ -3530,6 +3558,7 @@
 @@||uploaded.net^
 @@||uploaded.to^
 @@||uplynk.com^
+@@||www.uplynk.com^
 @@||uptobox.com^
 @@||flo.uri.sh^
 @@||usa.gov^
