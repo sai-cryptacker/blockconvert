@@ -73,6 +73,7 @@ ada.support
 cricket.att.ada.support
 static.ada.support
 www.ada.support
+cdn-dev.adafruit.com
 forums.adafruit.com
 www.forums.adafruit.com
 makecode.adafruit.com
@@ -115,6 +116,7 @@ a.adwolf.ru
 adyen.com
 www.adyen.com
 aeriagames.com
+www.aeriagames.com
 som.aeroplan.com
 aetna.com
 www.aetna.com
@@ -1337,6 +1339,7 @@ limited-prod.giphy.map.fastly.net
 stripecdn.map.fastly.net
 global.ssl.fastly.net
 travis-ci-org.global.ssl.fastly.net
+www.fastly.net
 prod.disqus.map.fastlylb.net
 faucethub.io
 fb.com
@@ -1416,12 +1419,16 @@ fox13now.com
 fox17online.com
 fox2now.com
 fox40.com
+www.fox40.com
 fox43.com
 fox4kc.com
+www.fox4kc.com
 fox59.com
+www.fox59.com
 fox5sandiego.com
 fox6now.com
 fox8.com
+www.fox8.com
 framasoft.org
 frankerfacez.com
 www.frankerfacez.com
@@ -2273,6 +2280,7 @@ filesapi.dps.mp.microsoft.com
 flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
+ingestionapi-dev.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
 listingsapi.dps.mp.microsoft.com
 listingsweb.dps.mp.microsoft.com
@@ -2636,6 +2644,7 @@ static.wikia.nocookie.net
 vignette.wikia.nocookie.net
 noexit.tv
 nola.com
+www.nola.com
 nordichardware.se
 www.nordichardware.se
 nordvpn.com
@@ -3193,6 +3202,8 @@ aha-endpoint.splunk.com
 answers.splunk.com
 api.splunk.com
 appinspect.splunk.com
+review.us.appinspect.splunk.com
+staging.review.us.appinspect.splunk.com
 banner.splunk.com
 bots.splunk.com
 bucketlist.splunk.com
@@ -3238,9 +3249,12 @@ api.playground.scs.splunk.com
 region-iad10.api.playground.scs.splunk.com
 auth.playground.scs.splunk.com
 region-iad10.auth.playground.scs.splunk.com
+rainier.playground.scs.splunk.com
+region-kim10.rainier.playground.scs.splunk.com
 pulsar.scs.splunk.com
 admin.staging.scs.splunk.com
 api.staging.scs.splunk.com
+region-iad10.api.staging.scs.splunk.com
 auth.staging.scs.splunk.com
 missioncontrol.staging.scs.splunk.com
 streaming.scs.splunk.com
