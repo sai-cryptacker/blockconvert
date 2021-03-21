@@ -552,6 +552,7 @@ intercontinental.ugc.bazaarvoice.com
 jcpenney.ugc.bazaarvoice.com
 jcrew.ugc.bazaarvoice.com
 jcrewfactory.ugc.bazaarvoice.com
+jeannedarc.ugc.bazaarvoice.com
 jmbruneau.ugc.bazaarvoice.com
 johndeere.ugc.bazaarvoice.com
 johnfrieda.ugc.bazaarvoice.com
@@ -587,6 +588,7 @@ monicavinader.ugc.bazaarvoice.com
 mountainhardwear.ugc.bazaarvoice.com
 nationwide.ugc.bazaarvoice.com
 ncl.ugc.bazaarvoice.com
+netonnet.ugc.bazaarvoice.com
 nikon.ugc.bazaarvoice.com
 nizoral.ugc.bazaarvoice.com
 norauto.ugc.bazaarvoice.com
@@ -736,6 +738,7 @@ tests.bitcoin.it
 www.bitcoin.it
 zh-cn.bitcoin.it
 bitlord.com
+www.bitlord.com
 bitly.com
 bitpay.com
 bizrate.com
@@ -795,6 +798,7 @@ phoenix.burst-alliance.org
 pool.burst-alliance.org
 testnet-2.burst-alliance.org
 www.testnet-2.burst-alliance.org
+testnet.burst-alliance.org
 wallet.burst-alliance.org
 www.wallet.burst-alliance.org
 watchdog.burst-alliance.org
@@ -881,6 +885,7 @@ cloudflare-dns.com
 1.1.1.1.cloudflare-dns.com
 1001.cloudflare-dns.com
 1111.cloudflare-dns.com
+1doc1doc1doc1.cloudflare-dns.com
 1dot0dot0dot1.cloudflare-dns.com
 1dot1dot1do1.cloudflare-dns.com
 1dot1dot1dot.cloudflare-dns.com
@@ -914,6 +919,7 @@ ns2.cloudflare-dns.com
 ns3.cloudflare-dns.com
 ns8.cloudflare-dns.com
 odoh.cloudflare-dns.com
+proxy.odoh.cloudflare-dns.com
 one.cloudflare-dns.com
 one.one.cloudflare-dns.com
 one.one.one.cloudflare-dns.com
@@ -1096,7 +1102,6 @@ cybercrime-tracker.net
 d3js.org
 admin.dable.io
 dailymotion.com
-www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
@@ -1747,6 +1752,7 @@ heavy.com
 heise.de
 www.heise.de
 helium.com
+www.helium.com
 version.hybrid.api.here.com
 herokuapp.com
 us-east-1-a.route.herokuapp.com
@@ -1926,6 +1932,7 @@ wl.jd.com
 www.jdoqocy.com
 jdownloader.org
 board.jdownloader.org
+www.jdownloader.org
 demo-staging.jifflenow.com
 online.jimmyjohns.com
 joblo.com
@@ -2228,12 +2235,12 @@ bspmts.mp.microsoft.com
 bsxcommerce-int.mp.microsoft.com
 bsxcommerce.mp.microsoft.com
 cbsl.mp.microsoft.com
-collections-int.mp.microsoft.com
 collections.mp.microsoft.com
 accountmgmtservice-df.dce.mp.microsoft.com
 accountmgmtservice.dce.mp.microsoft.com
 accountuserservice.dce.mp.microsoft.com
 contentservice.dce.mp.microsoft.com
+devcenterapi-df.dce.mp.microsoft.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
 ra-int.dce.mp.microsoft.com
@@ -2251,7 +2258,6 @@ origin.delivery.mp.microsoft.com
 phx.origin.delivery.mp.microsoft.com
 devicequalificationservice.mp.microsoft.com
 devicequalificationserviceppe.mp.microsoft.com
-digitalattach-int.mp.microsoft.com
 digitalattach.mp.microsoft.com
 displaycatalog-int.mp.microsoft.com
 wus2.displaycatalog-int.mp.microsoft.com
@@ -2260,7 +2266,6 @@ aircapi.displaycatalog.mp.microsoft.com
 commercial.displaycatalog.mp.microsoft.com
 appxapi-int.dps.mp.microsoft.com
 appxapi.dps.mp.microsoft.com
-availability.dps.mp.microsoft.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
 bias.dps.mp.microsoft.com
 burst-int.dps.mp.microsoft.com
@@ -2281,6 +2286,7 @@ flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
+iot-int.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
 listingsapi.dps.mp.microsoft.com
 listingsweb.dps.mp.microsoft.com
@@ -2300,19 +2306,15 @@ restriction-int.dps.mp.microsoft.com
 restriction.dps.mp.microsoft.com
 riker-int.dps.mp.microsoft.com
 riker.dps.mp.microsoft.com
-stitchapi-int.dps.mp.microsoft.com
+schemaapi-int.dps.mp.microsoft.com
 submissionapi.dps.mp.microsoft.com
 submissioncompareapi.dps.mp.microsoft.com
 submissionweb.dps.mp.microsoft.com
 variant-int.dps.mp.microsoft.com
 watchdogs.dps.mp.microsoft.com
-workflowservice-dev.dps.mp.microsoft.com
 workflowservice-int.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
-engagementservice.dse.mp.microsoft.com
-engagementweb-int.dse.mp.microsoft.com
-engagementweb.dse.mp.microsoft.com
-notificationservice.dse.mp.microsoft.com
+ingestiondeveloperapi-int.dse.mp.microsoft.com
 pac-int.dse.mp.microsoft.com
 api-tip.dcat.dsp.mp.microsoft.com
 cy2.api-tip.dcat.dsp.mp.microsoft.com
@@ -2330,7 +2332,6 @@ cy2.dataapi-prod.dcat.dsp.mp.microsoft.com
 extorigin-dev.dcat.dsp.mp.microsoft.com
 extorigin-int.dcat.dsp.mp.microsoft.com
 extorigin-tip.dcat.dsp.mp.microsoft.com
-phx.sfs-dev.dcat.dsp.mp.microsoft.com
 phx.sfs-int.dcat.dsp.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
 phx.sfs-tip.dcat.dsp.mp.microsoft.com
@@ -2363,40 +2364,15 @@ editcat-int.mp.microsoft.com
 editcat.mp.microsoft.com
 entitlementfulfillment-int.mp.microsoft.com
 entitlementfulfillment.mp.microsoft.com
-entitlements-int.mp.microsoft.com
-entitlements.mp.microsoft.com
-entitlementsfederation-int.mp.microsoft.com
-entitlementsfederation.mp.microsoft.com
-entitlementsfederationinternal-int.mp.microsoft.com
-entitlementsfederationinternal.mp.microsoft.com
-entitlementsinternal.mp.microsoft.com
-entitlementssubscriptionnotifications-int.mp.microsoft.com
-entitlementssubscriptionnotifications.mp.microsoft.com
 fees-int.mp.microsoft.com
 fees.mp.microsoft.com
-firstparty-collections-int.mp.microsoft.com
-firstparty-collections.mp.microsoft.com
-firstparty-entitlements-int.mp.microsoft.com
-firstparty-entitlements.mp.microsoft.com
 keyfulfillment-int.mp.microsoft.com
 keyfulfillment.mp.microsoft.com
-licensing-entitlements-int.mp.microsoft.com
-licensing-entitlements.mp.microsoft.com
-licensing-int.mp.microsoft.com
 licensing.mp.microsoft.com
-licensingphone-int.mp.microsoft.com
-licensingphone.mp.microsoft.com
-licensingwindows-int.mp.microsoft.com
-licensingwindows.mp.microsoft.com
 collections.md.mp.microsoft.com
 displaycatalog.md.mp.microsoft.com
 entitlementfulfillment-int.md.mp.microsoft.com
 entitlementfulfillment.md.mp.microsoft.com
-licensing-entitlements-int.md.mp.microsoft.com
-licensing-entitlements.md.mp.microsoft.com
-licensing.md.mp.microsoft.com
-licensingphone.md.mp.microsoft.com
-licensingwindows.md.mp.microsoft.com
 paymentinstruments.md.mp.microsoft.com
 uwpproc-int.mix.mp.microsoft.com
 uwpproc.mix.mp.microsoft.com
@@ -2414,8 +2390,6 @@ staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
 stagingretrieval-dcatbackend-int.mp.microsoft.com
 wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com
-xbox-collections-int.mp.microsoft.com
-xbox-collections.mp.microsoft.com
 mscrl.microsoft.com
 officeclient.microsoft.com
 query.prod.cms.rt.microsoft.com
@@ -2698,6 +2672,7 @@ okta.com
 olark.com
 www.olark.com
 old-games.org
+down3.old-games.org
 downloads.old-games.org
 mercury.old-games.org
 server10.old-games.org
@@ -2906,6 +2881,7 @@ postimage.org
 postimg.cc
 powerreviews.com
 powr.io
+www.powr.io
 ppt.cc
 www.ppt.cc
 full.pr0gramm.com
@@ -3022,7 +2998,6 @@ resultspage.com
 returnpath.com
 www.returnpath.com
 rewardstyle.com
-tofukko.r.ribbon.to
 api.rlje.net
 roadandtrack.com
 www.roadandtrack.com
@@ -3127,13 +3102,6 @@ www.sketchfab.com
 skimresources.com
 www.skimresources.com
 skype.com
-ea1-authgw.asm.skype.com
-eus1-authgw.asm.skype.com
-neu1-authgw.asm.skype.com
-nus1-authgw.asm.skype.com
-sa1-authgw.asm.skype.com
-static.asm.skype.com
-weu1-authgw.asm.skype.com
 blogs.skype.com
 c1.skype.com
 download.skype.com
@@ -3162,6 +3130,7 @@ public.slidesharecdn.com
 smallseotools.com
 smugmug.com
 snapchat.com
+www.snapchat.com
 snapengage.com
 www.snapengage.com
 sndcdn.com
@@ -3214,7 +3183,6 @@ cloud.splunk.com
 community.splunk.com
 concur.splunk.com
 conf.splunk.com
-staging.dev.splunk.com
 directory.splunk.com
 events.splunk.com
 gsuite.splunk.com
@@ -3236,10 +3204,9 @@ splunkbase-cloudfront.playground.scp.splunk.com
 udf.playground.scp.splunk.com
 wc-develop.playground.scp.splunk.com
 staging.scp.splunk.com
+admin.staging.scp.splunk.com
 console.staging.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
-admin.scs.splunk.com
-scs002-iad10.admin.scs.splunk.com
 api.scs.splunk.com
 auth.scs.splunk.com
 admin.playground.scs.splunk.com
@@ -3252,7 +3219,6 @@ region-iad10.auth.playground.scs.splunk.com
 rainier.playground.scs.splunk.com
 region-kim10.rainier.playground.scs.splunk.com
 pulsar.scs.splunk.com
-admin.staging.scs.splunk.com
 api.staging.scs.splunk.com
 region-iad10.api.staging.scs.splunk.com
 auth.staging.scs.splunk.com
@@ -3440,8 +3406,10 @@ tmblr.co
 tmz.com
 www.tmz.com
 tomshardware.com
+www.tomshardware.com
 it.toolbox.com
 toptenreviews.com
+www.toptenreviews.com
 torbit.com
 torrentfreak.com
 townnews.com
@@ -3728,6 +3696,7 @@ corp.vk.com
 autodiscover.corp.vk.com
 u.corp.vk.com
 corradocorona.vk.com
+cs.vk.com
 cs00000000000000000000000000000000.vk.com
 www.cs00000000000000000000000000000000.vk.com
 zappa-st.www.cs00000000000000000000000000000000.vk.com
@@ -3746,6 +3715,7 @@ cs10002.vk.com
 cs10096.vk.com
 cs10130.vk.com
 cs10269.vk.com
+cs10315.vk.com
 cs10320.vk.com
 cs10373.vk.com
 cs10376.vk.com
@@ -3753,6 +3723,7 @@ cs10421.vk.com
 cs10478.vk.com
 cs10501.vk.com
 cs10599.vk.com
+cs10647.vk.com
 cs10692.vk.com
 cs10694.vk.com
 cs10787.vk.com
@@ -3763,8 +3734,10 @@ cs10969.vk.com
 cs11039.vk.com
 cs11073.vk.com
 cs11085.vk.com
+cs11269.vk.com
 cs11331.vk.com
 cs11362.vk.com
+cs11401.vk.com
 cs11429.vk.com
 cs12.vk.com
 cs123.vk.com
@@ -3780,6 +3753,7 @@ cs292596712.vk.com
 www.cs292596712.vk.com
 cs302709.vk.com
 cs303100.vk.com
+cs303205.vk.com
 cs303800.vk.com
 cs304108.vk.com
 cs304110.vk.com
@@ -3808,6 +3782,7 @@ cs380.vk.com
 cs4111.vk.com
 cs4125.vk.com
 cs4218.vk.com
+cs4230.vk.com
 cs4239.vk.com
 cs4340.vk.com
 cs4362.vk.com
@@ -3818,9 +3793,11 @@ cs4423.vk.com
 cs4441.vk.com
 cs4473.vk.com
 cs4479.vk.com
+cs4552.vk.com
 cs4557.vk.com
 cs4700.vk.com
 cs508407.vk.com
+cs509601.vk.com
 cs509605.vk.com
 cs5172.vk.com
 cs5179.vk.com
@@ -3831,6 +3808,7 @@ cs5363.vk.com
 cs53835.vk.com
 cs540301.vk.com
 cs5414.vk.com
+cs5422.vk.com
 cs543304.vk.com
 cs543501.vk.com
 cs543509.vk.com
@@ -3997,6 +3975,7 @@ cs910.vk.com
 cs9360.vk.com
 cs9385.vk.com
 cs949.vk.com
+cs9526.vk.com
 cs9530.vk.com
 cs9591.vk.com
 nbs.cs9591.vk.com
@@ -4099,6 +4078,7 @@ im81.vk.com
 hl3qye.im81.vk.com
 indianapolis.hl3qye.im81.vk.com
 im84v4.vk.com
+www.im84v4.vk.com
 im89v4.vk.com
 imap.vk.com
 img251.vk.com
@@ -4232,6 +4212,7 @@ restore.vk.com
 rrmessages.vk.com
 rsanjb.vk.com
 rt.vk.com
+rucs5422.vk.com
 rwprdu.vk.com
 rybalkina.vk.com
 s9vk01jgn.vk.com
@@ -4264,6 +4245,7 @@ srv129-129-240-87.vk.com
 srv129-185-240-87.vk.com
 srv130-129-240-87.vk.com
 srv130-137-240-87.vk.com
+srv135-129-240-87.vk.com
 srv135-185-240-87.vk.com
 srv137-137-240-87.vk.com
 srv137-185-240-87.vk.com
@@ -4382,6 +4364,7 @@ st1-28.vk.com
 st1-29.vk.com
 st1-30.vk.com
 st1-47.vk.com
+st1-83.vk.com
 st1-84.vk.com
 st1-85.vk.com
 st1-86.vk.com
@@ -4399,11 +4382,14 @@ st1-97.vk.com
 st1-98.vk.com
 st1-99.vk.com
 st2-10.vk.com
+st2-4.vk.com
 st2-9.vk.com
 st3-10.vk.com
 st3-11.vk.com
+st3-12.vk.com
 st3-13.vk.com
 st4-10.vk.com
+st4-11.vk.com
 st4-12.vk.com
 st4-15.vk.com
 st4-16.vk.com
@@ -4414,6 +4400,7 @@ st6-20.vk.com
 st6-21.vk.com
 st6-22.vk.com
 st6-23.vk.com
+st7-6.vk.com
 st7-7.vk.com
 st7-8.vk.com
 st7-9.vk.com
@@ -4511,7 +4498,9 @@ yzzusk.vk.com
 zakaz1570.vk.com
 zbzazq.vk.com
 zjujbt.vk.com
+zqtqyq.vk.com
 zzzzzz.vk.com
+zzzzzzzz.vk.com
 vkontakte.ru
 vmixcore.com
 vmn.net
@@ -4700,6 +4689,7 @@ fast.wistia.net
 wix.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
+www.wix.com
 balancer.wixdns.net
 www17.wixdns.net
 static.wixstatic.com
