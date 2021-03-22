@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-21Z
+! Version: 2021-03-22Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-21Z
+! Last modified: 2021-03-22Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1958,7 +1958,6 @@
 @@||cdn.jsdelivr.net^
 @@||jsfiddle.net^
 @@||crbcdn.jsfiddle.net^
-@@||www.jsfiddle.net^
 @@||fiddle.jshell.net^
 @@||jsonip.com^
 @@||www.jsonip.com^
@@ -2090,6 +2089,7 @@
 @@||www.livejournal.com^
 @@||livestream.com^
 @@||load.to^
+@@||www.load.to^
 @@||logentries.com^
 @@||api.logentries.com^
 @@||autodiscover.logentries.com^
@@ -2240,7 +2240,6 @@
 @@||bsp.mp.microsoft.com^
 @@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
-@@||bspmts.mp.microsoft.com^
 @@||bsxcommerce-int.mp.microsoft.com^
 @@||bsxcommerce.mp.microsoft.com^
 @@||cbsl.mp.microsoft.com^
@@ -2287,7 +2286,6 @@
 @@||composerapi.dps.mp.microsoft.com^
 @@||composerweb.dps.mp.microsoft.com^
 @@||discrequest-int.dps.mp.microsoft.com^
-@@||discrequest.dps.mp.microsoft.com^
 @@||domaindataservice.dps.mp.microsoft.com^
 @@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
@@ -2321,7 +2319,6 @@
 @@||submissionweb.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
-@@||workflowservice-int.dps.mp.microsoft.com^
 @@||workflowservice.dps.mp.microsoft.com^
 @@||ingestiondeveloperapi-int.dse.mp.microsoft.com^
 @@||pac-int.dse.mp.microsoft.com^
@@ -2332,13 +2329,11 @@
 @@||glb.approvals-prod.dcat.dsp.mp.microsoft.com^
 @@||glb.approvals-tip.dcat.dsp.mp.microsoft.com^
 @@||catalogservice-prod.dcat.dsp.mp.microsoft.com^
-@@||cmd-dev.dcat.dsp.mp.microsoft.com^
 @@||cmd-int.dcat.dsp.mp.microsoft.com^
 @@||cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||cy2.cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||bn2.dataapi-prod.dcat.dsp.mp.microsoft.com^
 @@||cy2.dataapi-prod.dcat.dsp.mp.microsoft.com^
-@@||extorigin-dev.dcat.dsp.mp.microsoft.com^
 @@||extorigin-int.dcat.dsp.mp.microsoft.com^
 @@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-int.dcat.dsp.mp.microsoft.com^
@@ -2362,13 +2357,8 @@
 @@||glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||ratingsedgefd.dsx.mp.microsoft.com^
-@@||storeedgefd-origin.dsx.mp.microsoft.com^
-@@||storeedgefd-ppe-origin.dsx.mp.microsoft.com^
-@@||storeedgefd-ppe.dsx.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
-@@||storeedgefdsecureorigin.dsx.mp.microsoft.com^
 @@||ebs-int.mp.microsoft.com^
-@@||ebs.mp.microsoft.com^
 @@||editcat-int.mp.microsoft.com^
 @@||editcat.mp.microsoft.com^
 @@||entitlementfulfillment-int.mp.microsoft.com^
@@ -2463,7 +2453,6 @@
 @@||miui.net^
 @@||www.miui.net^
 @@||mixcloud.com^
-@@||www.mixcloud.com^
 @@||mixnews.lv^
 @@||sj14.mktossl.com^
 @@||mlb.com^
@@ -2533,6 +2522,7 @@
 @@||www.mywot.com^
 @@||mzstatic.com^
 @@||dzc-metrics.mzstatic.com^
+@@||www.mzstatic.com^
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||namecheap.com^
@@ -2706,6 +2696,7 @@
 @@||h-ebay.online-metrix.net^
 @@||h-sdk.online-metrix.net^
 @@||onswipe.com^
+@@||www.onswipe.com^
 @@||videos.oovvuu.com^
 @@||api.videos.oovvuu.com^
 @@||a.ooyala.com^
@@ -3055,6 +3046,7 @@
 @@||scribblelive.com^
 @@||www.scribblelive.com^
 @@||scribd.com^
+@@||www.scribd.com^
 @@||sdad.guru^
 @@||www.sdad.guru^
 @@||searchanise.com^
@@ -3126,7 +3118,6 @@
 @@||api.promotions.skype.com^
 @@||bo.promotions.skype.com^
 @@||tr.skype.com^
-@@||usermap.skype.com^
 @@||slack-redir.net^
 @@||files.slack.com^
 @@||slashdot.org^
@@ -3176,7 +3167,6 @@
 @@||spiegel-de.spiegel.de^
 @@||admin.splunk.com^
 @@||staging.admin.splunk.com^
-@@||aha-endpoint.splunk.com^
 @@||answers.splunk.com^
 @@||api.splunk.com^
 @@||appinspect.splunk.com^
@@ -3186,8 +3176,6 @@
 @@||bots.splunk.com^
 @@||bucketlist.splunk.com^
 @@||status.businessflowapp.splunk.com^
-@@||class.splunk.com^
-@@||wbtapi.class.splunk.com^
 @@||cloud.splunk.com^
 @@||community.splunk.com^
 @@||concur.splunk.com^
@@ -3196,7 +3184,6 @@
 @@||events.splunk.com^
 @@||gsuite.splunk.com^
 @@||investors.splunk.com^
-@@||jira.splunk.com^
 @@||ldaps.splunk.com^
 @@||mint.splunk.com^
 @@||pep01.splunk.com^
@@ -3207,7 +3194,6 @@
 @@||console.scp.splunk.com^
 @@||playground.scp.splunk.com^
 @@||api.playground.scp.splunk.com^
-@@||auth.playground.scp.splunk.com^
 @@||cae.playground.scp.splunk.com^
 @@||splunkbase-cloudfront.playground.scp.splunk.com^
 @@||udf.playground.scp.splunk.com^
@@ -3217,7 +3203,6 @@
 @@||console.staging.scp.splunk.com^
 @@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||api.scs.splunk.com^
-@@||auth.scs.splunk.com^
 @@||admin.playground.scs.splunk.com^
 @@||scs001-iad10.admin.playground.scs.splunk.com^
 @@||scs002-iad10.admin.playground.scs.splunk.com^
