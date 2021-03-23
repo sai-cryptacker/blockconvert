@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-22Z
+! Version: 2021-03-23Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-22Z
+! Last modified: 2021-03-23Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1165,7 +1165,6 @@
 @@||referrer.disqus.com^
 @@||c.disquscdn.com^
 @@||distilnetworks.com^
-@@||www.distilnetworks.com^
 @@||dlvr.it^
 @@||dmcdn.com^
 @@||dmcdn.net^
@@ -1389,7 +1388,6 @@
 @@||firstlook.org^
 @@||fiverr.com^
 @@||flattr.com^
-@@||www.flattr.com^
 @@||flickr.com^
 @@||www.flickr.com^
 @@||fling.com^
@@ -1494,7 +1492,6 @@
 @@||target.georiot.com^
 @@||www.georiot.com^
 @@||geotrust.com^
-@@||www.geotrust.com^
 @@||links.getblueshift.com^
 @@||getmonero.org^
 @@||dlsrc.getmonero.org^
@@ -1808,7 +1805,6 @@
 @@||guce.huffpost.com^
 @@||hulkshare.com^
 @@||hulu.com^
-@@||www.hulu.com^
 @@||humblebundle.com^
 @@||www.humblebundle.com^
 @@||hwcdn.net^
@@ -1829,9 +1825,7 @@
 @@||archive.icann.org^
 @@||icbdr.com^
 @@||icloud.com^
-@@||www.icloud.com^
 @@||idg.se^
-@@||www.idg.se^
 @@||mpsnare.iesnare.com^
 @@||ifmo.ru^
 @@||confib.ifmo.ru^
@@ -2240,8 +2234,10 @@
 @@||bsp.mp.microsoft.com^
 @@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
-@@||bsxcommerce-int.mp.microsoft.com^
+@@||bspmts-int.mp.microsoft.com^
+@@||bsxbenefits-int.mp.microsoft.com^
 @@||bsxcommerce.mp.microsoft.com^
+@@||cbsl-int.mp.microsoft.com^
 @@||cbsl.mp.microsoft.com^
 @@||collections.mp.microsoft.com^
 @@||accountmgmtservice-df.dce.mp.microsoft.com^
@@ -2249,13 +2245,12 @@
 @@||accountuserservice.dce.mp.microsoft.com^
 @@||contentservice.dce.mp.microsoft.com^
 @@||devcenterapi-df.dce.mp.microsoft.com^
+@@||pac.dce.mp.microsoft.com^
 @@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||productcatalogservice.dce.mp.microsoft.com^
 @@||ra-int.dce.mp.microsoft.com^
 @@||ra.dce.mp.microsoft.com^
-@@||bn2-extorigin.delivery.mp.microsoft.com^
 @@||bn2-prod.delivery.mp.microsoft.com^
-@@||cy2-extorigin.delivery.mp.microsoft.com^
 @@||cy2-prod.delivery.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
@@ -2287,7 +2282,6 @@
 @@||composerweb.dps.mp.microsoft.com^
 @@||discrequest-int.dps.mp.microsoft.com^
 @@||domaindataservice.dps.mp.microsoft.com^
-@@||filesapi-int.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
 @@||flighting-int.dps.mp.microsoft.com^
 @@||flighting.dps.mp.microsoft.com^
@@ -2304,8 +2298,6 @@
 @@||packagesapi.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
-@@||product.dps.mp.microsoft.com^
-@@||productsummary-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
 @@||promotion-int.dps.mp.microsoft.com^
 @@||publishingapi.dps.mp.microsoft.com^
@@ -2317,7 +2309,6 @@
 @@||submissionapi.dps.mp.microsoft.com^
 @@||submissioncompareapi.dps.mp.microsoft.com^
 @@||submissionweb.dps.mp.microsoft.com^
-@@||variant-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice.dps.mp.microsoft.com^
 @@||ingestiondeveloperapi-int.dse.mp.microsoft.com^
@@ -2451,7 +2442,6 @@
 @@||update.miui.com^
 @@||api.vip.miui.com^
 @@||miui.net^
-@@||www.miui.net^
 @@||mixcloud.com^
 @@||mixnews.lv^
 @@||sj14.mktossl.com^
@@ -2643,6 +2633,7 @@
 @@||ny.com^
 @@||ny1.com^
 @@||nydailynews.com^
+@@||www.nydailynews.com^
 @@||nymag.com^
 @@||nypost.com^
 @@||www.nypost.com^
@@ -2746,7 +2737,6 @@
 @@||osnews.com^
 @@||www.osnews.com^
 @@||ouo.io^
-@@||ad.ourgame.com^
 @@||outlook.com^
 @@||config.outturner.com^
 @@||ow.ly^
@@ -2925,7 +2915,6 @@
 @@||qq.com^
 @@||app.qq.com^
 @@||captcha.qq.com^
-@@||dlied6.qq.com^
 @@||jq.qq.com^
 @@||img1.sj.qq.com^
 @@||sqimg.qq.com^
@@ -3052,7 +3041,6 @@
 @@||searchanise.com^
 @@||www.searchanise.com^
 @@||searchenginejournal.com^
-@@||www.searchenginejournal.com^
 @@||sears.com^
 @@||www.sears.com^
 @@||ocsp.sectigo.com^
@@ -3079,7 +3067,6 @@
 @@||shop-pro.jp^
 @@||shopify.com^
 @@||s.shopify.com^
-@@||www.shopify.com^
 @@||sdks.shopifycdn.com^
 @@||shopping.com^
 @@||shoprunner.com^
@@ -3099,7 +3086,6 @@
 @@||siteimprove.com^
 @@||shield.sitelock.com^
 @@||sketchfab.com^
-@@||www.sketchfab.com^
 @@||skimresources.com^
 @@||www.skimresources.com^
 @@||skype.com^
@@ -3176,6 +3162,8 @@
 @@||bots.splunk.com^
 @@||bucketlist.splunk.com^
 @@||status.businessflowapp.splunk.com^
+@@||class.splunk.com^
+@@||overlordapi.class.splunk.com^
 @@||cloud.splunk.com^
 @@||community.splunk.com^
 @@||concur.splunk.com^
@@ -3189,19 +3177,24 @@
 @@||pep01.splunk.com^
 @@||response.splunk.com^
 @@||scp.splunk.com^
+@@||admin.scp.splunk.com^
 @@||app-admin.scp.splunk.com^
 @@||app.scp.splunk.com^
 @@||console.scp.splunk.com^
 @@||playground.scp.splunk.com^
 @@||api.playground.scp.splunk.com^
 @@||cae.playground.scp.splunk.com^
+@@||olly-logs.playground.scp.splunk.com^
 @@||splunkbase-cloudfront.playground.scp.splunk.com^
 @@||udf.playground.scp.splunk.com^
 @@||wc-develop.playground.scp.splunk.com^
+@@||pulsar-app-prod1.scp.splunk.com^
 @@||staging.scp.splunk.com^
 @@||admin.staging.scp.splunk.com^
 @@||console.staging.scp.splunk.com^
 @@||pulsar-app-stage1.staging.scp.splunk.com^
+@@||admin.scs.splunk.com^
+@@||scs001-iad10.admin.scs.splunk.com^
 @@||api.scs.splunk.com^
 @@||admin.playground.scs.splunk.com^
 @@||scs001-iad10.admin.playground.scs.splunk.com^
@@ -3213,6 +3206,9 @@
 @@||rainier.playground.scs.splunk.com^
 @@||region-kim10.rainier.playground.scs.splunk.com^
 @@||pulsar.scs.splunk.com^
+@@||admin.staging.scs.splunk.com^
+@@||scs001-iad10.admin.staging.scs.splunk.com^
+@@||scs002-iad10.admin.staging.scs.splunk.com^
 @@||api.staging.scs.splunk.com^
 @@||region-iad10.api.staging.scs.splunk.com^
 @@||auth.staging.scs.splunk.com^
@@ -3292,7 +3288,6 @@
 @@||m.stripe.network^
 @@||stripecdn.com^
 @@||surveygizmo.com^
-@@||www.surveygizmo.com^
 @@||surveymonkey.com^
 @@||secure.surveymonkey.com^
 @@||sweclockers.com^
@@ -3424,7 +3419,6 @@
 @@||travelocity.com^
 @@||trb.com^
 @@||trbimg.com^
-@@||www.trbimg.com^
 @@||c.trello.com^
 @@||osce11-0-en.url.trendmicro.com^
 @@||web.tresorit.com^
@@ -3510,7 +3504,6 @@
 @@||ultimedia.com^
 @@||www.ultimedia.com^
 @@||ultraimg.com^
-@@||www.ultraimg.com^
 @@||t.umblr.com^
 @@||builder-assets.unbounce.com^
 @@||unbouncepages.com^
@@ -3576,7 +3569,6 @@
 @@||www.viglink.com^
 @@||vimeo.com^
 @@||player.vimeo.com^
-@@||www.vimeo.com^
 @@||virtualearth.net^
 @@||dev.virtualearth.net^
 @@||ecn.dev.virtualearth.net^
@@ -4521,6 +4513,7 @@
 @@||weather.com^
 @@||www.weather.com^
 @@||weather.gov^
+@@||www.weather.gov^
 @@||weatherbug.com^
 @@||weathernationtv.com^
 @@||web.de^
@@ -4879,7 +4872,6 @@
 @@||www.zdnet.com^
 @@||vjs.zencdn.net^
 @@||zendesk.com^
-@@||www.zendesk.com^
 @@||zerohedge.com^
 @@||www.zerohedge.com^
 @@||app-advertise.zhihuishu.com^
