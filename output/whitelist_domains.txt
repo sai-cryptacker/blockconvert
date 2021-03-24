@@ -24,6 +24,7 @@ static.3001.net
 8ch.net
 www.8ch.net
 91-cdn.com
+www.91-cdn.com
 91mobiles.com
 a-0001.a-msedge.net
 bat-bing-com.a-0001.a-msedge.net
@@ -240,6 +241,7 @@ freight.aliexpress.com
 gpsfront.aliexpress.com
 my.aliexpress.com
 promotion.aliexpress.com
+www.aliexpress.com
 mobilegw.alipay.cn
 app.alipay.com
 authweb.alipay.com
@@ -285,6 +287,7 @@ www.amazon.com
 amazon.de
 www.amazon.de
 amazon.es
+www.amazon.es
 amazon.fr
 amazon.in
 www.amazon.in
@@ -1551,6 +1554,7 @@ godaddy.com
 ocsp.godaddy.com
 www.godaddy.com
 godatafeed.com
+www.godatafeed.com
 gogousenet.com
 www.gogousenet.com
 goo.gl
@@ -2236,6 +2240,7 @@ accountmgmtservice.dce.mp.microsoft.com
 accountuserservice.dce.mp.microsoft.com
 contentservice.dce.mp.microsoft.com
 devcenterapi-df.dce.mp.microsoft.com
+devcenterapi.dce.mp.microsoft.com
 pac.dce.mp.microsoft.com
 productcatalogservice-df.dce.mp.microsoft.com
 productcatalogservice.dce.mp.microsoft.com
@@ -2278,6 +2283,7 @@ flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
+ingestionapi.dps.mp.microsoft.com
 iot-int.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
 listingsapi.dps.mp.microsoft.com
@@ -2297,6 +2303,7 @@ restriction.dps.mp.microsoft.com
 riker-int.dps.mp.microsoft.com
 riker.dps.mp.microsoft.com
 schemaapi-int.dps.mp.microsoft.com
+schemaapi.dps.mp.microsoft.com
 submissionapi.dps.mp.microsoft.com
 submissioncompareapi.dps.mp.microsoft.com
 submissionweb.dps.mp.microsoft.com
@@ -2371,6 +2378,7 @@ staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
 stagingretrieval-dcatbackend-int.mp.microsoft.com
 wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com
+xbox-displaycatalog.mp.microsoft.com
 mscrl.microsoft.com
 officeclient.microsoft.com
 query.prod.cms.rt.microsoft.com
@@ -2917,6 +2925,7 @@ qualtrics.com
 google.qualtrics.com
 umich.qualtrics.com
 www.qualtrics.com
+email.questrade.com
 quickenloans.com
 www.quickenloans.com
 quora.com
@@ -4663,6 +4672,7 @@ wirtualnemedia.pl
 wishabi.com
 wistia.com
 fast.wistia.com
+www.wistia.com
 fast.wistia.net
 wix.com
 tg1.premium.db4.wix.com
