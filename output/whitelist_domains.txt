@@ -86,6 +86,7 @@ road.adblock.ro
 easylist-downloads.adblockplus.org
 adcolo.com
 add0n.com
+www.add0n.com
 adguard.com
 adidas.com
 www.adidas.com
@@ -1774,6 +1775,7 @@ hoopshype.com
 www.hoopshype.com
 hootsuite.com
 horseanswerstoday.com
+www.horseanswerstoday.com
 hosts-file.net
 hotmail.com
 m.hotmail.com
@@ -2230,7 +2232,9 @@ bsp.mp.microsoft.com
 bspmgmtsvc-int.mp.microsoft.com
 bspmgmtsvc.mp.microsoft.com
 bspmts-int.mp.microsoft.com
+bspmts.mp.microsoft.com
 bsxbenefits-int.mp.microsoft.com
+bsxbenefits.mp.microsoft.com
 bsxcommerce.mp.microsoft.com
 cbsl-int.mp.microsoft.com
 cbsl.mp.microsoft.com
@@ -2652,6 +2656,7 @@ forms.office.com
 substrate.ms-acdc.office.com
 products.office.com
 substrate.office.com
+www.office.com
 office365.com
 outlook.office365.com
 officedepot.com
@@ -3103,6 +3108,7 @@ login.skype.com
 peoplerecommendations.skype.com
 api.promotions.skype.com
 bo.promotions.skype.com
+support.skype.com
 tr.skype.com
 slack-redir.net
 files.slack.com
@@ -3212,6 +3218,7 @@ scs002-iad10.admin.staging.scs.splunk.com
 api.staging.scs.splunk.com
 region-iad10.api.staging.scs.splunk.com
 auth.staging.scs.splunk.com
+core-ae.staging.scs.splunk.com
 missioncontrol.staging.scs.splunk.com
 streaming.scs.splunk.com
 services.splunk.com

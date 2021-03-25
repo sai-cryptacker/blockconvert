@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-24Z
+! Version: 2021-03-25Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-24Z
+! Last modified: 2021-03-25Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -95,6 +95,7 @@
 @@||easylist-downloads.adblockplus.org^
 @@||adcolo.com^
 @@||add0n.com^
+@@||www.add0n.com^
 @@||adguard.com^
 @@||adidas.com^
 @@||www.adidas.com^
@@ -1783,6 +1784,7 @@
 @@||www.hoopshype.com^
 @@||hootsuite.com^
 @@||horseanswerstoday.com^
+@@||www.horseanswerstoday.com^
 @@||hosts-file.net^
 @@||hotmail.com^
 @@||m.hotmail.com^
@@ -2239,7 +2241,9 @@
 @@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
 @@||bspmts-int.mp.microsoft.com^
+@@||bspmts.mp.microsoft.com^
 @@||bsxbenefits-int.mp.microsoft.com^
+@@||bsxbenefits.mp.microsoft.com^
 @@||bsxcommerce.mp.microsoft.com^
 @@||cbsl-int.mp.microsoft.com^
 @@||cbsl.mp.microsoft.com^
@@ -2661,6 +2665,7 @@
 @@||substrate.ms-acdc.office.com^
 @@||products.office.com^
 @@||substrate.office.com^
+@@||www.office.com^
 @@||office365.com^
 @@||outlook.office365.com^
 @@||officedepot.com^
@@ -3112,6 +3117,7 @@
 @@||peoplerecommendations.skype.com^
 @@||api.promotions.skype.com^
 @@||bo.promotions.skype.com^
+@@||support.skype.com^
 @@||tr.skype.com^
 @@||slack-redir.net^
 @@||files.slack.com^
@@ -3221,6 +3227,7 @@
 @@||api.staging.scs.splunk.com^
 @@||region-iad10.api.staging.scs.splunk.com^
 @@||auth.staging.scs.splunk.com^
+@@||core-ae.staging.scs.splunk.com^
 @@||missioncontrol.staging.scs.splunk.com^
 @@||streaming.scs.splunk.com^
 @@||services.splunk.com^
