@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-25Z
+! Version: 2021-03-26Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-25Z
+! Last modified: 2021-03-26Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -299,6 +299,7 @@
 @@||amazon.es^
 @@||www.amazon.es^
 @@||amazon.fr^
+@@||www.amazon.fr^
 @@||amazon.in^
 @@||www.amazon.in^
 @@||amazon.it^
@@ -1377,7 +1378,6 @@
 @@||fide.com^
 @@||filefactory.com^
 @@||filesmonster.com^
-@@||www.filesmonster.com^
 @@||fili.cc^
 @@||www.fili.cc^
 @@||filmweb.pl^
@@ -2128,6 +2128,8 @@
 @@||logos.com^
 @@||blog.logrocket.com^
 @@||embed.blog.logrocket.com^
+@@||loki.network^
+@@||www.loki.network^
 @@||i.loli.net^
 @@||lowendbox.com^
 @@||www.lowendbox.com^
@@ -2238,7 +2240,6 @@
 @@||azure-ratecard-dev.mp.microsoft.com^
 @@||azure-ratecard.mp.microsoft.com^
 @@||bsp.mp.microsoft.com^
-@@||bspmgmtsvc-int.mp.microsoft.com^
 @@||bspmgmtsvc.mp.microsoft.com^
 @@||bspmts-int.mp.microsoft.com^
 @@||bspmts.mp.microsoft.com^
@@ -2251,7 +2252,6 @@
 @@||accountmgmtservice-df.dce.mp.microsoft.com^
 @@||accountmgmtservice.dce.mp.microsoft.com^
 @@||accountuserservice.dce.mp.microsoft.com^
-@@||contentservice.dce.mp.microsoft.com^
 @@||devcenterapi-df.dce.mp.microsoft.com^
 @@||devcenterapi.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
@@ -2298,7 +2298,6 @@
 @@||ingestionapi-dev.dps.mp.microsoft.com^
 @@||ingestionapi.dps.mp.microsoft.com^
 @@||iot-int.dps.mp.microsoft.com^
-@@||listingsapi-int.dps.mp.microsoft.com^
 @@||listingsapi.dps.mp.microsoft.com^
 @@||listingsweb.dps.mp.microsoft.com^
 @@||manualreview-int.dps.mp.microsoft.com^
@@ -2320,9 +2319,11 @@
 @@||submissionapi.dps.mp.microsoft.com^
 @@||submissioncompareapi.dps.mp.microsoft.com^
 @@||submissionweb.dps.mp.microsoft.com^
+@@||survey.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice.dps.mp.microsoft.com^
 @@||ingestiondeveloperapi-int.dse.mp.microsoft.com^
+@@||ingestiondeveloperapi.dse.mp.microsoft.com^
 @@||pac-int.dse.mp.microsoft.com^
 @@||api-tip.dcat.dsp.mp.microsoft.com^
 @@||cy2.api-tip.dcat.dsp.mp.microsoft.com^
@@ -2331,7 +2332,6 @@
 @@||glb.approvals-prod.dcat.dsp.mp.microsoft.com^
 @@||glb.approvals-tip.dcat.dsp.mp.microsoft.com^
 @@||catalogservice-prod.dcat.dsp.mp.microsoft.com^
-@@||cmd-int.dcat.dsp.mp.microsoft.com^
 @@||cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||cy2.cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||bn2.dataapi-prod.dcat.dsp.mp.microsoft.com^
@@ -2360,16 +2360,18 @@
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||ratingsedgefd.dsx.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
-@@||ebs-int.mp.microsoft.com^
 @@||editcat-int.mp.microsoft.com^
 @@||editcat.mp.microsoft.com^
 @@||entitlementfulfillment-int.mp.microsoft.com^
 @@||entitlementfulfillment.mp.microsoft.com^
 @@||fees-int.mp.microsoft.com^
 @@||fees.mp.microsoft.com^
+@@||inventory-int.mp.microsoft.com^
 @@||keyfulfillment-int.mp.microsoft.com^
 @@||keyfulfillment.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
+@@||licensingdiagnostics-int.mp.microsoft.com^
+@@||licensingdiagnostics.mp.microsoft.com^
 @@||collections.md.mp.microsoft.com^
 @@||displaycatalog.md.mp.microsoft.com^
 @@||entitlementfulfillment-int.md.mp.microsoft.com^
@@ -2381,6 +2383,7 @@
 @@||internal.paymentinstruments-int.mp.microsoft.com^
 @@||paymentinstruments.mp.microsoft.com^
 @@||internal.paymentinstruments.mp.microsoft.com^
+@@||purchase-int.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
 @@||digitalattachclaims.purchase.mp.microsoft.com^
 @@||scanservice-int.px.mp.microsoft.com^
@@ -2882,6 +2885,7 @@
 @@||www.pornhub.com^
 @@||postimage.org^
 @@||postimg.cc^
+@@||www.postimg.cc^
 @@||powerreviews.com^
 @@||powr.io^
 @@||www.powr.io^
@@ -3118,6 +3122,8 @@
 @@||api.promotions.skype.com^
 @@||bo.promotions.skype.com^
 @@||support.skype.com^
+@@||teams.skype.com^
+@@||settings.teams.skype.com^
 @@||tr.skype.com^
 @@||slack-redir.net^
 @@||files.slack.com^
@@ -3188,6 +3194,8 @@
 @@||gsuite.splunk.com^
 @@||investors.splunk.com^
 @@||ldaps.splunk.com^
+@@||login.splunk.com^
+@@||hooks.login.splunk.com^
 @@||mint.splunk.com^
 @@||pep01.splunk.com^
 @@||response.splunk.com^
@@ -3229,6 +3237,7 @@
 @@||auth.staging.scs.splunk.com^
 @@||core-ae.staging.scs.splunk.com^
 @@||missioncontrol.staging.scs.splunk.com^
+@@||streaming.staging.scs.splunk.com^
 @@||streaming.scs.splunk.com^
 @@||services.splunk.com^
 @@||splunk-base.splunk.com^
@@ -3239,6 +3248,8 @@
 @@||staging.splunk.com^
 @@||login.staging.splunk.com^
 @@||hooks.login.staging.splunk.com^
+@@||sit1.staging.splunk.com^
+@@||hooks.login.sit1.staging.splunk.com^
 @@||post.spmailtechnol.com^
 @@||sport.pl^
 @@||spot.im^
@@ -3261,6 +3272,7 @@
 @@||squareup.com^
 @@||squidblacklist.org^
 @@||squirt.io^
+@@||email.ssdnodes.com^
 @@||images-cn.ssl-images-amazon.com^
 @@||images-eu.ssl-images-amazon.com^
 @@||images-fe.ssl-images-amazon.com^
@@ -3372,6 +3384,7 @@
 @@||thebot.net^
 @@||www.thebot.net^
 @@||thechive.com^
+@@||www.thechive.com^
 @@||theepochtimes.com^
 @@||thefreethoughtproject.com^
 @@||www.thefreethoughtproject.com^
