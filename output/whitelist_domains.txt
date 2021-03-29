@@ -319,7 +319,6 @@ ancestry.com
 connectivitycheck.android.com
 androidauthority.com
 androidforums.com
-www.androidforums.com
 angularjs.org
 www.angularjs.org
 www.anrdoezrs.net
@@ -672,6 +671,7 @@ wraplondon.ugc.bazaarvoice.com
 wusthof.ugc.bazaarvoice.com
 xerox.ugc.bazaarvoice.com
 yvesrocher.ugc.bazaarvoice.com
+www.bazaarvoice.com
 bbb.org
 bbc.com
 www.bbc.com
@@ -688,6 +688,7 @@ www.berush.com
 bestbuy.ca
 bestbuy.com
 betanews.com
+www.betanews.com
 betfair.com
 l.betrad.com
 better.fyi
@@ -1172,6 +1173,7 @@ screendoor.dobt.co
 documentcloud.org
 www.documentcloud.org
 donorbox.org
+www.donorbox.org
 forum.doom9.org
 cdn.dopc.cz
 cj.dotomi.com
@@ -1268,6 +1270,7 @@ www.engadget.com
 nexus.ensighten.com
 entireweb.com
 playerstatic.entropymedia.com
+1.envato.market
 eonline.com
 pp.ephapay.net
 tracking.epicgames.com
@@ -1395,6 +1398,7 @@ releases.flowplayer.org
 cdn.fluidplayer.com
 cdn.flurry.com
 flyertown.ca
+www.flyertown.ca
 stats.foldingathome.org
 fontawesome.com
 cdn.fontawesome.com
@@ -1471,7 +1475,6 @@ gannettdigital.com
 gannettonline.com
 gap.com
 gardenstatehelicopters.com
-www.gardenstatehelicopters.com
 gasbuddy.com
 gawker.com
 gazeta.pl
@@ -1516,6 +1519,7 @@ git.io
 gitbook.com
 gitcdn.link
 gitcdn.xyz
+www.gitcdn.xyz
 gitee.com
 m.gitee.com
 raw.githack.com
@@ -1852,7 +1856,6 @@ thumbs2.imgbox.com
 imgchili.com
 imgfarm.com
 imgspice.com
-www.imgspice.com
 imgur.com
 i.imgur.com
 p.imgur.com
@@ -1926,6 +1929,7 @@ jaleco.com
 www.jaleco.com
 www.janrain.com
 jarv.is
+www.jarv.is
 jcpenney.com
 gia.jd.com
 wl.jd.com
@@ -2230,7 +2234,6 @@ ris.api.iris.microsoft.com
 dmd.metaservices.microsoft.com
 azure-ratecard-dev.mp.microsoft.com
 azure-ratecard.mp.microsoft.com
-bsp.mp.microsoft.com
 bspmgmtsvc.mp.microsoft.com
 bspmts-int.mp.microsoft.com
 bspmts.mp.microsoft.com
@@ -2267,7 +2270,6 @@ wus2.displaycatalog-int.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 aircapi.displaycatalog.mp.microsoft.com
 commercial.displaycatalog.mp.microsoft.com
-appxapi-int.dps.mp.microsoft.com
 appxapi.dps.mp.microsoft.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
 bias.dps.mp.microsoft.com
@@ -2277,9 +2279,6 @@ certweb-int.dps.mp.microsoft.com
 certweb.dps.mp.microsoft.com
 ciso-int.dps.mp.microsoft.com
 ciso.dps.mp.microsoft.com
-composerapi-int.dps.mp.microsoft.com
-composerapi.dps.mp.microsoft.com
-composerweb.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
 domaindataservice.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
@@ -2294,7 +2293,6 @@ listingsweb.dps.mp.microsoft.com
 manualreview-int.dps.mp.microsoft.com
 manualreview.dps.mp.microsoft.com
 packages.dps.mp.microsoft.com
-packagesapi-int.dps.mp.microsoft.com
 packagesapi.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 payoutorderstatus.dps.mp.microsoft.com
@@ -2329,7 +2327,6 @@ bn2.dataapi-prod.dcat.dsp.mp.microsoft.com
 cy2.dataapi-prod.dcat.dsp.mp.microsoft.com
 extorigin-int.dcat.dsp.mp.microsoft.com
 extorigin-tip.dcat.dsp.mp.microsoft.com
-phx.sfs-int.dcat.dsp.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
 phx.sfs-tip.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -2351,13 +2348,13 @@ glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 ratingsedgefd.dsx.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-editcat-int.mp.microsoft.com
 editcat.mp.microsoft.com
 entitlementfulfillment-int.mp.microsoft.com
 entitlementfulfillment.mp.microsoft.com
 fees-int.mp.microsoft.com
 fees.mp.microsoft.com
 inventory-int.mp.microsoft.com
+inventory.mp.microsoft.com
 keyfulfillment-int.mp.microsoft.com
 keyfulfillment.mp.microsoft.com
 licensing.mp.microsoft.com
@@ -2367,6 +2364,7 @@ collections.md.mp.microsoft.com
 displaycatalog.md.mp.microsoft.com
 entitlementfulfillment-int.md.mp.microsoft.com
 entitlementfulfillment.md.mp.microsoft.com
+inventory.md.mp.microsoft.com
 paymentinstruments.md.mp.microsoft.com
 uwpproc-int.mix.mp.microsoft.com
 uwpproc.mix.mp.microsoft.com
@@ -2408,8 +2406,6 @@ update.microsoft.com
 catalog.update.microsoft.com
 www.catalog.update.microsoft.com
 fe2.update.microsoft.com
-fe2cr.update.microsoft.com
-pending.sls-int.update.microsoft.com
 sls.update.microsoft.com
 pending.sls.update.microsoft.com
 bn2.pending.sls.update.microsoft.com
@@ -2770,7 +2766,6 @@ www.glb.paypal.com
 t.paypal.com
 www.paypal.com
 paypalobjects.com
-www.paypalobjects.com
 www-tc.pbs.org
 pcbeta.com
 bbs.pcbeta.com
@@ -2879,7 +2874,6 @@ postimg.cc
 www.postimg.cc
 powerreviews.com
 powr.io
-www.powr.io
 ppt.cc
 www.ppt.cc
 full.pr0gramm.com
@@ -2947,7 +2941,6 @@ player.radio.com
 radiofrance.fr
 radiostacja.pl
 rakuten.com
-www.rakuten.com
 rambler.ru
 ranker.com
 images.rapgenius.com
@@ -2996,6 +2989,7 @@ resultspage.com
 returnpath.com
 www.returnpath.com
 rewardstyle.com
+tofukko.r.ribbon.to
 api.rlje.net
 roadandtrack.com
 www.roadandtrack.com
@@ -3128,7 +3122,6 @@ public.slidesharecdn.com
 smallseotools.com
 smugmug.com
 snapchat.com
-www.snapchat.com
 snapengage.com
 www.snapengage.com
 sndcdn.com
@@ -3172,9 +3165,9 @@ review.us.appinspect.splunk.com
 staging.review.us.appinspect.splunk.com
 banner.splunk.com
 bots.splunk.com
-bucketlist.splunk.com
 status.businessflowapp.splunk.com
 class.splunk.com
+iodapi.class.splunk.com
 overlordapi.class.splunk.com
 cloud.splunk.com
 community.splunk.com
@@ -3196,6 +3189,9 @@ app-admin.scp.splunk.com
 app.scp.splunk.com
 console.scp.splunk.com
 playground.scp.splunk.com
+admin.playground.scp.splunk.com
+legacy.admin.playground.scp.splunk.com
+scs002-sea10.admin.playground.scp.splunk.com
 api.playground.scp.splunk.com
 cae.playground.scp.splunk.com
 olly-logs.playground.scp.splunk.com
@@ -3205,16 +3201,14 @@ wc-develop.playground.scp.splunk.com
 pulsar-app-prod1.scp.splunk.com
 staging.scp.splunk.com
 admin.staging.scp.splunk.com
+api.staging.scp.splunk.com
+auth.staging.scp.splunk.com
 console.staging.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
 admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
 api.scs.splunk.com
 admin.playground.scs.splunk.com
-scs001-iad10.admin.playground.scs.splunk.com
-scs002-iad10.admin.playground.scs.splunk.com
-api.playground.scs.splunk.com
-region-iad10.api.playground.scs.splunk.com
 auth.playground.scs.splunk.com
 region-iad10.auth.playground.scs.splunk.com
 rainier.playground.scs.splunk.com
@@ -3228,6 +3222,8 @@ region-iad10.api.staging.scs.splunk.com
 auth.staging.scs.splunk.com
 core-ae.staging.scs.splunk.com
 missioncontrol.staging.scs.splunk.com
+px.staging.scs.splunk.com
+remotes.staging.scs.splunk.com
 streaming.staging.scs.splunk.com
 streaming.scs.splunk.com
 services.splunk.com
@@ -3411,6 +3407,7 @@ tlaol.com
 tlc.com
 www.tlc.com
 tld-list.com
+www.tld-list.com
 tmblr.co
 tmz.com
 www.tmz.com
@@ -3444,7 +3441,6 @@ osce11-0-en.url.trendmicro.com
 web.tresorit.com
 go.trouter.io
 trumba.com
-www.trumba.com
 privacy-policy.truste.com
 trustkeeper.net
 trustpilot.com
@@ -4697,7 +4693,6 @@ fast.wistia.net
 wix.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
-www.wix.com
 balancer.wixdns.net
 www17.wixdns.net
 static.wixstatic.com
