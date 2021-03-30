@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-03-28Z
+! Version: 2021-03-30Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-03-28Z
+! Last modified: 2021-03-30Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -385,6 +385,7 @@
 @@||secure5.arcot.com^
 @@||arcpublishing.com^
 @@||arizona.edu^
+@@||www.arizona.edu^
 @@||arkoselabs.com^
 @@||arstechnica.com^
 @@||cdn.arstechnica.net^
@@ -695,7 +696,9 @@
 @@||berush.com^
 @@||www.berush.com^
 @@||bestbuy.ca^
+@@||www.bestbuy.ca^
 @@||bestbuy.com^
+@@||www.bestbuy.com^
 @@||betanews.com^
 @@||www.betanews.com^
 @@||betfair.com^
@@ -1011,7 +1014,6 @@
 @@||guardian.co.uk^
 @@||mirror.co.uk^
 @@||overclockers.co.uk^
-@@||www.overclockers.co.uk^
 @@||email.procook.co.uk^
 @@||securesuite.co.uk^
 @@||theregister.co.uk^
@@ -1425,7 +1427,6 @@
 @@||c.footprint.net^
 @@||download.windowsupdate.com.c.footprint.net^
 @@||forbes.com^
-@@||www.forbes.com^
 @@||force.com^
 @@||www.force.com^
 @@||forms.gle^
@@ -1759,6 +1760,7 @@
 @@||hbogo.com^
 @@||hbogo.pl^
 @@||hcaptcha.com^
+@@||www.hcaptcha.com^
 @@||he.net^
 @@||bgp.he.net^
 @@||ipv6.he.net^
@@ -1815,6 +1817,7 @@
 @@||guce.huffpost.com^
 @@||hulkshare.com^
 @@||hulu.com^
+@@||www.hulu.com^
 @@||humblebundle.com^
 @@||www.humblebundle.com^
 @@||hwcdn.net^
@@ -1928,6 +1931,7 @@
 @@||is.gd^
 @@||issuu.com^
 @@||istockphoto.com^
+@@||www.istockphoto.com^
 @@||itch.io^
 @@||links.iterable.com^
 @@||iubenda.com^
@@ -1985,7 +1989,6 @@
 @@||www.kampyle.com^
 @@||img2.user.kanimg.com^
 @@||kaspersky.com^
-@@||www.kaspersky.com^
 @@||kasperskycontenthub.com^
 @@||kataweb.it^
 @@||ad.kazakinfo.com^
@@ -2063,6 +2066,7 @@
 @@||linkedin.com^
 @@||www.linkedin.com^
 @@||linktr.ee^
+@@||www.linktr.ee^
 @@||linkwithin.com^
 @@||www.linkwithin.com^
 @@||forums.linuxmint.com^
@@ -2097,10 +2101,10 @@
 @@||logentries.com^
 @@||api.logentries.com^
 @@||autodiscover.logentries.com^
-@@||blog.logentries.com^
 @@||data.logentries.com^
 @@||heroku.data.logentries.com^
 @@||eu.logentries.com^
+@@||data.eu.logentries.com^
 @@||info.logentries.com^
 @@||js.logentries.com^
 @@||labs.logentries.com^
@@ -2170,7 +2174,6 @@
 @@||marketwatch.com^
 @@||s.marketwatch.com^
 @@||mashable.com^
-@@||www.mashable.com^
 @@||masslive.com^
 @@||www.masslive.com^
 @@||mathjax.org^
@@ -2198,6 +2201,7 @@
 @@||medium.com^
 @@||miro.medium.com^
 @@||mega.nz^
+@@||www.mega.nz^
 @@||megaphone.fm^
 @@||www.megaphone.fm^
 @@||menshealth.com^
@@ -2287,9 +2291,7 @@
 @@||certweb-int.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
 @@||ciso-int.dps.mp.microsoft.com^
-@@||ciso.dps.mp.microsoft.com^
 @@||discrequest-int.dps.mp.microsoft.com^
-@@||domaindataservice.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
 @@||flighting-int.dps.mp.microsoft.com^
 @@||flighting.dps.mp.microsoft.com^
@@ -2304,7 +2306,6 @@
 @@||packages.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
-@@||payoutorderstatus.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
 @@||promotion-int.dps.mp.microsoft.com^
 @@||publishingapi.dps.mp.microsoft.com^
@@ -2454,6 +2455,7 @@
 @@||api.vip.miui.com^
 @@||miui.net^
 @@||mixcloud.com^
+@@||www.mixcloud.com^
 @@||mixnews.lv^
 @@||sj14.mktossl.com^
 @@||mlb.com^
@@ -3047,7 +3049,6 @@
 @@||scribblelive.com^
 @@||www.scribblelive.com^
 @@||scribd.com^
-@@||www.scribd.com^
 @@||sdad.guru^
 @@||www.sdad.guru^
 @@||searchanise.com^
@@ -3163,7 +3164,6 @@
 @@||www.speedcurve.com^
 @@||spiceworks.com^
 @@||community.spiceworks.com^
-@@||www.spiceworks.com^
 @@||spiegel-de.spiegel.de^
 @@||admin.splunk.com^
 @@||staging.admin.splunk.com^
@@ -4906,7 +4906,6 @@
 @@||ziprecruiter.com^
 @@||zlcdn.com^
 @@||zoho.com^
-@@||www.zoho.com^
 @@||zoho.eu^
 @@||zohopublic.com^
 @@||zohostatic.com^
