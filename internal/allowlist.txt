@@ -14,6 +14,7 @@ accounts.us1.gigya.com # Needed for iRobot app https://github.com/mkb2091/blockc
 activation.sls.microsoft.com
 activation-v2.sls.microsoft.com
 *.adafruit.com
+adapools.org # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-809546196 Crypto staking
 ada.support # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Cricket cell phone customer support
 adaway.org
 adblock.ee
@@ -430,6 +431,7 @@ prod.telemetry.ros.rockstargames.com
 proofpoint.com
 pti.store.microsoft.com
 purchase.mp.microsoft.com
+push.prod.netflix.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-809546196 Breaks Netflix DRM
 qq.com
 query.prod.cms.rt.microsoft.com
 quickenloans.com
@@ -505,6 +507,7 @@ sohu.com
 som.aeroplan.com
 soundcloud.com
 sourceforge.net
+spcweb.ch # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-808365475 Breaks swiss parcel tracking
 speedcurve.com
 spiegel-de.spiegel.de # https://github.com/mkb2091/blockconvert/issues/61
 *.splunk.com
