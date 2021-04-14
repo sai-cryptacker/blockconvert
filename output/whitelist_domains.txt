@@ -1,4 +1,5 @@
 ad.10010.com
+m1.ad.10010.com
 static.ws.126.net
 bnet.163.com
 1drv.com
@@ -62,6 +63,7 @@ vortex.accuweather.com
 www.accuweather.com
 acehardware.com
 www.acehardware.com
+click.acloud.guru
 delivery.acm.org
 actionnetwork.org
 www.iij.ad.jp
@@ -385,6 +387,7 @@ ajax.aspnetcdn.com
 assets-cdk.com
 c64.assets-yammer.com
 audible.com
+www.audible.com
 ws.audioscrobbler.com
 auth0.com
 cdn.auth0.com
@@ -833,6 +836,7 @@ scontent.cdninstagram.com
 cdnpk.com
 2-01-2c3e-003d.cdx.cedexis.net
 cern.ch
+www.cern.ch
 ceros.com
 change.org
 charter.com
@@ -1067,9 +1071,11 @@ www.cutcaptcha.com
 cvs.com
 www.cvs.com
 cybercrime-tracker.net
+www.cybercrime-tracker.net
 d3js.org
 admin.dable.io
 dailymotion.com
+www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
@@ -1791,6 +1797,7 @@ icanhazip.com
 archive.icann.org
 icbdr.com
 icloud.com
+www.icloud.com
 idg.se
 mpsnare.iesnare.com
 ifmo.ru
@@ -2244,6 +2251,7 @@ ciso-int.dps.mp.microsoft.com
 composerapi-int.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
 discrequest.dps.mp.microsoft.com
+domaindataservice.dps.mp.microsoft.com
 filesapi-int.dps.mp.microsoft.com
 flighting-int.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
@@ -2260,6 +2268,7 @@ packages.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 product-int.dps.mp.microsoft.com
+productsummary-int.dps.mp.microsoft.com
 productweb.dps.mp.microsoft.com
 promotion-int.dps.mp.microsoft.com
 restriction-int.dps.mp.microsoft.com
@@ -2271,6 +2280,7 @@ submissionapi.dps.mp.microsoft.com
 submissioncompareapi.dps.mp.microsoft.com
 submissionweb.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
+variant-int.dps.mp.microsoft.com
 watchdogs-int.dps.mp.microsoft.com
 watchdogs.dps.mp.microsoft.com
 workflowservice-dev.dps.mp.microsoft.com
@@ -2286,6 +2296,7 @@ geo-prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 ratingsedgefd.dsx.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
+editcat-int.mp.microsoft.com
 editcat.mp.microsoft.com
 entitlements-int.mp.microsoft.com
 entitlements.mp.microsoft.com
@@ -2329,6 +2340,12 @@ paymentinstruments-int.mp.microsoft.com
 internal.paymentinstruments-int.mp.microsoft.com
 paymentinstruments.mp.microsoft.com
 internal.paymentinstruments.mp.microsoft.com
+promopolicy.mp.microsoft.com
+eus2.promopolicy.mp.microsoft.com
+ne.promopolicy.mp.microsoft.com
+sea.promopolicy.mp.microsoft.com
+wcus.promopolicy.mp.microsoft.com
+wus2.promopolicy.mp.microsoft.com
 purchase-int.mp.microsoft.com
 tops.purchase-int.mp.microsoft.com
 az.tops.purchase-int.mp.microsoft.com
@@ -3214,6 +3231,7 @@ auth.staging.scp.splunk.com
 console.staging.scp.splunk.com
 admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
+scs002-iad10.admin.scs.splunk.com
 api.scs.splunk.com
 region-iad10.api.scs.splunk.com
 app-admin.scs.splunk.com
@@ -3587,6 +3605,7 @@ videolan.org
 videopress.com
 thumbs.videopress.com
 videos.videopress.com
+www.videopress.com
 vidible.tv
 cdn.vidible.tv
 delivery.vidible.tv
@@ -3605,6 +3624,7 @@ dev.virtualearth.net
 ecn.dev.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
+www.virtualearth.net
 visa.com
 code.visualstudio.com
 update.code.visualstudio.com
