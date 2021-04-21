@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-04-18Z
+! Version: 2021-04-21Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-04-18Z
+! Last modified: 2021-04-21Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -30,7 +30,6 @@
 @@||4shared.com^
 @@||70i.net^
 @@||8ch.net^
-@@||www.8ch.net^
 @@||91-cdn.com^
 @@||www.91-cdn.com^
 @@||91mobiles.com^
@@ -81,7 +80,6 @@
 @@||ada.support^
 @@||cricket.att.ada.support^
 @@||static.ada.support^
-@@||cdn-dev.adafruit.com^
 @@||adapools.org^
 @@||adaway.org^
 @@||adblock.dk^
@@ -94,7 +92,6 @@
 @@||www.add0n.com^
 @@||adguard.com^
 @@||adidas.com^
-@@||www.adidas.com^
 @@||imagesrv.adition.com^
 @@||app.adjust.com^
 @@||3dns-3.adobe.com^
@@ -122,13 +119,13 @@
 @@||a.adwolf.ru^
 @@||adyen.com^
 @@||aeriagames.com^
-@@||www.aeriagames.com^
 @@||som.aeroplan.com^
 @@||aetna.com^
 @@||www.aetna.com^
 @@||vip5.afdorigin-prod-am02.afdogw.com^
 @@||vip5.afdorigin-prod-ch02.afdogw.com^
 @@||affirm.com^
+@@||www.affirm.com^
 @@||aftership.com^
 @@||ip107307705.ahcdn.com^
 @@||ip107316446.ahcdn.com^
@@ -269,7 +266,6 @@
 @@||allegro.pl^
 @@||allure.com^
 @@||ally.com^
-@@||www.ally.com^
 @@||alternativeto.net^
 @@||adiu.amap.com^
 @@||abroad.apilocate.amap.com^
@@ -778,7 +774,6 @@
 @@||stackpath.bootstrapcdn.com^
 @@||inapcache.boston.com^
 @@||bountysource.com^
-@@||www.bountysource.com^
 @@||bowercdn.net^
 @@||boxrec.com^
 @@||braintreegateway.com^
@@ -1018,7 +1013,6 @@
 @@||ocsp.comodoca4.com^
 @@||confirmit.com^
 @@||survey.euro.confirmit.com^
-@@||www.confirmit.com^
 @@||cws.conviva.com^
 @@||www.cws.conviva.com^
 @@||zee.cws.conviva.com^
@@ -1124,7 +1118,6 @@
 @@||discovermagazine.com^
 @@||blogs.discovermagazine.com^
 @@||discovery.com^
-@@||www.discovery.com^
 @@||disq.us^
 @@||disqus.com^
 @@||referrer.disqus.com^
@@ -1388,7 +1381,6 @@
 @@||download.windowsupdate.com.c.footprint.net^
 @@||forbes.com^
 @@||force.com^
-@@||www.force.com^
 @@||forms.gle^
 @@||www.forms.gle^
 @@||formstack.com^
@@ -1401,17 +1393,13 @@
 @@||fox17online.com^
 @@||fox2now.com^
 @@||fox40.com^
-@@||www.fox40.com^
 @@||fox43.com^
 @@||fox4kc.com^
-@@||www.fox4kc.com^
 @@||fox59.com^
-@@||www.fox59.com^
 @@||fox5sandiego.com^
 @@||www.fox5sandiego.com^
 @@||fox6now.com^
 @@||fox8.com^
-@@||www.fox8.com^
 @@||framasoft.org^
 @@||www.framasoft.org^
 @@||frankerfacez.com^
@@ -1433,7 +1421,6 @@
 @@||www.funk.eu^
 @@||funnyordie.com^
 @@||fuseservice.com^
-@@||www.fuseservice.com^
 @@||vanilla.futurecdn.net^
 @@||api.vanilla.futurecdn.net^
 @@||fwmrm.net^
@@ -1465,7 +1452,6 @@
 @@||target.georiot.com^
 @@||www.georiot.com^
 @@||geotrust.com^
-@@||www.geotrust.com^
 @@||links.getblueshift.com^
 @@||getmonero.org^
 @@||dlsrc.getmonero.org^
@@ -1745,7 +1731,6 @@
 @@||history.com^
 @@||hitfile.net^
 @@||hm.com^
-@@||www.hm.com^
 @@||hollywoodlife.com^
 @@||homedepot.com^
 @@||homestead.com^
@@ -1962,14 +1947,12 @@
 @@||kickapps.com^
 @@||kickstarter.com^
 @@||static.kickstarter.com^
-@@||www.kickstarter.com^
 @@||kidsfootlocker.com^
 @@||candycrushsoda.king.com^
 @@||kingfeatures.com^
 @@||kinja-static.com^
 @@||kinja.com^
 @@||klarna.com^
-@@||www.klarna.com^
 @@||trk.klclick1.com^
 @@||klm.com^
 @@||kmart.com^
@@ -2053,6 +2036,7 @@
 @@||spaces.live.com^
 @@||storage.live.com^
 @@||df.storage.live.com^
+@@||sn3301files.storage.live.com^
 @@||inference.location.live.net^
 @@||livechatinc.com^
 @@||www.livechatinc.com^
@@ -2227,46 +2211,40 @@
 @@||accountmgmtservice-int.dce.mp.microsoft.com^
 @@||accountmgmtservice.dce.mp.microsoft.com^
 @@||accountuserservice-int.dce.mp.microsoft.com^
-@@||accountuserservice.dce.mp.microsoft.com^
 @@||devcenterapi-df.dce.mp.microsoft.com^
 @@||devcenterapi.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
-@@||ra-int.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
-@@||or.delivery.mp.microsoft.com^
-@@||devicequalificationservice.mp.microsoft.com^
 @@||displaycatalog-int.mp.microsoft.com^
 @@||wus2.displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||aircapi.displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
 @@||displaycatalog1p.mp.microsoft.com^
+@@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi.dps.mp.microsoft.com^
+@@||attestation.dps.mp.microsoft.com^
 @@||availability.dps.mp.microsoft.com^
 @@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
 @@||bias-int.dps.mp.microsoft.com^
 @@||bias.dps.mp.microsoft.com^
-@@||certweb-int.dps.mp.microsoft.com^
 @@||ciso.dps.mp.microsoft.com^
 @@||composerapi-int.dps.mp.microsoft.com^
 @@||composerapi.dps.mp.microsoft.com^
 @@||discrequest.dps.mp.microsoft.com^
 @@||domaindataservice.dps.mp.microsoft.com^
 @@||filesapi-int.dps.mp.microsoft.com^
-@@||flighting-int.dps.mp.microsoft.com^
-@@||flighting.dps.mp.microsoft.com^
 @@||imagepublishingservice-dev.dps.mp.microsoft.com^
-@@||ingestionapi-dev.dps.mp.microsoft.com^
 @@||ingestionapi.dps.mp.microsoft.com^
 @@||iot-int.dps.mp.microsoft.com^
 @@||iot.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
 @@||listingsapi.dps.mp.microsoft.com^
-@@||listingsweb.dps.mp.microsoft.com^
 @@||packages-int.dps.mp.microsoft.com^
 @@||packages.dps.mp.microsoft.com^
+@@||packagesapi-int.dps.mp.microsoft.com^
 @@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
 @@||product-int.dps.mp.microsoft.com^
@@ -2285,6 +2263,7 @@
 @@||submissioncompareapi.dps.mp.microsoft.com^
 @@||submissionweb-int.dps.mp.microsoft.com^
 @@||submissionweb.dps.mp.microsoft.com^
+@@||survey-int.dps.mp.microsoft.com^
 @@||survey.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
 @@||variant.dps.mp.microsoft.com^
@@ -2298,7 +2277,6 @@
 @@||pac-int.dse.mp.microsoft.com^
 @@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
-@@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-dev.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-int.dcat.dsp.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
@@ -2310,7 +2288,6 @@
 @@||glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com^
 @@||glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
-@@||ratingsedgefd.dsx.mp.microsoft.com^
 @@||storeedgefd-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe-origin.dsx.mp.microsoft.com^
 @@||storeedgefd-ppe.dsx.mp.microsoft.com^
@@ -2327,7 +2304,6 @@
 @@||entitlementsinternal.mp.microsoft.com^
 @@||entitlementssubscriptionnotifications-int.mp.microsoft.com^
 @@||entitlementssubscriptionnotifications.mp.microsoft.com^
-@@||fees.mp.microsoft.com^
 @@||firstparty-collections-int.mp.microsoft.com^
 @@||firstparty-collections.mp.microsoft.com^
 @@||firstparty-entitlements-int.mp.microsoft.com^
@@ -2336,8 +2312,6 @@
 @@||fulfillmentchangeportal-int.mp.microsoft.com^
 @@||inventory-int.mp.microsoft.com^
 @@||inventory.mp.microsoft.com^
-@@||keyfulfillment-int.mp.microsoft.com^
-@@||keyfulfillment.mp.microsoft.com^
 @@||label-int.mp.microsoft.com^
 @@||label.mp.microsoft.com^
 @@||licensing-entitlements-int.mp.microsoft.com^
@@ -2379,7 +2353,6 @@
 @@||eus2.az.tops.purchase.mp.microsoft.com^
 @@||ne.az.tops.purchase.mp.microsoft.com^
 @@||wus2.az.tops.purchase.mp.microsoft.com^
-@@||scanservice-int.px.mp.microsoft.com^
 @@||sonar.px.mp.microsoft.com^
 @@||sonarweb-int.px.mp.microsoft.com^
 @@||staging-dcatbackend-int.mp.microsoft.com^
@@ -2541,6 +2514,7 @@
 @@||www.myfox8.com^
 @@||mymonero.com^
 @@||api.mymonero.com^
+@@||www.mymonero.com^
 @@||myportfolio.com^
 @@||myshopify.com^
 @@||lads.myspacecdn.com^
@@ -2645,7 +2619,6 @@
 @@||vignette.wikia.nocookie.net^
 @@||noexit.tv^
 @@||nola.com^
-@@||www.nola.com^
 @@||nordichardware.se^
 @@||www.nordichardware.se^
 @@||nordvpn.com^
@@ -2664,7 +2637,6 @@
 @@||g.msn.com.nsatc.net^
 @@||pool.ntp.org^
 @@||2.android.pool.ntp.org^
-@@||www.pool.ntp.org^
 @@||media.nu.nl^
 @@||ota-downloads.nvidia.com^
 @@||ny.com^
@@ -2692,6 +2664,7 @@
 @@||www.office.com^
 @@||office365.com^
 @@||outlook.office365.com^
+@@||www.office365.com^
 @@||officedepot.com^
 @@||ojrq.net^
 @@||www.ojrq.net^
@@ -2718,7 +2691,6 @@
 @@||sport.onet.pl^
 @@||onetrust.com^
 @@||onion.to^
-@@||www.onion.to^
 @@||h-ebay.online-metrix.net^
 @@||h-sdk.online-metrix.net^
 @@||onswipe.com^
@@ -2771,7 +2743,6 @@
 @@||s7.orientaltrading.com^
 @@||fr.osdn.net^
 @@||osnews.com^
-@@||www.osnews.com^
 @@||ouo.io^
 @@||ad.ourgame.com^
 @@||outlook.com^
@@ -2973,6 +2944,7 @@
 @@||radiofrance.fr^
 @@||radiostacja.pl^
 @@||rakuten.com^
+@@||www.rakuten.com^
 @@||rambler.ru^
 @@||ranker.com^
 @@||images.rapgenius.com^
@@ -2985,7 +2957,6 @@
 @@||razorpay.com^
 @@||api.razorpay.com^
 @@||checkout.razorpay.com^
-@@||www.razorpay.com^
 @@||cv.rdtcdn.com^
 @@||ev.rdtcdn.com^
 @@||readability.com^
@@ -3067,13 +3038,13 @@
 @@||schibsted.tech^
 @@||scrapinghub.com^
 @@||scribblelive.com^
-@@||www.scribblelive.com^
 @@||scribd.com^
 @@||sdad.guru^
 @@||www.sdad.guru^
 @@||searchanise.com^
 @@||www.searchanise.com^
 @@||searchenginejournal.com^
+@@||www.searchenginejournal.com^
 @@||sears.com^
 @@||www.sears.com^
 @@||ocsp.sectigo.com^
@@ -3137,6 +3108,7 @@
 @@||fpt.skype.com^
 @@||heartbeat.skype.com^
 @@||login.skype.com^
+@@||msgsearch.skype.com^
 @@||peoplerecommendations.skype.com^
 @@||phobot-live.skype.com^
 @@||api.promotions.skype.com^
@@ -3194,12 +3166,8 @@
 @@||community.spiceworks.com^
 @@||spiegel-de.spiegel.de^
 @@||2020plus.splunk.com^
-@@||staging.admin.splunk.com^
 @@||api.splunk.com^
-@@||apixchange.splunk.com^
 @@||appinspect.splunk.com^
-@@||review.us.appinspect.splunk.com^
-@@||staging.review.us.appinspect.splunk.com^
 @@||banner.splunk.com^
 @@||boo.splunk.com^
 @@||botn.splunk.com^
@@ -3208,10 +3176,10 @@
 @@||class.splunk.com^
 @@||iodapi.class.splunk.com^
 @@||overlordapi.class.splunk.com^
+@@||wbtapi.class.splunk.com^
 @@||wbtbosh.class.splunk.com^
 @@||wbttest.class.splunk.com^
 @@||cloud.splunk.com^
-@@||concur.splunk.com^
 @@||conf.splunk.com^
 @@||dev.splunk.com^
 @@||api.dev.splunk.com^
@@ -3222,12 +3190,10 @@
 @@||staging.dev.splunk.com^
 @@||api.staging.dev.splunk.com^
 @@||api2.staging.dev.splunk.com^
-@@||directory.splunk.com^
 @@||events.splunk.com^
 @@||gps.splunk.com^
 @@||investors.splunk.com^
 @@||jm0199515.splunk.com^
-@@||ldaps.splunk.com^
 @@||login.splunk.com^
 @@||hooks.login.splunk.com^
 @@||mint.splunk.com^
@@ -3250,7 +3216,7 @@
 @@||admin.staging.scp.splunk.com^
 @@||api.staging.scp.splunk.com^
 @@||auth.staging.scp.splunk.com^
-@@||console.staging.scp.splunk.com^
+@@||status.scp.splunk.com^
 @@||admin.scs.splunk.com^
 @@||scs001-iad10.admin.scs.splunk.com^
 @@||scs002-iad10.admin.scs.splunk.com^
@@ -3262,17 +3228,12 @@
 @@||auth.scs.splunk.com^
 @@||region-iad10.auth.scs.splunk.com^
 @@||missioncontrol.scs.splunk.com^
-@@||admin-rainier.playground.scs.splunk.com^
-@@||scs001-kim10.admin-rainier.playground.scs.splunk.com^
-@@||scs002-kim10.admin-rainier.playground.scs.splunk.com^
 @@||admin.playground.scs.splunk.com^
 @@||scs003-dub10.admin.playground.scs.splunk.com^
 @@||api.playground.scs.splunk.com^
 @@||region-dub10.api.playground.scs.splunk.com^
 @@||auth.playground.scs.splunk.com^
 @@||region-dub10.auth.playground.scs.splunk.com^
-@@||rainier.playground.scs.splunk.com^
-@@||region-kim10.rainier.playground.scs.splunk.com^
 @@||admin.staging.scs.splunk.com^
 @@||scs001-iad10.admin.staging.scs.splunk.com^
 @@||scs002-iad10.admin.staging.scs.splunk.com^
@@ -3296,6 +3257,8 @@
 @@||staging.splunk.com^
 @@||sit1.staging.splunk.com^
 @@||hooks.login.sit1.staging.splunk.com^
+@@||splunkbase-qa.staging.splunk.com^
+@@||splunkbase.staging.splunk.com^
 @@||post.spmailtechnol.com^
 @@||sport.pl^
 @@||spot.im^
@@ -3500,6 +3463,7 @@
 @@||web.tresorit.com^
 @@||go.trouter.io^
 @@||trumba.com^
+@@||www.trumba.com^
 @@||privacy-policy.truste.com^
 @@||trustkeeper.net^
 @@||trustpilot.com^
@@ -3602,6 +3566,7 @@
 @@||ocsp.usertrust.com^
 @@||uservoice.com^
 @@||attfeedback.uservoice.com^
+@@||www.uservoice.com^
 @@||yahoo.uservoice.com^
 @@||router.utorrent.com^
 @@||update.utorrent.com^
@@ -4779,6 +4744,7 @@
 @@||v0.wordpress.com^
 @@||worldnow.com^
 @@||ftpcontent.worldnow.com^
+@@||www.worldnow.com^
 @@||worldstream.nl^
 @@||wp.com^
 @@||c0.wp.com^
