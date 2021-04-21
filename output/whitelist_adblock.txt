@@ -2213,7 +2213,9 @@
 @@||accountuserservice-int.dce.mp.microsoft.com^
 @@||devcenterapi-df.dce.mp.microsoft.com^
 @@||devcenterapi.dce.mp.microsoft.com^
+@@||notification-int.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
+@@||partnersegmentation-int.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
@@ -2246,6 +2248,7 @@
 @@||packages.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
 @@||packagesapi-intppe.dps.mp.microsoft.com^
+@@||packagesapi.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
 @@||product-int.dps.mp.microsoft.com^
 @@||product.dps.mp.microsoft.com^
@@ -2279,6 +2282,7 @@
 @@||cmd-dev.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-dev.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-int.dcat.dsp.mp.microsoft.com^
+@@||phx.sfs-prod.dcat.dsp.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||geover-prod.do.dsp.mp.microsoft.com^
 @@||orgeover-prod.do.dsp.mp.microsoft.com^
@@ -3259,6 +3263,7 @@
 @@||hooks.login.sit1.staging.splunk.com^
 @@||splunkbase-qa.staging.splunk.com^
 @@||splunkbase.staging.splunk.com^
+@@||gslink.victorops.splunk.com^
 @@||post.spmailtechnol.com^
 @@||sport.pl^
 @@||spot.im^
