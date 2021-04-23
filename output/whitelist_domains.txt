@@ -61,7 +61,6 @@ vortex.accuweather.com
 www.accuweather.com
 acehardware.com
 www.acehardware.com
-click.acloud.guru
 delivery.acm.org
 actionnetwork.org
 www.iij.ad.jp
@@ -350,6 +349,7 @@ trailers.apple.com
 www.apple.com
 imp.appledaily.com
 forums.appleinsider.com
+breeze.aimon.applicationinsights.io
 artifactory.appodeal.com
 app.appsflyer.com
 launches.appsflyer.com
@@ -412,6 +412,7 @@ r.us-east-1.awstrack.me
 ay.gy
 azorult-tracker.net
 wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com
+api.monitor.azure.com
 en.bab.la
 baidu.com
 hiphotos.baidu.com
@@ -939,6 +940,7 @@ cdn.cnetcontent.com
 ws.cnetcontent.com
 cnn.com
 taimeod.co.il
+cloudmail17.netcore.co.in
 amazon.co.jp
 www.amazon.co.jp
 hb.afl.rakuten.co.jp
@@ -1090,7 +1092,6 @@ www.digg.com
 digicert.com
 ocsp.digicert.com
 www.digicert.com
-c.digikey.com
 digitalriver.com
 drh.img.digitalriver.com
 drh1.img.digitalriver.com
@@ -1422,6 +1423,7 @@ g.co
 btcpay.gab.com
 gadgetsnow.com
 shop.gadgetsnow.com
+www.gadgetsnow.com
 gameofbitcoins.com
 gamespot.com
 gannettdigital.com
@@ -1779,6 +1781,7 @@ icbdr.com
 icloud.com
 www.icloud.com
 idg.se
+www.idg.se
 mpsnare.iesnare.com
 ifmo.ru
 confib.ifmo.ru
@@ -1793,6 +1796,7 @@ www.ikea.com
 forums.ilounge.com
 imagebam.com
 imagecorn.com
+www.imagecorn.com
 ecx.images-amazon.com
 z-ecx.images-amazon.com
 imageshack.com
@@ -2041,6 +2045,7 @@ www.livejournal.com
 livestream.com
 load.to
 www.load.to
+api.loganalytics.io
 logentries.com
 api.logentries.com
 autodiscover.logentries.com
@@ -2085,6 +2090,7 @@ loki.network
 i.loli.net
 lowendbox.com
 lowes.com
+www.lowes.com
 cindyholbrook.lpages.co
 luckyorange.com
 www.luckyorange.com
@@ -2207,6 +2213,7 @@ devcenterapi.dce.mp.microsoft.com
 notification-int.dce.mp.microsoft.com
 pac.dce.mp.microsoft.com
 partnersegmentation-int.dce.mp.microsoft.com
+partnersegmentation.dce.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 fe3.delivery.mp.microsoft.com
@@ -2223,12 +2230,14 @@ availability.dps.mp.microsoft.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
 bias-int.dps.mp.microsoft.com
 bias.dps.mp.microsoft.com
+ciso-int.dps.mp.microsoft.com
 ciso.dps.mp.microsoft.com
 composerapi-int.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
 discrequest.dps.mp.microsoft.com
 domaindataservice.dps.mp.microsoft.com
 filesapi-int.dps.mp.microsoft.com
+filesapi.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi.dps.mp.microsoft.com
 iot-int.dps.mp.microsoft.com
@@ -2241,6 +2250,7 @@ packagesapi-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
 packagesapi.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
+payoutorderstatus.dps.mp.microsoft.com
 product-int.dps.mp.microsoft.com
 product.dps.mp.microsoft.com
 productsummary-int.dps.mp.microsoft.com
@@ -2289,6 +2299,7 @@ storeedgefd-ppe.dsx.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 storeedgefdsecureorigin.dsx.mp.microsoft.com
 ebs-int.mp.microsoft.com
+ebs.mp.microsoft.com
 editcat-int.mp.microsoft.com
 entitlements-int.mp.microsoft.com
 entitlements.mp.microsoft.com
@@ -2299,6 +2310,7 @@ entitlementsfederationinternal.mp.microsoft.com
 entitlementsinternal.mp.microsoft.com
 entitlementssubscriptionnotifications-int.mp.microsoft.com
 entitlementssubscriptionnotifications.mp.microsoft.com
+fees.mp.microsoft.com
 firstparty-collections-int.mp.microsoft.com
 firstparty-collections.mp.microsoft.com
 firstparty-entitlements-int.mp.microsoft.com
@@ -2365,6 +2377,7 @@ ustrl-int.mp.microsoft.com
 ustrl.mp.microsoft.com
 wishlist-dev.mp.microsoft.com
 wishlist-int.mp.microsoft.com
+wishlist.mp.microsoft.com
 xbox-displaycatalog.mp.microsoft.com
 mscrl.microsoft.com
 officeclient.microsoft.com
@@ -2389,6 +2402,8 @@ cp.smartscreen.microsoft.com
 fb.smartscreen.microsoft.com
 beta.fb.smartscreen.microsoft.com
 feedback.smartscreen.microsoft.com
+gradingservice.smartscreen.microsoft.com
+tz.gradingservice.smartscreen.microsoft.com
 nav.smartscreen.microsoft.com
 data.nav.smartscreen.microsoft.com
 ping.nav.smartscreen.microsoft.com
@@ -2411,7 +2426,9 @@ update.microsoft.com
 catalog.update.microsoft.com
 fe2.update.microsoft.com
 pending.sls-int.update.microsoft.com
+pending.sls-tip.update.microsoft.com
 sls.update.microsoft.com
+pending.sls.update.microsoft.com
 wallet.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
@@ -2926,7 +2943,6 @@ qualtrics.com
 google.qualtrics.com
 umich.qualtrics.com
 www.qualtrics.com
-email.questrade.com
 quickenloans.com
 www.quickenloans.com
 quora.com
@@ -3192,6 +3208,7 @@ jm0199515.splunk.com
 login.splunk.com
 hooks.login.splunk.com
 mint.splunk.com
+o11yquest.splunk.com
 response.splunk.com
 salesoutreach.splunk.com
 scp.splunk.com
@@ -3204,6 +3221,7 @@ legacy.admin.playground.scp.splunk.com
 scs002-sea10.admin.playground.scp.splunk.com
 auth.playground.scp.splunk.com
 olly-logs.playground.scp.splunk.com
+pulsar-app-play1.playground.scp.splunk.com
 pulsar-istio-play1.playground.scp.splunk.com
 px.playground.scp.splunk.com
 pulsar-app-prod1.scp.splunk.com
@@ -3247,6 +3265,8 @@ streaming.staging.scs.splunk.com
 services.splunk.com
 signatures.splunk.com
 splunkbase.splunk.com
+stage.splunkbase.splunk.com
+splunkbase-cloudfront.stage.splunkbase.splunk.com
 staging.splunkbase.splunk.com
 splunkbase-cloudfront.staging.splunkbase.splunk.com
 staging.splunk.com
@@ -3255,6 +3275,7 @@ hooks.login.sit1.staging.splunk.com
 splunkbase-qa.staging.splunk.com
 splunkbase.staging.splunk.com
 gslink.victorops.splunk.com
+www.splunk.com
 post.spmailtechnol.com
 sport.pl
 spot.im
@@ -3324,6 +3345,7 @@ www.stripe.com
 m.stripe.network
 stripecdn.com
 surveygizmo.com
+www.surveygizmo.com
 surveymonkey.com
 secure.surveymonkey.com
 sweclockers.com
@@ -3414,6 +3436,7 @@ static.tidiochat.com
 tiktok.com
 www.tiktok.com
 time.com
+www.time.com
 timeinc.net
 etl.tindersparks.com
 tinypass.com
@@ -3447,6 +3470,8 @@ s.tradingview.com
 s3.tradingview.com
 widgetdata.tradingview.com
 click.trafficguard.ai
+dc-ppe.trafficmanager.net
+draftprodoms.trafficmanager.net
 wd-prod-ss.trafficmanager.net
 go.trafficrouter.io
 transfer.sh
