@@ -117,6 +117,7 @@ www.aetna.com
 vip5.afdorigin-prod-am02.afdogw.com
 vip5.afdorigin-prod-ch02.afdogw.com
 affirm.com
+www.affirm.com
 aftership.com
 ip107307705.ahcdn.com
 ip107316446.ahcdn.com
@@ -351,7 +352,6 @@ forums.appleinsider.com
 breeze.aimon.applicationinsights.io
 artifactory.appodeal.com
 app.appsflyer.com
-launches.appsflyer.com
 appspot.com
 hiroservers.appspot.com
 snapabug.appspot.com
@@ -954,6 +954,7 @@ www.amazon.co.uk
 secure.barclaycard.co.uk
 verifiedbyvisa.barclays.co.uk
 bbc.co.uk
+www.bbc.co.uk
 bbci.co.uk
 static.bbci.co.uk
 bing.co.uk
@@ -1069,6 +1070,7 @@ www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
+www.datafilehost.com
 dataplicity.com
 www.dataplicity.com
 cdn.datatables.net
@@ -1079,13 +1081,16 @@ static-pepper.dealabs.com
 dealer.com
 dealerinspire.com
 debian.org
+www.debian.org
 delicious.com
 dell.com
 delvenetworks.com
 demotywatory.pl
+www.demotywatory.pl
 github.developerdan.com
 www.github.developerdan.com
 deviantart.com
+www.deviantart.com
 deviantart.net
 digg.com
 www.digg.com
@@ -1866,6 +1871,7 @@ ipinfo.io
 www.ipinfo.io
 ipla.tv
 ipredator.se
+www.ipredator.se
 s0.ipstatp.com
 ipv4only.arpa
 appcloud.ironbeast.io
@@ -2320,6 +2326,7 @@ fulfillment-int.mp.microsoft.com
 fulfillmentchangeportal-int.mp.microsoft.com
 inventory.mp.microsoft.com
 keyfulfillment-int.mp.microsoft.com
+keyfulfillment.mp.microsoft.com
 label-int.mp.microsoft.com
 label.mp.microsoft.com
 licensing-entitlements-int.mp.microsoft.com
@@ -2331,6 +2338,7 @@ displaycatalog.md.mp.microsoft.com
 inventory.md.mp.microsoft.com
 licensing-entitlements-int.md.mp.microsoft.com
 licensing-entitlements.md.mp.microsoft.com
+licensing.md.mp.microsoft.com
 licensingwindows.md.mp.microsoft.com
 purchase.md.mp.microsoft.com
 uwpproc-int.mix.mp.microsoft.com
@@ -2422,11 +2430,13 @@ support.microsoft.com
 watson.telemetry.microsoft.com
 to-do.microsoft.com
 update.microsoft.com
+fe1.update.microsoft.com
 fe2.update.microsoft.com
 pending.sls-int.update.microsoft.com
 pending.sls-tip.update.microsoft.com
 sls.update.microsoft.com
 pending.sls.update.microsoft.com
+www.update.microsoft.com
 wallet.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
@@ -2647,6 +2657,7 @@ arc.msn.com.nsatc.net
 g.msn.com.nsatc.net
 pool.ntp.org
 2.android.pool.ntp.org
+www.pool.ntp.org
 media.nu.nl
 ota-downloads.nvidia.com
 ny.com
@@ -3119,6 +3130,7 @@ notification-hub.skype.com
 peoplerecommendations.skype.com
 phobot-live.skype.com
 dogfood.pnh.skype.com
+pipe.portal.skype.com
 api.promotions.skype.com
 bo.promotions.skype.com
 shortener.skype.com
@@ -3223,6 +3235,7 @@ api.staging.scp.splunk.com
 auth.staging.scp.splunk.com
 status.scp.splunk.com
 admin.scs.splunk.com
+scs001-dub10.admin.scs.splunk.com
 scs002-iad10.admin.scs.splunk.com
 scs003-iad10.admin.scs.splunk.com
 api.scs.splunk.com
@@ -3243,6 +3256,7 @@ auth.playground.scs.splunk.com
 region-dub10.auth.playground.scs.splunk.com
 region-iad10.auth.playground.scs.splunk.com
 console.playground.scs.splunk.com
+streaming.playground.scs.splunk.com
 admin.staging.scs.splunk.com
 scs003-iad10.admin.staging.scs.splunk.com
 scs004-dub10.admin.staging.scs.splunk.com
@@ -3360,6 +3374,7 @@ cdn.tagcommander.com
 taleo.net
 talkbusiness.net
 ads.talkbusiness.net
+www.talkbusiness.net
 tampermonkey.net
 na61-na62.wagbridge.alibaba.tanx.com
 phs.tanx.com
@@ -3554,6 +3569,7 @@ uk.com
 ultimedia.com
 www.ultimedia.com
 ultraimg.com
+www.ultraimg.com
 t.umblr.com
 builder-assets.unbounce.com
 unbouncepages.com
@@ -3603,6 +3619,7 @@ viddler.com
 videocopilot.net
 videodelivery.net
 videolan.org
+www.videolan.org
 videopress.com
 thumbs.videopress.com
 videos.videopress.com
@@ -4942,6 +4959,7 @@ zdnet.com
 www.zdnet.com
 vjs.zencdn.net
 zendesk.com
+www.zendesk.com
 zerohedge.com
 gc.zgo.at
 app-advertise.zhihuishu.com
