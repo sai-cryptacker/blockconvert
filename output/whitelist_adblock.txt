@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-01Z
+! Version: 2021-05-02Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-01Z
+! Last modified: 2021-05-02Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2001,6 +2001,7 @@
 @@||shop.lego.com^
 @@||malwaredomains.lehigh.edu^
 @@||dict.leo.org^
+@@||www.dict.leo.org^
 @@||ocsp.int-x1.letsencrypt.org^
 @@||ocsp.int-x2.letsencrypt.org^
 @@||ocsp.int-x3.letsencrypt.org^
@@ -2317,6 +2318,7 @@
 @@||ebs-int.mp.microsoft.com^
 @@||ebs.mp.microsoft.com^
 @@||editcat-int.mp.microsoft.com^
+@@||editcat.mp.microsoft.com^
 @@||entitlements-int.mp.microsoft.com^
 @@||entitlements.mp.microsoft.com^
 @@||entitlementsfederation-int.mp.microsoft.com^
@@ -3171,6 +3173,7 @@
 @@||www.sohu.com^
 @@||solidfiles.com^
 @@||someonewhocares.org^
+@@||www.someonewhocares.org^
 @@||apt.sonarr.tv^
 @@||download.sonarr.tv^
 @@||forums.sonarr.tv^
@@ -3221,6 +3224,8 @@
 @@||api2.staging.dev.splunk.com^
 @@||events.splunk.com^
 @@||gps.splunk.com^
+@@||guides.splunk.com^
+@@||playground.guides.splunk.com^
 @@||investors.splunk.com^
 @@||jm0199515.splunk.com^
 @@||mint.splunk.com^

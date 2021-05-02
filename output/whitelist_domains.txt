@@ -1992,6 +1992,7 @@ play.lego.com
 shop.lego.com
 malwaredomains.lehigh.edu
 dict.leo.org
+www.dict.leo.org
 ocsp.int-x1.letsencrypt.org
 ocsp.int-x2.letsencrypt.org
 ocsp.int-x3.letsencrypt.org
@@ -2308,6 +2309,7 @@ storeedgefdsecureorigin.dsx.mp.microsoft.com
 ebs-int.mp.microsoft.com
 ebs.mp.microsoft.com
 editcat-int.mp.microsoft.com
+editcat.mp.microsoft.com
 entitlements-int.mp.microsoft.com
 entitlements.mp.microsoft.com
 entitlementsfederation-int.mp.microsoft.com
@@ -3162,6 +3164,7 @@ sohu.com
 www.sohu.com
 solidfiles.com
 someonewhocares.org
+www.someonewhocares.org
 apt.sonarr.tv
 download.sonarr.tv
 forums.sonarr.tv
@@ -3212,6 +3215,8 @@ api.staging.dev.splunk.com
 api2.staging.dev.splunk.com
 events.splunk.com
 gps.splunk.com
+guides.splunk.com
+playground.guides.splunk.com
 investors.splunk.com
 jm0199515.splunk.com
 mint.splunk.com
