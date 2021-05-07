@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-02Z
+! Version: 2021-05-07Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-02Z
+! Last modified: 2021-05-07Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -93,6 +93,7 @@
 @@||add0n.com^
 @@||adguard.com^
 @@||adidas.com^
+@@||www.adidas.com^
 @@||imagesrv.adition.com^
 @@||app.adjust.com^
 @@||3dns-3.adobe.com^
@@ -274,7 +275,6 @@
 @@||aax-us-east.amazon-adsystem.com^
 @@||s.amazon-adsystem.com^
 @@||amazon.at^
-@@||www.amazon.at^
 @@||amazon.ca^
 @@||amazon.cn^
 @@||amazon.com^
@@ -376,7 +376,6 @@
 @@||secure5.arcot.com^
 @@||arcpublishing.com^
 @@||arizona.edu^
-@@||www.arizona.edu^
 @@||arkoselabs.com^
 @@||www.arkoselabs.com^
 @@||arstechnica.com^
@@ -393,7 +392,6 @@
 @@||ws.audioscrobbler.com^
 @@||auth0.com^
 @@||cdn.auth0.com^
-@@||www.auth0.com^
 @@||authorize.net^
 @@||secure.avangate.com^
 @@||forum.avast.com^
@@ -675,7 +673,6 @@
 @@||wusthof.ugc.bazaarvoice.com^
 @@||xerox.ugc.bazaarvoice.com^
 @@||yvesrocher.ugc.bazaarvoice.com^
-@@||www.bazaarvoice.com^
 @@||bbb.org^
 @@||bbc.com^
 @@||www.bbc.com^
@@ -691,11 +688,8 @@
 @@||berush.com^
 @@||www.berush.com^
 @@||bestbuy.ca^
-@@||www.bestbuy.ca^
 @@||bestbuy.com^
-@@||www.bestbuy.com^
 @@||betanews.com^
-@@||www.betanews.com^
 @@||betfair.com^
 @@||l.betrad.com^
 @@||better.fyi^
@@ -951,7 +945,6 @@
 @@||taimeod.co.il^
 @@||cloudmail17.netcore.co.in^
 @@||amazon.co.jp^
-@@||www.amazon.co.jp^
 @@||hb.afl.rakuten.co.jp^
 @@||pt.afl.rakuten.co.jp^
 @@||grp07.ias.rakuten.co.jp^
@@ -994,7 +987,6 @@
 @@||support.coinbase.com^
 @@||ws.coinbase.com^
 @@||www.coinbase.com^
-@@||coinpot.co^
 @@||www.coinpot.co^
 @@||cointraffic.io^
 @@||www.cointraffic.io^
@@ -1020,7 +1012,6 @@
 @@||www.cws.conviva.com^
 @@||zee.cws.conviva.com^
 @@||www.zee.cws.conviva.com^
-@@||livepassdl.conviva.com^
 @@||pings.conviva.com^
 @@||cosmopolitan.com^
 @@||costco.com^
@@ -1063,6 +1054,7 @@
 @@||cstv.com^
 @@||cursecdn.com^
 @@||curvesncombatboots.com^
+@@||www.curvesncombatboots.com^
 @@||custhelp.com^
 @@||track.customer.io^
 @@||e.customeriomail.com^
@@ -1139,7 +1131,6 @@
 @@||screendoor.dobt.co^
 @@||documentcloud.org^
 @@||donorbox.org^
-@@||www.donorbox.org^
 @@||forum.doom9.org^
 @@||cdn.dopc.cz^
 @@||cj.dotomi.com^
@@ -1236,6 +1227,7 @@
 @@||nexus.ensighten.com^
 @@||entireweb.com^
 @@||playerstatic.entropymedia.com^
+@@||1.envato.market^
 @@||eonline.com^
 @@||pp.ephapay.net^
 @@||tracking.epicgames.com^
@@ -1366,7 +1358,6 @@
 @@||cdn.fluidplayer.com^
 @@||cdn.flurry.com^
 @@||flyertown.ca^
-@@||www.flyertown.ca^
 @@||stats.foldingathome.org^
 @@||fontawesome.com^
 @@||cdn.fontawesome.com^
@@ -1405,7 +1396,6 @@
 @@||fox6now.com^
 @@||fox8.com^
 @@||framasoft.org^
-@@||www.framasoft.org^
 @@||frankerfacez.com^
 @@||dl.free.fr^
 @@||freebsd.org^
@@ -1432,7 +1422,6 @@
 @@||www.fwmrm.net^
 @@||fyre.co^
 @@||g.co^
-@@||btcpay.gab.com^
 @@||gadgetsnow.com^
 @@||shop.gadgetsnow.com^
 @@||www.gadgetsnow.com^
@@ -1487,7 +1476,6 @@
 @@||gitbook.com^
 @@||gitcdn.link^
 @@||gitcdn.xyz^
-@@||www.gitcdn.xyz^
 @@||gitee.com^
 @@||m.gitee.com^
 @@||raw.githack.com^
@@ -1496,7 +1484,6 @@
 @@||codeload.github.com^
 @@||gist.github.com^
 @@||raw.github.com^
-@@||www.github.com^
 @@||github.io^
 @@||adguardteam.github.io^
 @@||gist.githubusercontent.com^
@@ -1513,11 +1500,14 @@
 @@||gmodules.com^
 @@||www.gmodules.com^
 @@||gmx.at^
+@@||www.gmx.at^
 @@||gmx.ch^
+@@||www.gmx.ch^
 @@||gmx.com^
 @@||gmx.de^
 @@||gmx.es^
 @@||gmx.net^
+@@||www.gmx.net^
 @@||nmcheck.gnome.org^
 @@||abcnews.go.com^
 @@||go.ro^
@@ -1718,7 +1708,6 @@
 @@||hbogo.com^
 @@||hbogo.pl^
 @@||hcaptcha.com^
-@@||www.hcaptcha.com^
 @@||he.net^
 @@||bgp.he.net^
 @@||ipv6.he.net^
@@ -1737,6 +1726,7 @@
 @@||hitfile.net^
 @@||hm.com^
 @@||hollywoodlife.com^
+@@||www.hollywoodlife.com^
 @@||homedepot.com^
 @@||homestead.com^
 @@||cdn.hometogo.net^
@@ -1898,7 +1888,6 @@
 @@||www.jaleco.com^
 @@||www.janrain.com^
 @@||jarv.is^
-@@||www.jarv.is^
 @@||jcpenney.com^
 @@||gia.jd.com^
 @@||wl.jd.com^
@@ -1963,10 +1952,8 @@
 @@||trk.klclick1.com^
 @@||klm.com^
 @@||kmart.com^
-@@||www.kmart.com^
 @@||knowyourmeme.com^
 @@||kohls.com^
-@@||www.kohls.com^
 @@||komputerswiat.pl^
 @@||www.komputerswiat.pl^
 @@||kopimi.com^
@@ -2023,7 +2010,6 @@
 @@||linkedin.com^
 @@||www.linkedin.com^
 @@||linktr.ee^
-@@||www.linktr.ee^
 @@||linkwithin.com^
 @@||www.linkwithin.com^
 @@||forums.linuxmint.com^
@@ -2106,7 +2092,6 @@
 @@||luckyorange.com^
 @@||www.luckyorange.com^
 @@||lwn.net^
-@@||www.lwn.net^
 @@||m.me^
 @@||forums.macrumors.com^
 @@||macys.com^
@@ -2125,7 +2110,6 @@
 @@||api.mapbox.com^
 @@||events.mapbox.com^
 @@||tiles.mapbox.com^
-@@||www.mapbox.com^
 @@||mapquestapi.com^
 @@||www.mapquestapi.com^
 @@||ssl.marfeelcdn.com^
@@ -2162,7 +2146,6 @@
 @@||medium.com^
 @@||miro.medium.com^
 @@||mega.nz^
-@@||www.mega.nz^
 @@||megaphone.fm^
 @@||menshealth.com^
 @@||merriam-webster.com^
@@ -2258,9 +2241,7 @@
 @@||iot.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
 @@||listingsapi.dps.mp.microsoft.com^
-@@||packages-int.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
-@@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
 @@||product-int.dps.mp.microsoft.com^
@@ -2269,8 +2250,8 @@
 @@||productsummary.dps.mp.microsoft.com^
 @@||productweb-int.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
+@@||promotion.dps.mp.microsoft.com^
 @@||restriction-int.dps.mp.microsoft.com^
-@@||schemaapi.dps.mp.microsoft.com^
 @@||stitchapi-int.dps.mp.microsoft.com^
 @@||submissionapi-int.dps.mp.microsoft.com^
 @@||submissionapi.dps.mp.microsoft.com^
@@ -2282,14 +2263,11 @@
 @@||survey.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
 @@||variant.dps.mp.microsoft.com^
-@@||watchdogs-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice-dev.dps.mp.microsoft.com^
 @@||workflowservice-int.dps.mp.microsoft.com^
 @@||engagementservice.dse.mp.microsoft.com^
 @@||engagementweb.dse.mp.microsoft.com^
-@@||ingestiondeveloperapi-int.dse.mp.microsoft.com^
-@@||ingestiondeveloperapi.dse.mp.microsoft.com^
 @@||notificationservice.dse.mp.microsoft.com^
 @@||pac-int.dse.mp.microsoft.com^
 @@||api-dev.dcat.dsp.mp.microsoft.com^
@@ -2319,19 +2297,8 @@
 @@||ebs.mp.microsoft.com^
 @@||editcat-int.mp.microsoft.com^
 @@||editcat.mp.microsoft.com^
-@@||entitlements-int.mp.microsoft.com^
-@@||entitlements.mp.microsoft.com^
 @@||entitlementsfederation-int.mp.microsoft.com^
-@@||entitlementsfederation.mp.microsoft.com^
-@@||entitlementsfederationinternal-int.mp.microsoft.com^
-@@||entitlementsfederationinternal.mp.microsoft.com^
-@@||entitlementsinternal.mp.microsoft.com^
-@@||entitlementssubscriptionnotifications-int.mp.microsoft.com^
-@@||entitlementssubscriptionnotifications.mp.microsoft.com^
 @@||fees.mp.microsoft.com^
-@@||firstparty-collections-int.mp.microsoft.com^
-@@||firstparty-collections.mp.microsoft.com^
-@@||firstparty-entitlements-int.mp.microsoft.com^
 @@||firstparty-entitlements.mp.microsoft.com^
 @@||fulfillment-int.mp.microsoft.com^
 @@||fulfillmentchangeportal-int.mp.microsoft.com^
@@ -2340,14 +2307,12 @@
 @@||keyfulfillment.mp.microsoft.com^
 @@||label-int.mp.microsoft.com^
 @@||label.mp.microsoft.com^
-@@||licensing-entitlements-int.mp.microsoft.com^
 @@||licensing-entitlements.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
 @@||licensingwindows.mp.microsoft.com^
 @@||collections.md.mp.microsoft.com^
 @@||displaycatalog.md.mp.microsoft.com^
 @@||inventory.md.mp.microsoft.com^
-@@||licensing-entitlements-int.md.mp.microsoft.com^
 @@||licensing-entitlements.md.mp.microsoft.com^
 @@||licensing.md.mp.microsoft.com^
 @@||licensingwindows.md.mp.microsoft.com^
@@ -2371,7 +2336,6 @@
 @@||az.tops.purchase-int.mp.microsoft.com^
 @@||wus2.az.tops.purchase-int.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
-@@||digitalattachclaims-int.purchase.mp.microsoft.com^
 @@||digitalattachclaims.purchase.mp.microsoft.com^
 @@||tops.purchase.mp.microsoft.com^
 @@||ea.az.tops.purchase.mp.microsoft.com^
@@ -2379,14 +2343,11 @@
 @@||ne.az.tops.purchase.mp.microsoft.com^
 @@||wus2.az.tops.purchase.mp.microsoft.com^
 @@||sonar-int.px.mp.microsoft.com^
-@@||sonar.px.mp.microsoft.com^
 @@||staging-dcatbackend-int.mp.microsoft.com^
 @@||wus2.staging-dcatbackend-int.mp.microsoft.com^
 @@||staging-dcatbackend.mp.microsoft.com^
 @@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
-@@||storage-int.mp.microsoft.com^
-@@||storage.mp.microsoft.com^
 @@||tops-int.mp.microsoft.com^
 @@||tops.mp.microsoft.com^
 @@||track-int.mp.microsoft.com^
@@ -2482,7 +2443,6 @@
 @@||api.vip.miui.com^
 @@||miui.net^
 @@||mixcloud.com^
-@@||www.mixcloud.com^
 @@||mixnews.lv^
 @@||sj14.mktossl.com^
 @@||mlb.com^
@@ -2909,8 +2869,8 @@
 @@||powerreviews.com^
 @@||powr.io^
 @@||ppt.cc^
+@@||www.ppt.cc^
 @@||full.pr0gramm.com^
-@@||prerollads.nl^
 @@||pricegrabber.com^
 @@||printfriendly.com^
 @@||prisjakt.nu^
@@ -2949,6 +2909,7 @@
 @@||app.qq.com^
 @@||captcha.qq.com^
 @@||dlied6.qq.com^
+@@||guanjia.qq.com^
 @@||jq.qq.com^
 @@||img1.sj.qq.com^
 @@||sqimg.qq.com^
@@ -2972,7 +2933,6 @@
 @@||radiofrance.fr^
 @@||radiostacja.pl^
 @@||rakuten.com^
-@@||www.rakuten.com^
 @@||rambler.ru^
 @@||ranker.com^
 @@||images.rapgenius.com^
@@ -3005,6 +2965,7 @@
 @@||redditmedia.com^
 @@||redefine.pl^
 @@||redfin.com^
+@@||www.redfin.com^
 @@||redirectingat.com^
 @@||go.redirectingat.com^
 @@||www.redirectingat.com^
@@ -3098,7 +3059,6 @@
 @@||shop-pro.jp^
 @@||shopify.com^
 @@||s.shopify.com^
-@@||www.shopify.com^
 @@||sdks.shopifycdn.com^
 @@||shopping.com^
 @@||shoprunner.com^
@@ -3119,12 +3079,13 @@
 @@||www.siteimprove.com^
 @@||shield.sitelock.com^
 @@||sketchfab.com^
+@@||api-merchants.skimlinks.com^
+@@||authentication-api.skimlinks.com^
 @@||skimresources.com^
 @@||www.skimresources.com^
 @@||skype.com^
 @@||blogs.skype.com^
 @@||c1.skype.com^
-@@||community.skype.com^
 @@||download.skype.com^
 @@||edge.skype.com^
 @@||config.edge.skype.com^
@@ -3132,10 +3093,10 @@
 @@||calling.consumer.entitlement.skype.com^
 @@||campaign.consumer.entitlement.skype.com^
 @@||secure.consumer.entitlement.skype.com^
-@@||fpt.skype.com^
+@@||sfbus.entitlement.skype.com^
 @@||go.skype.com^
-@@||heartbeat.skype.com^
 @@||login.skype.com^
+@@||msgapi.skype.com^
 @@||msgsearch.skype.com^
 @@||notification-hub.skype.com^
 @@||peoplerecommendations.skype.com^
@@ -3145,7 +3106,6 @@
 @@||api.promotions.skype.com^
 @@||bo.promotions.skype.com^
 @@||shortener.skype.com^
-@@||support.skype.com^
 @@||trap.skype.com^
 @@||wsapi.skype.com^
 @@||slack-redir.net^
@@ -3161,6 +3121,7 @@
 @@||www.smallseotools.com^
 @@||smugmug.com^
 @@||snapchat.com^
+@@||www.snapchat.com^
 @@||snapengage.com^
 @@||www.snapengage.com^
 @@||sndcdn.com^
@@ -3197,33 +3158,22 @@
 @@||community.spiceworks.com^
 @@||spiegel-de.spiegel.de^
 @@||2020plus.splunk.com^
+@@||amp.splunk.com^
 @@||api.splunk.com^
 @@||appinspect.splunk.com^
 @@||banner.splunk.com^
 @@||boo.splunk.com^
 @@||botn.splunk.com^
 @@||bucketlist.splunk.com^
-@@||eu.businessflowapp.splunk.com^
 @@||status.businessflowapp.splunk.com^
-@@||us.businessflowapp.splunk.com^
 @@||class.splunk.com^
-@@||iodapi.class.splunk.com^
 @@||wbtapi.class.splunk.com^
 @@||wbtbosh.class.splunk.com^
-@@||wbttest.class.splunk.com^
 @@||cloud.splunk.com^
 @@||conf.splunk.com^
 @@||dev.splunk.com^
-@@||api.dev.splunk.com^
-@@||api2.dev.splunk.com^
-@@||playground.dev.splunk.com^
-@@||api.playground.dev.splunk.com^
-@@||api2.playground.dev.splunk.com^
 @@||staging.dev.splunk.com^
-@@||api.staging.dev.splunk.com^
-@@||api2.staging.dev.splunk.com^
 @@||events.splunk.com^
-@@||gps.splunk.com^
 @@||guides.splunk.com^
 @@||playground.guides.splunk.com^
 @@||investors.splunk.com^
@@ -3239,14 +3189,12 @@
 @@||playground.scp.splunk.com^
 @@||admin.playground.scp.splunk.com^
 @@||legacy.admin.playground.scp.splunk.com^
-@@||scs002-sea10.admin.playground.scp.splunk.com^
 @@||auth.playground.scp.splunk.com^
 @@||pulsar-app-play1.playground.scp.splunk.com^
 @@||pulsar-istio-play1.playground.scp.splunk.com^
 @@||px.playground.scp.splunk.com^
 @@||staging.scp.splunk.com^
-@@||api.staging.scp.splunk.com^
-@@||auth.staging.scp.splunk.com^
+@@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||status.scp.splunk.com^
 @@||admin.scs.splunk.com^
 @@||scs001-dub10.admin.scs.splunk.com^
@@ -3271,17 +3219,15 @@
 @@||region-iad10.auth.playground.scs.splunk.com^
 @@||console.playground.scs.splunk.com^
 @@||streaming.playground.scs.splunk.com^
+@@||pulsar.scs.splunk.com^
 @@||admin.staging.scs.splunk.com^
-@@||scs003-iad10.admin.staging.scs.splunk.com^
 @@||scs004-dub10.admin.staging.scs.splunk.com^
 @@||api.staging.scs.splunk.com^
-@@||region-iad10.api.staging.scs.splunk.com^
+@@||region-dub10.api.staging.scs.splunk.com^
 @@||app-admin.staging.scs.splunk.com^
 @@||auth.staging.scs.splunk.com^
-@@||region-iad10.auth.staging.scs.splunk.com^
+@@||region-dub10.auth.staging.scs.splunk.com^
 @@||on-call-admin.staging.scs.splunk.com^
-@@||px.staging.scs.splunk.com^
-@@||remotes.staging.scs.splunk.com^
 @@||services.splunk.com^
 @@||signatures.splunk.com^
 @@||splunkbase.splunk.com^
@@ -3292,6 +3238,7 @@
 @@||staging.splunk.com^
 @@||splunkbase-qa.staging.splunk.com^
 @@||splunkbase.staging.splunk.com^
+@@||status.splunk.com^
 @@||gslink.victorops.splunk.com^
 @@||www.splunk.com^
 @@||post.spmailtechnol.com^
@@ -3314,6 +3261,7 @@
 @@||squaretrade.com^
 @@||www.squaretrade.com^
 @@||squareup.com^
+@@||www.squareup.com^
 @@||squidblacklist.org^
 @@||squirt.io^
 @@||email.ssdnodes.com^
@@ -3379,7 +3327,6 @@
 @@||t-online.de^
 @@||www.t-online.de^
 @@||t.co^
-@@||www.t.co^
 @@||public.tableau.com^
 @@||public.tableausoftware.com^
 @@||static.tacdn.com^
@@ -3471,7 +3418,6 @@
 @@||tlc.com^
 @@||www.tlc.com^
 @@||tld-list.com^
-@@||www.tld-list.com^
 @@||tmblr.co^
 @@||tmz.com^
 @@||www.tmz.com^
@@ -4606,7 +4552,6 @@
 @@||wangbase.com^
 @@||www.wangbase.com^
 @@||washingtonpost.com^
-@@||www.washingtonpost.com^
 @@||wbd.ms^
 @@||weather.com^
 @@||weather.gov^
@@ -4771,11 +4716,11 @@
 @@||wishabi.com^
 @@||wistia.com^
 @@||fast.wistia.com^
-@@||www.wistia.com^
 @@||fast.wistia.net^
 @@||wix.com^
 @@||tg1.premium.db4.wix.com^
 @@||tg1.premium.dc11.wix.com^
+@@||www.wix.com^
 @@||balancer.wixdns.net^
 @@||www17.wixdns.net^
 @@||static.wixstatic.com^
@@ -4843,7 +4788,6 @@
 @@||o2o.api.xiaomi.com^
 @@||bgp.fe01.c3.xiaomi.com^
 @@||game.xiaomi.com^
-@@||ppurifier.game.xiaomi.com^
 @@||data.mistat.intl.xiaomi.com^
 @@||market.xiaomi.com^
 @@||file.market.xiaomi.com^
