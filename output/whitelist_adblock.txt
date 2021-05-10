@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-08Z
+! Version: 2021-05-10Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-08Z
+! Last modified: 2021-05-10Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -127,7 +127,6 @@
 @@||vip5.afdorigin-prod-am02.afdogw.com^
 @@||vip5.afdorigin-prod-ch02.afdogw.com^
 @@||affirm.com^
-@@||www.affirm.com^
 @@||afi-b.com^
 @@||t.afi-b.com^
 @@||www.afi-b.com^
@@ -353,6 +352,7 @@
 @@||ax.itunes.apple.com^
 @@||ax.init.itunes.apple.com^
 @@||gsp-ssl.ls.apple.com^
+@@||gsp10-ssl.ls.apple.com^
 @@||gsp80-ssl.ls.apple.com^
 @@||ocsp.apple.com^
 @@||phobos.apple.com^
@@ -697,6 +697,7 @@
 @@||betfair.com^
 @@||l.betrad.com^
 @@||better.fyi^
+@@||www.better.fyi^
 @@||betterttv.net^
 @@||beyondmenu.com^
 @@||static.beyondmenu.com^
@@ -992,6 +993,7 @@
 @@||support.coinbase.com^
 @@||ws.coinbase.com^
 @@||www.coinbase.com^
+@@||www.coingeek.com^
 @@||www.coinpot.co^
 @@||cointraffic.io^
 @@||www.cointraffic.io^
@@ -1143,6 +1145,7 @@
 @@||5471782.fls.doubleclick.net^
 @@||pagead.l.doubleclick.net^
 @@||dpreview.com^
+@@||www.dpreview.com^
 @@||drift.com^
 @@||driftt.com^
 @@||www.driftt.com^
@@ -1403,6 +1406,7 @@
 @@||fox8.com^
 @@||framasoft.org^
 @@||frankerfacez.com^
+@@||www.frankerfacez.com^
 @@||dl.free.fr^
 @@||freebsd.org^
 @@||www.freebsd.org^
@@ -2653,6 +2657,7 @@
 @@||www.nordichardware.se^
 @@||nordvpn.com^
 @@||notabug.org^
+@@||www.notabug.org^
 @@||forum.notebookreview.com^
 @@||cloud.notification-naviextras.com^
 @@||now.sh^
@@ -2675,6 +2680,7 @@
 @@||www.nydailynews.com^
 @@||nymag.com^
 @@||nypost.com^
+@@||www.nypost.com^
 @@||nyt.com^
 @@||nytimes.com^
 @@||www.nytimes.com^
@@ -2864,6 +2870,7 @@
 @@||passets-cdn.pinterest.com^
 @@||www.pinterest.com^
 @@||piratebay.org^
+@@||www.piratebay.org^
 @@||pixietrixcomix.com^
 @@||ocsp.pki.goog^
 @@||pkobp.pl^
@@ -3064,6 +3071,7 @@
 @@||schibsted.no^
 @@||schibsted.tech^
 @@||scrapinghub.com^
+@@||www.scrapinghub.com^
 @@||scribblelive.com^
 @@||scribd.com^
 @@||sdad.guru^
@@ -3126,6 +3134,7 @@
 @@||blogs.skype.com^
 @@||broadcast.skype.com^
 @@||c1.skype.com^
+@@||do.skype.com^
 @@||dogfood-join.skype.com^
 @@||download.skype.com^
 @@||edge.skype.com^
@@ -3282,6 +3291,7 @@
 @@||services.splunk.com^
 @@||signatures.splunk.com^
 @@||splunkbase.splunk.com^
+@@||dev.splunkbase.splunk.com^
 @@||stage.splunkbase.splunk.com^
 @@||splunkbase-cloudfront.stage.splunkbase.splunk.com^
 @@||staging.splunkbase.splunk.com^
@@ -3364,7 +3374,6 @@
 @@||m.stripe.network^
 @@||stripecdn.com^
 @@||surveygizmo.com^
-@@||www.surveygizmo.com^
 @@||surveymonkey.com^
 @@||secure.surveymonkey.com^
 @@||sweclockers.com^
@@ -3478,6 +3487,7 @@
 @@||torbit.com^
 @@||torrentfreak.com^
 @@||townnews.com^
+@@||www.townnews.com^
 @@||toysrus.com^
 @@||cookieblock.trackersimulate.org^
 @@||redir.tradedoubler.com^
@@ -3577,6 +3587,7 @@
 @@||ui-portal.de^
 @@||ce1.uicdn.net^
 @@||uk.com^
+@@||www.uk.com^
 @@||ultimedia.com^
 @@||www.ultimedia.com^
 @@||ultraimg.com^

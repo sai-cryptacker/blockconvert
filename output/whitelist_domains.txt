@@ -118,7 +118,6 @@ www.aetna.com
 vip5.afdorigin-prod-am02.afdogw.com
 vip5.afdorigin-prod-ch02.afdogw.com
 affirm.com
-www.affirm.com
 afi-b.com
 t.afi-b.com
 www.afi-b.com
@@ -344,6 +343,7 @@ itunes.apple.com
 ax.itunes.apple.com
 ax.init.itunes.apple.com
 gsp-ssl.ls.apple.com
+gsp10-ssl.ls.apple.com
 gsp80-ssl.ls.apple.com
 ocsp.apple.com
 phobos.apple.com
@@ -688,6 +688,7 @@ betanews.com
 betfair.com
 l.betrad.com
 better.fyi
+www.better.fyi
 betterttv.net
 beyondmenu.com
 static.beyondmenu.com
@@ -983,6 +984,7 @@ status.coinbase.com
 support.coinbase.com
 ws.coinbase.com
 www.coinbase.com
+www.coingeek.com
 www.coinpot.co
 cointraffic.io
 www.cointraffic.io
@@ -1134,6 +1136,7 @@ dotsub.com
 5471782.fls.doubleclick.net
 pagead.l.doubleclick.net
 dpreview.com
+www.dpreview.com
 drift.com
 driftt.com
 www.driftt.com
@@ -1394,6 +1397,7 @@ fox6now.com
 fox8.com
 framasoft.org
 frankerfacez.com
+www.frankerfacez.com
 dl.free.fr
 freebsd.org
 www.freebsd.org
@@ -2644,6 +2648,7 @@ nordichardware.se
 www.nordichardware.se
 nordvpn.com
 notabug.org
+www.notabug.org
 forum.notebookreview.com
 cloud.notification-naviextras.com
 now.sh
@@ -2666,6 +2671,7 @@ nydailynews.com
 www.nydailynews.com
 nymag.com
 nypost.com
+www.nypost.com
 nyt.com
 nytimes.com
 www.nytimes.com
@@ -2855,6 +2861,7 @@ pinterest.com
 passets-cdn.pinterest.com
 www.pinterest.com
 piratebay.org
+www.piratebay.org
 pixietrixcomix.com
 ocsp.pki.goog
 pkobp.pl
@@ -3055,6 +3062,7 @@ cdn.stream.schibsted.media
 schibsted.no
 schibsted.tech
 scrapinghub.com
+www.scrapinghub.com
 scribblelive.com
 scribd.com
 sdad.guru
@@ -3117,6 +3125,7 @@ skype.com
 blogs.skype.com
 broadcast.skype.com
 c1.skype.com
+do.skype.com
 dogfood-join.skype.com
 download.skype.com
 edge.skype.com
@@ -3273,6 +3282,7 @@ on-call-admin.staging.scs.splunk.com
 services.splunk.com
 signatures.splunk.com
 splunkbase.splunk.com
+dev.splunkbase.splunk.com
 stage.splunkbase.splunk.com
 splunkbase-cloudfront.stage.splunkbase.splunk.com
 staging.splunkbase.splunk.com
@@ -3355,7 +3365,6 @@ www.stripe.com
 m.stripe.network
 stripecdn.com
 surveygizmo.com
-www.surveygizmo.com
 surveymonkey.com
 secure.surveymonkey.com
 sweclockers.com
@@ -3469,6 +3478,7 @@ toptenreviews.com
 torbit.com
 torrentfreak.com
 townnews.com
+www.townnews.com
 toysrus.com
 cookieblock.trackersimulate.org
 redir.tradedoubler.com
@@ -3568,6 +3578,7 @@ g.udimg.com
 ui-portal.de
 ce1.uicdn.net
 uk.com
+www.uk.com
 ultimedia.com
 www.ultimedia.com
 ultraimg.com
