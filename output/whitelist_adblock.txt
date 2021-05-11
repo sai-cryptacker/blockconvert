@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-10Z
+! Version: 2021-05-11Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-10Z
+! Last modified: 2021-05-11Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -761,6 +761,7 @@
 @@||bloomberg.com^
 @@||www.bloomberg.com^
 @@||bloxcms.com^
+@@||www.bloxcms.com^
 @@||ftp.bmp.ovh^
 @@||bokser.org^
 @@||boldchat.com^
@@ -1137,6 +1138,7 @@
 @@||forum.dobreprogramy.pl^
 @@||screendoor.dobt.co^
 @@||documentcloud.org^
+@@||www.documentcloud.org^
 @@||donorbox.org^
 @@||forum.doom9.org^
 @@||cdn.dopc.cz^
@@ -1421,6 +1423,7 @@
 @@||frys.com^
 @@||a.fsdn.com^
 @@||build.origami.ft.com^
+@@||fundraiseup.com^
 @@||funk.eu^
 @@||www.funk.eu^
 @@||funnyordie.com^
@@ -2256,6 +2259,7 @@
 @@||iot.dps.mp.microsoft.com^
 @@||listingsapi-int.dps.mp.microsoft.com^
 @@||listingsapi.dps.mp.microsoft.com^
+@@||listingsweb-int.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
@@ -2914,6 +2918,7 @@
 @@||postimg.cc^
 @@||powerreviews.com^
 @@||powr.io^
+@@||www.powr.io^
 @@||ppt.cc^
 @@||www.ppt.cc^
 @@||full.pr0gramm.com^
@@ -2979,6 +2984,7 @@
 @@||radiofrance.fr^
 @@||radiostacja.pl^
 @@||rakuten.com^
+@@||www.rakuten.com^
 @@||rambler.ru^
 @@||ranker.com^
 @@||images.rapgenius.com^
@@ -3137,6 +3143,7 @@
 @@||do.skype.com^
 @@||dogfood-join.skype.com^
 @@||download.skype.com^
+@@||ecs.skype.com^
 @@||edge.skype.com^
 @@||config.edge.skype.com^
 @@||consumer.entitlement.skype.com^
@@ -3168,6 +3175,7 @@
 @@||slickdeals.net^
 @@||www.slickdeals.net^
 @@||slidedeck.com^
+@@||www.slidedeck.com^
 @@||public.slidesharecdn.com^
 @@||smallseotools.com^
 @@||www.smallseotools.com^
@@ -3195,6 +3203,7 @@
 @@||auth.api.sonyentertainmentnetwork.com^
 @@||cdn-a.sonyentertainmentnetwork.com^
 @@||id.sonyentertainmentnetwork.com^
+@@||eu-central-1.protection.sophos.com^
 @@||soundcloud.com^
 @@||api.soundcloud.com^
 @@||feeds.soundcloud.com^
@@ -3218,7 +3227,9 @@
 @@||botn.splunk.com^
 @@||bots.splunk.com^
 @@||bucketlist.splunk.com^
+@@||eu.businessflowapp.splunk.com^
 @@||status.businessflowapp.splunk.com^
+@@||us.businessflowapp.splunk.com^
 @@||class.splunk.com^
 @@||hol-deploy.class.splunk.com^
 @@||wbtapi.class.splunk.com^
@@ -3558,6 +3569,7 @@
 @@||static.twisto.cz^
 @@||api.twisto.pl^
 @@||twitch.tv^
+@@||badges.twitch.tv^
 @@||twitter.com^
 @@||api.twitter.com^
 @@||dev.twitter.com^
@@ -4644,6 +4656,7 @@
 @@||wildapricot.org^
 @@||windows.com^
 @@||activity.windows.com^
+@@||adl.windows.com^
 @@||maps.windows.com^
 @@||time.windows.com^
 @@||wns.windows.com^

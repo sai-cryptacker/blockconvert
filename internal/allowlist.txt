@@ -23,6 +23,7 @@ addons.mozilla.org
 adguard.com
 adguard.com # Adblocking tool
 adguardteam.github.io
+adl.windows.com # https://github.com/mkb2091/blockconvert/issues/92 Breaks Windows Update
 aeriagames.com
 a.espncdn.com # https://github.com/mkb2091/blockconvert/issues/58 Breaks ESPN
 aetna.com # blocks www.aetna.com which is a health website
@@ -65,6 +66,7 @@ awin1.com
 ay.gy
 az416426.vo.msecnd.net # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-744499191 Breaks Airplus Mastercard software
 azorult-tracker.net
+badges.twitch.tv # https://github.com/mkb2091/blockconvert/issues/94 Breaks Twitch TV badges
 baidu.com
 *.b.akamaiedge.net
 b.akamaiedge.net
@@ -207,6 +209,7 @@ encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 entireweb.com
+eu-central-1.protection.sophos.com # https://github.com/mkb2091/blockconvert/issues/93 Its a cloud security platform
 everest.castbox.fm
 evoke-windowsservices-tas.msedge.net
 ev.rdtcdn.com
@@ -396,6 +399,7 @@ ocation-inference-westus.cloudapp.net
 ocos-office365-s2s.msedge.ne
 ocos-office365-s2s.msedge.net
 ocsp.digicert.com
+ocsp.verisign.com # https://github.com/mkb2091/blockconvert/issues/94 Breaks verifying validity of certificates
 od.lk
 oem.twimg.com
 officeclient.microsoft.com
