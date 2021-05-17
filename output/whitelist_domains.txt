@@ -103,12 +103,14 @@ trunk.guce.advertising.com
 a.adwolf.ru
 adyen.com
 aeriagames.com
+www.aeriagames.com
 som.aeroplan.com
 aetna.com
 www.aetna.com
 vip5.afdorigin-prod-am02.afdogw.com
 vip5.afdorigin-prod-ch02.afdogw.com
 affirm.com
+www.affirm.com
 afi-b.com
 t.afi-b.com
 www.afi-b.com
@@ -746,6 +748,7 @@ bootstrapcdn.com
 maxcdn.bootstrapcdn.com
 netdna.bootstrapcdn.com
 stackpath.bootstrapcdn.com
+www.bootstrapcdn.com
 inapcache.boston.com
 bountysource.com
 bowercdn.net
@@ -915,6 +918,7 @@ www.res.cloudinary.com
 cmail19.com
 cmail20.com
 i.cmpnet.com
+www.i.cmpnet.com
 cnbc.com
 www.cnbc.com
 images2015.cnblogs.com
@@ -1472,6 +1476,7 @@ github.com
 codeload.github.com
 gist.github.com
 raw.github.com
+www.github.com
 github.io
 adguardteam.github.io
 gist.githubusercontent.com
@@ -2231,6 +2236,7 @@ productsummary-int.dps.mp.microsoft.com
 productsummary.dps.mp.microsoft.com
 productweb-int.dps.mp.microsoft.com
 productweb.dps.mp.microsoft.com
+promotion-int.dps.mp.microsoft.com
 promotion.dps.mp.microsoft.com
 restriction-int.dps.mp.microsoft.com
 submissionapi-int.dps.mp.microsoft.com
@@ -2242,6 +2248,7 @@ submissionweb.dps.mp.microsoft.com
 survey-int.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
 variant.dps.mp.microsoft.com
+watchdogs.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
 engagementservice.dse.mp.microsoft.com
 engagementweb-int.dse.mp.microsoft.com
@@ -2927,6 +2934,7 @@ readcomiconline.to
 readthedocs.org
 real-debrid.com
 recaptcha.net
+www.recaptcha.net
 recruitics.com
 recurly.com
 redcdn.pl
@@ -2937,6 +2945,8 @@ ssl.reddit.com
 www.reddit.com
 redditarchive.com
 redditmedia.com
+www.redditmedia.com
+www.redditstatic.com
 redefine.pl
 redfin.com
 www.redfin.com
@@ -2980,6 +2990,7 @@ salsalabs.com
 salsalabs.org
 samsung.com
 shop.samsung.com
+www.samsung.com
 cdn.samsungcloudsolution.com
 time.samsungcloudsolution.com
 down.sandai.net
@@ -3001,6 +3012,7 @@ schibsted.tech
 scrapinghub.com
 www.scrapinghub.com
 scribblelive.com
+www.scribblelive.com
 scribd.com
 sdad.guru
 www.sdad.guru
@@ -3288,6 +3300,7 @@ www.stripe.com
 m.stripe.network
 stripecdn.com
 surveygizmo.com
+www.surveygizmo.com
 surveymonkey.com
 secure.surveymonkey.com
 sweclockers.com
@@ -4901,6 +4914,7 @@ zippyshare.com
 ziprecruiter.com
 zlcdn.com
 zoho.com
+www.zoho.com
 zoho.eu
 zohopublic.com
 zohostatic.com
