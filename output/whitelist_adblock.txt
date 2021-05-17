@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-16Z
+! Version: 2021-05-17Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-16Z
+! Last modified: 2021-05-17Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -25,6 +25,7 @@
 @@||cdn.gigya.commes.122.2o7.net^
 @@||www.122.2o7.net^
 @@||2shared.com^
+@@||www.2shared.com^
 @@||static.3001.net^
 @@||4chan.org^
 @@||4shared.com^
@@ -312,6 +313,7 @@
 @@||androidforums.com^
 @@||www.androidforums.com^
 @@||angularjs.org^
+@@||www.angularjs.org^
 @@||www.anrdoezrs.net^
 @@||answers.com^
 @@||www.answers.com^
@@ -1056,6 +1058,7 @@
 @@||d3js.org^
 @@||admin.dable.io^
 @@||dailymotion.com^
+@@||www.dailymotion.com^
 @@||danid.dk^
 @@||www.datadoghq-browser-agent.com^
 @@||datafilehost.com^
@@ -1069,6 +1072,7 @@
 @@||static-pepper.dealabs.com^
 @@||dealer.com^
 @@||dealerinspire.com^
+@@||www.dealerinspire.com^
 @@||debian.org^
 @@||www.debian.org^
 @@||delicious.com^
@@ -1232,6 +1236,7 @@
 @@||www.ethn.io^
 @@||eventbrite.com^
 @@||everyaction.com^
+@@||www.everyaction.com^
 @@||c.evidon.com^
 @@||ew.com^
 @@||click.virt.exacttarget.com^
@@ -1321,6 +1326,7 @@
 @@||feedly.com^
 @@||fide.com^
 @@||filefactory.com^
+@@||www.filepicker.io^
 @@||filesmonster.com^
 @@||www.filesmonster.com^
 @@||fili.cc^
@@ -1373,6 +1379,7 @@
 @@||survey.forseeresults.com^
 @@||fortune.com^
 @@||fossbytes.com^
+@@||www.fossbytes.com^
 @@||fox13now.com^
 @@||fox17online.com^
 @@||fox2now.com^
@@ -1802,6 +1809,7 @@
 @@||imgchili.com^
 @@||imgfarm.com^
 @@||imgspice.com^
+@@||www.imgspice.com^
 @@||imgur.com^
 @@||i.imgur.com^
 @@||p.imgur.com^
@@ -2191,6 +2199,7 @@
 @@||devcenterapi.dce.mp.microsoft.com^
 @@||engagement-int.dce.mp.microsoft.com^
 @@||notification-int.dce.mp.microsoft.com^
+@@||pac.dce.mp.microsoft.com^
 @@||partnersegmentation-int.dce.mp.microsoft.com^
 @@||partnersegmentation.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
@@ -2242,6 +2251,7 @@
 @@||survey-int.dps.mp.microsoft.com^
 @@||survey.dps.mp.microsoft.com^
 @@||variant.dps.mp.microsoft.com^
+@@||workflowservice.dps.mp.microsoft.com^
 @@||engagementservice.dse.mp.microsoft.com^
 @@||engagementweb-int.dse.mp.microsoft.com^
 @@||engagementweb.dse.mp.microsoft.com^
@@ -3155,7 +3165,9 @@
 @@||directory.splunk.com^
 @@||events.splunk.com^
 @@||guides.splunk.com^
+@@||doc.guides.splunk.com^
 @@||playground.guides.splunk.com^
+@@||stage.guides.splunk.com^
 @@||jm0199515.splunk.com^
 @@||ldaps.splunk.com^
 @@||mint.splunk.com^

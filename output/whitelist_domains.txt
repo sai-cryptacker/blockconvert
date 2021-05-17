@@ -16,6 +16,7 @@ www.112.2o7.net
 cdn.gigya.commes.122.2o7.net
 www.122.2o7.net
 2shared.com
+www.2shared.com
 static.3001.net
 4chan.org
 4shared.com
@@ -303,6 +304,7 @@ androidauthority.com
 androidforums.com
 www.androidforums.com
 angularjs.org
+www.angularjs.org
 www.anrdoezrs.net
 answers.com
 www.answers.com
@@ -1047,6 +1049,7 @@ cybercrime-tracker.net
 d3js.org
 admin.dable.io
 dailymotion.com
+www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
@@ -1060,6 +1063,7 @@ check.ddos-guard.net
 static-pepper.dealabs.com
 dealer.com
 dealerinspire.com
+www.dealerinspire.com
 debian.org
 www.debian.org
 delicious.com
@@ -1223,6 +1227,7 @@ ethn.io
 www.ethn.io
 eventbrite.com
 everyaction.com
+www.everyaction.com
 c.evidon.com
 ew.com
 click.virt.exacttarget.com
@@ -1312,6 +1317,7 @@ feeds2.feedburner.com
 feedly.com
 fide.com
 filefactory.com
+www.filepicker.io
 filesmonster.com
 www.filesmonster.com
 fili.cc
@@ -1364,6 +1370,7 @@ formstack.com
 survey.forseeresults.com
 fortune.com
 fossbytes.com
+www.fossbytes.com
 fox13now.com
 fox17online.com
 fox2now.com
@@ -1793,6 +1800,7 @@ thumbs2.imgbox.com
 imgchili.com
 imgfarm.com
 imgspice.com
+www.imgspice.com
 imgur.com
 i.imgur.com
 p.imgur.com
@@ -2182,6 +2190,7 @@ contentservice.dce.mp.microsoft.com
 devcenterapi.dce.mp.microsoft.com
 engagement-int.dce.mp.microsoft.com
 notification-int.dce.mp.microsoft.com
+pac.dce.mp.microsoft.com
 partnersegmentation-int.dce.mp.microsoft.com
 partnersegmentation.dce.mp.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -2233,6 +2242,7 @@ submissionweb.dps.mp.microsoft.com
 survey-int.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
 variant.dps.mp.microsoft.com
+workflowservice.dps.mp.microsoft.com
 engagementservice.dse.mp.microsoft.com
 engagementweb-int.dse.mp.microsoft.com
 engagementweb.dse.mp.microsoft.com
@@ -3146,7 +3156,9 @@ conf.splunk.com
 directory.splunk.com
 events.splunk.com
 guides.splunk.com
+doc.guides.splunk.com
 playground.guides.splunk.com
+stage.guides.splunk.com
 jm0199515.splunk.com
 ldaps.splunk.com
 mint.splunk.com
