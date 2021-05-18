@@ -65,6 +65,7 @@ www.ad.nl
 ada.support
 cricket.att.ada.support
 static.ada.support
+cdn-dev.adafruit.com
 adapools.org
 adaway.org
 adblock.dk
@@ -253,6 +254,7 @@ adash.man.aliyuncs.com
 allegro.pl
 allure.com
 ally.com
+www.ally.com
 alternativeto.net
 adiu.amap.com
 abroad.apilocate.amap.com
@@ -676,6 +678,7 @@ maponline1.bdimg.com
 maponline2.bdimg.com
 maponline3.bdimg.com
 bedbathandbeyond.com
+www.bedbathandbeyond.com
 behance.net
 berush.com
 www.berush.com
@@ -1149,6 +1152,7 @@ www.duckdns.org
 duckduckgo.com
 dumpert.nl
 duosecurity.com
+www.duosecurity.com
 proto2ad.durasite.net
 cdn-eu.dynamicyield.com
 cdn.dynamicyield.com
@@ -1453,6 +1457,7 @@ getpocket.com
 auth.gfx.ms
 gfycat.com
 giant.gfycat.com
+www.gfycat.com
 geo3.ggpht.com
 nt3.ggpht.com
 yt3.ggpht.com
@@ -1721,6 +1726,7 @@ hm.com
 hollywoodlife.com
 www.hollywoodlife.com
 homedepot.com
+www.homedepot.com
 homestead.com
 cdn.hometogo.net
 cdn2.hometogo.net
@@ -1753,6 +1759,7 @@ cdn2.hubspot.net
 guce.huffpost.com
 hulkshare.com
 hulu.com
+www.hulu.com
 humblebundle.com
 hwcdn.net
 cds.d2s7q6s2.hwcdn.net
@@ -1954,6 +1961,7 @@ kotaku.com
 blocklist.kowabit.de
 omsc.kpn.com
 kroger.com
+www.kroger.com
 shuc-android.ksord.com
 dw-online.ksosoft.com
 ku6.com
@@ -2225,6 +2233,7 @@ composerapi-int.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
+flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
 listingsweb-int.dps.mp.microsoft.com
@@ -2447,6 +2456,7 @@ hblock.molinero.dev
 monero.org
 verify.monzo.com
 movable-ink-397.com
+www.movable-ink-397.com
 location.services.mozilla.com
 push.services.mozilla.com
 updates.push.services.mozilla.com
@@ -2593,6 +2603,7 @@ static.wikia.nocookie.net
 vignette.wikia.nocookie.net
 noexit.tv
 nola.com
+www.nola.com
 nordichardware.se
 www.nordichardware.se
 nordvpn.com
@@ -3066,6 +3077,7 @@ siteimprove.com
 www.siteimprove.com
 shield.sitelock.com
 sketchfab.com
+www.sketchfab.com
 api-merchants.skimlinks.com
 authentication-api.skimlinks.com
 skimresources.com
@@ -3167,11 +3179,13 @@ cloud.splunk.com
 conf.splunk.com
 directory.splunk.com
 events.splunk.com
+gp-dev.splunk.com
 guides.splunk.com
 doc.guides.splunk.com
 playground.guides.splunk.com
 stage.guides.splunk.com
 jm0199515.splunk.com
+lantern.splunk.com
 ldaps.splunk.com
 mint.splunk.com
 o11yquest.splunk.com
@@ -3189,6 +3203,7 @@ forwarders.playground.scp.splunk.com
 pulsar-app-play1.playground.scp.splunk.com
 px.playground.scp.splunk.com
 staging.scp.splunk.com
+admin.staging.scp.splunk.com
 forwarders.staging.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
 status.scp.splunk.com
@@ -3202,6 +3217,8 @@ auth.scs.splunk.com
 region-dub10.auth.scs.splunk.com
 region-iad10.auth.scs.splunk.com
 missioncontrol.scs.splunk.com
+admin-rainier.playground.scs.splunk.com
+scs002-kim10.admin-rainier.playground.scs.splunk.com
 admin.playground.scs.splunk.com
 scs001-iad10.admin.playground.scs.splunk.com
 scs002-iad10.admin.playground.scs.splunk.com
@@ -3228,6 +3245,9 @@ staging.splunk.com
 splunkbase.staging.splunk.com
 status.splunk.com
 gslink.victorops.splunk.com
+gp-dev.vpn.splunk.com
+linuxdev-gw1.vpn.splunk.com
+linuxdev-gw2.vpn.splunk.com
 www.splunk.com
 post.spmailtechnol.com
 sport.pl
@@ -3405,6 +3425,7 @@ tmblr.co
 tmz.com
 www.tmz.com
 tomshardware.com
+www.tomshardware.com
 it.toolbox.com
 toptenreviews.com
 torbit.com
