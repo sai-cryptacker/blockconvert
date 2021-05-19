@@ -305,6 +305,7 @@ ancestry.com
 www.ancestry.com
 connectivitycheck.android.com
 androidauthority.com
+www.androidauthority.com
 androidforums.com
 www.androidforums.com
 angularjs.org
@@ -938,6 +939,7 @@ moonbit.co.in
 www.moonbit.co.in
 cloudmail17.netcore.co.in
 amazon.co.jp
+www.amazon.co.jp
 hb.afl.rakuten.co.jp
 pt.afl.rakuten.co.jp
 grp07.ias.rakuten.co.jp
@@ -1383,12 +1385,16 @@ fox13now.com
 fox17online.com
 fox2now.com
 fox40.com
+www.fox40.com
 fox43.com
 fox4kc.com
+www.fox4kc.com
 fox59.com
+www.fox59.com
 fox5sandiego.com
 fox6now.com
 fox8.com
+www.fox8.com
 framasoft.org
 frankerfacez.com
 www.frankerfacez.com
@@ -1894,6 +1900,7 @@ wl.jd.com
 www.jdoqocy.com
 jdownloader.org
 board.jdownloader.org
+www.jdownloader.org
 demo-staging.jifflenow.com
 online.jimmyjohns.com
 joblo.com
@@ -2056,12 +2063,17 @@ mx.logentries.com
 mx00-ap-northeast-1.logentries.com
 mx00-ap-southeast-2.logentries.com
 mx00-ca-central-1.logentries.com
+mx00-us-west-2.logentries.com
 mx00.logentries.com
 mx01-ap-northeast-1.logentries.com
+mx01-ap-southeast-2.logentries.com
+mx01-ca-central-1.logentries.com
+mx01-us-east-2.logentries.com
 mx01-us-west-2.logentries.com
 mx01.logentries.com
 mx02.logentries.com
 mx03.logentries.com
+nx.logentries.com
 partners.logentries.com
 platform.logentries.com
 pull.logentries.com
@@ -2266,10 +2278,12 @@ ingestiondeveloperapi-int.dse.mp.microsoft.com
 notificationservice.dse.mp.microsoft.com
 api-tip.dcat.dsp.mp.microsoft.com
 catalogservice-prod.dcat.dsp.mp.microsoft.com
+cmd-int.dcat.dsp.mp.microsoft.com
 cmd-tip.dcat.dsp.mp.microsoft.com
 extorigin-dev.dcat.dsp.mp.microsoft.com
 extorigin-int.dcat.dsp.mp.microsoft.com
 extorigin-tip.dcat.dsp.mp.microsoft.com
+phx.sfs-int.dcat.dsp.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
 phx.sfs-tip.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -2353,6 +2367,7 @@ tops-int.mp.microsoft.com
 tops.mp.microsoft.com
 track-int.mp.microsoft.com
 track.mp.microsoft.com
+ustrl-int.mp.microsoft.com
 wishlist-dev.mp.microsoft.com
 wishlist-int.mp.microsoft.com
 wishlist.mp.microsoft.com
@@ -2403,6 +2418,7 @@ update.microsoft.com
 catalog.update.microsoft.com
 fe1.update.microsoft.com
 fe2.update.microsoft.com
+pending.sls-int.update.microsoft.com
 pending.sls-tip.update.microsoft.com
 sls.update.microsoft.com
 pending.sls.update.microsoft.com
@@ -3163,6 +3179,7 @@ spiceworks.com
 community.spiceworks.com
 spiegel-de.spiegel.de
 2020plus.splunk.com
+admin.splunk.com
 amp.splunk.com
 api.splunk.com
 appinspect.splunk.com
@@ -3234,6 +3251,7 @@ admin.staging.scs.splunk.com
 scs004-dub10.admin.staging.scs.splunk.com
 api.staging.scs.splunk.com
 region-dub10.api.staging.scs.splunk.com
+app.staging.scs.splunk.com
 auth.staging.scs.splunk.com
 region-dub10.auth.staging.scs.splunk.com
 services.splunk.com
@@ -3428,6 +3446,7 @@ tomshardware.com
 www.tomshardware.com
 it.toolbox.com
 toptenreviews.com
+www.toptenreviews.com
 torbit.com
 torrentfreak.com
 townnews.com
@@ -4730,6 +4749,7 @@ fast.wistia.net
 wix.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
+www.wix.com
 balancer.wixdns.net
 www17.wixdns.net
 static.wixstatic.com
