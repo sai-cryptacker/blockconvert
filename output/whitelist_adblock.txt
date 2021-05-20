@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-19Z
+! Version: 2021-05-20Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-19Z
+! Last modified: 2021-05-20Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -975,6 +975,7 @@
 @@||www.theregister.co.uk^
 @@||codeberg.org^
 @@||codecanyon.net^
+@@||www.codecanyon.net^
 @@||codepen.io^
 @@||codesandbox.io^
 @@||cdn.cohesionapps.com^
@@ -1239,6 +1240,7 @@
 @@||tracking.epicgames.com^
 @@||epoch.com^
 @@||epoq.de^
+@@||www.epoq.de^
 @@||espn.com^
 @@||a.espncdn.com^
 @@||et4.de^
@@ -1729,6 +1731,7 @@
 @@||heise.de^
 @@||www.heise.de^
 @@||helium.com^
+@@||www.helium.com^
 @@||version.hybrid.api.here.com^
 @@||herokuapp.com^
 @@||us-east-1-a.route.herokuapp.com^
@@ -1955,6 +1958,7 @@
 @@||www.kcsoftwares.com^
 @@||advert.kf5.com^
 @@||kickapps.com^
+@@||www.kickapps.com^
 @@||kickstarter.com^
 @@||static.kickstarter.com^
 @@||kidsfootlocker.com^
@@ -1969,6 +1973,7 @@
 @@||kmart.com^
 @@||knowyourmeme.com^
 @@||kohls.com^
+@@||www.kohls.com^
 @@||komputerswiat.pl^
 @@||www.komputerswiat.pl^
 @@||kopimi.com^
@@ -2259,6 +2264,7 @@
 @@||ingestionapi-dev.dps.mp.microsoft.com^
 @@||listingsweb-int.dps.mp.microsoft.com^
 @@||packagesapi-int.dps.mp.microsoft.com^
+@@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||packagesapi.dps.mp.microsoft.com^
 @@||payoutorderstatus.dps.mp.microsoft.com^
 @@||product.dps.mp.microsoft.com^
@@ -2464,6 +2470,7 @@
 @@||update.miui.com^
 @@||api.vip.miui.com^
 @@||miui.net^
+@@||www.miui.net^
 @@||mixcloud.com^
 @@||mixnews.lv^
 @@||sj14.mktossl.com^
@@ -2613,6 +2620,7 @@
 @@||ngpvan.com^
 @@||nhl.com^
 @@||nike.com^
+@@||www.nike.com^
 @@||ning.com^
 @@||nitroflare.com^
 @@||nj.com^
@@ -2719,6 +2727,7 @@
 @@||op-cdn.net^
 @@||open.fm^
 @@||openbsd.org^
+@@||www.openbsd.org^
 @@||tile.opencyclemap.org^
 @@||tile2.opencyclemap.org^
 @@||opendesktop.org^
@@ -4972,4 +4981,5 @@
 @@||dashboard.zopim.com^
 @@||jp06.zopim.com^
 @@||widget-mediator.zopim.com^
+@@||www.zopim.com^
 @@||zoso.ro^
