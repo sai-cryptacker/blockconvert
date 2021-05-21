@@ -834,8 +834,10 @@ www.civicscience.com
 db.local.clamav.net
 cleanprint.net
 cleveland.com
+www.cleveland.com
 elinkeu.clickdimensions.com
 clickondetroit.com
+www.clickondetroit.com
 location-inference-westus.cloudapp.net
 skypeecs-prod-usw-0-b.cloudapp.net
 cloudflare-dns.com
@@ -2053,6 +2055,7 @@ livejournal.com
 www.livejournal.com
 livestream.com
 load.to
+www.load.to
 api.loganalytics.io
 logentries.com
 api.logentries.com
@@ -2136,6 +2139,7 @@ marketwatch.com
 s.marketwatch.com
 mashable.com
 masslive.com
+www.masslive.com
 mathjax.org
 matterport.com
 my.matterport.com
@@ -2235,6 +2239,7 @@ digitalattach.mp.microsoft.com
 displaycatalog-int.mp.microsoft.com
 wus2.displaycatalog-int.mp.microsoft.com
 displaycatalog.mp.microsoft.com
+aircapi.displaycatalog.mp.microsoft.com
 commercial.displaycatalog.mp.microsoft.com
 displaycatalog1p.mp.microsoft.com
 appxapi-int.dps.mp.microsoft.com
@@ -2467,6 +2472,7 @@ mixnews.lv
 sj14.mktossl.com
 mlb.com
 mlive.com
+www.mlive.com
 mls.com
 gm.gds.mmstat.com
 gm.mmstat.com
@@ -2604,6 +2610,7 @@ nextcloud.com
 oneline.nextday.media
 nextopiasoftware.com
 nfl.com
+www.nfl.com
 nflxext.com
 assets.nflxext.com
 cdn3.nflxext.com
@@ -2617,6 +2624,7 @@ nitroflare.com
 nj.com
 businessfinder.nj.com
 realestate.nj.com
+www.nj.com
 nk.pl
 nmcdn.us
 www.nmcdn.us
@@ -2681,6 +2689,7 @@ www.officedepot.com
 ojrq.net
 www.ojrq.net
 okta.com
+www.okta.com
 olark.com
 www.olark.com
 old-games.org
@@ -2747,6 +2756,7 @@ orange.fr
 webmail.orange.fr
 orbitz.com
 oregonlive.com
+www.oregonlive.com
 s7.orientaltrading.com
 fr.osdn.net
 osnews.com
@@ -2797,6 +2807,7 @@ media.pearsoncmg.com
 survey.pearsoncmg.com
 intersport.peerius.com
 pennlive.com
+www.pennlive.com
 assets.penny-arcade.com
 people.com
 performgroup.com
@@ -2901,6 +2912,7 @@ image.prntscr.com
 promodj.com
 proofpoint.com
 urldefense.proofpoint.com
+www.proofpoint.com
 protonmail.com
 providesupport.com
 www.providesupport.com
@@ -3123,6 +3135,7 @@ campaign.consumer.entitlement.skype.com
 secure.consumer.entitlement.skype.com
 sfbus.entitlement.skype.com
 go.skype.com
+s2s.recommend.infra.skype.com
 latest-join.skype.com
 login.skype.com
 meet.skype.com
@@ -3136,6 +3149,7 @@ pipe.portal.skype.com
 presence.skype.com
 api.promotions.skype.com
 bo.promotions.skype.com
+recommend.skype.com
 trap.skype.com
 wsapi.skype.com
 slack-redir.net
@@ -3228,6 +3242,7 @@ auth.playground.scp.splunk.com
 forwarders.playground.scp.splunk.com
 pulsar-app-play1.playground.scp.splunk.com
 px.playground.scp.splunk.com
+pulsar-app-prod1.scp.splunk.com
 staging.scp.splunk.com
 admin.staging.scp.splunk.com
 forwarders.staging.scp.splunk.com
@@ -3461,6 +3476,7 @@ torrentfreak.com
 townnews.com
 www.townnews.com
 toysrus.com
+www.toysrus.com
 cookieblock.trackersimulate.org
 redir.tradedoubler.com
 cname.tradepub.com
@@ -4592,6 +4608,7 @@ www.wangbase.com
 washingtonpost.com
 wbd.ms
 weather.com
+www.weather.com
 weather.gov
 weatherbug.com
 weathernationtv.com
