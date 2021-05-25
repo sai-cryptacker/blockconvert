@@ -73,6 +73,7 @@ road.adblock.ro
 easylist-downloads.adblockplus.org
 adcolo.com
 add0n.com
+www.add0n.com
 adguard.com
 adidas.com
 www.adidas.com
@@ -1054,7 +1055,6 @@ cybercrime-tracker.net
 d3js.org
 admin.dable.io
 dailymotion.com
-www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
@@ -1321,7 +1321,6 @@ feeds2.feedburner.com
 feedly.com
 fide.com
 filefactory.com
-www.filepicker.io
 filesmonster.com
 fili.cc
 www.fili.cc
@@ -1779,7 +1778,6 @@ archive.icann.org
 icbdr.com
 icloud.com
 idg.se
-www.idg.se
 mpsnare.iesnare.com
 ifmo.ru
 confib.ifmo.ru
@@ -1794,7 +1792,6 @@ www.ikea.com
 forums.ilounge.com
 imagebam.com
 imagecorn.com
-www.imagecorn.com
 ecx.images-amazon.com
 z-ecx.images-amazon.com
 imageshack.com
@@ -2204,6 +2201,7 @@ accountmgmtservice-int.dce.mp.microsoft.com
 accountmgmtservice.dce.mp.microsoft.com
 accountuserservice-int.dce.mp.microsoft.com
 contentservice.dce.mp.microsoft.com
+devcenterapi.dce.mp.microsoft.com
 engagement-int.dce.mp.microsoft.com
 notification-int.dce.mp.microsoft.com
 pac.dce.mp.microsoft.com
@@ -2224,20 +2222,19 @@ attestation.dps.mp.microsoft.com
 availability.dps.mp.microsoft.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
 burst.dps.mp.microsoft.com
-ciso-int.dps.mp.microsoft.com
 composerapi-int.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
-filesapi.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
+ingestionapi.dps.mp.microsoft.com
 listingsweb-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
-payoutorderstatus.dps.mp.microsoft.com
 promotion-int.dps.mp.microsoft.com
 promotion.dps.mp.microsoft.com
 restriction-int.dps.mp.microsoft.com
+schemaapi.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
 watchdogs.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
@@ -2245,6 +2242,7 @@ engagementservice.dse.mp.microsoft.com
 engagementweb-int.dse.mp.microsoft.com
 engagementweb.dse.mp.microsoft.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
+ingestiondeveloperapi.dse.mp.microsoft.com
 notificationservice.dse.mp.microsoft.com
 api-tip.dcat.dsp.mp.microsoft.com
 catalogservice-prod.dcat.dsp.mp.microsoft.com
@@ -2259,7 +2257,6 @@ phx.sfs-tip.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-ebs.mp.microsoft.com
 editcat.mp.microsoft.com
 entitlements-int.mp.microsoft.com
 entitlements.mp.microsoft.com
@@ -2270,7 +2267,6 @@ entitlementsfederationinternal.mp.microsoft.com
 entitlementsinternal.mp.microsoft.com
 entitlementssubscriptionnotifications-int.mp.microsoft.com
 entitlementssubscriptionnotifications.mp.microsoft.com
-fees.mp.microsoft.com
 firstparty-collections-int.mp.microsoft.com
 firstparty-collections.mp.microsoft.com
 firstparty-entitlements-int.mp.microsoft.com
@@ -2317,7 +2313,6 @@ wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com
 stagingretrieval-dcatbackend.mp.microsoft.com
 tops.mp.microsoft.com
 ustrl-int.mp.microsoft.com
-wishlist.mp.microsoft.com
 xbox-collections-int.mp.microsoft.com
 xbox-collections.mp.microsoft.com
 xbox-displaycatalog.mp.microsoft.com
@@ -2341,8 +2336,6 @@ ars.smartscreen.microsoft.com
 bf.smartscreen.microsoft.com
 t.bf.smartscreen.microsoft.com
 cp.smartscreen.microsoft.com
-gradingservice.smartscreen.microsoft.com
-tz.gradingservice.smartscreen.microsoft.com
 nav.smartscreen.microsoft.com
 data.nav.smartscreen.microsoft.com
 ping.nav.smartscreen.microsoft.com
@@ -2605,6 +2598,7 @@ c.o0bg.com
 oboom.com
 www.oboom.com
 observer.com
+www.observer.com
 ocdn.eu
 ocsn.com
 yandex.ocsp-responder.com
@@ -2642,6 +2636,7 @@ www.onesignal.com
 onet.pl
 sport.onet.pl
 onetrust.com
+www.onetrust.com
 onion.to
 h-ebay.online-metrix.net
 h-sdk.online-metrix.net
@@ -2826,6 +2821,7 @@ hubt.pornhub.com
 www.pornhub.com
 postimage.org
 postimg.cc
+www.postimg.cc
 powerreviews.com
 powr.io
 www.powr.io
@@ -3156,7 +3152,6 @@ stage.guides.splunk.com
 lantern.splunk.com
 ldaps.splunk.com
 mint.splunk.com
-o11yquest.splunk.com
 response.splunk.com
 scp.splunk.com
 admin.scp.splunk.com
@@ -3167,7 +3162,6 @@ playground.scp.splunk.com
 admin.playground.scp.splunk.com
 legacy.admin.playground.scp.splunk.com
 forwarders.playground.scp.splunk.com
-pulsar-app-play1.playground.scp.splunk.com
 pulsar-app-prod1.scp.splunk.com
 staging.scp.splunk.com
 admin.staging.scp.splunk.com
@@ -3201,12 +3195,10 @@ services.splunk.com
 splunkbase.splunk.com
 dev.splunkbase.splunk.com
 stage.splunkbase.splunk.com
-splunkbase-cloudfront.stage.splunkbase.splunk.com
 status.splunk.com
 gp-dev.vpn.splunk.com
 linuxdev-gw1.vpn.splunk.com
 linuxdev-gw2.vpn.splunk.com
-www.splunk.com
 post.spmailtechnol.com
 sport.pl
 spot.im
@@ -3365,7 +3357,6 @@ static.tidiochat.com
 tiktok.com
 www.tiktok.com
 time.com
-www.time.com
 timeinc.net
 etl.tindersparks.com
 tinypass.com
@@ -4676,6 +4667,7 @@ au.v4.download.windowsupdate.com
 fg.v4.download.windowsupdate.com
 windy.com
 winfuture.de
+www.winfuture.de
 wired.com
 www.wired.com
 wirtualnemedia.pl
