@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-25Z
+! Version: 2021-05-27Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-25Z
+! Last modified: 2021-05-27Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1061,6 +1061,7 @@
 @@||cvs.com^
 @@||www.cvs.com^
 @@||cybercrime-tracker.net^
+@@||www.cybercrime-tracker.net^
 @@||d3js.org^
 @@||admin.dable.io^
 @@||dailymotion.com^
@@ -1330,6 +1331,7 @@
 @@||feedly.com^
 @@||fide.com^
 @@||filefactory.com^
+@@||www.filepicker.io^
 @@||filesmonster.com^
 @@||fili.cc^
 @@||www.fili.cc^
@@ -1740,6 +1742,7 @@
 @@||hoopshype.com^
 @@||hootsuite.com^
 @@||horseanswerstoday.com^
+@@||www.horseanswerstoday.com^
 @@||hosts-file.net^
 @@||hotmail.com^
 @@||m.hotmail.com^
@@ -1892,6 +1895,7 @@
 @@||www.jaleco.com^
 @@||www.janrain.com^
 @@||jarv.is^
+@@||www.jarv.is^
 @@||jcpenney.com^
 @@||gia.jd.com^
 @@||wl.jd.com^
@@ -2245,6 +2249,7 @@
 @@||restriction-int.dps.mp.microsoft.com^
 @@||schemaapi.dps.mp.microsoft.com^
 @@||survey.dps.mp.microsoft.com^
+@@||watchdogs-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice.dps.mp.microsoft.com^
 @@||engagementservice.dse.mp.microsoft.com^
@@ -2267,6 +2272,8 @@
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
 @@||editcat.mp.microsoft.com^
+@@||entitlementfulfillment-int.mp.microsoft.com^
+@@||entitlementfulfillment.mp.microsoft.com^
 @@||entitlements-int.mp.microsoft.com^
 @@||entitlements.mp.microsoft.com^
 @@||entitlementsfederation-int.mp.microsoft.com^
@@ -2294,6 +2301,8 @@
 @@||licensingwindows.mp.microsoft.com^
 @@||collections.md.mp.microsoft.com^
 @@||displaycatalog.md.mp.microsoft.com^
+@@||entitlementfulfillment-int.md.mp.microsoft.com^
+@@||entitlementfulfillment.md.mp.microsoft.com^
 @@||inventory.md.mp.microsoft.com^
 @@||licensing-entitlements-int.md.mp.microsoft.com^
 @@||licensing-entitlements.md.mp.microsoft.com^
@@ -2320,6 +2329,7 @@
 @@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||stagingretrieval-dcatbackend.mp.microsoft.com^
+@@||storage.mp.microsoft.com^
 @@||tops.mp.microsoft.com^
 @@||ustrl-int.mp.microsoft.com^
 @@||xbox-collections-int.mp.microsoft.com^
@@ -2554,6 +2564,7 @@
 @@||nflximg.com^
 @@||ngpvan.com^
 @@||nhl.com^
+@@||www.nhl.com^
 @@||nike.com^
 @@||www.nike.com^
 @@||ning.com^
@@ -2689,6 +2700,7 @@
 @@||cdn3.optimizely.com^
 @@||www.optimizely.com^
 @@||oracle.com^
+@@||www.oracle.com^
 @@||orange.fr^
 @@||webmail.orange.fr^
 @@||orbitz.com^
@@ -2860,6 +2872,7 @@
 @@||publicsuffix.org^
 @@||publiekeomroep.nl^
 @@||publix.com^
+@@||www.publix.com^
 @@||img.purch.com^
 @@||api.pushbullet.com^
 @@||widget.pushbullet.com^
@@ -2921,7 +2934,6 @@
 @@||readthedocs.org^
 @@||real-debrid.com^
 @@||recaptcha.net^
-@@||www.recaptcha.net^
 @@||recruitics.com^
 @@||recurly.com^
 @@||redcdn.pl^
@@ -2932,7 +2944,6 @@
 @@||www.reddit.com^
 @@||redditarchive.com^
 @@||redditmedia.com^
-@@||www.redditmedia.com^
 @@||www.redditstatic.com^
 @@||redefine.pl^
 @@||redfin.com^
@@ -3101,6 +3112,7 @@
 @@||www.smallseotools.com^
 @@||smugmug.com^
 @@||snapchat.com^
+@@||www.snapchat.com^
 @@||snapengage.com^
 @@||www.snapengage.com^
 @@||sndcdn.com^
@@ -3151,6 +3163,7 @@
 @@||cloud.splunk.com^
 @@||conf.splunk.com^
 @@||directory.splunk.com^
+@@||embargo.splunk.com^
 @@||events.splunk.com^
 @@||ldap.glb.splunk.com^
 @@||gp-dev.splunk.com^
@@ -3174,6 +3187,8 @@
 @@||pulsar-app-prod1.scp.splunk.com^
 @@||staging.scp.splunk.com^
 @@||admin.staging.scp.splunk.com^
+@@||api.staging.scp.splunk.com^
+@@||auth.staging.scp.splunk.com^
 @@||forwarders.staging.scp.splunk.com^
 @@||pulsar-app-stage1.staging.scp.splunk.com^
 @@||admin.scs.splunk.com^
@@ -3206,6 +3221,7 @@
 @@||stage.splunkbase.splunk.com^
 @@||status.splunk.com^
 @@||gp-dev.vpn.splunk.com^
+@@||gp-linux.vpn.splunk.com^
 @@||linuxdev-gw1.vpn.splunk.com^
 @@||linuxdev-gw2.vpn.splunk.com^
 @@||post.spmailtechnol.com^
@@ -3412,6 +3428,7 @@
 @@||web.tresorit.com^
 @@||go.trouter.io^
 @@||trumba.com^
+@@||www.trumba.com^
 @@||trustarc.com^
 @@||privacy-policy.truste.com^
 @@||trustkeeper.net^
