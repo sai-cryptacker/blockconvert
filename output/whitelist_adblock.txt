@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-27Z
+! Version: 2021-05-28Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-27Z
+! Last modified: 2021-05-28Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -379,6 +379,7 @@
 @@||secure5.arcot.com^
 @@||arcpublishing.com^
 @@||arizona.edu^
+@@||www.arizona.edu^
 @@||arkoselabs.com^
 @@||www.arkoselabs.com^
 @@||arstechnica.com^
@@ -1086,6 +1087,7 @@
 @@||check.ddos-guard.net^
 @@||static-pepper.dealabs.com^
 @@||dealer.com^
+@@||www.dealer.com^
 @@||dealerinspire.com^
 @@||www.dealerinspire.com^
 @@||debian.org^
@@ -1250,6 +1252,7 @@
 @@||espn.com^
 @@||a.espncdn.com^
 @@||et4.de^
+@@||www.et4.de^
 @@||ethn.io^
 @@||www.ethn.io^
 @@||eventbrite.com^
@@ -2031,6 +2034,7 @@
 @@||linkedin.com^
 @@||www.linkedin.com^
 @@||linktr.ee^
+@@||www.linktr.ee^
 @@||linkwithin.com^
 @@||www.linkwithin.com^
 @@||forums.linuxmint.com^
@@ -3071,6 +3075,7 @@
 @@||shoprunner.com^
 @@||siatka.org^
 @@||sidearmsports.com^
+@@||www.sidearmsports.com^
 @@||api3.siftscience.com^
 @@||cdn.siftscience.com^
 @@||cs.silverpop.com^
@@ -3210,6 +3215,7 @@
 @@||scs002-sea10.admin.playground.scp.splunk.com^
 @@||app-admin.playground.scp.splunk.com^
 @@||forwarders.playground.scp.splunk.com^
+@@||px-search.playground.scp.splunk.com^
 @@||pulsar-app-prod1.scp.splunk.com^
 @@||staging.scp.splunk.com^
 @@||admin.staging.scp.splunk.com^

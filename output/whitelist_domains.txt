@@ -370,6 +370,7 @@ arcot.com
 secure5.arcot.com
 arcpublishing.com
 arizona.edu
+www.arizona.edu
 arkoselabs.com
 www.arkoselabs.com
 arstechnica.com
@@ -1077,6 +1078,7 @@ download.db-ip.com
 check.ddos-guard.net
 static-pepper.dealabs.com
 dealer.com
+www.dealer.com
 dealerinspire.com
 www.dealerinspire.com
 debian.org
@@ -1241,6 +1243,7 @@ www.epoq.de
 espn.com
 a.espncdn.com
 et4.de
+www.et4.de
 ethn.io
 www.ethn.io
 eventbrite.com
@@ -2022,6 +2025,7 @@ lihi.cc
 linkedin.com
 www.linkedin.com
 linktr.ee
+www.linktr.ee
 linkwithin.com
 www.linkwithin.com
 forums.linuxmint.com
@@ -3062,6 +3066,7 @@ shopping.com
 shoprunner.com
 siatka.org
 sidearmsports.com
+www.sidearmsports.com
 api3.siftscience.com
 cdn.siftscience.com
 cs.silverpop.com
@@ -3201,6 +3206,7 @@ legacy.admin.playground.scp.splunk.com
 scs002-sea10.admin.playground.scp.splunk.com
 app-admin.playground.scp.splunk.com
 forwarders.playground.scp.splunk.com
+px-search.playground.scp.splunk.com
 pulsar-app-prod1.scp.splunk.com
 staging.scp.splunk.com
 admin.staging.scp.splunk.com
