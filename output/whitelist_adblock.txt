@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-05-28Z
+! Version: 2021-05-30Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-05-28Z
+! Last modified: 2021-05-30Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -745,6 +745,7 @@
 @@||bizrate.com^
 @@||bleacherreport.com^
 @@||blockstack.org^
+@@||www.blockstack.org^
 @@||blogblog.com^
 @@||img1.blogblog.com^
 @@||blogger.com^
@@ -1126,6 +1127,7 @@
 @@||discovermagazine.com^
 @@||blogs.discovermagazine.com^
 @@||discovery.com^
+@@||www.discovery.com^
 @@||disq.us^
 @@||disqus.com^
 @@||referrer.disqus.com^
@@ -1438,6 +1440,7 @@
 @@||www.fwmrm.net^
 @@||fyre.co^
 @@||g.co^
+@@||btcpay.gab.com^
 @@||gadgetsnow.com^
 @@||shop.gadgetsnow.com^
 @@||www.gadgetsnow.com^
@@ -2224,6 +2227,7 @@
 @@||bsxcommerce-int.mp.microsoft.com^
 @@||bsxcommerce.mp.microsoft.com^
 @@||collections-int.mp.microsoft.com^
+@@||collections.mp.microsoft.com^
 @@||accountmgmtservice-df.dce.mp.microsoft.com^
 @@||accountmgmtservice-int.dce.mp.microsoft.com^
 @@||accountmgmtservice.dce.mp.microsoft.com^
@@ -2265,6 +2269,7 @@
 @@||ingestionapi.dps.mp.microsoft.com^
 @@||listingsweb-int.dps.mp.microsoft.com^
 @@||packagesapi-intppe.dps.mp.microsoft.com^
+@@||product-int.dps.mp.microsoft.com^
 @@||promotion-int.dps.mp.microsoft.com^
 @@||promotion.dps.mp.microsoft.com^
 @@||restriction-int.dps.mp.microsoft.com^
@@ -2399,6 +2404,7 @@
 @@||to-do.microsoft.com^
 @@||update.microsoft.com^
 @@||catalog.update.microsoft.com^
+@@||www.catalog.update.microsoft.com^
 @@||fe1.update.microsoft.com^
 @@||fe2.update.microsoft.com^
 @@||pending.sls-int.update.microsoft.com^
@@ -2419,6 +2425,7 @@
 @@||login.microsoftonline.com^
 @@||login.microsoftonline.us^
 @@||microsofttranslator.com^
+@@||log-upload-os.mihoyo.com^
 @@||mine.nu^
 @@||hostsfile.mine.nu^
 @@||help.mint.com^
@@ -3111,6 +3118,7 @@
 @@||campaign.consumer.entitlement.skype.com^
 @@||secure.consumer.entitlement.skype.com^
 @@||sfbus.entitlement.skype.com^
+@@||fpt.skype.com^
 @@||go.skype.com^
 @@||s2s.recommend.infra.skype.com^
 @@||latest-join.skype.com^
@@ -3145,6 +3153,7 @@
 @@||www.snapengage.com^
 @@||sndcdn.com^
 @@||snipcart.com^
+@@||www.snipcart.com^
 @@||dsp.brand.sogou.com^
 @@||config.pinyin.sogou.com^
 @@||img.shouji.sogou.com^
@@ -3200,6 +3209,7 @@
 @@||doc.guides.splunk.com^
 @@||playground.guides.splunk.com^
 @@||stage.guides.splunk.com^
+@@||jm0199515.splunk.com^
 @@||lantern.splunk.com^
 @@||ldaps.splunk.com^
 @@||mint.splunk.com^
@@ -3400,6 +3410,7 @@
 @@||thechive.com^
 @@||theepochtimes.com^
 @@||thefreethoughtproject.com^
+@@||www.thefreethoughtproject.com^
 @@||thehill.com^
 @@||thenextweb.com^
 @@||theoldnet.com^
@@ -3459,6 +3470,7 @@
 @@||travelocity.com^
 @@||trb.com^
 @@||trbimg.com^
+@@||www.trbimg.com^
 @@||c.trello.com^
 @@||osce11-0-en.url.trendmicro.com^
 @@||web.tresorit.com^
