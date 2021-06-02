@@ -1940,6 +1940,7 @@ www.kampyle.com
 img2.user.kanimg.com
 kaspersky.com
 kasperskycontenthub.com
+www.kasperskycontenthub.com
 kataweb.it
 ad.kazakinfo.com
 kcsoftwares.com
@@ -2160,6 +2161,7 @@ medium.com
 miro.medium.com
 mega.nz
 megaphone.fm
+www.megaphone.fm
 menshealth.com
 merriam-webster.com
 mesh.com
@@ -2249,6 +2251,7 @@ engagementservice.dse.mp.microsoft.com
 engagementweb-int.dse.mp.microsoft.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestiondeveloperapi.dse.mp.microsoft.com
+pac-int.dse.mp.microsoft.com
 api-tip.dcat.dsp.mp.microsoft.com
 glb.approvals-dev.dcat.dsp.mp.microsoft.com
 glb.approvals-int.dcat.dsp.mp.microsoft.com
@@ -2262,6 +2265,14 @@ phx.sfs-int.dcat.dsp.mp.microsoft.com
 phx.sfs-prod.dcat.dsp.mp.microsoft.com
 phx.sfs-tip.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
+geover-int.do.dsp.mp.microsoft.com
+geover-prod.do.dsp.mp.microsoft.com
+orgeover-int.do.dsp.mp.microsoft.com
+orgeover-prod.do.dsp.mp.microsoft.com
+glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com
+glb.adminportalapi-int.trafficshaping.dsp.mp.microsoft.com
+glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com
+auar.trafficshaping.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 editcat.mp.microsoft.com
@@ -2367,7 +2378,6 @@ help.mint.com
 links.mint.com
 mirrorservice.org
 mistrzowie.org
-miui.com
 api.comm.miui.com
 trial.api.huangye.miui.com
 authbe.sec.intl.miui.com
@@ -2379,8 +2389,6 @@ r.sg.sec.miui.com
 metok.sys.miui.com
 update.miui.com
 api.vip.miui.com
-miui.net
-www.miui.net
 mixcloud.com
 mixnews.lv
 sj14.mktossl.com
@@ -3056,6 +3064,7 @@ latest-join.skype.com
 login.skype.com
 meet.skype.com
 msgapi.skype.com
+msgsearch.skype.com
 peoplerecommendations.skype.com
 presence.skype.com
 api.promotions.skype.com
@@ -3122,6 +3131,7 @@ us.businessflowapp.splunk.com
 class.splunk.com
 hol-deploy.class.splunk.com
 iodapi.class.splunk.com
+wbttest.class.splunk.com
 cloud.splunk.com
 conf.splunk.com
 directory.splunk.com
@@ -3162,6 +3172,7 @@ forwarders.staging.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
 admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
+app.scs.splunk.com
 admin-rainier.playground.scs.splunk.com
 scs002-kim10.admin-rainier.playground.scs.splunk.com
 smle.playground.scs.splunk.com
@@ -4715,7 +4726,6 @@ xflight.xboxlive.com
 xkms.xboxlive.com
 xda-developers.com
 forum.xda-developers.com
-xiaomi.com
 account.xiaomi.com
 api.account.xiaomi.com
 sgpac.account.xiaomi.com
@@ -4733,8 +4743,7 @@ mis.migc.xiaomi.com
 data.mistat.xiaomi.com
 o.data.mistat.xiaomi.com
 wallpaper.pandora.xiaomi.com
-www.xiaomi.com
-xiaomi.net
+zhuti.xiaomi.com
 api.chat.xiaomi.net
 app.chat.xiaomi.net
 api.device.xiaomi.net
