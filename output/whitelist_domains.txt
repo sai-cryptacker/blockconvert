@@ -1400,6 +1400,7 @@ fox6now.com
 fox8.com
 www.fox8.com
 framasoft.org
+www.framasoft.org
 frankerfacez.com
 www.frankerfacez.com
 dl.free.fr
@@ -1429,7 +1430,6 @@ g.co
 btcpay.gab.com
 gadgetsnow.com
 shop.gadgetsnow.com
-www.gadgetsnow.com
 gameofbitcoins.com
 gamespot.com
 gannettdigital.com
@@ -2053,6 +2053,7 @@ api.loganalytics.io
 logentries.com
 api.logentries.com
 autodiscover.logentries.com
+blog.logentries.com
 data.logentries.com
 heroku.data.logentries.com
 eu.logentries.com
@@ -2099,11 +2100,11 @@ i.loli.net
 lowendbox.com
 www.lowendbox.com
 lowes.com
-www.lowes.com
 cindyholbrook.lpages.co
 luckyorange.com
 www.luckyorange.com
 lwn.net
+www.lwn.net
 m.me
 forums.macrumors.com
 macys.com
@@ -2123,6 +2124,7 @@ api.mapbox.com
 events.mapbox.com
 tiles.mapbox.com
 mapquestapi.com
+www.mapquestapi.com
 ssl.marfeelcdn.com
 margevicius.lt
 marketo.com
@@ -2205,7 +2207,6 @@ accountmgmtservice-int.dce.mp.microsoft.com
 accountuserservice-int.dce.mp.microsoft.com
 devcenterapi.dce.mp.microsoft.com
 pac.dce.mp.microsoft.com
-partnersegmentation.dce.mp.microsoft.com
 ra.dce.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
@@ -2231,6 +2232,7 @@ imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
 ingestionapi.dps.mp.microsoft.com
 listingsweb-int.dps.mp.microsoft.com
+manualreview-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
 product-int.dps.mp.microsoft.com
 promotion-int.dps.mp.microsoft.com
@@ -2248,6 +2250,10 @@ engagementweb-int.dse.mp.microsoft.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestiondeveloperapi.dse.mp.microsoft.com
 api-tip.dcat.dsp.mp.microsoft.com
+glb.approvals-dev.dcat.dsp.mp.microsoft.com
+glb.approvals-int.dcat.dsp.mp.microsoft.com
+glb.approvals-prod.dcat.dsp.mp.microsoft.com
+glb.approvals-tip.dcat.dsp.mp.microsoft.com
 catalogservice-prod.dcat.dsp.mp.microsoft.com
 cmd-int.dcat.dsp.mp.microsoft.com
 cmd-tip.dcat.dsp.mp.microsoft.com
@@ -2303,6 +2309,8 @@ purchase-int.mp.microsoft.com
 promopolicy.purchase-int.mp.microsoft.com
 purchase.mp.microsoft.com
 digitalattachclaims-int.purchase.mp.microsoft.com
+scanservice.px.mp.microsoft.com
+sonarweb.px.mp.microsoft.com
 staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
 staging-dcatbackend.mp.microsoft.com
@@ -2337,7 +2345,6 @@ catalog.update.microsoft.com
 www.catalog.update.microsoft.com
 fe2.update.microsoft.com
 pending.sls-int.update.microsoft.com
-pending.sls-tip.update.microsoft.com
 sls.update.microsoft.com
 pending.sls.update.microsoft.com
 wallet.microsoft.com
@@ -3122,6 +3129,7 @@ embargo.splunk.com
 events.splunk.com
 ldap.glb.splunk.com
 gp-dev.splunk.com
+gp.splunk.com
 guides.splunk.com
 doc.guides.splunk.com
 playground.guides.splunk.com
@@ -3129,6 +3137,7 @@ stage.guides.splunk.com
 jm0199515.splunk.com
 lantern.splunk.com
 ldaps.splunk.com
+live.splunk.com
 mint.splunk.com
 response.splunk.com
 scp.splunk.com
@@ -3140,6 +3149,7 @@ legacy.admin.playground.scp.splunk.com
 scs002-sea10.admin.playground.scp.splunk.com
 app-admin.playground.scp.splunk.com
 forwarders.playground.scp.splunk.com
+olly-logs.playground.scp.splunk.com
 px-search.playground.scp.splunk.com
 pulsar-app-prod1.scp.splunk.com
 staging.scp.splunk.com
@@ -3163,7 +3173,7 @@ app.staging.scs.splunk.com
 services.splunk.com
 splunkbase.splunk.com
 dev.splunkbase.splunk.com
-stage.splunkbase.splunk.com
+splunklive.splunk.com
 status.splunk.com
 gp-dev.vpn.splunk.com
 gp-linux.vpn.splunk.com
@@ -3171,6 +3181,7 @@ linuxdev-gw1.vpn.splunk.com
 linuxdev-gw2.vpn.splunk.com
 linuxdev-gw3.vpn.splunk.com
 linuxdev-gw4.vpn.splunk.com
+west-gw.splunk.com
 post.spmailtechnol.com
 sport.pl
 spot.im
@@ -4645,6 +4656,7 @@ fast.wistia.net
 wix.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
+www.wix.com
 balancer.wixdns.net
 www17.wixdns.net
 static.wixstatic.com
