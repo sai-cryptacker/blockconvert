@@ -113,7 +113,6 @@ www.aetna.com
 vip5.afdorigin-prod-am02.afdogw.com
 vip5.afdorigin-prod-ch02.afdogw.com
 affirm.com
-www.affirm.com
 afi-b.com
 t.afi-b.com
 www.afi-b.com
@@ -729,6 +728,7 @@ bitcoin.com
 news.bitcoin.com
 bitcoin.it
 bitlord.com
+www.bitlord.com
 bitly.com
 bitpay.com
 bizrate.com
@@ -1333,7 +1333,6 @@ feeds2.feedburner.com
 feedly.com
 fide.com
 filefactory.com
-www.filepicker.io
 filesmonster.com
 fili.cc
 www.fili.cc
@@ -1726,6 +1725,7 @@ www.helium.com
 version.hybrid.api.here.com
 herokuapp.com
 us-east-1-a.route.herokuapp.com
+www.herokuapp.com
 heureka.cz
 highcharts.com
 code.highcharts.com
@@ -1996,7 +1996,6 @@ play.lego.com
 shop.lego.com
 malwaredomains.lehigh.edu
 dict.leo.org
-www.dict.leo.org
 ocsp.int-x1.letsencrypt.org
 ocsp.int-x2.letsencrypt.org
 ocsp.int-x3.letsencrypt.org
@@ -2272,10 +2271,16 @@ orgeover-prod.do.dsp.mp.microsoft.com
 glb.adminportalapi-dev.trafficshaping.dsp.mp.microsoft.com
 glb.adminportalapi-int.trafficshaping.dsp.mp.microsoft.com
 glb.adminportalapi-prod.trafficshaping.dsp.mp.microsoft.com
+glb.auar-dev.trafficshaping.dsp.mp.microsoft.com
+glb.auar-int.trafficshaping.dsp.mp.microsoft.com
 auar.trafficshaping.dsp.mp.microsoft.com
+glb.frontend-dev.trafficshaping.dsp.mp.microsoft.com
+glb.frontend-int.trafficshaping.dsp.mp.microsoft.com
+glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com
+glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com
+glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
-editcat.mp.microsoft.com
 entitlementfulfillment-int.mp.microsoft.com
 entitlementfulfillment.mp.microsoft.com
 entitlements-int.mp.microsoft.com
@@ -2287,6 +2292,7 @@ entitlementsfederationinternal.mp.microsoft.com
 entitlementsinternal.mp.microsoft.com
 entitlementssubscriptionnotifications-int.mp.microsoft.com
 entitlementssubscriptionnotifications.mp.microsoft.com
+fees-int.mp.microsoft.com
 firstparty-collections-int.mp.microsoft.com
 firstparty-collections.mp.microsoft.com
 firstparty-entitlements-int.mp.microsoft.com
@@ -2615,6 +2621,7 @@ www.okta.com
 olark.com
 www.olark.com
 old-games.org
+downloads.old-games.org
 omny.fm
 omroep.nl
 amazoncustomerservice.d2.sc.omtrdc.net
@@ -2654,6 +2661,7 @@ www.openbsd.org
 tile.opencyclemap.org
 tile2.opencyclemap.org
 opendesktop.org
+www.opendesktop.org
 openlayers.org
 openlibrary.org
 openload.co
@@ -2675,7 +2683,6 @@ cdn2.optimizely.com
 cdn3.optimizely.com
 www.optimizely.com
 oracle.com
-www.oracle.com
 orange.fr
 webmail.orange.fr
 orbitz.com
@@ -2800,6 +2807,7 @@ my.plexapp.com
 nine.plugins.plexapp.com
 tvthemes.plexapp.com
 pling.com
+www.pling.com
 plot.ly
 cdn.plyr.io
 pochta.ru
@@ -3083,7 +3091,6 @@ public.slidesharecdn.com
 smallseotools.com
 smugmug.com
 snapchat.com
-www.snapchat.com
 snapengage.com
 www.snapengage.com
 sndcdn.com
@@ -3096,7 +3103,6 @@ sohu.com
 www.sohu.com
 solidfiles.com
 someonewhocares.org
-www.someonewhocares.org
 apt.sonarr.tv
 download.sonarr.tv
 forums.sonarr.tv
@@ -3125,6 +3131,8 @@ amp.splunk.com
 api.splunk.com
 appinspect.splunk.com
 banner.splunk.com
+boo.splunk.com
+botn.splunk.com
 bots.splunk.com
 eu.businessflowapp.splunk.com
 us.businessflowapp.splunk.com
@@ -3142,7 +3150,6 @@ gp-dev.splunk.com
 gp.splunk.com
 guides.splunk.com
 doc.guides.splunk.com
-playground.guides.splunk.com
 stage.guides.splunk.com
 jm0199515.splunk.com
 lantern.splunk.com
@@ -3172,7 +3179,10 @@ forwarders.staging.scp.splunk.com
 pulsar-app-stage1.staging.scp.splunk.com
 admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
+scs001-pdx10.admin.scs.splunk.com
+api.scs.splunk.com
 app.scs.splunk.com
+auth.scs.splunk.com
 admin-rainier.playground.scs.splunk.com
 scs002-kim10.admin-rainier.playground.scs.splunk.com
 smle.playground.scs.splunk.com
@@ -3180,6 +3190,7 @@ pulsar.scs.splunk.com
 admin.staging.scs.splunk.com
 scs001-iad10.admin.staging.scs.splunk.com
 scs002-iad10.admin.staging.scs.splunk.com
+app-admin.staging.scs.splunk.com
 app.staging.scs.splunk.com
 services.splunk.com
 splunkbase.splunk.com
@@ -3395,7 +3406,6 @@ osce11-0-en.url.trendmicro.com
 web.tresorit.com
 go.trouter.io
 trumba.com
-www.trumba.com
 trustarc.com
 privacy-policy.truste.com
 trustkeeper.net
