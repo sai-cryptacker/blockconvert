@@ -1059,6 +1059,7 @@ custhelp.com
 track.customer.io
 e.customeriomail.com
 cutcaptcha.com
+www.cutcaptcha.com
 cvs.com
 www.cvs.com
 cybercrime-tracker.net
@@ -3144,6 +3145,7 @@ iodapi.class.splunk.com
 wbttest.class.splunk.com
 cloud.splunk.com
 conf.splunk.com
+coverall.splunk.com
 directory.splunk.com
 embargo.splunk.com
 events.splunk.com
