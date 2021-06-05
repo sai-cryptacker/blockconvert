@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-04Z
+! Version: 2021-06-05Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-04Z
+! Last modified: 2021-06-05Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -272,6 +272,7 @@
 @@||aax-us-east.amazon-adsystem.com^
 @@||s.amazon-adsystem.com^
 @@||amazon.at^
+@@||www.amazon.at^
 @@||amazon.ca^
 @@||www.amazon.ca^
 @@||amazon.cn^
@@ -978,6 +979,7 @@
 @@||theregister.co.uk^
 @@||www.theregister.co.uk^
 @@||codeberg.org^
+@@||www.codeberg.org^
 @@||codecanyon.net^
 @@||www.codecanyon.net^
 @@||codepen.io^
@@ -1073,7 +1075,6 @@
 @@||d3js.org^
 @@||admin.dable.io^
 @@||dailymotion.com^
-@@||www.dailymotion.com^
 @@||danid.dk^
 @@||www.datadoghq-browser-agent.com^
 @@||datafilehost.com^
@@ -2630,6 +2631,7 @@
 @@||olark.com^
 @@||www.olark.com^
 @@||old-games.org^
+@@||down3.old-games.org^
 @@||downloads.old-games.org^
 @@||omny.fm^
 @@||omroep.nl^
@@ -2925,6 +2927,7 @@
 @@||real-debrid.com^
 @@||recaptcha.net^
 @@||recruitics.com^
+@@||www.recruitics.com^
 @@||recurly.com^
 @@||redcdn.pl^
 @@||reddit.com^
@@ -2934,7 +2937,6 @@
 @@||www.reddit.com^
 @@||redditarchive.com^
 @@||redditmedia.com^
-@@||www.redditmedia.com^
 @@||www.redditstatic.com^
 @@||redefine.pl^
 @@||redfin.com^
@@ -3190,6 +3192,7 @@
 @@||scs001-iad10.admin.scs.splunk.com^
 @@||scs001-pdx10.admin.scs.splunk.com^
 @@||api.scs.splunk.com^
+@@||app-admin.scs.splunk.com^
 @@||app.scs.splunk.com^
 @@||auth.scs.splunk.com^
 @@||admin-rainier.playground.scs.splunk.com^

@@ -263,6 +263,7 @@ restapi.amap.com
 aax-us-east.amazon-adsystem.com
 s.amazon-adsystem.com
 amazon.at
+www.amazon.at
 amazon.ca
 www.amazon.ca
 amazon.cn
@@ -969,6 +970,7 @@ securesuite.co.uk
 theregister.co.uk
 www.theregister.co.uk
 codeberg.org
+www.codeberg.org
 codecanyon.net
 www.codecanyon.net
 codepen.io
@@ -1064,7 +1066,6 @@ www.cybercrime-tracker.net
 d3js.org
 admin.dable.io
 dailymotion.com
-www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
@@ -2621,6 +2622,7 @@ www.okta.com
 olark.com
 www.olark.com
 old-games.org
+down3.old-games.org
 downloads.old-games.org
 omny.fm
 omroep.nl
@@ -2916,6 +2918,7 @@ readthedocs.org
 real-debrid.com
 recaptcha.net
 recruitics.com
+www.recruitics.com
 recurly.com
 redcdn.pl
 reddit.com
@@ -2925,7 +2928,6 @@ ssl.reddit.com
 www.reddit.com
 redditarchive.com
 redditmedia.com
-www.redditmedia.com
 www.redditstatic.com
 redefine.pl
 redfin.com
@@ -3181,6 +3183,7 @@ admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
 scs001-pdx10.admin.scs.splunk.com
 api.scs.splunk.com
+app-admin.scs.splunk.com
 app.scs.splunk.com
 auth.scs.splunk.com
 admin-rainier.playground.scs.splunk.com
