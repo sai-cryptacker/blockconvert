@@ -1436,6 +1436,7 @@ gamespot.com
 gannettdigital.com
 gannettonline.com
 gap.com
+www.gap.com
 gardenstatehelicopters.com
 gasbuddy.com
 gawker.com
@@ -1909,6 +1910,7 @@ joblo.com
 www.joblo.com
 joemonster.org
 joewein.net
+www.joewein.net
 malwareurls.joxeankoret.com
 jpost.com
 jquery.com
@@ -2059,6 +2061,7 @@ blog.logentries.com
 data.logentries.com
 heroku.data.logentries.com
 eu.logentries.com
+data.eu.logentries.com
 heroku.logentries.com
 info.logentries.com
 js.logentries.com
@@ -2204,10 +2207,12 @@ win10.ipv6.microsoft.com
 xbox.ipv6.microsoft.com
 ris.api.iris.microsoft.com
 dmd.metaservices.microsoft.com
+cbsl.mp.microsoft.com
 collections-int.mp.microsoft.com
 collections.mp.microsoft.com
 accountmgmtservice-int.dce.mp.microsoft.com
 accountuserservice-int.dce.mp.microsoft.com
+accountuserservice.dce.mp.microsoft.com
 devcenterapi.dce.mp.microsoft.com
 pac.dce.mp.microsoft.com
 ra.dce.mp.microsoft.com
@@ -2230,6 +2235,7 @@ burst.dps.mp.microsoft.com
 certweb.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
+discrequest.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 imagepublishingservice-dev.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
@@ -2244,9 +2250,11 @@ restriction.dps.mp.microsoft.com
 riker.dps.mp.microsoft.com
 schemaapi.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
+variant-int.dps.mp.microsoft.com
 watchdogs-int.dps.mp.microsoft.com
 watchdogs.dps.mp.microsoft.com
 workflowservice-dev.dps.mp.microsoft.com
+workflowservice-int.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
 engagementservice.dse.mp.microsoft.com
 engagementweb-int.dse.mp.microsoft.com
@@ -2496,6 +2504,7 @@ api.b.hatena.ne.jp
 neighborsink.com
 neowin.net
 nesn.com
+www.nesn.com
 whirlpool.net.au
 forums.whirlpool.net.au
 news.ebc.net.tw
@@ -3142,6 +3151,7 @@ us.businessflowapp.splunk.com
 class.splunk.com
 hol-deploy.class.splunk.com
 iodapi.class.splunk.com
+wbtbosh.class.splunk.com
 wbttest.class.splunk.com
 cloud.splunk.com
 conf.splunk.com
@@ -3185,11 +3195,16 @@ admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
 scs001-pdx10.admin.scs.splunk.com
 api.scs.splunk.com
+region-iad10.api.scs.splunk.com
 app-admin.scs.splunk.com
 app.scs.splunk.com
 auth.scs.splunk.com
 admin-rainier.playground.scs.splunk.com
 scs002-kim10.admin-rainier.playground.scs.splunk.com
+admin.playground.scs.splunk.com
+scs003-dub10.admin.playground.scs.splunk.com
+auth.playground.scs.splunk.com
+region-dub10.auth.playground.scs.splunk.com
 smle.playground.scs.splunk.com
 pulsar.scs.splunk.com
 admin.staging.scs.splunk.com
@@ -3372,6 +3387,7 @@ tinypic.com
 tinyurl.com
 www.tinyurl.com
 tlaol.com
+www.tlaol.com
 tlc.com
 tld-list.com
 tmblr.co
