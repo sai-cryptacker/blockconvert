@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-06Z
+! Version: 2021-06-07Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-06Z
+! Last modified: 2021-06-07Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -79,6 +79,7 @@
 @@||www.adaway.org^
 @@||adblock.dk^
 @@||adblock.ee^
+@@||www.adblock.ee^
 @@||road.adblock.ro^
 @@||easylist-downloads.adblockplus.org^
 @@||adcolo.com^
@@ -297,6 +298,8 @@
 @@||s3-1.amazonaws.com^
 @@||s3-ap-southeast-1.amazonaws.com^
 @@||www.s3-ap-southeast-1.amazonaws.com^
+@@||s3-eu-west-1.amazonaws.com^
+@@||www.s3-eu-west-1.amazonaws.com^
 @@||s3-us-west-1.amazonaws.com^
 @@||s3.amazonaws.com^
 @@||redditstatic.s3.amazonaws.com^
@@ -1406,6 +1409,7 @@
 @@||fox59.com^
 @@||www.fox59.com^
 @@||fox5sandiego.com^
+@@||www.fox5sandiego.com^
 @@||fox6now.com^
 @@||fox8.com^
 @@||www.fox8.com^
@@ -2224,10 +2228,13 @@
 @@||accountuserservice.dce.mp.microsoft.com^
 @@||devcenterapi.dce.mp.microsoft.com^
 @@||pac.dce.mp.microsoft.com^
+@@||ra-int.dce.mp.microsoft.com^
 @@||ra.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
+@@||devicequalificationservice.mp.microsoft.com^
+@@||devicequalificationserviceppe.mp.microsoft.com^
 @@||digitalattach-int.mp.microsoft.com^
 @@||digitalattach.mp.microsoft.com^
 @@||displaycatalog-int.mp.microsoft.com^
@@ -2241,6 +2248,7 @@
 @@||bias.dps.mp.microsoft.com^
 @@||burst-int.dps.mp.microsoft.com^
 @@||burst.dps.mp.microsoft.com^
+@@||certweb-int.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
 @@||composerapi.dps.mp.microsoft.com^
 @@||discrequest-int.dps.mp.microsoft.com^
@@ -2402,6 +2410,7 @@
 @@||help.mint.com^
 @@||links.mint.com^
 @@||mirrorservice.org^
+@@||www.mirrorservice.org^
 @@||mistrzowie.org^
 @@||api.comm.miui.com^
 @@||trial.api.huangye.miui.com^
@@ -2474,6 +2483,7 @@
 @@||mycapture.com^
 @@||st.mycdn.me^
 @@||myfox8.com^
+@@||www.myfox8.com^
 @@||mymonero.com^
 @@||api.mymonero.com^
 @@||myportfolio.com^
@@ -2767,6 +2777,7 @@
 @@||cs9.wac.phicdn.net^
 @@||www.ecdinterface.philips.com^
 @@||phishtank.com^
+@@||www.phishtank.com^
 @@||phncdn.com^
 @@||ci.phncdn.com^
 @@||cv-h.phncdn.com^
