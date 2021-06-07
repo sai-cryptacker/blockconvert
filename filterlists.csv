@@ -31,10 +31,6 @@ Scams and Phishing,https://raw.githubusercontent.com/infinitytec/blocklists/mast
 Scam Blocklist by DurableNapkin,https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt,DurableNapkin,MIT,86400,Hostfile
 Regex Filters for Pi-hole Whitelist,https://raw.githubusercontent.com/mmotti/pihole-regex/master/whitelist.list,,With Permission from https://github.com/mmotti/pihole-regex/issues/30,864000,DomainAllowlist
 Regex Filters for Pi-hole,https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list,,With Permission from https://github.com/mmotti/pihole-regex/issues/30,864000,RegexBlocklist
-Quantum Simply Ads,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt,,The Unlicense,604800,Hostfile
-Quantum Privacy List,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt,,The Unlicense,604800,Hostfile
-Quantum Privacy,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Privacy-list.txt,,The Unlicense,604800,Hostfile
-Quantum Abuse List,https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Abuse-List.txt,,The Unlicense,604800,Hostfile
 Privacy filters,https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt,,The Unlicense,86400,Adblock
 Possibilities,https://raw.githubusercontent.com/infinitytec/blocklists/master/possibilities.txt,infinitytec,MIT,864000,Hostfile
 PiHoleBlocklist - SmartTV,https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt,,MIT,86400,DomainBlocklist
