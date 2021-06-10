@@ -1904,6 +1904,7 @@
 @@||joblo.com^
 @@||www.joblo.com^
 @@||joemonster.org^
+@@||www.joemonster.org^
 @@||joewein.net^
 @@||www.joewein.net^
 @@||malwareurls.joxeankoret.com^
@@ -1956,6 +1957,7 @@
 @@||kinja-static.com^
 @@||kinja.com^
 @@||klarna.com^
+@@||www.klarna.com^
 @@||trk.klclick1.com^
 @@||klm.com^
 @@||kmart.com^
@@ -2213,6 +2215,10 @@
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
+@@||or.delivery.mp.microsoft.com^
+@@||tip.or.delivery.mp.microsoft.com^
+@@||origin.delivery.mp.microsoft.com^
+@@||phx.origin.delivery.mp.microsoft.com^
 @@||devicequalificationservice.mp.microsoft.com^
 @@||devicequalificationserviceppe.mp.microsoft.com^
 @@||digitalattach-int.mp.microsoft.com^
@@ -2236,7 +2242,9 @@
 @@||packagesapi-intppe.dps.mp.microsoft.com^
 @@||product-int.dps.mp.microsoft.com^
 @@||promotion-int.dps.mp.microsoft.com^
+@@||restriction-int.dps.mp.microsoft.com^
 @@||restriction.dps.mp.microsoft.com^
+@@||riker-int.dps.mp.microsoft.com^
 @@||riker.dps.mp.microsoft.com^
 @@||schemaapi.dps.mp.microsoft.com^
 @@||stitchapi-int.dps.mp.microsoft.com^
@@ -2259,6 +2267,7 @@
 @@||cmd-int.dcat.dsp.mp.microsoft.com^
 @@||cmd-tip.dcat.dsp.mp.microsoft.com^
 @@||extorigin-int.dcat.dsp.mp.microsoft.com^
+@@||extorigin-tip.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-int.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-prod.dcat.dsp.mp.microsoft.com^
 @@||phx.sfs-tip.dcat.dsp.mp.microsoft.com^
