@@ -56,6 +56,7 @@ www.ad.nl
 ada.support
 cricket.att.ada.support
 static.ada.support
+www.ada.support
 cdn-dev.adafruit.com
 adapools.org
 adaway.org
@@ -684,7 +685,6 @@ betanews.com
 betfair.com
 l.betrad.com
 better.fyi
-www.better.fyi
 betterttv.net
 beyondmenu.com
 static.beyondmenu.com
@@ -1086,6 +1086,7 @@ www.digg.com
 digicert.com
 ocsp.digicert.com
 www.digicert.com
+digitaloceanspaces.com
 digitalriver.com
 drh.img.digitalriver.com
 drh1.img.digitalriver.com
@@ -1674,6 +1675,7 @@ gravatar.com
 secure.gravatar.com
 pistachio-cdn.graze.com
 greasyfork.org
+www.greasyfork.org
 greenhouse.io
 groupon.com
 www.groupon.com
@@ -2090,6 +2092,8 @@ i.loli.net
 lowendbox.com
 lowes.com
 cindyholbrook.lpages.co
+lpsnmedia.net
+www.lpsnmedia.net
 luckyorange.com
 www.luckyorange.com
 lwn.net
@@ -2113,7 +2117,6 @@ api.mapbox.com
 events.mapbox.com
 tiles.mapbox.com
 mapquestapi.com
-www.mapquestapi.com
 ssl.marfeelcdn.com
 margevicius.lt
 marketo.com
@@ -2283,6 +2286,7 @@ displaycatalog.md.mp.microsoft.com
 entitlementfulfillment-int.md.mp.microsoft.com
 entitlementfulfillment.md.mp.microsoft.com
 ocadmin-int.mp.microsoft.com
+ocadmin.mp.microsoft.com
 ocfm-int.mp.microsoft.com
 purchase.mp.microsoft.com
 scanservice.px.mp.microsoft.com
@@ -2969,7 +2973,6 @@ cdn.stream.schibsted.media
 schibsted.no
 schibsted.tech
 scrapinghub.com
-www.scrapinghub.com
 scribblelive.com
 www.scribblelive.com
 scribd.com
@@ -3101,6 +3104,8 @@ spiegel-de.spiegel.de
 admin.splunk.com
 api.splunk.com
 appinspect.splunk.com
+apps.splunk.com
+prod.apps.splunk.com
 banner.splunk.com
 boo.splunk.com
 botn.splunk.com
@@ -3109,6 +3114,7 @@ us.businessflowapp.splunk.com
 class.splunk.com
 iodapi.class.splunk.com
 wbtbosh.class.splunk.com
+wbtquiz.class.splunk.com
 wbttest.class.splunk.com
 cloud.splunk.com
 conf.splunk.com
@@ -3120,6 +3126,7 @@ gp.splunk.com
 guides.splunk.com
 doc.guides.splunk.com
 stage.guides.splunk.com
+info.splunk.com
 jm0199515.splunk.com
 lantern.splunk.com
 live.splunk.com
@@ -3161,7 +3168,7 @@ app-admin.staging.scs.splunk.com
 app.staging.scs.splunk.com
 services.splunk.com
 splunkbase.splunk.com
-dev.splunkbase.splunk.com
+prod.splunkbase.splunk.com
 splunklive.splunk.com
 status.splunk.com
 gp-dev.vpn.splunk.com
@@ -3449,7 +3456,6 @@ g.udimg.com
 ui-portal.de
 ce1.uicdn.net
 uk.com
-www.uk.com
 ultimedia.com
 www.ultimedia.com
 ultraimg.com
@@ -4643,7 +4649,6 @@ fast.wistia.net
 wix.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
-www.wix.com
 balancer.wixdns.net
 www17.wixdns.net
 static.wixstatic.com
