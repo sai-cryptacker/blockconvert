@@ -243,6 +243,7 @@ zht.alipay.com
 gz-lb1.internet.spanner.alipaydns.com
 gw.alipayobjects.com
 i.alipayobjects.com
+aliyuncs.com
 arms-retcode.aliyuncs.com
 adash.man.aliyuncs.com
 allegro.pl
@@ -335,7 +336,6 @@ itunes.apple.com
 ax.itunes.apple.com
 ax.init.itunes.apple.com
 gsp-ssl.ls.apple.com
-gsp10-ssl.ls.apple.com
 ocsp.apple.com
 phobos.apple.com
 api-glb.smoot.apple.com
@@ -736,9 +736,9 @@ blogspot.com
 bloomberg.com
 www.bloomberg.com
 bloxcms.com
-www.bloxcms.com
 ftp.bmp.ovh
 bokser.org
+www.bokser.org
 boldchat.com
 www.boldchat.com
 manifest.prod.boltdns.net
@@ -1057,6 +1057,7 @@ www.cybercrime-tracker.net
 d3js.org
 admin.dable.io
 dailymotion.com
+www.dailymotion.com
 danid.dk
 www.datadoghq-browser-agent.com
 datafilehost.com
@@ -1153,6 +1154,7 @@ dumpert.nl
 duosecurity.com
 www.duosecurity.com
 proto2ad.durasite.net
+dynamics.com
 cdn-eu.dynamicyield.com
 cdn.dynamicyield.com
 rcom-eu.dynamicyield.com
@@ -1392,7 +1394,6 @@ www.fox8.com
 framasoft.org
 www.framasoft.org
 frankerfacez.com
-www.frankerfacez.com
 dl.free.fr
 freebsd.org
 freedownloadmanager.org
@@ -1929,6 +1930,7 @@ www.kaltura.com
 kampyle.com
 www.kampyle.com
 img2.user.kanimg.com
+ssl.kaptcha.com
 kaspersky.com
 kasperskycontenthub.com
 www.kasperskycontenthub.com
@@ -2229,9 +2231,13 @@ flighting.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
 ingestionapi.dps.mp.microsoft.com
 listingsweb-int.dps.mp.microsoft.com
+listingsweb.dps.mp.microsoft.com
 manualreview-int.dps.mp.microsoft.com
+packages.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
+packagesweb.dps.mp.microsoft.com
 product-int.dps.mp.microsoft.com
+productweb.dps.mp.microsoft.com
 promotion-int.dps.mp.microsoft.com
 restriction-int.dps.mp.microsoft.com
 restriction.dps.mp.microsoft.com
@@ -2239,6 +2245,9 @@ riker-int.dps.mp.microsoft.com
 riker.dps.mp.microsoft.com
 schemaapi.dps.mp.microsoft.com
 stitchapi-int.dps.mp.microsoft.com
+submissionapi.dps.mp.microsoft.com
+submissioncompareapi.dps.mp.microsoft.com
+submissionweb.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
 variant-int.dps.mp.microsoft.com
 watchdogs-int.dps.mp.microsoft.com
@@ -2561,7 +2570,6 @@ nordichardware.se
 www.nordichardware.se
 nordvpn.com
 notabug.org
-www.notabug.org
 forum.notebookreview.com
 cloud.notification-naviextras.com
 now.sh
@@ -2819,7 +2827,6 @@ postimg.cc
 www.postimg.cc
 powerreviews.com
 powr.io
-www.powr.io
 ppt.cc
 www.ppt.cc
 full.pr0gramm.com
@@ -3026,6 +3033,7 @@ api3.siftscience.com
 cdn.siftscience.com
 cs.silverpop.com
 similarweb.com
+simplecast.com
 sinaimg.cn
 ww2.sinaimg.cn
 wx2.sinaimg.cn
@@ -3044,9 +3052,7 @@ www.skimresources.com
 skype.com
 blogs.skype.com
 c1.skype.com
-do.skype.com
 download.skype.com
-ecs.skype.com
 edge.skype.com
 config.edge.skype.com
 consumer.entitlement.skype.com
@@ -3070,7 +3076,6 @@ slate.com
 www.slate.com
 slickdeals.net
 slidedeck.com
-www.slidedeck.com
 public.slidesharecdn.com
 smallseotools.com
 smugmug.com
@@ -3118,8 +3123,6 @@ prod.apps.splunk.com
 banner.splunk.com
 boo.splunk.com
 botn.splunk.com
-eu.businessflowapp.splunk.com
-us.businessflowapp.splunk.com
 class.splunk.com
 iodapi.class.splunk.com
 wbtbosh.class.splunk.com
@@ -3161,9 +3164,11 @@ scs001-iad10.admin.scs.splunk.com
 scs001-pdx10.admin.scs.splunk.com
 api.scs.splunk.com
 region-iad10.api.scs.splunk.com
+region-pdx10.api.scs.splunk.com
 app-admin.scs.splunk.com
 app.scs.splunk.com
 auth.scs.splunk.com
+region-pdx10.auth.scs.splunk.com
 admin-rainier.playground.scs.splunk.com
 scs002-kim10.admin-rainier.playground.scs.splunk.com
 admin.playground.scs.splunk.com
@@ -3253,7 +3258,6 @@ q.stripe.com
 m.stripe.network
 stripecdn.com
 surveygizmo.com
-www.surveygizmo.com
 surveymonkey.com
 secure.surveymonkey.com
 sweclockers.com
@@ -3295,6 +3299,7 @@ weeklyad.target.com
 www.target.com
 targetimg2.com
 radiofrance.targetspot.com
+tarteaucitron.io
 tawk.to
 my.tealiumiq.com
 teamviewer.com
