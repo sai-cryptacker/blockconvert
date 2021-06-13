@@ -1146,6 +1146,7 @@ ns2.dropbox.com
 www.dropbox.com
 dl.dropboxusercontent.com
 drudgereport.com
+www.drudgereport.com
 secure.dshield.org
 duckdns.org
 www.duckdns.org
@@ -1411,6 +1412,7 @@ fundraiseup.com
 funk.eu
 funnyordie.com
 fuseservice.com
+www.fuseservice.com
 vanilla.futurecdn.net
 api.vanilla.futurecdn.net
 fwmrm.net
@@ -2226,6 +2228,7 @@ burst.dps.mp.microsoft.com
 certweb-int.dps.mp.microsoft.com
 certweb.dps.mp.microsoft.com
 composerapi.dps.mp.microsoft.com
+composerweb.dps.mp.microsoft.com
 discrequest.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
@@ -2303,11 +2306,15 @@ collections.md.mp.microsoft.com
 displaycatalog.md.mp.microsoft.com
 entitlementfulfillment-int.md.mp.microsoft.com
 entitlementfulfillment.md.mp.microsoft.com
+uwpproc-int.mix.mp.microsoft.com
+uwpproc.mix.mp.microsoft.com
 ocadmin-int.mp.microsoft.com
 ocadmin.mp.microsoft.com
 ocfm-int.mp.microsoft.com
 purchase.mp.microsoft.com
+scanservice-int.px.mp.microsoft.com
 scanservice.px.mp.microsoft.com
+sonarweb-int.px.mp.microsoft.com
 sonarweb.px.mp.microsoft.com
 staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
@@ -2536,6 +2543,7 @@ newstogram.com
 newyorker.com
 www.newyorker.com
 nextcloud.com
+www.nextcloud.com
 oneline.nextday.media
 nextopiasoftware.com
 nfl.com
@@ -3062,6 +3070,7 @@ secure.consumer.entitlement.skype.com
 fpt.skype.com
 s2s.recommend.infra.skype.com
 login.skype.com
+messagingexporter.skype.com
 msgsearch.skype.com
 peoplerecommendations.skype.com
 presence.skype.com
@@ -3131,6 +3140,8 @@ wbttest.class.splunk.com
 cloud.splunk.com
 conf.splunk.com
 coverall.splunk.com
+dev.splunk.com
+staging.dev.splunk.com
 embargo.splunk.com
 events.splunk.com
 gp-dev.splunk.com
@@ -3159,9 +3170,11 @@ api.staging.scp.splunk.com
 app-admin.staging.scp.splunk.com
 auth.staging.scp.splunk.com
 cae.staging.scp.splunk.com
+missioncontrol.staging.scp.splunk.com
 admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
 scs001-pdx10.admin.scs.splunk.com
+scs002-iad10.admin.scs.splunk.com
 api.scs.splunk.com
 region-iad10.api.scs.splunk.com
 region-pdx10.api.scs.splunk.com
@@ -3249,6 +3262,7 @@ steampowered.com
 store.steampowered.com
 store.akamai.steamstatic.com
 stopklatka.pl
+www.stopklatka.pl
 statics.streamable.com
 streamtheworld.com
 strefa.fm
