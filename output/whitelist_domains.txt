@@ -815,6 +815,7 @@ cesanta.com
 www.cesanta.com
 change.org
 charter.com
+www.charter.com
 chng.it
 ftp.chocolatey.org
 packages.chocolatey.org
@@ -2222,6 +2223,8 @@ displaycatalog-int.mp.microsoft.com
 wus2.displaycatalog-int.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 aircapi.displaycatalog.mp.microsoft.com
+appxapi-int.dps.mp.microsoft.com
+appxapi.dps.mp.microsoft.com
 bias.dps.mp.microsoft.com
 burst-int.dps.mp.microsoft.com
 burst.dps.mp.microsoft.com
@@ -2237,7 +2240,9 @@ listingsweb-int.dps.mp.microsoft.com
 listingsweb.dps.mp.microsoft.com
 manualreview-int.dps.mp.microsoft.com
 packages.dps.mp.microsoft.com
+packagesapi-int.dps.mp.microsoft.com
 packagesapi-intppe.dps.mp.microsoft.com
+packagesapi.dps.mp.microsoft.com
 packagesweb.dps.mp.microsoft.com
 product-int.dps.mp.microsoft.com
 productweb.dps.mp.microsoft.com
@@ -2251,6 +2256,7 @@ stitchapi-int.dps.mp.microsoft.com
 submissionapi.dps.mp.microsoft.com
 submissioncompareapi.dps.mp.microsoft.com
 submissionweb.dps.mp.microsoft.com
+survey-int.dps.mp.microsoft.com
 survey.dps.mp.microsoft.com
 variant-int.dps.mp.microsoft.com
 watchdogs-int.dps.mp.microsoft.com
@@ -2291,6 +2297,7 @@ glb.ingestion-dev.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-int.trafficshaping.dsp.mp.microsoft.com
 glb.ingestion-prod.trafficshaping.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
+ratingsedgefd.dsx.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 entitlementfulfillment-int.mp.microsoft.com
 entitlementfulfillment.mp.microsoft.com
