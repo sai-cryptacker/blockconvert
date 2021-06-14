@@ -1053,6 +1053,7 @@
 @@||blog.csdn.net^
 @@||csdnimg.cn^
 @@||cstv.com^
+@@||www.cstv.com^
 @@||cursecdn.com^
 @@||curvesncombatboots.com^
 @@||custhelp.com^
@@ -1309,6 +1310,7 @@
 @@||zero.facebook.com^
 @@||connect.facebook.net^
 @@||familydollar.com^
+@@||www.fansonly.com^
 @@||api.fast.com^
 @@||fc-resources.fastcompany.com^
 @@||fastly.net^
@@ -1407,6 +1409,7 @@
 @@||frankerfacez.com^
 @@||dl.free.fr^
 @@||freebsd.org^
+@@||www.freebsd.org^
 @@||freedownloadmanager.org^
 @@||files.freedownloadmanager.org^
 @@||files2.freedownloadmanager.org^
@@ -2242,6 +2245,7 @@
 @@||composerapi.dps.mp.microsoft.com^
 @@||composerweb.dps.mp.microsoft.com^
 @@||discrequest.dps.mp.microsoft.com^
+@@||filesapi.dps.mp.microsoft.com^
 @@||flighting.dps.mp.microsoft.com^
 @@||ingestionapi-dev.dps.mp.microsoft.com^
 @@||ingestionapi.dps.mp.microsoft.com^
@@ -2638,6 +2642,7 @@
 @@||office365.com^
 @@||outlook.office365.com^
 @@||officedepot.com^
+@@||www.officedepot.com^
 @@||ojrq.net^
 @@||www.ojrq.net^
 @@||okta.com^
@@ -3074,7 +3079,14 @@
 @@||skimresources.com^
 @@||www.skimresources.com^
 @@||skype.com^
+@@||eus1-authgw.asm.skype.com^
+@@||neu1-authgw.asm.skype.com^
+@@||nus1-authgw.asm.skype.com^
+@@||sa1-authgw.asm.skype.com^
+@@||static.asm.skype.com^
+@@||weu1-authgw.asm.skype.com^
 @@||blogs.skype.com^
+@@||botapi.skype.com^
 @@||c1.skype.com^
 @@||download.skype.com^
 @@||edge.skype.com^
@@ -3143,6 +3155,8 @@
 @@||admin.splunk.com^
 @@||api.splunk.com^
 @@||appinspect.splunk.com^
+@@||dev.appinspect.splunk.com^
+@@||stage.appinspect.splunk.com^
 @@||apps.splunk.com^
 @@||prod.apps.splunk.com^
 @@||banner.splunk.com^
@@ -3387,6 +3401,7 @@
 @@||www.tlaol.com^
 @@||tlc.com^
 @@||tld-list.com^
+@@||www.tld-list.com^
 @@||tmblr.co^
 @@||tmz.com^
 @@||www.tmz.com^
@@ -3553,6 +3568,7 @@
 @@||videopress.com^
 @@||thumbs.videopress.com^
 @@||videos.videopress.com^
+@@||www.videopress.com^
 @@||vidible.tv^
 @@||cdn.vidible.tv^
 @@||delivery.vidible.tv^
