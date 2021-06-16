@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-14Z
+! Version: 2021-06-16Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-14Z
+! Last modified: 2021-06-16Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1243,6 +1243,7 @@
 @@||epoq.de^
 @@||www.epoq.de^
 @@||espn.com^
+@@||www.espn.com^
 @@||a.espncdn.com^
 @@||et4.de^
 @@||www.et4.de^
@@ -1719,6 +1720,7 @@
 @@||hbogo.com^
 @@||hbogo.pl^
 @@||hcaptcha.com^
+@@||www.hcaptcha.com^
 @@||he.net^
 @@||bgp.he.net^
 @@||ipv6.he.net^
@@ -1986,6 +1988,7 @@
 @@||ku6.com^
 @@||kxcdn.com^
 @@||ladyfootlocker.com^
+@@||www.ladyfootlocker.com^
 @@||laposte.net^
 @@||webmail.laposte.net^
 @@||larati.net^
@@ -2242,6 +2245,8 @@
 @@||burst.dps.mp.microsoft.com^
 @@||certweb-int.dps.mp.microsoft.com^
 @@||certweb.dps.mp.microsoft.com^
+@@||ciso-int.dps.mp.microsoft.com^
+@@||ciso.dps.mp.microsoft.com^
 @@||composerapi.dps.mp.microsoft.com^
 @@||composerweb.dps.mp.microsoft.com^
 @@||discrequest.dps.mp.microsoft.com^
@@ -2258,6 +2263,9 @@
 @@||packagesapi.dps.mp.microsoft.com^
 @@||packagesweb.dps.mp.microsoft.com^
 @@||product-int.dps.mp.microsoft.com^
+@@||product.dps.mp.microsoft.com^
+@@||productsummary-int.dps.mp.microsoft.com^
+@@||productsummary.dps.mp.microsoft.com^
 @@||productweb.dps.mp.microsoft.com^
 @@||promotion-int.dps.mp.microsoft.com^
 @@||restriction-int.dps.mp.microsoft.com^
@@ -2272,6 +2280,7 @@
 @@||survey-int.dps.mp.microsoft.com^
 @@||survey.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
+@@||variant.dps.mp.microsoft.com^
 @@||watchdogs-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
 @@||workflowservice-dev.dps.mp.microsoft.com^
@@ -2326,11 +2335,16 @@
 @@||displaycatalog.md.mp.microsoft.com^
 @@||entitlementfulfillment-int.md.mp.microsoft.com^
 @@||entitlementfulfillment.md.mp.microsoft.com^
+@@||paymentinstruments.md.mp.microsoft.com^
 @@||uwpproc-int.mix.mp.microsoft.com^
 @@||uwpproc.mix.mp.microsoft.com^
 @@||ocadmin-int.mp.microsoft.com^
 @@||ocadmin.mp.microsoft.com^
 @@||ocfm-int.mp.microsoft.com^
+@@||paymentinstruments-int.mp.microsoft.com^
+@@||internal.paymentinstruments-int.mp.microsoft.com^
+@@||paymentinstruments.mp.microsoft.com^
+@@||internal.paymentinstruments.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
 @@||scanservice-int.px.mp.microsoft.com^
 @@||scanservice.px.mp.microsoft.com^
@@ -2954,6 +2968,7 @@
 @@||ssl.reddit.com^
 @@||www.reddit.com^
 @@||redditarchive.com^
+@@||www.redditarchive.com^
 @@||redditmedia.com^
 @@||www.redditstatic.com^
 @@||redefine.pl^
@@ -3221,8 +3236,14 @@
 @@||admin.staging.scs.splunk.com^
 @@||scs001-iad10.admin.staging.scs.splunk.com^
 @@||scs002-iad10.admin.staging.scs.splunk.com^
+@@||scs004-dub10.admin.staging.scs.splunk.com^
+@@||api.staging.scs.splunk.com^
+@@||region-dub10.api.staging.scs.splunk.com^
 @@||app-admin.staging.scs.splunk.com^
 @@||app.staging.scs.splunk.com^
+@@||auth.staging.scs.splunk.com^
+@@||region-dub10.auth.staging.scs.splunk.com^
+@@||seal.splunk.com^
 @@||services.splunk.com^
 @@||splunkbase.splunk.com^
 @@||prod.splunkbase.splunk.com^
