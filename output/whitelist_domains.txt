@@ -131,7 +131,6 @@ cy2.licensing.md.mp.microsoft.com.akadns.net
 co4.telecommand.telemetry.microsoft.com.akadns.net
 fe2.update.microsoft.com.akadns.net
 sls.update.microsoft.com.akadns.net
-dm3p.wns.notify.windows.com.akadns.net
 login.msa.akadns6.net
 ipv4.login.msa.akadns6.net
 a248.e.akamai.net
@@ -259,7 +258,6 @@ s.amazon-adsystem.com
 amazon.at
 www.amazon.at
 amazon.ca
-www.amazon.ca
 amazon.cn
 amazon.com
 arcus-uswest.amazon.com
@@ -337,6 +335,7 @@ ax.itunes.apple.com
 ax.init.itunes.apple.com
 gsp-ssl.ls.apple.com
 ocsp.apple.com
+ocsp2.apple.com
 phobos.apple.com
 api-glb.smoot.apple.com
 swcdn.apple.com
@@ -435,7 +434,6 @@ ae.ugc.bazaarvoice.com
 aeg.ugc.bazaarvoice.com
 agrippa-eu.ugc.bazaarvoice.com
 aicpa.ugc.bazaarvoice.com
-ajmadison.ugc.bazaarvoice.com
 aldermore.ugc.bazaarvoice.com
 allenedmonds.ugc.bazaarvoice.com
 allybank.ugc.bazaarvoice.com
@@ -537,7 +535,6 @@ hongkong.ugc.bazaarvoice.com
 horizonhobby.ugc.bazaarvoice.com
 hotspring.ugc.bazaarvoice.com
 hsamuel.ugc.bazaarvoice.com
-icebreaker.ugc.bazaarvoice.com
 idealworld.ugc.bazaarvoice.com
 imodiumus.ugc.bazaarvoice.com
 insinkerator.ugc.bazaarvoice.com
@@ -848,7 +845,6 @@ cloudflare-dns.com
 1doc1doc1doc1.cloudflare-dns.com
 1dot1dot1do1.cloudflare-dns.com
 1dot1dot1dot.cloudflare-dns.com
-1dot1dot1dot1.cloudflare-dns.com
 1dot1dot1dot1dot.cloudflare-dns.com
 1dot1dot1dot2.cloudflare-dns.com
 1dot1dot1dot3.cloudflare-dns.com
@@ -2238,12 +2234,10 @@ certweb-int.dps.mp.microsoft.com
 certweb.dps.mp.microsoft.com
 ciso-int.dps.mp.microsoft.com
 ciso.dps.mp.microsoft.com
-composerapi.dps.mp.microsoft.com
 composerweb.dps.mp.microsoft.com
 discrequest.dps.mp.microsoft.com
 filesapi.dps.mp.microsoft.com
 flighting.dps.mp.microsoft.com
-ingestionapi-dev.dps.mp.microsoft.com
 ingestionapi.dps.mp.microsoft.com
 listingsweb-int.dps.mp.microsoft.com
 listingsweb.dps.mp.microsoft.com
@@ -2277,7 +2271,6 @@ watchdogs.dps.mp.microsoft.com
 workflowservice-dev.dps.mp.microsoft.com
 workflowservice-int.dps.mp.microsoft.com
 workflowservice.dps.mp.microsoft.com
-ingestiondeveloperapi-int.dse.mp.microsoft.com
 ingestiondeveloperapi.dse.mp.microsoft.com
 pac-int.dse.mp.microsoft.com
 api-tip.dcat.dsp.mp.microsoft.com
@@ -2343,10 +2336,8 @@ sonarweb-int.px.mp.microsoft.com
 sonarweb.px.mp.microsoft.com
 staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
-staging-dcatbackend.mp.microsoft.com
 stagingretrieval-dcatbackend-int.mp.microsoft.com
 wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com
-stagingretrieval-dcatbackend.mp.microsoft.com
 storage.mp.microsoft.com
 ustrl-int.mp.microsoft.com
 xbox-collections.mp.microsoft.com
@@ -2517,7 +2508,6 @@ nba.com
 nbcnews.com
 www.nbcnews.com
 nbcnewyork.com
-www.nbcnewyork.com
 nbcuni.com
 s.ndemiccreations.com
 ac.ebis.ne.jp
@@ -2727,6 +2717,7 @@ s7.orientaltrading.com
 fr.osdn.net
 osnews.com
 ouo.io
+ad.ourgame.com
 outlook.com
 config.outturner.com
 ow.ly
@@ -2826,7 +2817,6 @@ placehold.it
 www.placehold.it
 player.pl
 playstation.com
-www.playstation.com
 proxy.plex.bz
 pubsub.plex.bz
 plex.tv
@@ -3107,7 +3097,6 @@ login.skype.com
 messagingexporter.skype.com
 msgsearch.skype.com
 peoplerecommendations.skype.com
-presence.skype.com
 api.promotions.skype.com
 bo.promotions.skype.com
 recommend.skype.com
@@ -3191,6 +3180,7 @@ lantern.splunk.com
 live.splunk.com
 mint.splunk.com
 response.splunk.com
+salesoutreach.splunk.com
 scp.splunk.com
 admin.scp.splunk.com
 playground.scp.splunk.com
@@ -3239,7 +3229,6 @@ services.splunk.com
 splunkbase.splunk.com
 prod.splunkbase.splunk.com
 splunklive.splunk.com
-status.splunk.com
 gp-dev.vpn.splunk.com
 gp-linux.vpn.splunk.com
 linuxdev-gw1.vpn.splunk.com
@@ -3352,7 +3341,6 @@ api.target.com
 profile.target.com
 redsky.target.com
 weeklyad.target.com
-www.target.com
 targetimg2.com
 radiofrance.targetspot.com
 tarteaucitron.io
@@ -4565,7 +4553,6 @@ webs.com
 websimages.com
 webtype.com
 weebly.com
-www.weebly.com
 wetransfer.com
 wetter.de
 whatismyipaddress.com
