@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-17Z
+! Version: 2021-06-18Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-17Z
+! Last modified: 2021-06-18Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -24,7 +24,6 @@
 @@||cdn.gigya.commes.122.2o7.net^
 @@||www.122.2o7.net^
 @@||2shared.com^
-@@||www.2shared.com^
 @@||static.3001.net^
 @@||4chan.org^
 @@||4shared.com^
@@ -312,7 +311,6 @@
 @@||www.androidauthority.com^
 @@||androidforums.com^
 @@||angularjs.org^
-@@||www.angularjs.org^
 @@||www.anrdoezrs.net^
 @@||answers.com^
 @@||www.answers.com^
@@ -376,6 +374,7 @@
 @@||cdn.arstechnica.net^
 @@||art19.com^
 @@||asics.com^
+@@||www.asics.com^
 @@||ask.fm^
 @@||askubuntu.com^
 @@||ajax.aspnetcdn.com^
@@ -983,7 +982,6 @@
 @@||support.coinbase.com^
 @@||ws.coinbase.com^
 @@||www.coinbase.com^
-@@||www.coingeek.com^
 @@||coinpot.co^
 @@||www.coinpot.co^
 @@||cointraffic.io^
@@ -1078,7 +1076,6 @@
 @@||dealer.com^
 @@||www.dealer.com^
 @@||dealerinspire.com^
-@@||www.dealerinspire.com^
 @@||debian.org^
 @@||delicious.com^
 @@||dell.com^
@@ -1137,7 +1134,6 @@
 @@||5471782.fls.doubleclick.net^
 @@||pagead.l.doubleclick.net^
 @@||dpreview.com^
-@@||www.dpreview.com^
 @@||drift.com^
 @@||driftt.com^
 @@||www.driftt.com^
@@ -1385,7 +1381,6 @@
 @@||survey.forseeresults.com^
 @@||fortune.com^
 @@||fossbytes.com^
-@@||www.fossbytes.com^
 @@||fox13now.com^
 @@||fox17online.com^
 @@||fox2now.com^
@@ -1792,6 +1787,7 @@
 @@||archive.icann.org^
 @@||icbdr.com^
 @@||icloud.com^
+@@||www.icloud.com^
 @@||idg.se^
 @@||mpsnare.iesnare.com^
 @@||ifmo.ru^
@@ -1822,7 +1818,6 @@
 @@||imgchili.com^
 @@||imgfarm.com^
 @@||imgspice.com^
-@@||www.imgspice.com^
 @@||imgur.com^
 @@||i.imgur.com^
 @@||p.imgur.com^
@@ -2212,11 +2207,11 @@
 @@||xbox.ipv6.microsoft.com^
 @@||ris.api.iris.microsoft.com^
 @@||dmd.metaservices.microsoft.com^
+@@||cbsl-int.mp.microsoft.com^
 @@||cbsl.mp.microsoft.com^
 @@||collections.mp.microsoft.com^
 @@||accountuserservice.dce.mp.microsoft.com^
 @@||devcenterapi.dce.mp.microsoft.com^
-@@||pac.dce.mp.microsoft.com^
 @@||ra-int.dce.mp.microsoft.com^
 @@||ra.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
@@ -2234,6 +2229,7 @@
 @@||wus2.displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||aircapi.displaycatalog.mp.microsoft.com^
+@@||commercial.displaycatalog.mp.microsoft.com^
 @@||appxapi-int.dps.mp.microsoft.com^
 @@||appxapi.dps.mp.microsoft.com^
 @@||bias.dps.mp.microsoft.com^
@@ -2243,6 +2239,7 @@
 @@||certweb.dps.mp.microsoft.com^
 @@||ciso-int.dps.mp.microsoft.com^
 @@||ciso.dps.mp.microsoft.com^
+@@||composerweb-int.dps.mp.microsoft.com^
 @@||composerweb.dps.mp.microsoft.com^
 @@||discrequest.dps.mp.microsoft.com^
 @@||filesapi.dps.mp.microsoft.com^
@@ -2322,7 +2319,9 @@
 @@||entitlementsinternal.mp.microsoft.com^
 @@||fees-int.mp.microsoft.com^
 @@||firstparty-collections.mp.microsoft.com^
+@@||inventory-int.mp.microsoft.com^
 @@||label-int.mp.microsoft.com^
+@@||label.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
 @@||collections.md.mp.microsoft.com^
 @@||displaycatalog.md.mp.microsoft.com^
@@ -2334,6 +2333,7 @@
 @@||ocadmin-int.mp.microsoft.com^
 @@||ocadmin.mp.microsoft.com^
 @@||ocfm-int.mp.microsoft.com^
+@@||ocfm.mp.microsoft.com^
 @@||paymentinstruments-int.mp.microsoft.com^
 @@||internal.paymentinstruments-int.mp.microsoft.com^
 @@||paymentinstruments.mp.microsoft.com^
@@ -2349,7 +2349,9 @@
 @@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||storage.mp.microsoft.com^
 @@||ustrl-int.mp.microsoft.com^
+@@||ustrl.mp.microsoft.com^
 @@||xbox-collections.mp.microsoft.com^
+@@||xbox-displaycatalog.mp.microsoft.com^
 @@||mscrl.microsoft.com^
 @@||officeclient.microsoft.com^
 @@||query.prod.cms.rt.microsoft.com^
@@ -3093,6 +3095,7 @@
 @@||blogs.skype.com^
 @@||botapi.skype.com^
 @@||c1.skype.com^
+@@||df-inviteconnector.skype.com^
 @@||download.skype.com^
 @@||edge.skype.com^
 @@||config.edge.skype.com^
@@ -3180,11 +3183,9 @@
 @@||events.splunk.com^
 @@||gp-dev.splunk.com^
 @@||gp.splunk.com^
-@@||guides.splunk.com^
-@@||doc.guides.splunk.com^
-@@||stage.guides.splunk.com^
 @@||info.splunk.com^
 @@||jm0199515.splunk.com^
+@@||jss.splunk.com^
 @@||lantern.splunk.com^
 @@||live.splunk.com^
 @@||mint.splunk.com^
@@ -3422,7 +3423,6 @@
 @@||torbit.com^
 @@||torrentfreak.com^
 @@||townnews.com^
-@@||www.townnews.com^
 @@||toysrus.com^
 @@||www.toysrus.com^
 @@||cookieblock.trackersimulate.org^
@@ -3559,6 +3559,7 @@
 @@||variety.com^
 @@||verisign.com^
 @@||ocsp.verisign.com^
+@@||www.verisign.com^
 @@||crl.verisign.net^
 @@||ocsp.verisign.net^
 @@||vgwort.de^
