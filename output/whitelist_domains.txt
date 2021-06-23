@@ -2198,11 +2198,16 @@ win10.ipv6.microsoft.com
 xbox.ipv6.microsoft.com
 ris.api.iris.microsoft.com
 dmd.metaservices.microsoft.com
+azure-ratecard-dev.mp.microsoft.com
 cbsl-int.mp.microsoft.com
 cbsl.mp.microsoft.com
 collections.mp.microsoft.com
+accountmgmtservice-int.dce.mp.microsoft.com
+accountuserservice-int.dce.mp.microsoft.com
 accountuserservice.dce.mp.microsoft.com
 devcenterapi.dce.mp.microsoft.com
+productcatalogservice-df.dce.mp.microsoft.com
+productcatalogservice.dce.mp.microsoft.com
 ra-int.dce.mp.microsoft.com
 ra.dce.mp.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -2329,6 +2334,7 @@ paymentinstruments-int.mp.microsoft.com
 internal.paymentinstruments-int.mp.microsoft.com
 paymentinstruments.mp.microsoft.com
 internal.paymentinstruments.mp.microsoft.com
+purchase-int.mp.microsoft.com
 purchase.mp.microsoft.com
 scanservice-int.px.mp.microsoft.com
 scanservice.px.mp.microsoft.com
@@ -3103,6 +3109,7 @@ peoplerecommendations.skype.com
 api.promotions.skype.com
 bo.promotions.skype.com
 recommend.skype.com
+prod.registrar.skype.com
 trap.skype.com
 slack-redir.net
 files.slack.com
@@ -3168,6 +3175,7 @@ wbttest.class.splunk.com
 cloud.splunk.com
 conf.splunk.com
 coverall.splunk.com
+dc10-gw1.splunk.com
 dev.splunk.com
 staging.dev.splunk.com
 embargo.splunk.com
@@ -3198,6 +3206,7 @@ app-admin.staging.scp.splunk.com
 auth.staging.scp.splunk.com
 cae.staging.scp.splunk.com
 missioncontrol.staging.scp.splunk.com
+status.scp.splunk.com
 admin.scs.splunk.com
 scs001-iad10.admin.scs.splunk.com
 scs001-pdx10.admin.scs.splunk.com
@@ -3414,6 +3423,7 @@ www.toptenreviews.com
 torbit.com
 torrentfreak.com
 townnews.com
+www.townnews.com
 toysrus.com
 www.toysrus.com
 cookieblock.trackersimulate.org
@@ -3539,6 +3549,7 @@ userapi.com
 pp.userapi.com
 userscloud.com
 userscripts-mirror.org
+www.userscripts-mirror.org
 ocsp.usertrust.com
 uservoice.com
 attfeedback.uservoice.com
@@ -4723,6 +4734,7 @@ public-api.wordpress.com
 v0.wordpress.com
 worldnow.com
 ftpcontent.worldnow.com
+www.worldnow.com
 worldstream.nl
 wp.com
 c0.wp.com
