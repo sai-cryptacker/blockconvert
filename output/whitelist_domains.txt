@@ -1476,6 +1476,7 @@ m.gitee.com
 raw.githack.com
 rawcdn.githack.com
 github.com
+alive.github.com
 codeload.github.com
 gist.github.com
 raw.github.com
@@ -4911,6 +4912,7 @@ zdnet.com
 www.zdnet.com
 vjs.zencdn.net
 zendesk.com
+assets.zendesk.com
 www.zendesk.com
 zerohedge.com
 gc.zgo.at

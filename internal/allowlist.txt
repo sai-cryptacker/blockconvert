@@ -32,6 +32,7 @@ aka.ms
 akismet.com
 alexa.com
 aliexpress.com
+alive.github.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-867284255
 allure.com
 amazon.com
 *.a-msedge.net
@@ -58,6 +59,7 @@ ars.smartscreen.microsoft.com
 assets.bwbx.io # Breaks bloomberg.com layout
 assets.micpn.com
 assets.penny-arcade.com
+assets.zendesk.com # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-867284255
 att.ada.support # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-772293993 Breaks Cricket cell phone customer support
 attfeedback.uservoice.com
 au.download.windowsupdate.com

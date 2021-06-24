@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-23Z
+! Version: 2021-06-24Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-23Z
+! Last modified: 2021-06-24Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1485,6 +1485,7 @@
 @@||raw.githack.com^
 @@||rawcdn.githack.com^
 @@||github.com^
+@@||alive.github.com^
 @@||codeload.github.com^
 @@||gist.github.com^
 @@||raw.github.com^
@@ -4920,6 +4921,7 @@
 @@||www.zdnet.com^
 @@||vjs.zencdn.net^
 @@||zendesk.com^
+@@||assets.zendesk.com^
 @@||www.zendesk.com^
 @@||zerohedge.com^
 @@||gc.zgo.at^
