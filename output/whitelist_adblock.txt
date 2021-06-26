@@ -1129,6 +1129,7 @@
 @@||rover.ebay.com^
 @@||www.ebay.com^
 @@||ebay.pl^
+@@||www.ebay.pl^
 @@||i.ebayimg.com^
 @@||ir.ebaystatic.com^
 @@||p.ebaystatic.com^
@@ -1263,6 +1264,7 @@
 @@||fb.com^
 @@||fb.me^
 @@||fbcdn.net^
+@@||www.fbcdn.net^
 @@||external-lhr8-1.xx.fbcdn.net^
 @@||external.xx.fbcdn.net^
 @@||scontent-nrt1-1.xx.fbcdn.net^
@@ -1455,6 +1457,7 @@
 @@||www.gogousenet.com^
 @@||goo.gl^
 @@||play.app.goo.gl^
+@@||www.goo.gl^
 @@||google.com^
 @@||accounts.google.com^
 @@||adwords.google.com^
@@ -1902,6 +1905,7 @@
 @@||cdn.leafletjs.com^
 @@||leagueoflegends.com^
 @@||ddragon.leagueoflegends.com^
+@@||www.leagueoflegends.com^
 @@||leanplum.com^
 @@||www.leanplum.com^
 @@||play.lego.com^
@@ -2250,6 +2254,7 @@
 @@||nanorep.co^
 @@||sat1.us1-1.nanorep.co^
 @@||narkive.com^
+@@||www.narkive.com^
 @@||denis-ovs.narod.ru^
 @@||naszdziennik.pl^
 @@||nationalgeographic.com^
@@ -3164,6 +3169,7 @@
 @@||see.valimail.com^
 @@||vanityfair.com^
 @@||variety.com^
+@@||www.variety.com^
 @@||verisign.com^
 @@||ocsp.verisign.com^
 @@||crl.verisign.net^
