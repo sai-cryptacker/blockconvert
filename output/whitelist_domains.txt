@@ -2110,11 +2110,16 @@ fe3.delivery.mp.microsoft.com
 displaycatalog-int.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 commercial.displaycatalog.mp.microsoft.com
+promotion.dps.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 licensing.mp.microsoft.com
 collections.md.mp.microsoft.com
+paymentinstruments.md.mp.microsoft.com
+uwpproc-int.mix.mp.microsoft.com
+paymentinstruments.mp.microsoft.com
+internal.paymentinstruments.mp.microsoft.com
 purchase.mp.microsoft.com
 xbox-displaycatalog.mp.microsoft.com
 mscrl.microsoft.com
@@ -2994,6 +2999,7 @@ thefreethoughtproject.com
 thehill.com
 thenextweb.com
 theoldnet.com
+www.theoldnet.com
 thepiratebay.org
 theplatform.com
 thetvdb.com
@@ -4508,6 +4514,7 @@ www.zdnet.com
 vjs.zencdn.net
 zendesk.com
 assets.zendesk.com
+www.zendesk.com
 zerohedge.com
 gc.zgo.at
 app-advertise.zhihuishu.com

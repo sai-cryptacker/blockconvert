@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-26Z
+! Version: 2021-06-28Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-26Z
+! Last modified: 2021-06-28Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2119,11 +2119,16 @@
 @@||displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
+@@||promotion.dps.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
 @@||licensing.mp.microsoft.com^
 @@||collections.md.mp.microsoft.com^
+@@||paymentinstruments.md.mp.microsoft.com^
+@@||uwpproc-int.mix.mp.microsoft.com^
+@@||paymentinstruments.mp.microsoft.com^
+@@||internal.paymentinstruments.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
 @@||xbox-displaycatalog.mp.microsoft.com^
 @@||mscrl.microsoft.com^
@@ -3003,6 +3008,7 @@
 @@||thehill.com^
 @@||thenextweb.com^
 @@||theoldnet.com^
+@@||www.theoldnet.com^
 @@||thepiratebay.org^
 @@||theplatform.com^
 @@||thetvdb.com^
@@ -4517,6 +4523,7 @@
 @@||vjs.zencdn.net^
 @@||zendesk.com^
 @@||assets.zendesk.com^
+@@||www.zendesk.com^
 @@||zerohedge.com^
 @@||gc.zgo.at^
 @@||app-advertise.zhihuishu.com^
