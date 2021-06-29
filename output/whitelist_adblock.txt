@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-28Z
+! Version: 2021-06-29Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-28Z
+! Last modified: 2021-06-29Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -62,6 +62,8 @@
 @@||ada.support^
 @@||cricket.att.ada.support^
 @@||static.ada.support^
+@@||forums.adafruit.com^
+@@||www.forums.adafruit.com^
 @@||adapools.org^
 @@||adaway.org^
 @@||adblock.dk^
@@ -834,11 +836,13 @@
 @@||bc81c677f335277f324c3ce13a.cloudflare-dns.com^
 @@||chrome-security.cloudflare-dns.com^
 @@||chrome.cloudflare-dns.com^
+@@||claro.cloudflare-dns.com^
 @@||cloudflare.cloudflare-dns.com^
 @@||com.cloudflare-dns.com^
 @@||youtube.com.cloudflare-dns.com^
 @@||commozilla.cloudflare-dns.com^
 @@||dot1dot1dot1.cloudflare-dns.com^
+@@||families.cloudflare-dns.com^
 @@||family.cloudflare-dns.com^
 @@||kads.cloudflare-dns.com^
 @@||main.cloudflare-dns.com^
@@ -1037,6 +1041,7 @@
 @@||dealer.com^
 @@||dealerinspire.com^
 @@||debian.org^
+@@||www.debian.org^
 @@||delicious.com^
 @@||dell.com^
 @@||delvenetworks.com^
@@ -1413,6 +1418,7 @@
 @@||api.giphy.com^
 @@||git.io^
 @@||gitbook.com^
+@@||www.gitbook.com^
 @@||gitcdn.link^
 @@||gitcdn.xyz^
 @@||gitee.com^
@@ -1436,6 +1442,7 @@
 @@||www.gleam.io^
 @@||ocsp.globalsign.com^
 @@||gmail.com^
+@@||www.gmail.com^
 @@||gmodules.com^
 @@||www.gmodules.com^
 @@||gmx.at^
@@ -1461,6 +1468,7 @@
 @@||google.com^
 @@||accounts.google.com^
 @@||adwords.google.com^
+@@||www.adwords.google.com^
 @@||apis.google.com^
 @@||appengine.google.com^
 @@||books.google.com^
@@ -1615,6 +1623,7 @@
 @@||secure.gravatar.com^
 @@||pistachio-cdn.graze.com^
 @@||greasyfork.org^
+@@||www.greasyfork.org^
 @@||greenhouse.io^
 @@||groupon.com^
 @@||rest.growinginteractive.com^
@@ -2120,6 +2129,7 @@
 @@||displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
 @@||promotion.dps.mp.microsoft.com^
+@@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
 @@||storeedgefd.dsx.mp.microsoft.com^
@@ -2130,6 +2140,10 @@
 @@||paymentinstruments.mp.microsoft.com^
 @@||internal.paymentinstruments.mp.microsoft.com^
 @@||purchase.mp.microsoft.com^
+@@||staging-dcatbackend-int.mp.microsoft.com^
+@@||wus2.staging-dcatbackend-int.mp.microsoft.com^
+@@||stagingretrieval-dcatbackend-int.mp.microsoft.com^
+@@||wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com^
 @@||xbox-displaycatalog.mp.microsoft.com^
 @@||mscrl.microsoft.com^
 @@||officeclient.microsoft.com^
@@ -2172,6 +2186,7 @@
 @@||links.mint.com^
 @@||mirrorservice.org^
 @@||mistrzowie.org^
+@@||www.mistrzowie.org^
 @@||api.comm.miui.com^
 @@||trial.api.huangye.miui.com^
 @@||authbe.sec.intl.miui.com^
@@ -2361,6 +2376,7 @@
 @@||g.msn.com.nsatc.net^
 @@||pool.ntp.org^
 @@||2.android.pool.ntp.org^
+@@||www.pool.ntp.org^
 @@||media.nu.nl^
 @@||ota-downloads.nvidia.com^
 @@||ny.com^
@@ -2809,6 +2825,7 @@
 @@||calling.consumer.entitlement.skype.com^
 @@||campaign.consumer.entitlement.skype.com^
 @@||secure.consumer.entitlement.skype.com^
+@@||fpt.skype.com^
 @@||login.skype.com^
 @@||peoplerecommendations.skype.com^
 @@||api.promotions.skype.com^
@@ -3151,6 +3168,7 @@
 @@||www.unibytes.com^
 @@||unicornmedia.com^
 @@||unix.com^
+@@||www.unix.com^
 @@||unpkg.com^
 @@||unsplash.com^
 @@||uploaded.net^
@@ -3193,6 +3211,7 @@
 @@||videocopilot.net^
 @@||videodelivery.net^
 @@||videolan.org^
+@@||www.videolan.org^
 @@||videopress.com^
 @@||thumbs.videopress.com^
 @@||videos.videopress.com^
@@ -3277,6 +3296,7 @@
 @@||app.vk.com^
 @@||archieve.vk.com^
 @@||arkehh.vk.com^
+@@||asar.vk.com^
 @@||auth.vk.com^
 @@||avto1254.vk.com^
 @@||avto3490.vk.com^
@@ -3299,7 +3319,9 @@
 @@||bpc.vk.com^
 @@||bqokanybhyxgjuwufmgjkznfidvkczbhfdnheffj.vk.com^
 @@||browser.vk.com^
+@@||c.vk.com^
 @@||calls.vk.com^
+@@||canada.vk.com^
 @@||cc.vk.com^
 @@||quarantine.cc.vk.com^
 @@||cdn-ads.vk.com^
@@ -3423,6 +3445,7 @@
 @@||cs4552.vk.com^
 @@||cs4557.vk.com^
 @@||cs4700.vk.com^
+@@||cs5077.vk.com^
 @@||cs508407.vk.com^
 @@||cs509601.vk.com^
 @@||cs509605.vk.com^
@@ -3444,6 +3467,7 @@
 @@||cs5472.vk.com^
 @@||cs5475.vk.com^
 @@||cs5533.vk.com^
+@@||cs5541.vk.com^
 @@||cs5697.vk.com^
 @@||cs573.vk.com^
 @@||cs5744.vk.com^
@@ -3534,6 +3558,7 @@
 @@||ccns.cs636521.vk.com^
 @@||cs637920.vk.com^
 @@||cs7014.vk.com^
+@@||cs763.vk.com^
 @@||cs7777.vk.com^
 @@||aaculovich.cs7777.vk.com^
 @@||admin.cs7777.vk.com^
@@ -3606,6 +3631,7 @@
 @@||cs829417-30.vk.com^
 @@||cs910.vk.com^
 @@||cs92612.vk.com^
+@@||m.cs92612.vk.com^
 @@||cs9360.vk.com^
 @@||cs9385.vk.com^
 @@||cs949.vk.com^
@@ -3627,6 +3653,7 @@
 @@||cs9763.vk.com^
 @@||cs9767.vk.com^
 @@||cs9813.vk.com^
+@@||cs9846.vk.com^
 @@||cs9916.vk.com^
 @@||cs9947.vk.com^
 @@||cs9960.vk.com^
@@ -3791,6 +3818,7 @@
 @@||nm.vk.com^
 @@||nolesfootball.vk.com^
 @@||noreply.vk.com^
+@@||notevil.vk.com^
 @@||notify.vk.com^
 @@||ntoss.vk.com^
 @@||nuegfb.vk.com^
@@ -3801,6 +3829,7 @@
 @@||oautdh.vk.com^
 @@||oauth.vk.com^
 @@||ocygds.vk.com^
+@@||odn.vk.com^
 @@||ofhvyn.vk.com^
 @@||ogin.vk.com^
 @@||ognjs.vk.com^
@@ -3836,6 +3865,7 @@
 @@||push.vk.com^
 @@||www.push.vk.com^
 @@||puskesmaskota.vk.com^
+@@||pycaaf.vk.com^
 @@||qapi.vk.com^
 @@||qrvsas.vk.com^
 @@||quarantine-poc.vk.com^
@@ -3853,6 +3883,7 @@
 @@||rsanjb.vk.com^
 @@||rt.vk.com^
 @@||rucs5422.vk.com^
+@@||vkontakte.rucs5422.vk.com^
 @@||rwprdu.vk.com^
 @@||rybalkina.vk.com^
 @@||s9vk01jgn.vk.com^
@@ -3878,6 +3909,7 @@
 @@||srv0-224-186-93.vk.com^
 @@||srv1-167-240-87.vk.com^
 @@||srv10-34-213-95.vk.com^
+@@||srv108-26-213-95.vk.com^
 @@||srv112-237-186-93.vk.com^
 @@||srv113-102-213-95.vk.com^
 @@||srv124-22-213-95.vk.com^
@@ -3889,12 +3921,15 @@
 @@||srv135-185-240-87.vk.com^
 @@||srv137-137-240-87.vk.com^
 @@||srv137-185-240-87.vk.com^
+@@||srv138-177-240-87.vk.com^
 @@||srv140-129-240-87.vk.com^
 @@||srv140-47-213-95.vk.com^
 @@||srv142-185-240-87.vk.com^
 @@||srv143-185-240-87.vk.com^
 @@||srv146-185-240-87.vk.com^
 @@||srv15-116-213-95.vk.com^
+@@||srv15-132-240-87.vk.com^
+@@||srv151-164-137-79.vk.com^
 @@||srv151-6-213-95-hjvote.vk.com^
 @@||srv151-6-213-95microsoft-excel-2016.vk.com^
 @@||srv157-185-240-87.vk.com^
@@ -3911,10 +3946,12 @@
 @@||srv164-11-213-95.vk.com^
 @@||srv168-170-240-87.vk.com^
 @@||srv168-185-240-87.vk.com^
+@@||srv171-21-213-95.vk.com^
 @@||srv172-156-240-87.vk.com^
 @@||srv177-129-240-87.vk.com^
 @@||srv178-129-240-87.vk.com^
 @@||srv181-129-240-87.vk.com^
+@@||srv191-137-240-87.vk.com^
 @@||srv193-113-213-95.vk.com^
 @@||srv193-139-240-87.vk.com^
 @@||srv194-139-240-87.vk.com^
@@ -3932,18 +3969,24 @@
 @@||srv218-0-213-95.vk.com^
 @@||srv220-151-240-87.vk.com^
 @@||srv221-238-186-93.vk.com^
+@@||srv222-51-213-95.vk.com^
 @@||srv226-191-240-87.vk.com^
 @@||srv228-182-240-87.vk.com^
 @@||srv229-170-240-87.vk.com^
+@@||srv230-165-240-87.vk.com^
 @@||srv233-185-240-87.vk.com^
 @@||srv24-2-213-95.vk.com^
 @@||srv244-15-213-95.vk.com^
+@@||srv246-164-240-87.vk.com^
 @@||srv251-165-240-87.vk.com^
+@@||srv28-156-240-87.vk.com^
 @@||srv3-6-213-95.vk.com^
 @@||srv38-74-213-95.vk.com^
 @@||srv41-129-240-87.vk.com^
+@@||srv41-139-240-87.vk.com^
 @@||srv43-64-213-95.vk.com^
 @@||srv49-5-213-95.vk.com^
+@@||srv61-176-240-87.vk.com^
 @@||srv64-61-213-95.vk.com^
 @@||srv66-139-137-79.vk.com^
 @@||srv67-190-240-87.vk.com^
@@ -3987,6 +4030,7 @@
 @@||www.srv78-190-240-87.vk.com^
 @@||srv79-43-213-95.vk.com^
 @@||srv9-4-213-95.vk.com^
+@@||srv92-117-213-95.vk.com^
 @@||sstakk.vk.com^
 @@||st.vk.com^
 @@||st1-14.vk.com^
@@ -4007,6 +4051,10 @@
 @@||st1-29.vk.com^
 @@||st1-30.vk.com^
 @@||st1-47.vk.com^
+@@||st1-54.vk.com^
+@@||st1-55.vk.com^
+@@||st1-56.vk.com^
+@@||st1-57.vk.com^
 @@||st1-83.vk.com^
 @@||st1-84.vk.com^
 @@||st1-85.vk.com^
@@ -4025,6 +4073,8 @@
 @@||st1-98.vk.com^
 @@||st1-99.vk.com^
 @@||st2-10.vk.com^
+@@||st2-11.vk.com^
+@@||st2-12.vk.com^
 @@||st2-3.vk.com^
 @@||st2-4.vk.com^
 @@||st2-9.vk.com^
@@ -4032,6 +4082,8 @@
 @@||st3-11.vk.com^
 @@||st3-12.vk.com^
 @@||st3-13.vk.com^
+@@||st3-16.vk.com^
+@@||st3-17.vk.com^
 @@||st4-10.vk.com^
 @@||st4-11.vk.com^
 @@||st4-12.vk.com^
@@ -4044,6 +4096,7 @@
 @@||st6-21.vk.com^
 @@||st6-22.vk.com^
 @@||st6-23.vk.com^
+@@||st7-13.vk.com^
 @@||st7-6.vk.com^
 @@||st7-7.vk.com^
 @@||st7-8.vk.com^
@@ -4105,12 +4158,16 @@
 @@||viruswriter.vk.com^
 @@||visu.vk.com^
 @@||vk.vk.com^
+@@||vk.vk.vk.com^
 @@||www.vk.vk.com^
 @@||vkadmin.vk.com^
 @@||vkube.vk.com^
 @@||vu.vk.com^
 @@||vww.vk.com^
 @@||way.vk.com^
+@@||web17046.vk.com^
+@@||web18026.vk.com^
+@@||web6524.vk.com^
 @@||web7.vk.com^
 @@||wejhx.vk.com^
 @@||wftpv.vk.com^
