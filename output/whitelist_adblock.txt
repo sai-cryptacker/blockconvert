@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-06-29Z
+! Version: 2021-07-01Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-06-29Z
+! Last modified: 2021-07-01Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1117,6 +1117,7 @@
 @@||duosecurity.com^
 @@||proto2ad.durasite.net^
 @@||dynamics.com^
+@@||www.dynamics.com^
 @@||cdn-eu.dynamicyield.com^
 @@||cdn.dynamicyield.com^
 @@||rcom-eu.dynamicyield.com^
@@ -1883,6 +1884,7 @@
 @@||kinja-static.com^
 @@||kinja.com^
 @@||klarna.com^
+@@||www.klarna.com^
 @@||trk.klclick1.com^
 @@||klm.com^
 @@||kmart.com^
@@ -2128,6 +2130,10 @@
 @@||displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
+@@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
+@@||composerapi-int.dps.mp.microsoft.com^
+@@||composerweb-int.dps.mp.microsoft.com^
+@@||discrequest-int.dps.mp.microsoft.com^
 @@||promotion.dps.mp.microsoft.com^
 @@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
@@ -2175,6 +2181,7 @@
 @@||whiteboard.microsoft.com^
 @@||int.whiteboard.microsoft.com^
 @@||emdl.ws.microsoft.com^
+@@||www.microsoft.com^
 @@||secure.aadcdn.microsoftonline-p.com^
 @@||login.microsoftonline.com^
 @@||login.microsoftonline.us^
@@ -2754,8 +2761,10 @@
 @@||schd.ws^
 @@||sched.org^
 @@||schibsted.com^
+@@||www.schibsted.com^
 @@||cdn.stream.schibsted.media^
 @@||schibsted.no^
+@@||www.schibsted.no^
 @@||schibsted.tech^
 @@||scrapinghub.com^
 @@||scribblelive.com^
@@ -2883,7 +2892,6 @@
 @@||conf.splunk.com^
 @@||dc10-gw1.splunk.com^
 @@||events.splunk.com^
-@@||jss.splunk.com^
 @@||mint.splunk.com^
 @@||response.splunk.com^
 @@||services.splunk.com^

@@ -1108,6 +1108,7 @@ dumpert.nl
 duosecurity.com
 proto2ad.durasite.net
 dynamics.com
+www.dynamics.com
 cdn-eu.dynamicyield.com
 cdn.dynamicyield.com
 rcom-eu.dynamicyield.com
@@ -1874,6 +1875,7 @@ kingfeatures.com
 kinja-static.com
 kinja.com
 klarna.com
+www.klarna.com
 trk.klclick1.com
 klm.com
 kmart.com
@@ -2119,6 +2121,10 @@ fe3.delivery.mp.microsoft.com
 displaycatalog-int.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 commercial.displaycatalog.mp.microsoft.com
+eastus.availabilitymgmt-int.dps.mp.microsoft.com
+composerapi-int.dps.mp.microsoft.com
+composerweb-int.dps.mp.microsoft.com
+discrequest-int.dps.mp.microsoft.com
 promotion.dps.mp.microsoft.com
 api-dev.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -2166,6 +2172,7 @@ tile-service.weather.microsoft.com
 whiteboard.microsoft.com
 int.whiteboard.microsoft.com
 emdl.ws.microsoft.com
+www.microsoft.com
 secure.aadcdn.microsoftonline-p.com
 login.microsoftonline.com
 login.microsoftonline.us
@@ -2745,8 +2752,10 @@ scene7.com
 schd.ws
 sched.org
 schibsted.com
+www.schibsted.com
 cdn.stream.schibsted.media
 schibsted.no
+www.schibsted.no
 schibsted.tech
 scrapinghub.com
 scribblelive.com
@@ -2874,7 +2883,6 @@ cloud.splunk.com
 conf.splunk.com
 dc10-gw1.splunk.com
 events.splunk.com
-jss.splunk.com
 mint.splunk.com
 response.splunk.com
 services.splunk.com
