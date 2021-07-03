@@ -1653,6 +1653,7 @@ helium.com
 version.hybrid.api.here.com
 herokuapp.com
 us-east-1-a.route.herokuapp.com
+wownero.herominers.com
 heureka.cz
 highcharts.com
 code.highcharts.com
@@ -2126,6 +2127,8 @@ composerapi-int.dps.mp.microsoft.com
 composerweb-int.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
 promotion.dps.mp.microsoft.com
+variant-int.dps.mp.microsoft.com
+watchdogs.dps.mp.microsoft.com
 api-dev.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
