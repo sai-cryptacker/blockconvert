@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-07-03Z
+! Version: 2021-07-04Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-07-03Z
+! Last modified: 2021-07-04Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2203,6 +2203,7 @@
 @@||update.intl.miui.com^
 @@||connect.rom.miui.com^
 @@||api.sec.miui.com^
+@@||au.ff.avast.sec.miui.com^
 @@||update.avlyun.sec.miui.com^
 @@||r.sg.sec.miui.com^
 @@||metok.sys.miui.com^

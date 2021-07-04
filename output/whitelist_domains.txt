@@ -2194,6 +2194,7 @@ authbe.sec.intl.miui.com
 update.intl.miui.com
 connect.rom.miui.com
 api.sec.miui.com
+au.ff.avast.sec.miui.com
 update.avlyun.sec.miui.com
 r.sg.sec.miui.com
 metok.sys.miui.com
