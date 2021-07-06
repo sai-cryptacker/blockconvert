@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-07-04Z
+! Version: 2021-07-06Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-07-04Z
+! Last modified: 2021-07-06Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -2124,6 +2124,7 @@
 @@||ris.api.iris.microsoft.com^
 @@||dmd.metaservices.microsoft.com^
 @@||accountmgmtservice-int.dce.mp.microsoft.com^
+@@||devcenterapi-df.dce.mp.microsoft.com^
 @@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
@@ -2132,12 +2133,17 @@
 @@||displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
 @@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
+@@||bias-int.dps.mp.microsoft.com^
 @@||composerapi-int.dps.mp.microsoft.com^
 @@||composerweb-int.dps.mp.microsoft.com^
 @@||discrequest-int.dps.mp.microsoft.com^
+@@||ingestionapi-dev.dps.mp.microsoft.com^
+@@||packages-int.dps.mp.microsoft.com^
+@@||productsummary-int.dps.mp.microsoft.com^
 @@||promotion.dps.mp.microsoft.com^
 @@||variant-int.dps.mp.microsoft.com^
 @@||watchdogs.dps.mp.microsoft.com^
+@@||ingestiondeveloperapi-int.dse.mp.microsoft.com^
 @@||api-dev.dcat.dsp.mp.microsoft.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^
@@ -2163,9 +2169,29 @@
 @@||validation-v2.sls.microsoft.com^
 @@||unitedstates.smartscreen-prod.microsoft.com^
 @@||smartscreen.microsoft.com^
+@@||api.smartscreen.microsoft.com^
 @@||apprep.smartscreen.microsoft.com^
+@@||beta.apprep.smartscreen.microsoft.com^
+@@||i.apprep.smartscreen.microsoft.com^
+@@||w.apprep.smartscreen.microsoft.com^
+@@||beta.w.apprep.smartscreen.microsoft.com^
+@@||i.w.apprep.smartscreen.microsoft.com^
 @@||ars.smartscreen.microsoft.com^
+@@||bf.smartscreen.microsoft.com^
+@@||t.bf.smartscreen.microsoft.com^
+@@||cp.smartscreen.microsoft.com^
+@@||nav.smartscreen.microsoft.com^
+@@||data.nav.smartscreen.microsoft.com^
+@@||ping.nav.smartscreen.microsoft.com^
+@@||t.nav.smartscreen.microsoft.com^
+@@||nf.smartscreen.microsoft.com^
+@@||data.nf.smartscreen.microsoft.com^
+@@||ping.nf.smartscreen.microsoft.com^
+@@||t.nf.smartscreen.microsoft.com^
+@@||ping.smartscreen.microsoft.com^
+@@||sl.smartscreen.microsoft.com^
 @@||smartscreen-sn3p.smartscreen.microsoft.com^
+@@||urs.smartscreen.microsoft.com^
 @@||store-images.microsoft.com^
 @@||pti.store.microsoft.com^
 @@||storecatalogrevocation.storequality.microsoft.com^
