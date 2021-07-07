@@ -1617,6 +1617,7 @@
 @@||governmentjobs.com^
 @@||gp.se^
 @@||gr-assets.com^
+@@||promo.gramedia.com^
 @@||files.graphiq.com^
 @@||s.graphiq.com^
 @@||s2.graphiq.com^
@@ -1649,6 +1650,7 @@
 @@||assets.gumroad.com^
 @@||guru3d.com^
 @@||hackerone-user-content.com^
+@@||health.halodoc.com^
 @@||cf.hamreus.com^
 @@||hbogo.com^
 @@||hbogo.pl^
@@ -2126,9 +2128,7 @@
 @@||xbox.ipv6.microsoft.com^
 @@||ris.api.iris.microsoft.com^
 @@||dmd.metaservices.microsoft.com^
-@@||accountmgmtservice-int.dce.mp.microsoft.com^
 @@||devcenterapi-df.dce.mp.microsoft.com^
-@@||productcatalogservice-df.dce.mp.microsoft.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
@@ -2926,7 +2926,6 @@
 @@||banner.splunk.com^
 @@||cloud.splunk.com^
 @@||conf.splunk.com^
-@@||dc10-gw1.splunk.com^
 @@||events.splunk.com^
 @@||mint.splunk.com^
 @@||response.splunk.com^
@@ -3227,7 +3226,6 @@
 @@||pp.userapi.com^
 @@||userscloud.com^
 @@||userscripts-mirror.org^
-@@||www.userscripts-mirror.org^
 @@||ocsp.usertrust.com^
 @@||uservoice.com^
 @@||attfeedback.uservoice.com^
