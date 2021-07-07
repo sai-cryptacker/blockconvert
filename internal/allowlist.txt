@@ -195,6 +195,7 @@ drudgereport.com
 dsx.mp.microsoft.com
 duckdns.org
 duckduckgo.com
+duken.nl # https://github.com/mkb2091/blockconvert/issues/3#issuecomment-869051876 A forum, not malware
 e785s8hz.micpn.com
 easylist-downloads.adblockplus.org
 easylist.to

@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-07-06Z
+! Version: 2021-07-07Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-07-06Z
+! Last modified: 2021-07-07Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -1113,6 +1113,8 @@
 @@||duckdns.org^
 @@||www.duckdns.org^
 @@||duckduckgo.com^
+@@||duken.nl^
+@@||www.duken.nl^
 @@||dumpert.nl^
 @@||duosecurity.com^
 @@||proto2ad.durasite.net^
@@ -2086,6 +2088,7 @@
 @@||menshealth.com^
 @@||merriam-webster.com^
 @@||mesh.com^
+@@||www.mesh.com^
 @@||messenger.com^
 @@||mfstatic.cz^
 @@||f1.g.mi.com^
@@ -2138,6 +2141,7 @@
 @@||composerweb-int.dps.mp.microsoft.com^
 @@||discrequest-int.dps.mp.microsoft.com^
 @@||ingestionapi-dev.dps.mp.microsoft.com^
+@@||listingsapi-int.dps.mp.microsoft.com^
 @@||packages-int.dps.mp.microsoft.com^
 @@||productsummary-int.dps.mp.microsoft.com^
 @@||promotion.dps.mp.microsoft.com^
@@ -2381,6 +2385,7 @@
 @@||ngpvan.com^
 @@||nhl.com^
 @@||nike.com^
+@@||www.nike.com^
 @@||ning.com^
 @@||nitroflare.com^
 @@||nj.com^
@@ -2826,6 +2831,7 @@
 @@||sh.st^
 @@||share-online.biz^
 @@||www.share-online.biz^
+@@||platform.sharethis.com^
 @@||www.a.shifen.com^
 @@||shop-pro.jp^
 @@||shopify.com^
