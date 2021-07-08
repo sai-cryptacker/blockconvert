@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2021-07-07Z
+! Version: 2021-07-08Z
 ! Title: BlockConvert Exception Filters
-! Last modified: 2021-07-07Z
+! Last modified: 2021-07-08Z
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/mkb2091/blockconvert
 ! Licence: GPL-3.0
@@ -690,12 +690,15 @@
 @@||cn.bing.com^
 @@||www.bing.com^
 @@||bing.cz^
+@@||www.bing.cz^
 @@||bing.es^
 @@||bing.fi^
+@@||www.bing.fi^
 @@||bing.fr^
 @@||bing.gr^
 @@||bing.hu^
 @@||bing.ie^
+@@||www.bing.ie^
 @@||bing.it^
 @@||bing.no^
 @@||bing.pl^
@@ -2132,7 +2135,6 @@
 @@||dl.delivery.mp.microsoft.com^
 @@||tlu.dl.delivery.mp.microsoft.com^
 @@||fe3.delivery.mp.microsoft.com^
-@@||displaycatalog-int.mp.microsoft.com^
 @@||displaycatalog.mp.microsoft.com^
 @@||commercial.displaycatalog.mp.microsoft.com^
 @@||eastus.availabilitymgmt-int.dps.mp.microsoft.com^
@@ -2670,6 +2672,7 @@
 @@||publicsuffix.org^
 @@||publiekeomroep.nl^
 @@||publix.com^
+@@||www.publix.com^
 @@||img.purch.com^
 @@||api.pushbullet.com^
 @@||widget.pushbullet.com^
@@ -2930,7 +2933,6 @@
 @@||mint.splunk.com^
 @@||response.splunk.com^
 @@||services.splunk.com^
-@@||dogfood-dev.x.splunk.com^
 @@||post.spmailtechnol.com^
 @@||sport.pl^
 @@||spot.im^
@@ -3101,7 +3103,6 @@
 @@||torbit.com^
 @@||torrentfreak.com^
 @@||townnews.com^
-@@||www.townnews.com^
 @@||toysrus.com^
 @@||cookieblock.trackersimulate.org^
 @@||redir.tradedoubler.com^

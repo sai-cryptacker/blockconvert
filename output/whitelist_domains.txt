@@ -681,12 +681,15 @@ api.bing.com
 cn.bing.com
 www.bing.com
 bing.cz
+www.bing.cz
 bing.es
 bing.fi
+www.bing.fi
 bing.fr
 bing.gr
 bing.hu
 bing.ie
+www.bing.ie
 bing.it
 bing.no
 bing.pl
@@ -2123,7 +2126,6 @@ devcenterapi-df.dce.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 fe3.delivery.mp.microsoft.com
-displaycatalog-int.mp.microsoft.com
 displaycatalog.mp.microsoft.com
 commercial.displaycatalog.mp.microsoft.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
@@ -2661,6 +2663,7 @@ subscriptions.pstmrk.it
 publicsuffix.org
 publiekeomroep.nl
 publix.com
+www.publix.com
 img.purch.com
 api.pushbullet.com
 widget.pushbullet.com
@@ -2921,7 +2924,6 @@ events.splunk.com
 mint.splunk.com
 response.splunk.com
 services.splunk.com
-dogfood-dev.x.splunk.com
 post.spmailtechnol.com
 sport.pl
 spot.im
@@ -3092,7 +3094,6 @@ toptenreviews.com
 torbit.com
 torrentfreak.com
 townnews.com
-www.townnews.com
 toysrus.com
 cookieblock.trackersimulate.org
 redir.tradedoubler.com
