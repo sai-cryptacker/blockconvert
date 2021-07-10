@@ -1280,6 +1280,7 @@ feeds2.feedburner.com
 feedly.com
 fide.com
 filefactory.com
+filepicker.io
 filesmonster.com
 fili.cc
 www.fili.cc
@@ -2127,7 +2128,6 @@ dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 fe3.delivery.mp.microsoft.com
 displaycatalog.mp.microsoft.com
-commercial.displaycatalog.mp.microsoft.com
 eastus.availabilitymgmt-int.dps.mp.microsoft.com
 bias-int.dps.mp.microsoft.com
 composerapi-int.dps.mp.microsoft.com
@@ -2156,7 +2156,6 @@ staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
 stagingretrieval-dcatbackend-int.mp.microsoft.com
 wus2.stagingretrieval-dcatbackend-int.mp.microsoft.com
-xbox-displaycatalog.mp.microsoft.com
 mscrl.microsoft.com
 officeclient.microsoft.com
 query.prod.cms.rt.microsoft.com
