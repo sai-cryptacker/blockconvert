@@ -738,7 +738,6 @@ f1.media.brightcove.com
 secure.brightcove.com
 www.brightcove.com
 brightcove.net
-players.brightcove.net
 bugsnag.com
 docs.bugsnag.com
 www.bugsnag.com
@@ -1131,7 +1130,6 @@ ebay.com
 rover.ebay.com
 www.ebay.com
 ebay.pl
-www.ebay.pl
 i.ebayimg.com
 ir.ebaystatic.com
 p.ebaystatic.com
@@ -1916,7 +1914,6 @@ www.latimes.com
 cdn.leafletjs.com
 leagueoflegends.com
 ddragon.leagueoflegends.com
-www.leagueoflegends.com
 leanplum.com
 www.leanplum.com
 play.lego.com
@@ -2133,6 +2130,8 @@ bias-int.dps.mp.microsoft.com
 composerapi-int.dps.mp.microsoft.com
 composerweb-int.dps.mp.microsoft.com
 discrequest-int.dps.mp.microsoft.com
+domaindataservice.dps.mp.microsoft.com
+flighting.dps.mp.microsoft.com
 ingestionapi-dev.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
 packages-int.dps.mp.microsoft.com
@@ -2307,7 +2306,6 @@ nanopool.org
 nanorep.co
 sat1.us1-1.nanorep.co
 narkive.com
-www.narkive.com
 denis-ovs.narod.ru
 naszdziennik.pl
 nationalgeographic.com
@@ -3226,7 +3224,6 @@ update.utorrent.com
 see.valimail.com
 vanityfair.com
 variety.com
-www.variety.com
 verisign.com
 ocsp.verisign.com
 crl.verisign.net
