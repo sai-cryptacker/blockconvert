@@ -54,7 +54,6 @@ ada.support
 cricket.att.ada.support
 static.ada.support
 forums.adafruit.com
-www.forums.adafruit.com
 adapools.org
 adaway.org
 adblock.dk
@@ -1439,7 +1438,6 @@ gleam.io
 www.gleam.io
 ocsp.globalsign.com
 gmail.com
-www.gmail.com
 gmodules.com
 www.gmodules.com
 gmx.at
@@ -1465,7 +1463,6 @@ www.goo.gl
 google.com
 accounts.google.com
 adwords.google.com
-www.adwords.google.com
 apis.google.com
 appengine.google.com
 books.google.com
@@ -1621,7 +1618,6 @@ gravatar.com
 secure.gravatar.com
 pistachio-cdn.graze.com
 greasyfork.org
-www.greasyfork.org
 greenhouse.io
 groupon.com
 rest.growinginteractive.com
@@ -2140,7 +2136,6 @@ productsummary-int.dps.mp.microsoft.com
 variant-int.dps.mp.microsoft.com
 watchdogs.dps.mp.microsoft.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
-api-dev.dcat.dsp.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
@@ -2404,7 +2399,6 @@ arc.msn.com.nsatc.net
 g.msn.com.nsatc.net
 pool.ntp.org
 2.android.pool.ntp.org
-www.pool.ntp.org
 media.nu.nl
 ota-downloads.nvidia.com
 ny.com
@@ -2857,7 +2851,6 @@ consumer.entitlement.skype.com
 calling.consumer.entitlement.skype.com
 campaign.consumer.entitlement.skype.com
 secure.consumer.entitlement.skype.com
-fpt.skype.com
 login.skype.com
 peoplerecommendations.skype.com
 api.promotions.skype.com
