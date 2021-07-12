@@ -738,6 +738,7 @@ f1.media.brightcove.com
 secure.brightcove.com
 www.brightcove.com
 brightcove.net
+players.brightcove.net
 bugsnag.com
 docs.bugsnag.com
 www.bugsnag.com
@@ -2136,7 +2137,6 @@ ingestionapi-dev.dps.mp.microsoft.com
 listingsapi-int.dps.mp.microsoft.com
 packages-int.dps.mp.microsoft.com
 productsummary-int.dps.mp.microsoft.com
-promotion.dps.mp.microsoft.com
 variant-int.dps.mp.microsoft.com
 watchdogs.dps.mp.microsoft.com
 ingestiondeveloperapi-int.dse.mp.microsoft.com
@@ -2146,10 +2146,6 @@ tsfe.trafficshaping.dsp.mp.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 licensing.mp.microsoft.com
 collections.md.mp.microsoft.com
-paymentinstruments.md.mp.microsoft.com
-uwpproc-int.mix.mp.microsoft.com
-paymentinstruments.mp.microsoft.com
-internal.paymentinstruments.mp.microsoft.com
 purchase.mp.microsoft.com
 staging-dcatbackend-int.mp.microsoft.com
 wus2.staging-dcatbackend-int.mp.microsoft.com
@@ -4610,7 +4606,6 @@ www.zdnet.com
 vjs.zencdn.net
 zendesk.com
 assets.zendesk.com
-www.zendesk.com
 zerohedge.com
 gc.zgo.at
 app-advertise.zhihuishu.com
